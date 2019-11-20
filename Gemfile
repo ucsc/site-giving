@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "~> 3.8"
 gem "mini_magick"
 gem "image_optim"
 gem "minima", "~> 2.5"
@@ -21,5 +21,5 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-seo-tag"
-  gem "jekyll-assets"
+  gem "jekyll-assets", "~> 3.0"
 end
