@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% asset janet.jpg magick:resize=200 alt='Cynthia K. Larive' %}
+{% asset example.jpg magick:resize=740 alt='Searching the map' %}
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
