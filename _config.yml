@@ -33,7 +33,27 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  #- jekyll-assets
 
+# Structure configuration
+source: ./source
+destination: ./build
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+
+include: ['_pages']
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
