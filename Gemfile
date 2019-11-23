@@ -12,6 +12,10 @@ gem "jekyll", "~> 3.8"
 gem "mini_magick"
 gem "image_optim"
 gem "minima", "~> 2.5"
+gem 'html-proofer'
+gem 'bourbon', '4.2.7'
+gem 'neat', '1.8.0'
+gem 'css_lint'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
