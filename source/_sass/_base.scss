@@ -220,6 +220,7 @@ pre {
     max-width: calc(#{$size__max-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
+    @extend %clearfix;
     @include media-query($screen-size--desktop) {
         max-width: -webkit-calc(#{$size__max-width} - (#{$spacing-unit} * 2));
         max-width: calc(#{$size__max-width} - (#{$spacing-unit} * 2));
@@ -227,7 +228,6 @@ pre {
         margin-left: auto;
         padding-right: $spacing-unit;
         padding-left: $spacing-unit;
-        @extend %clearfix;
     }
 }
 
