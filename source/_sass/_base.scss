@@ -182,10 +182,12 @@ code {
 }
 
 code {
+    font-family: $font-code !important;
     padding: 1px 5px;
 }
 
 pre {
+    font-family: $font-pre !important;
     padding: 8px 12px;
     overflow-x: auto;
     >code {
@@ -218,14 +220,14 @@ pre {
 .wrapper {
     max-width: -webkit-calc(#{$size__max-width} - (#{$spacing-unit}));
     max-width: calc(#{$size__max-width} - (#{$spacing-unit}));
+    margin-right: auto;
+    margin-left: auto;
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
     @extend %clearfix;
     @include media-query($screen-size--desktop) {
         max-width: -webkit-calc(#{$size__max-width} - (#{$spacing-unit} * 2));
         max-width: calc(#{$size__max-width} - (#{$spacing-unit} * 2));
-        margin-right: auto;
-        margin-left: auto;
         padding-right: $spacing-unit;
         padding-left: $spacing-unit;
     }

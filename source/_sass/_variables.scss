@@ -15,6 +15,16 @@ sans-serif,
 "Apple Color Emoji",
 "Segoe UI Emoji",
 "Segoe UI Symbol" !default;
+$base-font-family: "Roboto",
+sans-serif;
+$font-code: Monaco,
+Consolas,
+"Andale Mono",
+"DejaVu Sans Mono",
+monospace;
+$font-pre: "Courier 10 Pitch",
+Courier,
+monospace;
 $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
