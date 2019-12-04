@@ -155,7 +155,7 @@ a {
     }
 }
 
-.omninav {
+.omniitems {
     a {
         color: $white;
         text-decoration: none;
@@ -324,9 +324,23 @@ table {
         width: 100%;
         margin: 0 auto;
         padding: 0.625rem 0;
+        display: flex;
+        align-items: center;
+        @include media-query($on-desktop) {
+            display: flex;
+        }
         .omnilogo,
         .omniform {
             display: inline-block;
+        }
+        .omniform {
+            // flex: 1;
+            // justify-content: flex-end;
+            margin-left: auto;
+            vertical-align: middle;
+            @include media-query($on-desktop) {
+                margin-left: 0;
+            }
         }
         .omnilogo {
             width: 140px;
@@ -335,20 +349,28 @@ table {
         }
         .omniitems {
             @include font-size(0.875);
-            a {
-                padding: 0 0.25em;
-                display: block;
-                text-align: center;
-                &:hover,
-                &:active {
-                    background-color: green;
+            display: none;
+            @include media-query($on-desktop) {
+                display: flex;
+                margin-left: auto;
+                margin-right: 0.5em;
+                a {
+                    width: auto;
                 }
+            }
+            a {
+                padding: .25em .5em;
+                display: inline-block;
+                text-align: center;
             }
         }
         .omnitoggle {
-            padding: 1em;
-            color: black;
+            // padding: 1em;
+            color: $white;
             vertical-align: middle;
+            @include media-query($on-desktop) {
+                display: none;
+            }
         }
         .screen-reader-text {
             border: 0;
@@ -368,5 +390,47 @@ table {
             top: .18em;
             right: 1rem;
         }
+    }
+}
+
+@media (max-width: $size__max-width) {
+    .omnibar.active {
+        .omnitoggle {
+            background: seagreen;
+            color: white;
+        }
+        .omniitems {
+            display: block;
+            a {
+                width: 100%;
+                text-align: center;
+                padding: 1em;
+                text-decoration: none;
+                background: $white;
+                color: $ucsc-primary-blue;
+                &:hover,
+                &:active {
+                    background: $ucsc-primary-blue;
+                    color: $white;
+                }
+            }
+        }
+    }
+}
+
+
+/**
+ * masthead
+ */
+
+.masthead {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    .nav-toggle {
+        margin-left: auto;
+    }
+    .site-nav {
+        flex: 0 0 100%;
     }
 }

@@ -96,14 +96,15 @@
     // border: 1px solid $grey-color-light;
     // border-radius: 5px;
     // text-align: right;
-    label[for="nav-trigger"] {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 36px;
-        z-index: 2;
-        cursor: pointer;
-    }
+    @include media-query($on-desktop) {}
+    // label[for="nav-trigger"] {
+    //     display: block;
+    //     float: right;
+    //     width: 36px;
+    //     height: 36px;
+    //     z-index: 2;
+    //     cursor: pointer;
+    // }
     .menu-icon {
         display: block;
         float: right;
@@ -116,21 +117,22 @@
             fill: $grey-color-dark;
         }
     }
-    input~.trigger {
-        clear: both;
-        display: none;
-    }
-    input:checked~.trigger {
-        display: block;
-        padding-bottom: 5px;
-    }
+    // input~.trigger {
+    //     clear: both;
+    //     display: none;
+    // }
+    // input:checked~.trigger {
+    //     display: block;
+    //     padding-bottom: 5px;
+    // }
     .page-link {
         display: block;
         padding: 5px 10px;
-        &:not(:last-child) {
-            margin-right: 0;
-        }
-        margin-left: 20px;
+        text-align: center;
+        // &:not(:last-child) {
+        //     margin-right: 0;
+        // }
+        // margin-left: 20px;
     }
     @include media-query($on-desktop) {
         .nav-trigger {
