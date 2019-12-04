@@ -1,0 +1,11 @@
+<div class="wrapper omniwrap">
+<div class="omnibar"><a href="https://www.ucsc.edu" class="logo">{% asset ucsc-logo.svg alt="UC Santa Cruz" %}</a>
+    <nav class="omninav">
+        {% for item in site.data.omnibar.links%}
+        <a href="{{ item.link }}">
+            {{ item.name }}
+          </a> {% endfor %}
+    </nav>
+<form class="ucsc-global-search-form" action="/" method="get" _lpchecked="1"><label for="search" class="screen-reader-text">Search this site</label><input type="text" name="s" id="search" value=""><input type="image" alt="Search" src="/assets/images/search.svg"></form>
+</div>
+</div>

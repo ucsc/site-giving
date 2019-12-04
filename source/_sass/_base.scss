@@ -151,6 +151,20 @@ a {
     }
 }
 
+.omninav {
+    a {
+        color: $white;
+        text-decoration: none;
+        &:visited {
+            color: $white;
+        }
+        &:hover {
+            color: $ucsc-primary-blue;
+            text-decoration: underline;
+        }
+    }
+}
+
 
 /**
  * Blockquotes
@@ -292,5 +306,52 @@ table {
     }
     td {
         border: 1px solid $grey-color-light;
+    }
+}
+
+
+/**
+ * Omnibar
+ */
+
+.omniwrap {
+    background-color: $ucsc-primary-blue;
+    .omnibar {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0.625rem 0;
+        .omninav,
+        form {
+            display: inline-block;
+        }
+        .logo {
+            width: 140px;
+            height: auto;
+            display: inline-block;
+        }
+        .omninav {
+            @include font-size(0.875);
+            a {
+                padding: 0 0.25em;
+            }
+        }
+        .screen-reader-text {
+            border: 0;
+            clip: rect(1px, 1px, 1px, 1px);
+            -webkit-clip-path: inset(50%);
+            clip-path: inset(50%);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute !important;
+            width: 1px;
+            word-wrap: normal !important;
+        }
+        input[type="image"] {
+            position: relative;
+            top: .18em;
+            right: 1rem;
+        }
     }
 }
