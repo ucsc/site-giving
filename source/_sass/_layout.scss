@@ -129,6 +129,9 @@
         display: block;
         padding: 5px 10px;
         text-align: center;
+        @include media-query($on-desktop) {
+            display: inline-block;
+        }
         // &:not(:last-child) {
         //     margin-right: 0;
         // }
