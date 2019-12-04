@@ -432,5 +432,12 @@ table {
     }
     .site-nav {
         flex: 0 0 100%;
+        display: none;
+        &.active {
+            display: block;
+        }
+        @include media-query ($on-desktop) {
+            display: block;
+        }
     }
 }

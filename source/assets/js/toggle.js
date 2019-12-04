@@ -3,5 +3,5 @@ $(".omnitoggle").on("click", function() {
 });
 
 $(".nav-toggle").on("click", function() {
-    $(".nav-toggle").toggleClass('active');
+    $(".site-nav").toggleClass('active');
 });
