@@ -75,3 +75,17 @@ $size__max-width: 67.5em; //1080px;
 $on-phone: 25.938em; //415px or 1px wider than the widest portrait phone;
 $on-tablet: 48em; //768px or iPad portrait;
 $on-desktop: $size__max-width;
+
+/*--------------------------------------------------------------
+## Parts
+--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+### Hero
+--------------------------------------------------------------*/
+
+$top-bottom: 2em;
+$left-right: 0;
+$h-title-indent: 100px;
+$h-title-padding: 20px;
