@@ -47,7 +47,22 @@
     }
 }
 
+.two-col-grid,
 .three-col-grid {
     display: grid;
+}
+
+.two-col-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2em;
+}
+
+.three-col-grid {
     grid-template-columns: repeat(3, 1fr);
+}
+
+.two-col-grid-cell,
+.three-col-grid-cell {
+    width: 100%;
+    margin: 0 auto;
 }
