@@ -1,3 +1,9 @@
+/*
+ *
+ * Hero
+ *
+ */
+
 .hero {
     position: relative;
     text-align: center;
@@ -47,22 +53,131 @@
     }
 }
 
+
+/*
+ *
+ * Grids
+ *
+ */
+
 .two-col-grid,
 .three-col-grid {
     display: grid;
+    justify-items: center;
 }
 
 .two-col-grid {
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 2em;
+    grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2.5em;
+    }
 }
 
 .three-col-grid {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1em;
+    }
 }
 
 .two-col-grid-cell,
 .three-col-grid-cell {
     width: 100%;
     margin: 0 auto;
+}
+
+
+/*
+ *
+ * Atoms
+ *
+ */
+
+
+/*CTA Panels*/
+
+.cta-container {
+    position: relative;
+    max-width: 460px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.cta-copy {
+    background-color: $ucsc-primary-blue;
+    padding: 20px 85px 20px 40px;
+    padding: 1.25rem 5.3125rem 1.25rem 2.5rem;
+    color: $white;
+    text-align: left;
+    position: relative;
+    max-width: 70.5%;
+    min-height: 250px;
+    border: 1px $grey-color-light inset;
+    p {
+        line-height: 1.25;
+    }
+}
+
+.yellow-cta-pill {
+    padding: 5px 10px;
+    padding: 0.3125rem 0.625rem;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    color: $ucsc-primary-blue;
+    @include font-size(1.5);
+    background-color: $ucsc-primary-yellow;
+    border-radius: 5px;
+    border-radius: 0.3125rem;
+}
+
+.cta-image {
+    position: absolute;
+    top: 2.25em;
+    right: 0;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    max-width: 50%;
+    @include media-query($on-desktop) {
+        max-width: 100%;
+    }
+}
+
+
+/*How To Give List */
+
+.htg-list-container {
+    padding: 20px 40px;
+    padding: 1.25rem 2.5rem;
+    position: relative;
+}
+
+.htg-list-head {
+    @include font-size(1);
+    color: $ucsc-primary-blue;
+    font-weight: 700;
+    &::before {
+        content: "1";
+        background-color: $ucsc-primary-yellow;
+        color: $white;
+        font-weight: 700;
+        @include font-size(1.25);
+        height: 25px;
+        width: 25px;
+        // border: 10px;
+        line-height: 25px;
+        text-align: center;
+        border-radius: 50%;
+        // padding: 10px;
+        // margin: 0;
+        top: 18px;
+        left: 7px;
+        position: absolute;
+    }
+}
+
+.htg-list-copy {
+    line-height: 1.25;
 }
