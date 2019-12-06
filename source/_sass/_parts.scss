@@ -96,6 +96,47 @@
  */
 
 
+/*CTA Pills*/
+
+[class$="-pill"] {
+    display: block;
+    padding: 5px 10px;
+    padding: 0.3125rem 0.625rem;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    @include font-size(1.5);
+    border-radius: 5px;
+    border-radius: 0.3125rem;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.yellow-pill {
+    color: $ucsc-primary-blue;
+    &:visited,
+    &:hover {
+        color: $ucsc-primary-blue
+    }
+    background-color: $ucsc-primary-yellow;
+}
+
+.red-pill {
+    color: $white;
+    &:visited,
+    &:hover {
+        color: $white;
+    }
+    background-color: $ucsc-magenta;
+}
+
+.blue-pill {
+    color: $white;
+    background-color: $ucsc-light-blue;
+}
+
+
 /*CTA Panels*/
 
 .cta-container {
@@ -119,19 +160,6 @@
     p {
         line-height: 1.25;
     }
-}
-
-.yellow-cta-pill {
-    padding: 5px 10px;
-    padding: 0.3125rem 0.625rem;
-    text-align: center;
-    margin: 0 auto;
-    font-weight: 700;
-    color: $ucsc-primary-blue;
-    @include font-size(1.5);
-    background-color: $ucsc-primary-yellow;
-    border-radius: 5px;
-    border-radius: 0.3125rem;
 }
 
 .cta-image {
@@ -180,4 +208,40 @@
 
 .htg-list-copy {
     line-height: 1.25;
+}
+
+
+/*Ready to make a difference?*/
+
+.make-difference-container {
+    background-color: $ucsc-primary-blue;
+}
+
+.make-difference {
+    color: $white;
+    padding: 20px 0;
+    padding: 1.25rem 0;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .make-difference-text {
+        font-weight: 700;
+        @include font-size(1.5);
+        place-self: center;
+        @include media-query($on-desktop) {
+            margin: 0;
+            justify-self: start;
+        }
+    }
+    .red-pill {
+        place-self: center;
+        margin: 0;
+        width: 50%;
+        @include media-query($on-desktop) {
+            margin: 0;
+            justify-self: end;
+        }
+    }
 }
