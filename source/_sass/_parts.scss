@@ -13,7 +13,10 @@
     }
     span {
         color: white;
-        font: bold 24px/45px Helvetica, Sans-Serif;
+        // font: bold 24px/45px Helvetica, Sans-Serif;
+        @include font-size(2.5);
+        font-weight: 700;
+        line-height: 1.875;
         letter-spacing: -1px;
         background: rgb(0, 60, 108);
         /* fallback color */
@@ -105,7 +108,7 @@
     text-align: center;
     margin: 0 auto;
     font-weight: 700;
-    @include font-size(1.5);
+    @include font-size(1.25);
     border-radius: 5px;
     border-radius: 0.3125rem;
     &:hover {
@@ -133,6 +136,10 @@
 
 .blue-pill {
     color: $white;
+    &:visited,
+    &:hover {
+        color: $white;
+    }
     background-color: $ucsc-light-blue;
 }
 
@@ -157,8 +164,13 @@
     max-width: 70.5%;
     min-height: 250px;
     border: 1px $grey-color-light inset;
+    h2 {
+        font-weight: 500;
+    }
     p {
+        font-weight: 500;
         line-height: 1.25;
+        @include font-size(0.875);
     }
 }
 
@@ -172,6 +184,48 @@
         max-width: 100%;
     }
 }
+
+
+/* Academic Divisions List */
+
+.arts-list-container,
+.college-list-container {
+    max-width: 460px;
+    display: grid;
+    justify-items: stretch;
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    .blue-pill {
+        margin: 0;
+        margin-bottom: 10px;
+        @include font-size(1.125);
+        font-weight: 500;
+        @include media-query ($on-desktop) {
+            max-width: none;
+        }
+    }
+}
+
+.arts-list-container {
+    width: 75%;
+    margin: 0 auto;
+    .blue-pill {
+        margin-bottom: 10px;
+    }
+}
+
+.college-list-container {
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: .5em;
+        .blue-pill {
+            margin-bottom: 0;
+        }
+    }
+}
+
+
+/* Colleges List */
 
 
 /*How To Give List */
@@ -214,7 +268,7 @@
 /*Ready to make a difference?*/
 
 .make-difference-container {
-    background-color: $ucsc-primary-blue;
+    background-color: $ucsc-light-blue;
 }
 
 .make-difference {
