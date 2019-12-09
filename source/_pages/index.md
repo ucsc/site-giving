@@ -5,6 +5,7 @@
 layout: default
 title: Home
 permalink: /
+hero: yes;
 ---
  This is the home page.
 
