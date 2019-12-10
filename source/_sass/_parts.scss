@@ -14,7 +14,9 @@
     span {
         color: white;
         // font: bold 24px/45px Helvetica, Sans-Serif;
-        @include font-size(2.5);
+        @include media-query ($on-desktop) {
+            @include font-size(2.5);
+        }
         font-weight: 700;
         line-height: 1.875;
         letter-spacing: -1px;
@@ -27,23 +29,39 @@
         position: absolute;
         left: $left-right;
         >span {
-            padding: $h-title-padding $h-title-padding $h-title-padding $h-title-indent;
+            padding: $h-title-padding-mobile $h-title-padding-mobile $h-title-padding-mobile $h-title-indent-mobile;
+        }
+        @include media-query($on-desktop) {
+            >span {
+                padding: $h-title-padding $h-title-padding $h-title-padding $h-title-indent;
+            }
         }
     }
     .right {
         position: absolute;
         right: $left-right;
         >span {
-            padding: $h-title-padding $h-title-indent $h-title-padding $h-title-padding;
+            padding: $h-title-padding-mobile $h-title-indent-mobile $h-title-padding-mobile $h-title-padding-mobile;
+        }
+        @include media-query($on-desktop) {
+            >span {
+                padding: $h-title-padding $h-title-indent $h-title-padding $h-title-padding;
+            }
         }
     }
     .top {
         position: absolute;
-        top: $top-bottom;
+        top: $top-bottom-mobile;
+        @include media-query($on-desktop) {
+            top: $top-bottom;
+        }
     }
     .bottom {
         position: absolute;
-        bottom: $top-bottom;
+        bottom: $top-bottom-mobile;
+        @include media-query($on-desktop) {
+            bottom: $top-bottom;
+        }
     }
     .center {
         position: absolute;
@@ -51,7 +69,12 @@
         left: 50%;
         transform: translate(-50%, -50%);
         >span {
-            padding: $h-title-padding;
+            padding: $h-title-padding-mobile;
+        }
+        @include media-query($on-desktop) {
+            >span {
+                padding: $h-title-padding;
+            }
         }
     }
 }
@@ -305,9 +328,15 @@
 /* Contact Grid */
 
 .contact-grid-container {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    max-width: 400px;
     margin: 0 auto;
-    max-width: 200px;
-    text-align: center;
+    @include media-query($on-desktop) {
+        grid-template: none;
+        max-width: 200px;
+        text-align: center;
+    }
     .contact-copy {
         color: $white;
         background-color: $ucsc-primary-blue;

@@ -87,5 +87,10 @@ $on-desktop: $size__max-width;
 
 $top-bottom: 2em;
 $left-right: 0;
-$h-title-indent: 100px;
-$h-title-padding: 20px;
+$h-title-indent: 6.25rem; // 100px
+$h-title-padding: 1.25rem; //20px
+$h-ratio: 0.35;
+$top-bottom-mobile: $top-bottom * 0.5;
+$left-right-mobile: 0;
+$h-title-indent-mobile: $h-title-indent * $h-ratio;
+$h-title-padding-mobile: $h-title-padding * $h-ratio;

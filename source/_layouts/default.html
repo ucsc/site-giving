@@ -5,7 +5,7 @@
 
 <body>
 
-    {%- include header.html -%} {% if page.hero = "yes" %} {%- include hero.html -%} {% endif %}
+    {%- include header.html -%} {% if page.hero %} {%- include hero.html -%} {% endif %}
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
             {%- include three-col-grid.html -%} {%- include two-col-grid.html -%} {%- include contact-grid.html -%} {{ content }}

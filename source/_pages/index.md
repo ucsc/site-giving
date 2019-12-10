@@ -5,7 +5,12 @@
 layout: default
 title: Home
 permalink: /
-hero: yes;
+hero: yes
+hero_image: hero.jpg
+hero_title: This is an aswesome <span>title</span>
+hero_vertical: top #options: top, bottom
+hero_horizontal: right #options: left, right
+
 ---
  This is the home page.
 

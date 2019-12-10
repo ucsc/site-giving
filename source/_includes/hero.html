@@ -1,10 +1,9 @@
 <section class="wrapper  hero-wrap">
-    <div class="hero"><img src="https://picsum.photos/1000/450/">
-        <h1 class="hero-title bottom left color"><span>Hero Title Bottom Left</span></h1>
-        <h1 class="hero-title bottom right color"><span>Hero Title Bottom Right</span></h1>
-        <h1 class="hero-title top left color"><span>Hero Title Top Left</span></h1>
-        <h1 class="hero-title top right color"><span>Hero Title Top Right</span></h1>
-        <h1 class="hero-title center color"><span>Hero Title Center</span></h1>
+    <div class="hero">
+        <img src="https://picsum.photos/1000/450/">
+        <!-- {% asset {{page.hero_image}} magick:resize=1000 alt='Hero Image' %} -->
+        <h1 class="hero-title {{ page.hero_vertical }} {{ page.hero_horizontal }} color"><span>{{ page.hero_title }}</span></h1>
+
     </div>
 
 
