@@ -1,22 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Second Awesome Post"
 date:   2019-11-18 22:53:59 -0800
 author: J. D. Hillard
 author-link:
+excerpt_separator: <!--more-->
 hero:
   use: true
   image: hero.jpg #best at 1000px by 450px
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
-featured-image: hero.jpg
+featured-image: yes
 featured-image-alt: Featured Image Alt Text
 categories: jekyll update
 ---
-Some words.
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<!--more--> You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 

@@ -1,8 +1,8 @@
 <section class="wrapper  hero-wrap">
     <div class="hero">
-        <img src="https://picsum.photos/1000/450/">
-        <!-- {% asset {{page.hero_image}} magick:resize=1000 alt='Hero Image' %} -->
-        <h1 class="hero-title {{ page.hero_vertical }} {{ page.hero_horizontal }} color"><span>{{ page.hero_title }}</span></h1>
+        <!-- <img src="https://picsum.photos/1000/450/"> -->
+        {% asset {{page.hero.image}} magick:resize=1000 alt='Hero Image' %}
+        <h1 class="hero-title {{ page.hero.vertical }} {{ page.hero.horizontal }} color"><span>{{ page.title }}</span></h1>
 
     </div>
 

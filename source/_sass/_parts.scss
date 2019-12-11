@@ -13,6 +13,10 @@
     }
     span {
         color: white;
+        @include font-size(1.375);
+        @include media-query ($on-phone) {
+            @include font-size(1.5);
+        }
         // font: bold 24px/45px Helvetica, Sans-Serif;
         @include media-query ($on-desktop) {
             @include font-size(2.5);
@@ -329,9 +333,17 @@
 
 .contact-grid-container {
     display: grid;
-    grid-template-columns: 200px 200px;
-    max-width: 400px;
+    // grid-template-columns: 145px 145px;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    // max-width: -webkit-calc(320px - (#{$spacing-unit} / 2));
+    // max-width: calc(320px - (#{$spacing-unit} / 2));
+    max-width: 100%;
     margin: 0 auto;
+    @include media-query($on-phone) {
+        grid-template-columns: 200px 200px;
+        max-width: 400px;
+    }
     @include media-query($on-desktop) {
         grid-template: none;
         max-width: 200px;
@@ -344,4 +356,16 @@
         width: 100%;
         text-align: left;
     }
+}
+
+
+/* Article Index */
+
+.post-list-grid {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    @include media-query($on-phone) {
+        grid-template-columns: 150px 1fr;
+    }
+    grid-gap: 1rem;
 }
