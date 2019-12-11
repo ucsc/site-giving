@@ -25,7 +25,7 @@ monospace;
 $font-pre: "Courier 10 Pitch",
 Courier,
 monospace;
-$base-font-size: 16px !default;
+$base-font-size: 1.6rem !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
@@ -85,10 +85,10 @@ $on-desktop: $size__max-width;
 ### Hero
 --------------------------------------------------------------*/
 
-$top-bottom: 2em;
+$top-bottom: 1.5em;
 $left-right: 0;
-$h-title-indent: 6.25rem; // 100px
-$h-title-padding: 1.25rem; //20px
+$h-title-indent: 9rem; // 100px
+$h-title-padding: 2rem; //20px
 $h-ratio: 0.35;
 $top-bottom-mobile: $top-bottom * 0.5;
 $left-right-mobile: 0;

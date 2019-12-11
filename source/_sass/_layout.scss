@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    @include font-size(1.625);
+    @include relative-font-size(1.625);
     font-weight: 700;
     color: $ucsc-primary-blue;
     line-height: $base-line-height * $base-font-size * 2.25;
@@ -23,7 +23,7 @@
         color: $ucsc-primary-blue;
     }
     @include media-query($on-desktop) {
-        @include font-size(2.8125);
+        @include relative-font-size(2.8125);
     }
 }
 
@@ -261,7 +261,6 @@
 
 .post-link {
     display: block;
-    @include font-size(2.125);
     font-weight: 700;
     // color: $ucsc-primary-blue;
 }
