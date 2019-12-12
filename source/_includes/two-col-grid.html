@@ -10,11 +10,9 @@
             <img class="cta-image" src="https://picsum.photos/200/200/">
 
         </div>
-        <div class="arts-list-container">
-            <a href="#" class="blue-pill">Arts</a>
-            <a href="#" class="blue-pill">Baskin School of Engineering</a>
-        </div>
+        {%- if page.arts-list -%} {%- include arts-list.html -%} {%- endif -%}
     </div>
+
     <div class="two-col-grid-cell">
         <div class="cta-container">
             <div class="cta-copy">
@@ -25,12 +23,6 @@
             </div>
             <img class="cta-image" src="https://picsum.photos/200/200/">
         </div>
-        <div class="college-list-container">
-            <a href="#" class="blue-pill">Cowell College</a>
-            <a href="#" class="blue-pill">Porter College</a>
-            <a href="#" class="blue-pill">Cowell College</a>
-            <a href="#" class="blue-pill">Porter College</a>
-        </div>
+        {%- if page.college-list -%} {%- include college-list.html -%} {%- endif -%}
     </div>
-
 </section>

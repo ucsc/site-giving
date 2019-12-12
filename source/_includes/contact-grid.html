@@ -1,25 +1,16 @@
 <section class="three-col-grid">
+    {%- for contact in page.contacts -%}
     <div class="three-col-grid-cell">
         <div class="contact-grid-container">
-            <img class="contact-image" src="https://picsum.photos/200/200/">
+            <!-- <img class="contact-image" src="{{- contact.image -}}"> -->
+            {%- asset {{contact.image}} alt="contact image" -%}
             <div class="contact-copy">
-                Here is some groovy contact copy
+                <h3>{{- contact.name -}}</h3>
+                <p>{{- contact.title -}}</p>
+                <p>{{- contact.phone -}}</p>
+                <a href="mailto:{{- contact.email -}}">{{- contact.email -}}</a>
             </div>
         </div>
     </div>
-    <div class="three-col-grid-cell ">
-        <div class="contact-grid-container ">
-            <img class="contact-image" src="https://picsum.photos/200/200/">
-            <div class="contact-copy">
-                Here is some groovy contact copy
-            </div>
-        </div>
-    </div>
-    <div class="three-col-grid-cell ">
-        <div class="contact-grid-container "><img class="contact-image" src="https://picsum.photos/200/200/">
-            <div class="contact-copy">
-                Here is some groovy contact copy
-            </div>
-        </div>
-    </div>
+    {%- endfor -%}
 </section>

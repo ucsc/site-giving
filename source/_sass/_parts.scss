@@ -131,11 +131,11 @@
 [class$="-pill"] {
     display: block;
     padding: 5px 10px;
-    padding: 0.3125rem 0.625rem;
+    padding: 0.5rem 1rem;
     text-align: center;
     margin: 0 auto;
     font-weight: 700;
-    @include font-size(1.25);
+    @include relative-font-size(1.25);
     border-radius: 5px;
     border-radius: 0.3125rem;
     &:hover {
@@ -175,40 +175,57 @@
 
 .cta-container {
     position: relative;
-    max-width: 460px;
+    width: 100%;
     text-align: center;
-    margin: 0 auto;
-    padding: 10px 0;
+    margin: 50px auto 0;
+    padding: $spacing-unit 0 $spacing-unit;
+    @include media-query($on-desktop) {
+        max-width: 460px;
+        margin: 0 auto;
+    }
 }
 
 .cta-copy {
     background-color: $ucsc-primary-blue;
-    padding: 20px 85px 20px 40px;
-    padding: 1.25rem 5.3125rem 1.25rem 2.5rem;
+    max-width: 100%;
     color: $white;
-    text-align: left;
+    text-align: center;
     position: relative;
-    max-width: 70.5%;
-    min-height: 250px;
     border: 1px $grey-color-light inset;
+    padding: 100px 0 0;
+    @include media-query ($on-desktop) {
+        max-width: 70.5%;
+        min-height: 250px;
+        padding: 20px 85px 20px 40px;
+        padding: 1.25rem 5.3125rem 1.25rem 2.5rem;
+        text-align: left;
+    }
     h2 {
         font-weight: 500;
     }
     p {
         font-weight: 500;
-        line-height: 1.25;
-        @include font-size(0.875);
+        // line-height: 1.25;
+        // @include relative-font-size(0.875);
+    }
+    .yellow-pill {
+        width: 75%;
+        margin: 0 auto 1.5rem;
     }
 }
 
 .cta-image {
     position: absolute;
-    top: 2.25em;
-    right: 0;
+    top: 30px;
+    // left: 50%;
+    transform: translate(-50%, -50%);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
     max-width: 50%;
     @include media-query($on-desktop) {
         max-width: 100%;
+        top: 5rem;
+        right: 0;
+        transform: none;
     }
 }
 
@@ -226,7 +243,7 @@
     .blue-pill {
         margin: 0;
         margin-bottom: 10px;
-        @include font-size(1.125);
+        @include relative-font-size(1.125);
         font-weight: 500;
         @include media-query ($on-desktop) {
             max-width: none;
@@ -310,11 +327,13 @@
     }
     .make-difference-text {
         font-weight: 700;
-        @include font-size(1.5);
+        @include relative-font-size(1.5);
+        text-align: center;
         place-self: center;
         @include media-query($on-desktop) {
             margin: 0;
             justify-self: start;
+            text-align: left;
         }
     }
     .red-pill {
@@ -350,11 +369,17 @@
         text-align: center;
     }
     .contact-copy {
-        color: $white;
+        color: $white !important;
         background-color: $ucsc-primary-blue;
         padding: 10px;
         width: 100%;
         text-align: left;
+        h3,
+        p,
+        span.gc-cs-link,
+        a {
+            color: $white;
+        }
     }
 }
 
