@@ -1,0 +1,6 @@
+<div class="arts-list-container">
+    {% for division in site.data.main.divisions%}
+    <a href="{{ division.link }}" class="blue-pill">
+        {{ division.name }}
+      </a> {% endfor %}
+</div>

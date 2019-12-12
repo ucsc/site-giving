@@ -2,6 +2,16 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-11-18 22:53:59 -0800
+author: J. D. Hillard
+author-link:
+hero:
+  use: true
+  image: hero.jpg #best at 1000px by 450px
+  title: This is an aswesome <span>title</span>
+  vertical: top #options: top, bottom
+  horizontal: left #options: left, right
+featured-image: hero.jpg
+featured-image-alt: Featured Image Alt Text
 categories: jekyll update
 ---
 Some words.

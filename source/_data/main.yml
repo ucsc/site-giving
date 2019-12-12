@@ -1,0 +1,33 @@
+colleges:
+  - name: Carson College
+    link: "#"
+  - name: Cowell College
+    link: "#"
+  - name: Crown College
+    link: "#"
+  - name: Kresge College
+    link: "#"
+  - name: Merrill College
+    link: "#"
+  - name: Oakes College
+    link: "#"
+  - name: Porter College
+    link: "#"
+  - name: Stevenson College
+    link: "#"
+  - name: College Nine
+    link: "#"
+  - name: College Ten
+divisions:
+  - name: Arts
+    link: "#"
+  - name: Baskin School of Engineering
+    link: "#"
+  - name: Humanities
+    link: "#"
+  - name: Physical and Biological
+    link: "#"
+  - name: Social Sciences
+    link: "#"
+  - name: UC Santa Cruz Library
+    link: "#"

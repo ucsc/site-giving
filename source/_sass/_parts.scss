@@ -1,0 +1,396 @@
+/*
+ *
+ * Hero
+ *
+ */
+
+.hero {
+    position: relative;
+    text-align: center;
+    .hero-title {
+        // background-color: rgba(0, 60, 108, 0.7);
+        margin-bottom: 0;
+    }
+    span {
+        color: white;
+        @include relative-font-size(1.375);
+        @include media-query ($on-phone) {
+            @include relative-font-size(2.5);
+        }
+        // font: bold 24px/45px Helvetica, Sans-Serif;
+        @include media-query ($on-desktop) {
+            @include relative-font-size(2.5);
+        }
+        font-weight: 700;
+        line-height: 1.875;
+        letter-spacing: -1px;
+        background: rgb(0, 60, 108);
+        /* fallback color */
+        background: rgba(0, 60, 108, 0.7);
+        // padding: 10px;
+    }
+    .left {
+        position: absolute;
+        left: $left-right;
+        >span {
+            padding: $h-title-padding-mobile $h-title-padding-mobile $h-title-padding-mobile $h-title-indent-mobile;
+        }
+        @include media-query($on-desktop) {
+            >span {
+                padding: $h-title-padding $h-title-padding $h-title-padding $h-title-indent;
+            }
+        }
+    }
+    .right {
+        position: absolute;
+        right: $left-right;
+        >span {
+            padding: $h-title-padding-mobile $h-title-indent-mobile $h-title-padding-mobile $h-title-padding-mobile;
+        }
+        @include media-query($on-desktop) {
+            >span {
+                padding: $h-title-padding $h-title-indent $h-title-padding $h-title-padding;
+            }
+        }
+    }
+    .top {
+        position: absolute;
+        top: $top-bottom-mobile;
+        @include media-query($on-desktop) {
+            top: $top-bottom;
+        }
+    }
+    .bottom {
+        position: absolute;
+        bottom: $top-bottom-mobile;
+        @include media-query($on-desktop) {
+            bottom: $top-bottom;
+        }
+    }
+    .center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        >span {
+            padding: $h-title-padding-mobile;
+        }
+        @include media-query($on-desktop) {
+            >span {
+                padding: $h-title-padding;
+            }
+        }
+    }
+}
+
+
+/*
+ *
+ * Grids
+ *
+ */
+
+.two-col-grid,
+.three-col-grid {
+    display: grid;
+    justify-items: center;
+}
+
+.two-col-grid {
+    grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2.5em;
+    }
+}
+
+.three-col-grid {
+    grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1em;
+    }
+}
+
+.two-col-grid-cell,
+.three-col-grid-cell {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+/*
+ *
+ * Atoms
+ *
+ */
+
+
+/*CTA Pills*/
+
+[class$="-pill"] {
+    display: block;
+    padding: 5px 10px;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    @include relative-font-size(1.25);
+    border-radius: 5px;
+    border-radius: 0.3125rem;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.yellow-pill {
+    color: $ucsc-primary-blue;
+    &:visited,
+    &:hover {
+        color: $ucsc-primary-blue
+    }
+    background-color: $ucsc-primary-yellow;
+}
+
+.red-pill {
+    color: $white;
+    &:visited,
+    &:hover {
+        color: $white;
+    }
+    background-color: $ucsc-magenta;
+}
+
+.blue-pill {
+    color: $white;
+    &:visited,
+    &:hover {
+        color: $white;
+    }
+    background-color: $ucsc-light-blue;
+}
+
+
+/*CTA Panels*/
+
+.cta-container {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin: 50px auto 0;
+    padding: $spacing-unit 0 $spacing-unit;
+    @include media-query($on-desktop) {
+        max-width: 460px;
+        margin: 0 auto;
+    }
+}
+
+.cta-copy {
+    background-color: $ucsc-primary-blue;
+    max-width: 100%;
+    color: $white;
+    text-align: center;
+    position: relative;
+    border: 1px $grey-color-light inset;
+    padding: 100px 0 0;
+    @include media-query ($on-desktop) {
+        max-width: 70.5%;
+        min-height: 250px;
+        padding: 20px 85px 20px 40px;
+        padding: 1.25rem 5.3125rem 1.25rem 2.5rem;
+        text-align: left;
+    }
+    h2 {
+        font-weight: 500;
+    }
+    p {
+        font-weight: 500;
+        // line-height: 1.25;
+        // @include relative-font-size(0.875);
+    }
+    .yellow-pill {
+        width: 75%;
+        margin: 0 auto 1.5rem;
+    }
+}
+
+.cta-image {
+    position: absolute;
+    top: 30px;
+    // left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    max-width: 50%;
+    @include media-query($on-desktop) {
+        max-width: 100%;
+        top: 5rem;
+        right: 0;
+        transform: none;
+    }
+}
+
+
+/* Academic Divisions List */
+
+.arts-list-container,
+.college-list-container {
+    max-width: 460px;
+    margin: 0 auto;
+    display: grid;
+    justify-items: stretch;
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    .blue-pill {
+        margin: 0;
+        margin-bottom: 10px;
+        @include relative-font-size(1.125);
+        font-weight: 500;
+        @include media-query ($on-desktop) {
+            max-width: none;
+        }
+    }
+}
+
+.arts-list-container {
+    width: 75%;
+    margin: 0 auto;
+    .blue-pill {
+        margin-bottom: 10px;
+    }
+}
+
+.college-list-container {
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: .5em;
+        .blue-pill {
+            margin-bottom: 0;
+        }
+    }
+}
+
+
+/* Colleges List */
+
+
+/*How To Give List */
+
+.htg-list-container {
+    padding: 20px 40px;
+    padding: 1.25rem 2.5rem;
+    position: relative;
+}
+
+.htg-list-head {
+    @include font-size(1);
+    color: $ucsc-primary-blue;
+    font-weight: 700;
+    &::before {
+        content: "1";
+        background-color: $ucsc-primary-yellow;
+        color: $white;
+        font-weight: 700;
+        @include font-size(1.25);
+        height: 25px;
+        width: 25px;
+        // border: 10px;
+        line-height: 25px;
+        text-align: center;
+        border-radius: 50%;
+        // padding: 10px;
+        // margin: 0;
+        top: 18px;
+        left: 7px;
+        position: absolute;
+    }
+}
+
+.htg-list-copy {
+    line-height: 1.25;
+}
+
+
+/*Ready to make a difference?*/
+
+.make-difference-container {
+    background-color: $ucsc-light-blue;
+}
+
+.make-difference {
+    color: $white;
+    padding: 20px 0;
+    padding: 1.25rem 0;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .make-difference-text {
+        font-weight: 700;
+        @include relative-font-size(1.5);
+        text-align: center;
+        place-self: center;
+        @include media-query($on-desktop) {
+            margin: 0;
+            justify-self: start;
+            text-align: left;
+        }
+    }
+    .red-pill {
+        place-self: center;
+        margin: 0;
+        width: 50%;
+        @include media-query($on-desktop) {
+            margin: 0;
+            justify-self: end;
+        }
+    }
+}
+
+
+/* Contact Grid */
+
+.contact-grid-container {
+    display: grid;
+    // grid-template-columns: 145px 145px;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    // max-width: -webkit-calc(320px - (#{$spacing-unit} / 2));
+    // max-width: calc(320px - (#{$spacing-unit} / 2));
+    max-width: 100%;
+    margin: 0 auto;
+    @include media-query($on-phone) {
+        grid-template-columns: 200px 200px;
+        max-width: 400px;
+    }
+    @include media-query($on-desktop) {
+        grid-template: none;
+        max-width: 200px;
+        text-align: center;
+    }
+    .contact-copy {
+        color: $white !important;
+        background-color: $ucsc-primary-blue;
+        padding: 10px;
+        width: 100%;
+        text-align: left;
+        h3,
+        p,
+        span.gc-cs-link,
+        a {
+            color: $white;
+        }
+    }
+}
+
+
+/* Article Index */
+
+.post-list-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    @include media-query($on-phone) {
+        grid-template-columns: 150px 1fr;
+    }
+    grid-gap: 1rem;
+}

@@ -15,7 +15,17 @@ sans-serif,
 "Apple Color Emoji",
 "Segoe UI Emoji",
 "Segoe UI Symbol" !default;
-$base-font-size: 16px !default;
+$base-font-family: "Roboto",
+sans-serif;
+$font-code: Monaco,
+Consolas,
+"Andale Mono",
+"DejaVu Sans Mono",
+monospace;
+$font-pre: "Courier 10 Pitch",
+Courier,
+monospace;
+$base-font-size: 1.6rem !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
@@ -30,15 +40,15 @@ $spacing-unit: 30px !default;
 ### UCSC Colors
 --------------------------------------------------------------*/
 
-$ucsc--primary-blue: #003c6c;
-$ucsc--primary-yellow: #fdc700;
-$ucsc--light-blue: #006aad;
-$ucsc--lighter-blue: #13a5dc;
-$ucsc--orange: #f29813;
-$ucsc--light-orange: #ffbf00;
-$ucsc--green: #93c02d;
-$ucsc--blue-green: #007988;
-$ucsc--magenta: #da216d;
+$ucsc-primary-blue: #003c6c;
+$ucsc-primary-yellow: #fdc700;
+$ucsc-light-blue: #006aad;
+$ucsc-lighter-blue: #13a5dc;
+$ucsc-orange: #f29813;
+$ucsc-light-orange: #ffbf00;
+$ucsc-green: #93c02d;
+$ucsc-blue-green: #007988;
+$ucsc-magenta: #da216d;
 
 /*--------------------------------------------------------------
 ### General Colors
@@ -46,11 +56,12 @@ $ucsc--magenta: #da216d;
 
 $text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color: #2a7ae2 !default;
+$brand-color: $ucsc-light-blue !default;
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark: darken($grey-color, 25%) !default;
 $table-text-align: left !default;
+$white: #ffffff;
 
 /*--------------------------------------------------------------
 ## Structure
@@ -61,6 +72,25 @@ $content-width: 800px !default;
 $on-palm: 600px !default;
 $on-laptop: 800px !default;
 $size__max-width: 67.5em; //1080px;
-$screen-size--phone: 25.938em; //415px or 1px wider than the widest portrait phone;
-$screen-size--tablet: 48em; //768px or iPad portrait;
-$screen-size--desktop: $size__max-width;
+$on-phone: 25.938em; //415px or 1px wider than the widest portrait phone;
+$on-tablet: 48em; //768px or iPad portrait;
+$on-desktop: $size__max-width;
+
+/*--------------------------------------------------------------
+## Parts
+--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+### Hero
+--------------------------------------------------------------*/
+
+$top-bottom: 1.5em;
+$left-right: 0;
+$h-title-indent: 9rem; // 100px
+$h-title-padding: 2rem; //20px
+$h-ratio: 0.35;
+$top-bottom-mobile: $top-bottom * 0.25;
+$left-right-mobile: 0;
+$h-title-indent-mobile: $h-title-indent * $h-ratio;
+$h-title-padding-mobile: $h-title-padding * $h-ratio;

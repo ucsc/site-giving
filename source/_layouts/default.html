@@ -1,20 +1,21 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-  {%- include head.html -%}
+{%- include head.html -%}
 
-  <body>
+<body>
 
-    {%- include header.html -%}
-
+    {%- include header.html -%} {% if page.hero.use %} {%- include hero.html -%} {% endif %}
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <div class="wrapper">
+            {{ content }}
+        </div>
     </main>
+    {%- include make-difference.html -%} {%- include footer.html -%}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="/assets/js/back-to-top.js"></script>
+    <script src="/assets/js/toggle.js"></script>
 
-    {%- include footer.html -%}
-
-  </body>
+</body>
 
 </html>
