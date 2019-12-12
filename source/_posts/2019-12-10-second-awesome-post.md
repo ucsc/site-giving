@@ -15,11 +15,15 @@ hero:
 featured-image: yes
 featured-image-alt: Featured Image Alt Text
 categories: jekyll update
+tags:
 ---
 
 When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations.<!--more-->
 
-“The moment that I started working, I felt I was fortunate enough to be able to pay my bills, and I should give a little to something I care about,” she says. “It wasn’t a lot, it still isn’t. It just feels like that’s something we all should do.”
+<figure class="inline-image right">
+   {% asset lisa-schaechter.jpg magick:resize=500 alt='Lisa Schecchter' %}
+   <figcaption>Lisa Schaechter, alumna, donor (J.D. Hillard/UC Santa Cruz)</figcaption>
+</figure> “The moment that I started working, I felt I was fortunate enough to be able to pay my bills and I should give a little to something I care about,” she says. “It wasn’t a lot, it still isn’t. It just feels like that’s something we all should do.”
 
 One of her causes is the Center for Agroecology and Sustainable Food Systems at UC Santa Cruz, which she supports because of its contributions to sustainable agriculture.
 

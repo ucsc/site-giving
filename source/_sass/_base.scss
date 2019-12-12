@@ -125,6 +125,19 @@ figure>img {
     display: block;
 }
 
+figure.inline-image {
+    height: auto;
+    width: 60%;
+    &.right {
+        float: right;
+        margin: 0 0 ($spacing-unit * 1) ($spacing-unit * 1);
+    }
+    &.left {
+        float: left;
+        margin: 0 ($spacing-unit * 1) ($spacing-unit * 1) 0;
+    }
+}
+
 figcaption {
     font-size: $small-font-size;
 }
