@@ -8,6 +8,11 @@ layout: default
   </header>
 {%- endunless -%}
   <div class="post-content">
+  {%- if page.below-hero.use%}
+  {%- if page.below-hero.key == "article-index"-%}
+  {%- include featured-articles.html -%}
+  {%- endif -%}
+  {%- endif -%}
     {{ content }}
   </div>
 

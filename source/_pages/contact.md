@@ -9,24 +9,21 @@ hero:
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 contacts:
-  - name: Jeff Schilling
+  - name: Jeff Shilling
     title: Vice Chancellor, University Relations (interim)
     phone: (831) 459-5718
-    email: jschilling@ucsc.edu
-    image: 200.jpg
-    copy: Jason is an awesome dude.
+    email: jshilling@ucsc.edu
+    image: jeff-shilling.jpg
   - name: Eldin Schimblephennig
     title: Director of Digital Stuff
     phone: (831) 555-1212
-    email: raknight@ucsc.edu
+    email: jchafin@ucsc.edu
     image: 200.jpg
-    copy: Rob's pretty cool, too.
-  - name: Carolyn Lagatutta
-    title: Taker of Rad Pictures
-    phone: (831) 555-1212
-    email: raknight@ucsc.edu
-    image: 200.jpg
-    copy: Carolyn is the best!
+  - name: Nathan Westrup
+    title: Director, UC Santa Cruz Foundation (interim)
+    phone: (831) 459-1086
+    email: nwestrup@ucsc.edu
+    image: nathan-westrup.jpg
 
 ---
 {%- include contact-grid.html -%}

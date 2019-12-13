@@ -1,0 +1,28 @@
+<section class="two-col-grid">
+    <div class="two-col-grid-cell">
+        <div class="cta-container">
+            <div class="cta-copy">
+                <h2>College Funds</h2>
+                <p>Help supportive on-campus communities thrive. The 10 residential colleges provide academic assistance and activities embracing intellectual and social life.</p>
+                <a href="#" class="yellow-pill">One</a>
+
+            </div>
+            <img class="cta-image" src="https://picsum.photos/200/200/">
+
+        </div>
+        {%- if page.arts-list -%} {%- include arts-list.html -%} {%- endif -%}
+    </div>
+
+    <div class="two-col-grid-cell">
+        <div class="cta-container">
+            <div class="cta-copy">
+                <h2>Search Funds</h2>
+                <p>Search or browse all giving opprtunities</p>
+                <a href="#" class="yellow-pill">One</a>
+
+            </div>
+            <img class="cta-image" src="https://picsum.photos/200/200/">
+        </div>
+        {%- if page.college-list -%} {%- include college-list.html -%} {%- endif -%}
+    </div>
+</section>
