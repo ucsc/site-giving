@@ -127,14 +127,29 @@ figure>img {
 
 figure.inline-image {
     height: auto;
-    width: 60%;
+    width: 100%;
+    @include media-query($on-desktop) {
+        width: auto;
+    }
+    &.right,
+    &.left {
+        margin: 0 auto;
+        @include media-query ($on-desktop) {
+            width: 60%;
+        }
+    }
     &.right {
-        float: right;
-        margin: 0 0 ($spacing-unit * 1) ($spacing-unit * 1);
+        @include media-query($on-desktop) {
+            float: right;
+            margin: 0 0 ($spacing-unit * 1) ($spacing-unit * 1);
+        }
     }
     &.left {
         float: left;
         margin: 0 ($spacing-unit * 1) ($spacing-unit * 1) 0;
+    }
+    img {
+        margin: 0 auto;
     }
 }
 
@@ -376,7 +391,7 @@ table {
             text-align: center;
         }
         .omniitems {
-            @include font-size(0.875);
+            @include relative-font-size(0.875);
             display: none;
             @include media-query($on-desktop) {
                 display: flex;

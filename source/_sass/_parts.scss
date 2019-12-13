@@ -357,6 +357,7 @@
     justify-items: center;
     // max-width: -webkit-calc(320px - (#{$spacing-unit} / 2));
     // max-width: calc(320px - (#{$spacing-unit} / 2));
+    padding-bottom: ($spacing-unit / 3);
     max-width: 100%;
     margin: 0 auto;
     @include media-query($on-phone) {
@@ -371,7 +372,7 @@
     .contact-copy {
         color: $white !important;
         background-color: $ucsc-primary-blue;
-        padding: 10px;
+        padding: ($spacing-unit / 6) ($spacing-unit / 3);
         width: 100%;
         text-align: left;
         h3,
@@ -379,6 +380,23 @@
         span.gc-cs-link,
         a {
             color: $white;
+            margin: 0;
+        }
+        h3 {
+            @include relative-font-size(1);
+            font-weight: 700;
+            @include media-query ($on-desktop) {
+                @include relative-font-size(1.25);
+            }
+        }
+        p {
+            @include media-query ($on-desktop) {
+                margin: ($spacing-unit / 6) 0;
+            }
+        }
+        p,
+        a {
+            @include relative-font-size(0.875)
         }
     }
 }

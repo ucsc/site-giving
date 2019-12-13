@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Contact us Now!
+permalink: /contact-us/
 hero:
-  use: true
-  image: hero3.jpg #best at 1000px by 450px
+  use: true #true or false
+  image: hero-contact.jpg #best at 1000px by 450px
   title: Contact us!
   vertical: bottom #options: top, bottom
-  horizontal: right #options: left, right
+  horizontal: left #options: left, right
 contacts:
   - name: Jeff Schilling
     title: Vice Chancellor, University Relations (interim)

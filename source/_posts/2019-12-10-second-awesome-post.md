@@ -8,9 +8,9 @@ author-email:
 excerpt_separator: <!--more-->
 hero:
   use: true
-  image: hero5.jpg #best at 1000px by 450px
+  image: hero-sustainable-legacy.jpg #best at 1000px by 450px
   title: This is an aswesome <span>title</span>
-  vertical: top #options: top, bottom
+  vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 featured-image: yes
 featured-image-alt: Featured Image Alt Text
@@ -21,13 +21,16 @@ tags:
 When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations.<!--more-->
 
 <figure class="inline-image right">
-   {% asset lisa-schaechter.jpg magick:resize=500 alt='Lisa Schecchter' %}
+   {% asset lisa-schaechter.jpg magick:resize=500 alt='Lisa Schechter' %}
    <figcaption>Lisa Schaechter, alumna, donor (J.D. Hillard/UC Santa Cruz)</figcaption>
 </figure> “The moment that I started working, I felt I was fortunate enough to be able to pay my bills and I should give a little to something I care about,” she says. “It wasn’t a lot, it still isn’t. It just feels like that’s something we all should do.”
 
 One of her causes is the Center for Agroecology and Sustainable Food Systems at UC Santa Cruz, which she supports because of its contributions to sustainable agriculture.
 
-“It’s a program that has really changed the world,” she says. “When I was a student, the organic produce didn’t look appetizing and there wasn’t very much of it. Organic food was just this wild idea.”
+<figure class="inline-image left">
+   {% asset lisa-schaechter.jpg magick:resize=500 alt='Lisa Schechter' %}
+   <figcaption>Lisa Schaechter, alumna, donor (J.D. Hillard/UC Santa Cruz)</figcaption>
+</figure>“It’s a program that has really changed the world,” she says. “When I was a student, the organic produce didn’t look appetizing and there wasn’t very much of it. Organic food was just this wild idea.”
 
 ### MOCI
 
