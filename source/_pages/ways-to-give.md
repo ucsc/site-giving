@@ -4,7 +4,8 @@
 
 layout: page
 title: Ways to give
-permalink: /ways-to-give/
+menu: "Ways to Give"
+order: 2
 hero:
   use: true
   image: hero-ways-to-give.jpg #best at 1000px by 450px
@@ -14,5 +15,3 @@ hero:
 
 ---
  This is a page template
-
- 

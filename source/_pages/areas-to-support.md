@@ -4,7 +4,8 @@
 
 layout: page
 title: Areas to support
-permalink: /areas-to-support/
+menu: "Areas to support"
+order: 1
 hero:
   use: true
   image: hero-areas-to-support.jpg #best at 1000px by 450px

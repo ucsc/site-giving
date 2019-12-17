@@ -1,8 +1,8 @@
 ---
-
-layout: page
+layout: articles
 title: Impact of Giving
-permalink: /impact-of-giving/
+menu: "Impact of Giving"
+order: 3
 arts-list: false
 college-list: false
 hero:
@@ -14,8 +14,6 @@ hero:
 below-hero: 
   use: true
   key: article-index
-
-
 ---
 This is the article/blog index
 

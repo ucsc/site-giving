@@ -27,6 +27,7 @@ destination: ./build
 markdown: kramdown
 kramdown:
   auto_ids: false
+permalink: /:path/
 
 include: ['_pages']
 
@@ -36,6 +37,9 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+# Global Variables
+give_url: "#"
+give_url_text: "Give Today"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

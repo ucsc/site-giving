@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Contact us Now!
+menu: "Contact Us"
+order: 4
 permalink: /contact-us/
 hero:
   use: true #true or false
