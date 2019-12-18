@@ -12,6 +12,9 @@ hero:
   title: This is an aswesome <span>title</span>
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
-
+numbered_list:
+  - list_number: one #options: one, two, three, four, five (spell out)
+    heading: List Head
+    copy: "Help supportive on-campus communities thrive. The 10 residential colleges provide academic assistance and activities embracing intellectual and social life."
 ---
 {% include three-col-grid.html %}
