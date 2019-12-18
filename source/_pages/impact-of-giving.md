@@ -16,5 +16,3 @@ below-hero:
   key: article-index
 ---
 This is the article/blog
-
- 
