@@ -50,16 +50,13 @@ support_areas:
                 <h2>{{item.heading}}</h2>
                 <p>{{item.copy}}</p>
                 <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
-
             </div>
             <img class="cta-image" src="https://picsum.photos/200/200/">
-
         </div>
         {%- if page.division_list -%} {%- include arts-list.html -%} {%- endif -%}
-   
         {%- if page.college_list -%} {%- include college-list.html -%} {%- endif -%}
     </div>
-    <hr style="border-top:2px solid blue; width:100%; grid-column-start:1;grid-column-end:3"> 
+    <!-- <hr>  -->
     {% endfor %}
 </section>
 {% endif %}

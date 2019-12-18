@@ -15,6 +15,6 @@ below-hero:
   use: true
   key: article-index
 ---
-This is the article/blog index
+This is the article/blog
 
  

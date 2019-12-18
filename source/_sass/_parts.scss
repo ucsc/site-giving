@@ -98,6 +98,16 @@
 
 .two-col-grid {
     grid-template-columns: repeat(1, 1fr);
+    hr {
+        display: none;
+        @include media-query ($on-desktop) {
+            display: block;
+            border-top: 2px solid blue;
+            width: 100%;
+            grid-column-start: 1;
+            grid-column-end: 3;
+        }
+    }
     @include media-query($on-desktop) {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 2.5em;
@@ -196,21 +206,30 @@
     @include media-query ($on-desktop) {
         max-width: 70.5%;
         min-height: 250px;
-        padding: 20px 85px 20px 40px;
-        padding: 1.25rem 5.3125rem 1.25rem 2.5rem;
+        padding: 20px 90px 20px 40px;
+        padding: 2rem 9rem 2rem 4rem;
         text-align: left;
+    }
+    h2,
+    p {
+        color: $white;
     }
     h2 {
         font-weight: 500;
+        line-height: 1;
     }
     p {
         font-weight: 500;
-        // line-height: 1.25;
+        line-height: 1.25;
         // @include relative-font-size(0.875);
     }
     .yellow-pill {
         width: 75%;
         margin: 0 auto 1.5rem;
+        @include media-query($on-desktop) {
+            width: 100%;
+            margin: 0;
+        }
     }
 }
 
@@ -223,8 +242,8 @@
     max-width: 50%;
     @include media-query($on-desktop) {
         max-width: 100%;
-        top: 5rem;
-        right: 0;
+        top: 5.5rem;
+        right: 1.5rem;
         transform: none;
     }
 }
