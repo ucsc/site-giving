@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Ways to give
+title: Ways to <span class="yellow">Give</span>
 menu: "Ways to Give"
 order: 2
 hero:
@@ -14,4 +14,4 @@ hero:
   horizontal: left #options: left, right
 
 ---
- This is a page template
+{% include three-col-grid.html %}

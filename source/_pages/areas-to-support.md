@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Areas to support
-menu: "Areas to support"
+title: Areas to <span class="yellow">Support</span>
+menu: "Areas to Support"
 order: 1
 hero:
   use: true

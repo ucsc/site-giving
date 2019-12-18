@@ -7,12 +7,16 @@
 .hero {
     position: relative;
     text-align: center;
+    img {
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    }
     .hero-title {
         // background-color: rgba(0, 60, 108, 0.7);
         margin-bottom: 0;
     }
     span {
         color: white;
+        border: 1px #383838 inset;
         @include relative-font-size(1.375);
         @include media-query ($on-phone) {
             @include relative-font-size(2.5);
@@ -24,10 +28,13 @@
         font-weight: 700;
         line-height: 1.875;
         letter-spacing: -1px;
-        background: rgb(0, 60, 108);
-        /* fallback color */
-        background: rgba(0, 60, 108, 0.7);
-        // padding: 10px;
+        background: $ucsc-primary-blue;
+        span {
+            border: none;
+            &.yellow {
+                color: $ucsc-primary-yellow;
+            }
+        }
     }
     .left {
         position: absolute;
@@ -300,6 +307,31 @@
 
 /*How To Give List */
 
+@include media-query($on-desktop) {
+    .htg-cell {
+        &.one {
+            grid-row-start: 1;
+            grid-column-start: 1;
+        }
+        &.two {
+            grid-column-start: 1;
+            grid-row-start: 2;
+        }
+        &.three {
+            grid-row-start: 1;
+            grid-column-start: 2;
+        }
+        &.four {
+            grid-row-start: 1;
+            grid-column-start: 3;
+        }
+        &.five {
+            grid-row-start: 2;
+            grid-column-start: 3;
+        }
+    }
+}
+
 .htg-list-container {
     padding: 20px 40px;
     padding: 1.25rem 2.5rem;
@@ -307,25 +339,50 @@
 }
 
 .htg-list-head {
-    @include font-size(1);
+    @include relative-font-size(1);
     color: $ucsc-primary-blue;
     font-weight: 700;
+    &.one {
+        &::before {
+            content: "1"
+        }
+    }
+    &.two {
+        &::before {
+            content: "2"
+        }
+    }
+    &.three {
+        &::before {
+            content: "3"
+        }
+    }
+    &.four {
+        &::before {
+            content: "4"
+        }
+    }
+    &.five {
+        &::before {
+            content: "5"
+        }
+    }
     &::before {
-        content: "1";
+        // content: "1";
         background-color: $ucsc-primary-yellow;
         color: $white;
         font-weight: 700;
-        @include font-size(1.25);
-        height: 25px;
-        width: 25px;
+        @include relative-font-size(1.5);
+        height: $spacing-unit;
+        width: $spacing-unit;
         // border: 10px;
-        line-height: 25px;
+        line-height: $spacing-unit;
         text-align: center;
         border-radius: 50%;
         // padding: 10px;
         // margin: 0;
-        top: 18px;
-        left: 7px;
+        top: 9px;
+        left: -6px;
         position: absolute;
     }
 }
