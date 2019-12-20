@@ -69,29 +69,28 @@ support_areas:
 ---
 
 {% if page.numbered_list %}
-  <section class="three-col-grid">
+  <section class="ways-to-give three-col-grid">
   {% for item in page.numbered_list %}
-      <div class="three-col-grid-cell htg-cell {{item.list_number}}">
-          <div class="htg-list-container">
-              <h3 class="htg-list-head {{item.list_number}}">{{item.heading}}</h3>
-              <p class="htg-list-copy">{{item.copy}}</p>
+      <div class="grid-cell {{item.list_number}}">
+          <div class="container">
+              <h3 class="head {{item.list_number}}">{{item.heading}}</h3>
+              <p class="copy">{{item.copy}}</p>
           </div>
       </div>
     {% endfor %}
     </section>
 {% endif %}
 {% if page.support_areas %}
-<section class="two-col-grid">
+<section class="cta two-col-grid">
   {% for item in page.support_areas %}
-    <div class="two-col-grid-cell">
-        <div class="cta-container">
-            <div class="cta-copy">
+    <div class="grid-cell">
+        <div class="container">
+            <div class="copy">
                 <h2>{{item.heading}}</h2>
                 <p>{{item.copy}}</p>
                 <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
             </div>
-            <!-- <img class="cta-image" src="https://picsum.photos/200/200/"> -->
-            {% asset {{item.image}} magick:resize=200 class="cta-image"%}
+            {% asset {{item.image}} magick:resize=200 %}
         </div>
         {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
         {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}

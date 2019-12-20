@@ -51,22 +51,21 @@ support_areas:
 
 ---
 {% if page.support_areas %}
-<section class="two-col-grid">
+<section class="cta two-col-grid">
   {% for item in page.support_areas %}
     <div class="grid-cell">
-        <div class="cta-container">
-            <div class="cta-copy">
+        <div class="container">
+            <div class="copy">
                 <h2>{{item.heading}}</h2>
                 <p>{{item.copy}}</p>
                 <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
             </div>
-            <!-- <img class="cta-image" src="https://picsum.photos/200/200/"> -->
-            {% asset {{item.image}} magick:resize=200 class="cta-image"%}
+            {% asset {{item.image}} magick:resize=200 %}
         </div>
         {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
         {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
     </div>
-  <hr>   
+  <!-- <hr>    -->
   {% endfor %}
   
 </section>

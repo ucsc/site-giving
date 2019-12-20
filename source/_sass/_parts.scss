@@ -101,6 +101,10 @@
 .three-col-grid {
     display: grid;
     justify-items: center;
+    .grid-cell {
+        width: 100%;
+        margin: 0 auto;
+    }
 }
 
 .two-col-grid {
@@ -128,19 +132,6 @@
         grid-gap: 1em;
     }
 }
-
-.grid-cell,
-.three-col-grid-cell {
-    width: 100%;
-    margin: 0 auto;
-}
-
-
-/*
- *
- * Atoms
- *
- */
 
 
 /*CTA Pills*/
@@ -190,76 +181,83 @@
 
 /*CTA Panels*/
 
-.cta-container {
-    position: relative;
-    width: 100%;
-    text-align: center;
-    margin: 50px auto 0;
-    padding: $spacing-unit 0 $spacing-unit;
-    @include media-query($on-desktop) {
-        max-width: 460px;
-        margin: 0 auto;
-    }
-}
-
-.cta-copy {
-    background-color: $ucsc-primary-blue;
-    max-width: 100%;
-    color: $white;
-    text-align: center;
-    position: relative;
-    border: 1px $grey-color-light inset;
-    padding: 100px 0 0;
-    @include media-query ($on-desktop) {
-        max-width: 70.5%;
-        min-height: 250px;
-        padding: 20px 90px 20px 40px;
-        padding: 2rem 9rem 2rem 4rem;
-        text-align: left;
-    }
-    h2,
-    p {
-        color: $white;
-    }
-    h2 {
-        font-weight: 500;
-        line-height: 1;
-    }
-    p {
-        font-weight: 500;
-        line-height: 1.25;
-        // @include relative-font-size(0.875);
-    }
-    .yellow-pill {
-        width: 75%;
-        margin: 0 auto 1.5rem;
+.cta {
+    .container {
+        position: relative;
+        width: 100%;
+        text-align: center;
+        margin: 50px auto 0;
+        padding: $spacing-unit 0 $spacing-unit;
         @include media-query($on-desktop) {
-            width: 100%;
-            margin: 0;
+            max-width: 460px;
+            margin: 0 auto;
+        }
+        .copy {
+            background-color: $ucsc-primary-blue;
+            max-width: 100%;
+            color: $white;
+            text-align: center;
+            position: relative;
+            border: 1px $grey-color-light inset;
+            padding: 100px 0 0;
+            @include media-query ($on-desktop) {
+                max-width: 70.5%;
+                min-height: 250px;
+                padding: 20px 90px 20px 40px;
+                padding: 2rem 9rem 2rem 4rem;
+                text-align: left;
+            }
+            h2,
+            p {
+                color: $white;
+            }
+            h2 {
+                font-weight: 500;
+                line-height: 1;
+            }
+            p {
+                font-weight: 500;
+                line-height: 1.25;
+                // @include relative-font-size(0.875);
+            }
+            .yellow-pill {
+                width: 75%;
+                margin: 0 auto 1.5rem;
+                @include media-query($on-desktop) {
+                    width: 100%;
+                    margin: 0;
+                }
+            }
+        }
+        img {
+            position: absolute;
+            top: 30px;
+            // left: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+            max-width: 50%;
+            @include media-query($on-desktop) {
+                max-width: 100%;
+                top: 5.5rem;
+                right: 1.5rem;
+                transform: none;
+            }
         }
     }
-}
-
-.cta-image {
-    position: absolute;
-    top: 30px;
-    // left: 50%;
-    transform: translate(-50%, -50%);
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-    max-width: 50%;
-    @include media-query($on-desktop) {
-        max-width: 100%;
-        top: 5.5rem;
-        right: 1.5rem;
-        transform: none;
+    hr {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row: 2 / span 2;
+        width: 100%;
+        display: block;
     }
 }
 
 
-/* Academic Divisions List */
+/* Academic Divisions and Colleges List */
 
-.division-list-container,
-.college-list-container {
+.divisions,
+.colleges {
     max-width: 460px;
     margin: 0 auto;
     display: grid;
@@ -277,7 +275,7 @@
     }
 }
 
-.division-list-container {
+.divisions {
     width: 100%;
     @include media-query($on-desktop) {
         width: 75%;
@@ -291,7 +289,7 @@
     }
 }
 
-.college-list-container {
+.colleges {
     @include media-query($on-desktop) {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: .5em;
@@ -302,92 +300,88 @@
 }
 
 
-/* Colleges List */
+/*Ways To Give List */
 
-
-/*How To Give List */
-
-@include media-query($on-desktop) {
-    .htg-cell {
-        &.one {
-            grid-row-start: 1;
-            grid-column-start: 1;
-        }
-        &.two {
-            grid-column-start: 1;
-            grid-row-start: 2;
-        }
-        &.three {
-            grid-row-start: 1;
-            grid-column-start: 2;
-        }
-        &.four {
-            grid-row-start: 1;
-            grid-column-start: 3;
-        }
-        &.five {
-            grid-row-start: 2;
-            grid-column-start: 3;
-        }
-    }
-}
-
-.htg-list-container {
-    padding: 1.25rem 2.5rem 1.25rem 3rem;
-    position: relative;
-}
-
-.htg-list-head {
-    @include relative-font-size(1);
-    color: $ucsc-primary-blue;
-    font-weight: 700;
-    &.one {
-        &::before {
-            content: "1"
+.ways-to-give {
+    .grid-cell {
+        @include media-query($on-desktop) {
+            &.one {
+                grid-row-start: 1;
+                grid-column-start: 1;
+            }
+            &.two {
+                grid-column-start: 1;
+                grid-row-start: 2;
+            }
+            &.three {
+                grid-row-start: 1;
+                grid-column-start: 2;
+            }
+            &.four {
+                grid-row-start: 1;
+                grid-column-start: 3;
+            }
+            &.five {
+                grid-row-start: 2;
+                grid-column-start: 3;
+            }
         }
     }
-    &.two {
-        &::before {
-            content: "2"
+    .container {
+        padding: 1.25rem 2.5rem 1.25rem 3rem;
+        position: relative;
+        .head {
+            @include relative-font-size(1);
+            color: $ucsc-primary-blue;
+            font-weight: 700;
+            &.one {
+                &::before {
+                    content: "1"
+                }
+            }
+            &.two {
+                &::before {
+                    content: "2"
+                }
+            }
+            &.three {
+                &::before {
+                    content: "3"
+                }
+            }
+            &.four {
+                &::before {
+                    content: "4"
+                }
+            }
+            &.five {
+                &::before {
+                    content: "5"
+                }
+            }
+            &::before {
+                // content: "1";
+                background-color: $ucsc-primary-yellow;
+                color: $white;
+                font-weight: 700;
+                @include relative-font-size(1.5);
+                height: $spacing-unit;
+                width: $spacing-unit;
+                // border: 10px;
+                line-height: $spacing-unit;
+                text-align: center;
+                border-radius: 50%;
+                // padding: 10px;
+                // margin: 0;
+                top: 9px;
+                left: -6px;
+                position: absolute;
+            }
+        }
+        .copy {
+            line-height: 1.25;
         }
     }
-    &.three {
-        &::before {
-            content: "3"
-        }
-    }
-    &.four {
-        &::before {
-            content: "4"
-        }
-    }
-    &.five {
-        &::before {
-            content: "5"
-        }
-    }
-    &::before {
-        // content: "1";
-        background-color: $ucsc-primary-yellow;
-        color: $white;
-        font-weight: 700;
-        @include relative-font-size(1.5);
-        height: $spacing-unit;
-        width: $spacing-unit;
-        // border: 10px;
-        line-height: $spacing-unit;
-        text-align: center;
-        border-radius: 50%;
-        // padding: 10px;
-        // margin: 0;
-        top: 9px;
-        left: -6px;
-        position: absolute;
-    }
-}
-
-.htg-list-copy {
-    line-height: 1.25;
 }
 
 
@@ -433,11 +427,8 @@
 
 .contact-grid-container {
     display: grid;
-    // grid-template-columns: 145px 145px;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
-    // max-width: -webkit-calc(320px - (#{$spacing-unit} / 2));
-    // max-width: calc(320px - (#{$spacing-unit} / 2));
     padding-bottom: ($spacing-unit / 3);
     max-width: 100%;
     margin: 0 auto;
