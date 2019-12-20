@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Ways to <span class="yellow">Give</span>
 menu: "Ways to Give"
@@ -30,23 +27,59 @@ numbered_list:
   - list_number: five #options: one, two, three, four, five .(spell out, lower case)
     heading: Payroll deductions
     copy: Faculty and staff can arrange regular, scheduled contributions through the <a href="https://www.ucsc.edu">payrol deduction form</a>. You can also give through your retirement plan.
+support_areas:
+  - heading: UCSC Fund
+    copy: "Ensure your gift goes to the area of greatest need."
+    image: 200.jpg
+    image_alt: image alt text
+    button_text: Learn More
+    button_link: https://www.ucsc.edu/
+  - heading: Search Funds
+    copy: "Search or browse all giving opportunities"
+    image: search-funds.jpg
+    image_alt: image alt text
+    button_text: Search an A-Z List
+    button_link: https://www.ucsc.edu/
+  - heading: Academic Divisions and Library
+    copy: "Support life-changing education through dean's excellence funds in the division."
+    image: academic-divisions.jpg
+    image_alt: image alt text
+    button_text: Search an A-Z List
+    button_link: https://www.ucsc.edu/
+    division_list: true
+  - heading: College Funds
+    copy: "Help spportive on-campus communities thrive. The 10 residential colleges provide academic assistance and activities embracing intellectual and social life."
+    image: college-funds.jpg
+    image_alt: image alt text
+    button_text: Learn More
+    button_link: https://www.ucsc.edu/
+    college_list: true
+  - heading: Faculty Support and Chairs
+    copy: "Advance knowledge. Provide resources to ensure research flourishes. Giving to chairs and professorships helps retain and recruit innovative and accomplished scholars."
+    image: faculty-support.jpg
+    image_alt: image alt text
+    button_text: Learn More
+    button_link: https://www.ucsc.edu/
+  - heading: Scholarships and Fellowships
+    copy: "Help ensure that high-achieving students and graduate programs have scholarship and fellowship opportunities"
+    image: scholarships-fellowships.jpg
+    image_alt: image alt text
+    button_text: Learn More
+    button_link: https://www.ucsc.edu/
 ---
-<!-- {% include three-col-grid.html %} -->
-{% if page.numbered_list %}
-<div class="wrapper">
-    <section class="three-col-grid">
-    {% for item in page.numbered_list %}
-        <div class="three-col-grid-cell htg-cell {{item.list_number}}">
-            <div class="htg-list-container">
-                <h3 class="htg-list-head {{item.list_number}}">{{item.heading}}</h3>
-                <p class="htg-list-copy">{{item.copy}}</p>
-            </div>
-        </div>
-      {% endfor %}
-      </section>
-      </div>
-{% endif %}
 
+{% if page.numbered_list %}
+  <section class="three-col-grid">
+  {% for item in page.numbered_list %}
+      <div class="three-col-grid-cell htg-cell {{item.list_number}}">
+          <div class="htg-list-container">
+              <h3 class="htg-list-head {{item.list_number}}">{{item.heading}}</h3>
+              <p class="htg-list-copy">{{item.copy}}</p>
+          </div>
+      </div>
+    {% endfor %}
+    </section>
+{% endif %}
 {% if page.support_areas %}
 <section class="two-col-grid">
   {% for item in page.support_areas %}
@@ -63,7 +96,7 @@ numbered_list:
         {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
         {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
     </div>
-  <!-- <hr>    -->
+  
   {% endfor %}
   
 </section>

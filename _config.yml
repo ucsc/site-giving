@@ -27,7 +27,7 @@ destination: ./build
 markdown: kramdown
 kramdown:
   auto_ids: false
-permalink: /:path/
+permalink: /:title/
 
 include: ['_pages']
 
@@ -37,6 +37,13 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+# Collections
+collections:
+  _pages:
+    output: true
+    permalink: /:name
+
 # Global Variables
 give_url: "#"
 give_url_text: "Give Today"

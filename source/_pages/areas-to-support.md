@@ -53,7 +53,7 @@ support_areas:
 {% if page.support_areas %}
 <section class="two-col-grid">
   {% for item in page.support_areas %}
-    <div class="two-col-grid-cell">
+    <div class="grid-cell">
         <div class="cta-container">
             <div class="cta-copy">
                 <h2>{{item.heading}}</h2>
@@ -66,7 +66,7 @@ support_areas:
         {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
         {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
     </div>
-  <!-- <hr>    -->
+  <hr>   
   {% endfor %}
   
 </section>
