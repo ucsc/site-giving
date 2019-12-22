@@ -28,40 +28,40 @@ numbered_list:
     heading: Payroll deductions
     copy: Faculty and staff can arrange regular, scheduled contributions through the <a href="https://www.ucsc.edu">payrol deduction form</a>. You can also give through your retirement plan.
 support_areas:
-  - heading: UCSC Fund
-    copy: "Ensure your gift goes to the area of greatest need."
+  - heading: Crowdfunding
+    copy: "Give to your vavorite campus cause or browse pop-up student and faculty fundraisers."
     image: 200.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: https://www.ucsc.edu/
-  - heading: Search Funds
-    copy: "Search or browse all giving opportunities"
+  - heading: Planned Giving
+    copy: "If you have included UC Santa Cruz in your estate plans or would like to discuss opportunities..."
     image: search-funds.jpg
     image_alt: image alt text
-    button_text: Search an A-Z List
+    button_text: Let Us Know
     button_link: https://www.ucsc.edu/
-  - heading: Academic Divisions and Library
-    copy: "Support life-changing education through dean's excellence funds in the division."
+  - heading: Parents and Families
+    copy: "Help ensure all students benefit from a vibrant learning environment by giving to the UCSC Parents Fund"
     image: academic-divisions.jpg
     image_alt: image alt text
-    button_text: Search an A-Z List
+    button_text: Learn More
     button_link: https://www.ucsc.edu/
-    division_list: true
-  - heading: College Funds
-    copy: "Help spportive on-campus communities thrive. The 10 residential colleges provide academic assistance and activities embracing intellectual and social life."
+    division_list: false
+  - heading: Chancellor's Associates
+    copy: Join our leadership donor society with your gift of $1,000 or more to the <a href="#">UC Santa Cruz Fund</a> or the <a href="#">Parents Fund</a>.
     image: college-funds.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: https://www.ucsc.edu/
-    college_list: true
-  - heading: Faculty Support and Chairs
-    copy: "Advance knowledge. Provide resources to ensure research flourishes. Giving to chairs and professorships helps retain and recruit innovative and accomplished scholars."
+    college_list: false
+  - heading: Endowment
+    copy: "Make your gift transcend generations."
     image: faculty-support.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: https://www.ucsc.edu/
-  - heading: Scholarships and Fellowships
-    copy: "Help ensure that high-achieving students and graduate programs have scholarship and fellowship opportunities"
+  - heading: Recurring Gifts
+    copy: "By establishing a monthly donation, your impact is ongoing and also cuts down on addministrative costs."
     image: scholarships-fellowships.jpg
     image_alt: image alt text
     button_text: Learn More
