@@ -8,6 +8,35 @@ hero:
   title: This is an aswesome <span>title</span>
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
+support_areas:
+  - heading: UCSC Fund
+    copy: "Ensure your gift goes to the area of greatest need."
+    image: 200.jpg
+    image_alt: image alt text
+    button_text: Learn More
+    button_link: https://www.ucsc.edu/
+  - heading: Search Funds
+    copy: "Search or browse all giving opportunities"
+    image: search-funds.jpg
+    image_alt: image alt text
+    button_text: Search an A-Z List
+    button_link: https://www.ucsc.edu/
+
 ---
- This is the home page. index.html
+{% if page.support_areas %}
+<section class="home-cta cta two-col-grid">
+{% for area in page.support_areas %}
+    <div class="grid-cell">
+        <div class="container">
+{% asset {{area.image}} alt="{{area.image_alt}}" magick:resize=300 magick:crop=300x200+0+0 %}
+            <div class="copy">
+               <h2>{{area.heading}}</h2>
+                <p>{{area.copy}}</p>
+                <a href="{{area.button_link}}" class="yellow-pill">{{area.button_text}}</a>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+ </section>
+ {% endif %}
 
