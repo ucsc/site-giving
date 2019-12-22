@@ -10,8 +10,12 @@ hero:
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
-featured-image: hero.jpg
-featured-image-alt: Featured Image Alt Text
+# Is this a featured post? Applies to first two columns on Post Archive Page.
+featured_post:
+  use: true
+  order: 1 # Options: 1 or 2
+post_thumbnail: 200.jpg
+post_thumbnail_alt: Featured Image Alt Text
 categories: jekyll update
 ---
 Some words.

@@ -30,39 +30,39 @@ numbered_list:
 support_areas:
   - heading: Crowdfunding
     copy: "Give to your vavorite campus cause or browse pop-up student and faculty fundraisers."
-    image: 200.jpg
-    image_alt: image alt text
+    image: crowdfunding.jpg
+    image_alt: Crowdfunding image of students
     button_text: Learn More
     button_link: https://www.ucsc.edu/
   - heading: Planned Giving
     copy: "If you have included UC Santa Cruz in your estate plans or would like to discuss opportunities..."
-    image: search-funds.jpg
+    image: 200.jpg
     image_alt: image alt text
     button_text: Let Us Know
     button_link: https://www.ucsc.edu/
   - heading: Parents and Families
     copy: "Help ensure all students benefit from a vibrant learning environment by giving to the UCSC Parents Fund"
-    image: academic-divisions.jpg
-    image_alt: image alt text
+    image: parents-families.jpg
+    image_alt: Parents and Families image of mother and daughter
     button_text: Learn More
     button_link: https://www.ucsc.edu/
     division_list: false
   - heading: Chancellor's Associates
     copy: Join our leadership donor society with your gift of $1,000 or more to the <a href="#">UC Santa Cruz Fund</a> or the <a href="#">Parents Fund</a>.
-    image: college-funds.jpg
+    image: chancellors-associates.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: https://www.ucsc.edu/
     college_list: false
   - heading: Endowment
     copy: "Make your gift transcend generations."
-    image: faculty-support.jpg
+    image: endowment.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: https://www.ucsc.edu/
   - heading: Recurring Gifts
     copy: "By establishing a monthly donation, your impact is ongoing and also cuts down on addministrative costs."
-    image: scholarships-fellowships.jpg
+    image: 200.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: https://www.ucsc.edu/

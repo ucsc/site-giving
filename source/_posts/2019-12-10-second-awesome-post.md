@@ -4,21 +4,27 @@ title:  "A sustainable legacy"
 subtitle: "An alumna includes CASFS in her legacy with a planned gift."
 date:   2019-11-18 22:53:59 -0800
 author: J. D. Hillard
-author-email:
-excerpt_separator: <!--more-->
+author_email:
+excerpt: "When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations."
+pull_quote: false
+pull_quote_author: Eldin Schimblephennig
 hero:
   use: true
   image: hero-sustainable-legacy.jpg #best at 1000px by 450px
   title: This is an aswesome <span>title</span>
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
-featured-image: yes
-featured-image-alt: Featured Image Alt Text
+# Is this a featured post? Applies to first two columns on Post Archive Page.
+featured_post:
+  use: true
+  order: 1 # Options: 1 or 2
+post_thumbnail: 200.jpg
+post_thumbnail_alt: Featured Image Alt Text
 categories: jekyll update
 tags:
 ---
 
-When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations.<!--more-->
+When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations.
 
 <figure class="inline-image right">
    {% asset lisa-schaechter.jpg magick:resize=500 alt='Lisa Schechter' %}
