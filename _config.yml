@@ -29,7 +29,7 @@ kramdown:
   auto_ids: false
 permalink: /:title/
 
-include: ['_pages']
+# include: ['_pages']
 
 defaults:
   - scope:
@@ -39,14 +39,16 @@ defaults:
       layout: "default"
 
 # Collections
-collections:
-  _pages:
-    output: true
-    permalink: /:name
+# collections:
+#   _pages:
+#     output: true
+#     permalink: /:name
 
 # Global Variables
 give_url: "#"
 give_url_text: "Give Today"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
