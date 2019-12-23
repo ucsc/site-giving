@@ -258,19 +258,24 @@
 
 .home-cta {
     .container {
+        padding: ($spacing-unit / 2) 0;
+        margin: 0 auto;
         .copy {
             padding: $spacing-unit / 6;
+            min-width: 200px;
+            min-height: 175px;
             @include media-query($on-desktop) {
                 padding: $spacing-unit * 0.666666666666;
-                min-width: 200px;
                 max-width: 200px;
-                min-height: 175px;
                 max-height: 175px;
                 position: absolute;
                 top: 5.5rem;
                 right: 1.5rem;
             }
+            h2,
+            p {}
             h2 {
+                margin-top: 1.5rem;
                 @include media-query($on-desktop) {
                     @include relative-font-size(1);
                 }
@@ -288,11 +293,12 @@
         }
     }
     img {
+        position: relative !important;
+        top: auto !important;
+        right: auto !important;
+        transform: none !important;
+        max-width: 100% !important;
         @include media-query($on-desktop) {
-            position: relative!important;
-            top: auto !important;
-            right: auto !important;
-            transform: none;
             float: left;
         }
     }
