@@ -258,23 +258,43 @@
 
 .home-cta {
     .container {
-        // max-height: 250px;
         .copy {
-            padding: 0;
-            min-height: auto;
-            max-width: 200px;
-            max-height: 200px;
-            position: absolute;
-            top: 5.5rem;
-            right: 1.5rem;
+            padding: $spacing-unit / 6;
+            @include media-query($on-desktop) {
+                padding: $spacing-unit * 0.666666666666;
+                min-width: 200px;
+                max-width: 200px;
+                min-height: 175px;
+                max-height: 175px;
+                position: absolute;
+                top: 5.5rem;
+                right: 1.5rem;
+            }
+            h2 {
+                @include media-query($on-desktop) {
+                    @include relative-font-size(1);
+                }
+            }
+            p {
+                @include media-query($on-desktop) {
+                    @include relative-font-size(0.875);
+                }
+            }
+            .yellow-pill {
+                @include media-query($on-desktop) {
+                    @include relative-font-size(1);
+                }
+            }
         }
     }
     img {
-        position: relative!important;
-        top: auto !important;
-        right: auto !important;
-        transform: none;
-        float: left;
+        @include media-query($on-desktop) {
+            position: relative!important;
+            top: auto !important;
+            right: auto !important;
+            transform: none;
+            float: left;
+        }
     }
 }
 
