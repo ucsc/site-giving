@@ -1,5 +1,6 @@
 
 <!-- breadcrumbs -->
+<div class="wrapper">
 <div class="breadcrumbs">
 {% unless page.no_breadcrumbs %} {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %} {% capture num_parts %}{{ url_parts | number_of_words | minus: 1 }}{% endcapture %} {% assign previous="" %}
 <ul>
@@ -16,5 +17,6 @@
 </ul>
 
 {% endunless %}
+</div>
 </div>
 <!-- end breadcrumbs -->

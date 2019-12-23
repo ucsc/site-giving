@@ -269,14 +269,19 @@
                 max-width: 200px;
                 max-height: 175px;
                 position: absolute;
-                top: 5.5rem;
+                top: 4rem;
                 right: 1.5rem;
             }
             h2,
-            p {}
+            p {
+                @include media-query($on-desktop) {
+                    margin-bottom: $spacing-unit / 4
+                }
+            }
             h2 {
                 margin-top: 1.5rem;
                 @include media-query($on-desktop) {
+                    margin-top: 0;
                     @include relative-font-size(1);
                 }
             }

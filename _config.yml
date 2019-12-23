@@ -27,6 +27,7 @@ destination: ./build
 markdown: kramdown
 kramdown:
   auto_ids: false
+  parse_block_html: true
 permalink: /:title/
 
 # include: ['_pages']

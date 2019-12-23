@@ -7,5 +7,9 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 {%- endunless -%}
-    {{ content }}
+{% if page.markdownify %}
+    {{ content | markdownify }}
+{% else %}
+{{ content }}
+{% endif %}
 </article>
