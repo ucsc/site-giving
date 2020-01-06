@@ -3,7 +3,7 @@ layout: page
 title: Typography
 menu: "Typography"
 order: 6
-markdownify: true
+markdownify: false # options: true or false. Use "true" if this is plain text markdown content.
 hero:
   use: false # options: true or false
   image: image-title.jpg #best at 1000px by 450px
@@ -11,6 +11,7 @@ hero:
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 ---
+
 This is the typography post for sizing. It also serves as a basic page template.
 
 # Heading One

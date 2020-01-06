@@ -28,21 +28,21 @@ support_areas:
 {%- for post in site.posts -%}
 {% if post.featured_post.use %}
 
-    <div class="grid-cell">
-        <div class="container">
-            <div class="copy">
-                <h2>{{post.title}}</h2>
-                {% if post.pull_quote %}
-                <p>{{post.pull_quote}}</p>
-                <p>{{post.pull_quote_author}}</p>
-                {% else %}
-                <p>{{post.subtitle}}</p>
-                {%endif%}
-                <a href="{{post.url}}" class="yellow-pill">Learn More</a>
-            </div>
-            {% asset {{post.post_thumbnail}} alt="{{post.post_thumbnail_alt}}"magick:resize=200 %}
-        </div>
+<div class="grid-cell">
+  <div class="container">
+    <div class="copy">
+      <h2>{{post.title}}</h2>
+      {% if post.pull_quote %}
+      <p>{{post.pull_quote}}</p>
+      <p>{{post.pull_quote_author}}</p>
+      {% else %}
+      <p>{{post.subtitle}}</p>
+      {%endif%}
+      <a href="{{post.url}}" class="yellow-pill">Learn More</a>
     </div>
+      {% asset {{post.post_thumbnail}} alt="{{post.post_thumbnail_alt}}"magick:resize=200 %}
+  </div>
+</div>
  {% endif %}
  {% endfor %}
  </section>
