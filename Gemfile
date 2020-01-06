@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8"
 gem "mini_magick"
 gem "image_optim"
+# gem "html-proofer"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

@@ -13,6 +13,8 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    ethon (0.12.0)
+      ffi (>= 1.3.0)
     eventmachine (1.2.7)
     execjs (2.7.0)
     exifr (1.3.6)
@@ -22,6 +24,14 @@ GEM
     ffi (1.11.1)
     forwardable-extended (2.6.0)
     fspath (3.1.2)
+    html-proofer (3.15.0)
+      addressable (~> 2.3)
+      mercenary (~> 0.3)
+      nokogumbo (~> 2.0)
+      parallel (~> 1.3)
+      rainbow (~> 3.0)
+      typhoeus (~> 1.3)
+      yell (~> 2.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -83,11 +93,15 @@ GEM
     minitest (5.12.2)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
+    nokogumbo (2.0.2)
+      nokogiri (~> 1.8, >= 1.8.4)
+    parallel (1.19.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progress (3.5.2)
     public_suffix (4.0.1)
     rack (2.0.7)
+    rainbow (3.0.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -102,13 +116,17 @@ GEM
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     thread_safe (0.3.6)
+    typhoeus (1.3.1)
+      ethon (>= 0.9.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    yell (2.2.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  html-proofer
   image_optim
   jekyll (~> 3.8)
   jekyll-assets (~> 3.0)
