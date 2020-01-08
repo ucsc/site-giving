@@ -157,7 +157,11 @@
 }
 
 
-/*CTA Pills*/
+/*
+ *
+ * CTA Pills
+ *
+ */
 
 [class$="-pill"] {
     display: block;
@@ -202,7 +206,11 @@
 }
 
 
-/*CTA Panels*/
+/*
+ *
+ * CTA Panels
+ *
+ */
 
 .cta {
     .container {
@@ -278,7 +286,11 @@
 }
 
 
-/* Home CTAs */
+/*
+ *
+ * Home CTAs
+ *
+ */
 
 .home-cta {
     .container {
@@ -334,7 +346,11 @@
 }
 
 
-/* Academic Divisions and Colleges List */
+/*
+ *
+ * Academic Divisions and Colleges List
+ *
+ */
 
 .divisions,
 .colleges {
@@ -380,7 +396,11 @@
 }
 
 
-/*Ways To Give List */
+/*
+ *
+ * Ways To Give List
+ *
+ */
 
 .ways-to-give {
     .grid-cell {
@@ -465,7 +485,11 @@
 }
 
 
-/*Ready to make a difference?*/
+/*
+ *
+ * Ready to make a difference?
+ *
+ */
 
 .make-difference-container {
     background-color: $ucsc-light-blue;
@@ -503,7 +527,11 @@
 }
 
 
-/* Contact Grid */
+/*
+ *
+ * Contact Grid
+ *
+ */
 
 .contact-grid-container {
     display: grid;
@@ -554,7 +582,11 @@
 }
 
 
-/* Article Index */
+/*
+ *
+ * Article Index
+ *
+ */
 
 .post-list-grid {
     display: grid;
@@ -566,12 +598,31 @@
 }
 
 
-/* Contact Info */
+/*
+ *
+ * Contact Info
+ *
+ */
 
 .contact-info {
     padding-bottom: $spacing-unit / 2;
     a {
         display: block;
         font-weight: 700;
+    }
+}
+
+
+/*
+ *
+ * Body Classes
+ *
+ */
+
+.page-areas-to-support {
+    .grid-cell {
+        &:first-child {
+            padding-top: $spacing-unit;
+        }
     }
 }
