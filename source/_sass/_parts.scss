@@ -623,6 +623,9 @@
     .grid-cell {
         &:first-child {
             padding-top: $spacing-unit;
+            @include media-query($on-desktop) {
+                padding-top: 0;
+            }
         }
     }
 }
