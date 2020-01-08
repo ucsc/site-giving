@@ -6,6 +6,7 @@ order: 1
 hero:
   use: true
   image: hero-areas-to-support.jpg #best at 1000px by 450px
+  alt_text: Hero Image Alt Text
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
@@ -60,7 +61,7 @@ support_areas:
                 <p>{{item.copy}}</p>
                 <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
             </div>
-            {% asset {{item.image}} magick:resize=200 %}
+            {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
         </div>
         {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
         {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}

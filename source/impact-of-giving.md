@@ -6,6 +6,7 @@ order: 3
 hero:
   use: true
   image: hero-impact-of-giving.jpg #best at 1000px by 450px
+  alt_text: Hero Image Alt Text
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
@@ -40,7 +41,7 @@ support_areas:
       {%endif%}
       <a href="{{post.url}}" class="yellow-pill">Learn More</a>
     </div>
-      {% asset {{post.post_thumbnail}} alt="{{post.post_thumbnail_alt}}"magick:resize=200 %}
+      {% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:crop=200x200+0+0 magick:resize=200 %}
   </div>
 </div>
  {% endif %}
@@ -53,9 +54,9 @@ support_areas:
  {%- for post in site.posts -%}
 {% unless post.featured_post.use %}
 
-{%- if post.thumbnail -%}
+{%- if post.thumbnail_image -%}
 <li class="post-list-grid">
-<div class="post-list-image"><img src="https://picsum.photos/150/150/"></div>
+<div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:crop=450x450+0+0 magick:resize=200 %}</div>
 <div class="post-list-copy">
 {%- else -%}
 <li>

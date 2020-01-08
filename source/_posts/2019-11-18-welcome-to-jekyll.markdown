@@ -7,6 +7,7 @@ author-link:
 hero:
   use: true
   image: hero.jpg #best at 1000px by 450px
+  alt_text: Hero Image Alt Text
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
@@ -14,8 +15,8 @@ hero:
 featured_post:
   use: true
   order: 1 # Options: 1 or 2
-post_thumbnail: 200.jpg
-post_thumbnail_alt: Featured Image Alt Text
+thumbnail_image: 200.jpg
+thumbnail_image_alt: Featured Image Alt Text
 categories: jekyll update
 ---
 Some words.

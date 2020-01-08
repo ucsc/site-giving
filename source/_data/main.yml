@@ -1,33 +1,33 @@
 colleges:
   - name: Carson College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Cowell College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Crown College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Kresge College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Merrill College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Oakes College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Porter College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Stevenson College
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: College Nine
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: College Ten
 divisions:
   - name: Arts
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Baskin School of Engineering
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Humanities
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Physical and Biological
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: Social Sciences
-    link: "#"
+    link: "https://www.ucsc.edu"
   - name: UC Santa Cruz Library
-    link: "#"
+    link: "https://www.ucsc.edu"

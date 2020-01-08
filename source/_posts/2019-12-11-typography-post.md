@@ -8,11 +8,12 @@ excerpt_separator: <!--more-->
 hero:
   use: true
   image: hero.jpg #best at 1000px by 450px
+  alt_text: Hero Image Alt Text
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
-featured-image: false
-featured-image-alt: Featured Image Alt Text
+thumbnail_image: hero.jpg
+thumbnail_alt_text: Featured Image Alt Text
 categories: jekyll update
 ---
 This is the typography post for sizing. <!--more-->

@@ -1,7 +1,7 @@
 <section class="wrapper  hero-wrap">
     <div class="hero">
         <!-- <img src="https://picsum.photos/1000/450/"> -->
-        {% asset {{page.hero.image}} magick:resize=1000 alt='Hero Image' @pic
+        {% asset {{page.hero.image}} alt="{{page.hero.alt_text}}" magick:resize=1000 @pic
         srcset:max-width="1080 1x"
         srcset:max-width="768 0.75x"
         srcset:max-width="415 0.5x"%}

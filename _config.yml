@@ -46,7 +46,7 @@ defaults:
 #     permalink: /:name
 
 # Global Variables
-give_url: "#"
+give_url: "https://www.ucsc.edu"
 give_url_text: "Give Today"
 
 
