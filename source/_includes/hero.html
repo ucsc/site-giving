@@ -1,6 +1,8 @@
 <section class="wrapper  hero-wrap">
+<header>
+        <h1 class="post-title hero-title">{{ page.title }}</h1>
+        </header>
     <div class="hero">
-        <!-- <img src="https://picsum.photos/1000/450/"> -->
         {% asset {{page.hero.image}} alt="{{page.hero.alt_text}}" magick:resize=1000 @pic
         srcset:max-width="1080 1x"
         srcset:max-width="768 0.75x"

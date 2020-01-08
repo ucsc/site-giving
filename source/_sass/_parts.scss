@@ -4,11 +4,29 @@
  *
  */
 
+.hero-wrap {
+    header {
+        @include media-query($on-desktop) {
+            display: none;
+        }
+        .hero-title {
+            @include relative-font-size(1.625);
+            font-weight: 500;
+        }
+    }
+}
+
 .hero {
     position: relative;
     text-align: center;
     img {
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    }
+    header {
+        display: none;
+        @include media-query($on-desktop) {
+            display: block;
+        }
     }
     .hero-title {
         // background-color: rgba(0, 60, 108, 0.7);
@@ -212,6 +230,7 @@
                 color: $white;
             }
             h2 {
+                @include relative-font-size(1.625);
                 font-weight: 500;
                 line-height: 1;
             }
