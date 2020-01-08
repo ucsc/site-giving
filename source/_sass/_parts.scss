@@ -127,19 +127,18 @@
 
 .two-col-grid {
     grid-template-columns: repeat(1, 1fr);
-    // &:nth-child(2) {
-    //     display: none;
-    //     @include media-query ($on-desktop) {
-    //         display: block;
-    //         border-top: 2px solid blue;
-    //         width: 100%;
-    //         grid-column-start: 1;
-    //         grid-column-end: 3;
-    //     }
-    // }
     @include media-query($on-desktop) {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 2.5em;
+    }
+    .grid-cell {
+        padding-bottom: $spacing-unit;
+        @include media-query($on-desktop) {
+            padding-bottom: 0;
+        }
+        &:last-child {
+            padding-bottom: 0;
+        }
     }
 }
 
@@ -148,6 +147,12 @@
     @include media-query($on-desktop) {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 1em;
+    }
+    .grid-cell:last-child {
+        padding-bottom: $spacing-unit;
+        @include media-query($on-desktop) {
+            padding-bottom: 0;
+        }
     }
 }
 

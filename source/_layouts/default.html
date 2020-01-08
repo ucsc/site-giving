@@ -2,8 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
 {%- include head.html -%}
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+{% capture id_prefix %}{% if post %}post{% else %}page{% endif %}{% endcapture %}
+{% assign  url = page.url | replace:'/','-' %}
+{% assign size = url | size | minus: 1 %}
+{% assign class = url | slice: 0, size %}
+{% capture id %}{{ id_prefix }}{{ class }}{% endcapture %}
 
-<body>
+<body class="{{ layout }} {{ id }}">
 
     {%- include header.html -%} {% if page.hero.use %} {%- include hero.html -%} {% endif %}
     <main class="page-content" aria-label="Content">
