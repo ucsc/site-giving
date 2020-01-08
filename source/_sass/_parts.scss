@@ -559,3 +559,14 @@
     }
     grid-gap: 1rem;
 }
+
+
+/* Contact Info */
+
+.contact-info {
+    padding-bottom: $spacing-unit / 2;
+    a {
+        display: block;
+        font-weight: 700;
+    }
+}

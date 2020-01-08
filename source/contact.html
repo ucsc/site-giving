@@ -4,6 +4,8 @@ title: Contact us Now!
 menu: "Contact Us"
 order: 4
 permalink: /contact-us/
+phone: "800-933-7584"
+email: giving@ucsc.edu
 hero:
   use: true #true or false
   image: hero-contact.jpg #best at 1000px by 450px
@@ -29,4 +31,8 @@ contacts:
     image: nathan-westrup.jpg
 
 ---
+<div class="contact-info">
+<a class="phone" href="tel:{{page.phone}}">{{page.phone}}</a>
+<a class="email" href="mailto:{{page.email}}">{{page.email}}</a>
+</div>
 {%- include contact-grid.html -%}
