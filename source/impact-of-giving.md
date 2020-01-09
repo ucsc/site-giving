@@ -67,11 +67,14 @@ support_areas:
       {{ post.title | escape }}
     </a>
   </h3>
- 
-    {{ post.excerpt }}
- 
+ {%if post.subtitle %}
+    <h4>{{ post.subtitle }}</h4>
+ {% endif %}
+ {%if post.excerpt %}
+    <p>{{ post.excerpt }}</p>
+ {% endif %}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  <span class="post-meta">{%- if post.author -%}By: <span itemprop="author">{{post.author}},&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
+  <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
 </div>
 </li>
 {% endunless %}

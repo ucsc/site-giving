@@ -18,7 +18,7 @@ hero:
 # Is this a featured post? Applies to first two columns on Post Archive Page.
 # If true, use: true; if false, use: false and order does not matter.
 featured_post:
-  use: true
+  use: false
   order: 1 # Options: 1 or 2
 thumbnail_image: 200.jpg
 thumbnail_image_alt: Featured Image Alt Text
