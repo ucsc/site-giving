@@ -4,7 +4,7 @@ title:  "A sustainable legacy"
 subtitle: "An alumna includes CASFS in her legacy with a planned gift."
 date:   2019-11-18 22:53:59 -0800
 author: J. D. Hillard
-author_email:
+author_email: jhillard@ucsc.edu
 excerpt: "When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations."
 pull_quote: false
 pull_quote_author: Eldin Schimblephennig
@@ -16,6 +16,7 @@ hero:
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 # Is this a featured post? Applies to first two columns on Post Archive Page.
+# If true, use: true; if false, use: false and order does not matter.
 featured_post:
   use: true
   order: 1 # Options: 1 or 2

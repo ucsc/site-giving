@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Typography Post"
+subtitle: "This is a subtitle for the typography post"
 date:   2019-12-09 22:53:59 -0800
 author: Jason Chafin
-author-link:
-excerpt_separator: <!--more-->
+author_email: jchafin@ucsc.edu
+excerpt: "This is the typography post for sizing."
+pull_quote: false
+pull_quote_author: Eldin Schimblephennig
 hero:
   use: true
   image: hero.jpg #best at 1000px by 450px
@@ -12,11 +15,17 @@ hero:
   title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
+# Is this a featured post? Applies to first two columns on Post Archive Page.
+# If true, use: true; if false, use: false and order does not matter.
+featured_post:
+  use: false
+  order: 1 # Options: 1 or 2
 thumbnail_image: hero.jpg
 thumbnail_alt_text: Featured Image Alt Text
 categories: jekyll update
+tags:
 ---
-This is the typography post for sizing. <!--more-->
+This is the typography post for sizing.
 
 # Heading One
 

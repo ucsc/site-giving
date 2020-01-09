@@ -67,9 +67,9 @@ support_areas:
       {{ post.title | escape }}
     </a>
   </h3>
-  {%- if site.show_excerpts -%}
+ 
     {{ post.excerpt }}
-  {%- endif -%}
+ 
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   <span class="post-meta">{%- if post.author -%}By: <span itemprop="author">{{post.author}},&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
 </div>

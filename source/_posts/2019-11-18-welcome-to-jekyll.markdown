@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+subtitle: "This is a subtitle for the Jekyll Welcome post"
 date:   2019-11-18 22:53:59 -0800
-author: J. D. Hillard
-author-link:
+author: Jason Chafin
+author_email: jchafin@ucsc.edu
+excerpt: "This is the excerpt for the Welcome to Jekyll post"
+pull_quote: false
+pull_quote_author: Eldin Schimblephennig
 hero:
   use: true
   image: hero.jpg #best at 1000px by 450px
@@ -12,12 +16,14 @@ hero:
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
 # Is this a featured post? Applies to first two columns on Post Archive Page.
+# If true, use: true; if false, use: false and order does not matter.
 featured_post:
   use: true
   order: 1 # Options: 1 or 2
 thumbnail_image: 200.jpg
 thumbnail_image_alt: Featured Image Alt Text
 categories: jekyll update
+tags:
 ---
 Some words.
 

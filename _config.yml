@@ -10,7 +10,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Other Settings
-show_excerpts: true
+show_excerpts: false
 
 # Plugins
 plugins:
