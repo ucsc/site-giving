@@ -40,10 +40,10 @@ defaults:
       layout: "default"
 
 # Collections
-# collections:
-#   _pages:
-#     output: true
-#     permalink: /:name
+ collections:
+   _posts:
+     output: true
+     permalink: /impact-of-giving/:title
 
 # Global Variables
 give_url: "https://www.ucsc.edu"
