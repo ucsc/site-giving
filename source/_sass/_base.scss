@@ -131,6 +131,11 @@ figure.inline-image {
     @include media-query($on-desktop) {
         width: auto;
     }
+    &.full {
+        img {
+            width: 100%;
+        }
+    }
     &.right,
     &.left {
         margin: 0 auto;
@@ -155,6 +160,8 @@ figure.inline-image {
 
 figcaption {
     font-size: $small-font-size;
+    color: $grey-color;
+    padding-top: $spacing-unit / 4;
 }
 
 

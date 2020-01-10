@@ -30,28 +30,32 @@ Cupcake jujubes pastry oat cake. Cookie gingerbread jelly beans powder. Halvah s
 
 <figure class="inline-image right">
    {% asset rad-portrait-1.jpg magick:resize=500 alt='Rad Portrait 1 Alt text' %}
-   <figcaption>This is rad portrait one</figcaption>
+   <figcaption>This is rad portrait one - Right</figcaption>
 </figure>
 
 Icing soufflé cheesecake. Chocolate bar lemon drops cupcake pastry. Powder soufflé halvah toffee sweet pie. Tootsie roll oat cake caramels gingerbread cupcake apple pie. Ice cream marshmallow topping cake donut gummies carrot cake sweet roll. Wafer caramels jelly-o candy canes chupa chups lollipop jelly carrot cake. Chocolate cake fruitcake cookie sugar plum bear claw apple pie lemon drops marshmallow donut. Gummi bears marzipan gummies. Candy canes chupa chups pie. Brownie pudding macaroon liquorice apple pie liquorice dragée. Topping halvah dragée jelly jelly sesame snaps jelly lollipop pastry. Icing caramels liquorice gingerbread fruitcake toffee carrot cake.
 
-<figure class="inline-image left">
-   {% asset rad-landscape-1.jpg magick:resize=500 alt='Rad Landscape 1 Alt text' %}
-   <figcaption>This is rad landscape one</figcaption>
-</figure>
-
 Sesame snaps apple pie tootsie roll lollipop cotton candy biscuit. Ice cream fruitcake jelly beans toffee donut gummi bears. Tootsie roll jelly-o marshmallow macaroon cookie powder. Fruitcake ice cream oat cake powder icing. Pie gummi bears dessert halvah bear claw. Sweet roll sweet liquorice carrot cake. Lemon drops marshmallow marshmallow biscuit. Cotton candy croissant cupcake cake liquorice biscuit carrot cake. Toffee jujubes liquorice tart lemon drops topping powder pie. Dragée ice cream cake. Gingerbread marzipan jelly-o wafer caramels chocolate dessert. Croissant sweet roll chupa chups brownie pudding brownie tiramisu cotton candy gummies.
 
-<figure class="inline-image center">
+<figure class="inline-image left">
+   {% asset rad-landscape-1.jpg magick:resize=500 alt='Rad Landscape 1 Alt text' %}
+   <figcaption>This is rad landscape one - Left</figcaption>
+</figure>
+
+<figure class="inline-image full">
    {% asset rad-landscape-2.jpg magick:resize=500 alt='Rad Landscape 2 Alt text' %}
-   <figcaption>This is rad landscape two</figcaption>
+   <figcaption>This is rad landscape two - Full</figcaption>
 </figure>
 
 Dragée bonbon pie cookie sweet roll muffin cookie donut. Croissant macaroon ice cream halvah cotton candy tiramisu. Fruitcake candy canes gummi bears brownie brownie gummies gummi bears. Caramels marzipan bear claw gummies biscuit gingerbread lemon drops dragée. Ice cream ice cream caramels. Cheesecake pie carrot cake dragée gingerbread biscuit liquorice. Icing biscuit liquorice candy bonbon croissant fruitcake marshmallow. Cake toffee marshmallow. Topping marshmallow icing topping muffin cake. Jujubes gummi bears tootsie roll gingerbread wafer gummies. Pie jelly tootsie roll jelly beans gummi bears caramels topping donut. Marshmallow macaroon jujubes caramels soufflé dessert.
 
 <figure class="inline-image left">
    {% asset rad-portrait-2.jpg magick:resize=500 alt='Rad Portrait 2 Alt text' %}
-   <figcaption>This is rad portrait two</figcaption>
+   <figcaption>This is rad portrait two - left</figcaption>
 </figure>
 
 Gummi bears sesame snaps halvah marshmallow sesame snaps muffin. Oat cake tart jelly candy brownie candy sesame snaps cake. Carrot cake halvah cookie. Jelly soufflé biscuit candy ice cream. Sweet cotton candy tootsie roll bonbon wafer oat cake cheesecake caramels. Gummies jelly candy canes cookie. Candy canes topping marzipan. Jelly-o gummi bears chocolate wafer. Gummies cotton candy jujubes toffee. Caramels wafer carrot cake gingerbread muffin tart. Macaroon toffee icing apple pie tootsie roll apple pie cheesecake. Gummi bears cake brownie marshmallow.
+<figure class="inline-image full">
+   {% asset rad-portrait-2.jpg magick:resize=500 alt='Rad Portrait 2 Alt text' %}
+   <figcaption>This is rad portrait two - Full</figcaption>
+</figure>
