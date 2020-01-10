@@ -294,10 +294,12 @@
 
 .home-cta {
     .container {
-        padding: ($spacing-unit / 2) 0;
-        margin: 0 auto;
+        @include media-query($on-desktop) {
+            padding: ($spacing-unit / 2) 0;
+            margin: 0 auto;
+        }
         .copy {
-            padding: $spacing-unit / 6;
+            padding-top: $spacing-unit * 2;
             min-width: 200px;
             min-height: 175px;
             @include media-query($on-desktop) {
@@ -334,13 +336,14 @@
         }
     }
     img {
-        position: relative !important;
-        top: auto !important;
-        right: auto !important;
-        transform: none !important;
-        max-width: 100% !important;
+        z-index: 2;
         @include media-query($on-desktop) {
+            z-index: 0;
             float: left;
+            position: relative !important;
+            top: auto !important;
+            right: auto !important;
+            transform: none !important;
         }
     }
 }

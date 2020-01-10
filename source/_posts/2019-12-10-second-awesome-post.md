@@ -18,8 +18,8 @@ hero:
 # Is this a featured post? Applies to first two columns on Post Archive Page.
 # If true, use: true; if false, use: false and order does not matter.
 featured_post:
-  use: false
-  order: 1 # Options: 1 or 2
+  use: true
+  order: 2 # Options: 1 or 2
 thumbnail_image: hero-sustainable-legacy.jpg
 thumbnail_alt_text: Featured Image Alt Text
 categories: jekyll update
