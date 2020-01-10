@@ -22,7 +22,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: rad-post.jpg
 thumbnail_alt_text: Rad post featured image alt text
-categories: [jekyll, update]
+categories: jekyll update
 tags: rad
 ---
 
