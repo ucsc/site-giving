@@ -28,7 +28,7 @@ markdown: kramdown
 kramdown:
   auto_ids: false
   parse_block_html: false
-permalink: /:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 # include: ['_pages']
 
@@ -43,7 +43,7 @@ defaults:
 collections:
   _posts:
     output: true
-    permalink: /impact-of-giving/:title
+    permalink: /impact-of-giving/:categories/:year/:month/:day/:title/
 
 # Global Variables
 give_url: "https://www.ucsc.edu"

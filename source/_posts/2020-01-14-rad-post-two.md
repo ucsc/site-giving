@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "This post is rad"
-subtitle: "This rad post will generate thousands of clicks."
-date:   2020-01-08 22:53:59 -0800
+title:  "Rad Post Two"
+subtitle: "Second Rad Post."
+date:   2020-01-13 22:53:59 -0800
 author: Jason Chafin
 author_email: jchafin@ucsc.edu
 excerpt: "Caramels sesame snaps oat cake sweet sesame snaps. Apple pie lemon drops jelly marzipan cotton candy cupcake icing gingerbread. Icing icing cake tiramisu cotton candy."
@@ -18,14 +18,13 @@ hero:
 # Is this a featured post? Applies to first two columns on Post Archive Page.
 # If true, use: true; if false, use: false and order does not matter.
 featured_post:
-  use: true
+  use: false
   order: 1 # Options: 1 or 2
 thumbnail_image: rad-post.jpg
 thumbnail_alt_text: Rad post featured image alt text
 categories: jekyll update
 tags: rad
 ---
-
 
 ## Heading two
 

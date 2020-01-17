@@ -41,7 +41,7 @@ support_areas:
       {%endif%}
       <a href="{{post.url}}" class="yellow-pill">Learn More</a>
     </div>
-      {% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:crop=450x450+0+0 magick:resize=200 %}
+      {% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}
   </div>
 </div>
  {% endif %}
@@ -56,7 +56,7 @@ support_areas:
 
 {%- if post.thumbnail_image -%}
 <li class="post-list-grid">
-<div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:crop=450x450+0+0 magick:resize=200 %}</div>
+<div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}</div>
 <div class="post-list-copy">
 {%- else -%}
 <li>
