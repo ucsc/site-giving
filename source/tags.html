@@ -1,0 +1,29 @@
+---
+layout: page
+title: Tags
+permalink: /tags/
+hero:
+  use: false
+  image: hero-problem-solvers.jpg #best at 1000px by 450px
+  title: This is an aswesome <span>title</span>
+  vertical: bottom #options: top, bottom
+  horizontal: left #options: left, right
+---
+<div id="archives">
+{% for tag in site.tags %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ tag_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ tag_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
+

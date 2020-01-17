@@ -25,3 +25,28 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+<div class="post-meta post-categories">
+
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  <span>Filed Under:</span>
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %},&nbsp;{% endunless %}
+  {% endfor %}
+  <br />
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  <span>Tagged:</span>
+  {% for tag in tags %}
+  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+  {% unless forloop.last %},&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+
