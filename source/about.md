@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 {% asset example.jpg magick:resize=740 alt='Searching the map' %}

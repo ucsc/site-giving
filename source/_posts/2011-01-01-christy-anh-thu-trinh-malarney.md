@@ -1,5 +1,6 @@
 ---
 title: Christy Anh-Thu Trinh-Malarney
+subtitle: Witty subtitle
 date: 2011-01-01T17:52:59+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
@@ -8,8 +9,8 @@ layout: post
 pull_quote: false
 pull_quote_author: Jason
 hero:
-  use: false
-  image: hero-sustainable-legacy.jpg #best at 1000px by 450px
+  use: true
+  image: malarney.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
   alt_text: Hero Image Alt Text
   title: This is an aswesome <span>title</span>
   vertical: bottom #options: top, bottom
@@ -21,7 +22,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: malarney.jpg
 thumbnail_alt_text: Christy Anh-Thu-Malarney
-categories: Donor Profiles
+categories: [Donor Profiles]
 tags: false
 ---
 <figure class="inline-image right">

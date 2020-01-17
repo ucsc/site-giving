@@ -7,7 +7,6 @@ hero:
   use: true
   image: hero-impact-of-giving.jpg #best at 1000px by 450px
   alt_text: Hero Image Alt Text
-  title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
 support_areas:

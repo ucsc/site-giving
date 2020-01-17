@@ -12,7 +12,6 @@ hero:
   use: true
   image: hero.jpg #best at 1000px by 450px
   alt_text: Hero Image Alt Text
-  title: This is an aswesome <span>title</span>
   vertical: top #options: top, bottom
   horizontal: left #options: left, right
 # Is this a featured post? Applies to first two columns on Post Archive Page.
@@ -23,7 +22,7 @@ featured_post:
 thumbnail_image: hero.jpg
 thumbnail_alt_text: Featured Image Alt Text
 categories: jekyll update
-tags:
+tags: false
 ---
 This is the typography post for sizing.
 

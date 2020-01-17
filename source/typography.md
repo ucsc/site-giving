@@ -7,7 +7,6 @@ markdownify: false # options: true or false. Use "true" if this is plain text ma
 hero:
   use: false # options: true or false
   image: image-title.jpg #best at 1000px by 450px
-  title: This is an aswesome <span>title</span>
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 ---
