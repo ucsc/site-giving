@@ -2,7 +2,9 @@
 layout: page
 title: Impact of <span class="yellow">Giving</span>
 menu: "Impact of Giving"
-order: 3
+order:
+pagination:
+  enabled: true
 hero:
   use: true
   image: hero-impact-of-giving.jpg #best at 1000px by 450px
@@ -23,6 +25,7 @@ support_areas:
     button_text: Search an A-Z List
     button_link: https://www.ucsc.edu/
 ---
+
 {%- if site.posts.size > 0 -%}
 <section class="cta two-col-grid">
 {%- for post in site.posts -%}
@@ -47,10 +50,10 @@ support_areas:
  {% endfor %}
  </section>
  {%endif%}
- {%- if site.posts.size > 0 -%}
+ {%- if paginator.posts.size > 0 -%}
 
 <ul class="post-list">
- {%- for post in site.posts -%}
+ {%- for post in paginator.posts -%}
 {% unless post.featured_post.use %}
 
 {%- if post.thumbnail_image -%}
@@ -80,3 +83,21 @@ support_areas:
 {%- endfor -%}
 </ul>
 {%- endif -%}
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>

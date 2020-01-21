@@ -4,7 +4,12 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h2 class="post-title p-name" itemprop="name headline">{{ page.subtitle | escape }}</h2>
+  {% unless page.hero.use %}
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  {%endunless%}
+  {% if page.subtitle %}
+  <h2 class="post-title p-name" itemprop="name subtitle">{{ page.subtitle | escape }}</h2>
+  {%endif%}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

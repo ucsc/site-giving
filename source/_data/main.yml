@@ -1,3 +1,12 @@
+navigation:
+  - title: Areas to Support
+    link: areas-to-support/
+  - title: Ways to Give
+    link: ways-to-give/
+  - title: Impact of Giving
+    link: impact-of-giving/
+  - title: Contact Us
+    link: contact-us/
 colleges:
   - name: Carson College
     link: "https://www.ucsc.edu"

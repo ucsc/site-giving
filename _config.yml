@@ -18,6 +18,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-assets
+  - jekyll-paginate-v2
 
 # Structure configuration
 source: ./source
@@ -40,8 +41,13 @@ defaults:
       layout: "default"
 
 # Global Variables
-give_url: "https://www.ucsc.edu"
+give_url: "https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722"
 give_url_text: "Give Today"
+
+pagination:
+  enabled: true
+  #indexpage: "impact-of-giving"
+  per_page: 3
 
 
 # Exclude from processing.

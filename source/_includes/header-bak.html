@@ -2,23 +2,28 @@
     {%- include omnibar.html -%}
     <div class="wrapper masthead">
 
+{%assign sorted_pages = site.pages | sort: 'order'%}
+
         <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
         <a href="https://www.ucsc.edu" class="nav-toggle"><i class="fas fa-bars"></i></a>
 
-        <nav class="site-nav">
-        {% assign permalink = page.url | remove:'index.html' | remove_first: '/' %}
-          {%for item in site.data.main.navigation %}
-              {% if permalink == item.link %}
-            <a class="page-link current" href="{{ item.link | relative_url}}">{{ item.title }}</a>
-            {% else %}
-            <a class="page-link" href="{{ item.link | relative_url }}">{{ item.title }}</a>
 
+        {% if sorted_pages %}
+
+        <nav class="site-nav">
+          {%for item in sorted_pages%}
+            {%if item.order %}
+              {% if page.url == item.url %}
+            <a class="page-link current" href="{{ item.url}}">{{ item.menu | default: item.title }}</a>
+            {% else %}
+            <a class="page-link" href="{{ item.url }}">{{ item.menu | default: item.title }}</a>
+            {%- endif -%}
             {%- endif -%}
             {%- endfor -%}
 <a class="page-link red-pill" href="{{ site.give_url }}">{{ site.give_url_text }}</a>
         </nav>
-
+        {%- endif -%}
     </div>
 </header>
 {% include breadcrumbs.html%}
