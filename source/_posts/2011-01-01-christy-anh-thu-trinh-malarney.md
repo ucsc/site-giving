@@ -27,7 +27,7 @@ tags: false
 ---
 <figure class="inline-image right">
 {% asset malarney.jpg magick:resize=500 alt='photo of Christy Anh-Thu-Malarney' %}
-<figcaption>Christy Anh-Thu Trinh-Malarney in Hue, Vietnam. Christy, her husband Shaun, and their two children spent a year in Vietnam during Shaun&#8217;s sabbatical leave.</figcaption></figure> 
+<figcaption>Christy Anh-Thu Trinh-Malarney in Hue, Vietnam. Christy, her husband Shaun, and their two children spent a year in Vietnam during Shaun&#8217;s sabbatical leave.</figcaption></figure>
 
 &#8220;So many of Christy&#8217;s interests and concerns came together at UC Santa Cruz,&#8221; said Shaun Malarney, describing the education and life experiences of his late wife. Christy, a 1990 Merrill College graduate, died of cancer in 2003. &#8216;&#8221;She felt that the university, the education, and the extracurricular activities were some of the most tremendous experiences of her life.&#8221;
 
