@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-<!-- Just some nice to have styles for the pager buttons -->
-<style>
-  ul.pager { text-align: center; list-style: none; }
-  ul.pager li {display: inline;border: 1px solid black; padding: 10px; margin: 5px;}
-</style>
-
 <div class="home">
 
   <h1 class="page-heading">Category: <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b> Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h1>
@@ -37,10 +31,12 @@ layout: default
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
    <br />
-  {% if post.tags %}
+  {% if post %}
   {% assign tags = post.tags %}
+   {% else %}
+    {% assign tags = page.tags %}
   {% endif %}
-  {% if post.tags %}
+  {% if tags %}
   <span class="post-meta">Tagged:</span>
   {% for tag in tags %}
   <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>

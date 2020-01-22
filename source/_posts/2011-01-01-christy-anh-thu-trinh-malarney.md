@@ -23,7 +23,7 @@ featured_post:
 thumbnail_image: malarney.jpg
 thumbnail_alt_text: photo of Christy Anh-Thu-Malarney
 categories: [Donor Profiles]
-tags: [Tag 1, Tag 2]
+tags: false #[Tag 1, Tag 2]
 ---
 <figure class="inline-image right">
 {% asset malarney.jpg magick:resize=500 alt='photo of Christy Anh-Thu-Malarney' %}
