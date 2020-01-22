@@ -1,13 +1,11 @@
 title: Giving to UC Santa Cruz
 email: web@ucsc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  When you support UC Santa Cruz, you are investing in an extraordinary place. We are committed to transformative education and high-impact research that makes the world a better place..
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "giving.ucsc.edu" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Other Settings
 show_excerpts: false
@@ -31,8 +29,6 @@ kramdown:
   parse_block_html: false
 permalink: /impact-of-giving/:year-:month-:day-:title/
 
-# include: ['_pages']
-
 defaults:
   - scope:
       path: ""
@@ -47,7 +43,43 @@ give_url_text: "Give Today"
 pagination:
   enabled: true
   #indexpage: "impact-of-giving"
-  per_page: 3
+  per_page: 5
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+autopages:
+  enabled: true
+  categories:
+    enabled: true
+    layouts:
+      - 'autopage_category.html'
+    title: 'Posts in category :cat'
+    permalink: '/category/:cat'
+    slugify:
+      mode: raw
+      cased: true
+  collections:
+    enabled: false
+    layouts:
+      - 'autopage_collection.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collection/:coll'
+    slugify:
+      mode: raw
+      cased: true
+  tags:
+    enabled: true
+    layouts:
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
 
 
 # Exclude from processing.

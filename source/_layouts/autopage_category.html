@@ -1,0 +1,75 @@
+---
+layout: default
+---
+<!-- Just some nice to have styles for the pager buttons -->
+<style>
+  ul.pager { text-align: center; list-style: none; }
+  ul.pager li {display: inline;border: 1px solid black; padding: 10px; margin: 5px;}
+</style>
+
+<div class="home">
+
+  <h1 class="page-heading">Category: <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b> Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h1>
+
+  {{ content | markdownify }}
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      {%- if post.thumbnail_image -%}
+<li class="post-list-grid">
+<div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}</div>
+<div class="post-list-copy">
+{%- else -%}
+<li>
+<div class="post-list-copy">
+{%- endif -%}
+ <h3>
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+  </h3>
+ {%if post.subtitle %}
+    <h4>{{ post.subtitle }}</h4>
+ {% endif %}
+ {%if post.excerpt %}
+    <p>{{ post.excerpt }}</p>
+ {% endif %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
+   <br />
+  {% if post.tags %}
+  {% assign tags = post.tags %}
+  {% endif %}
+  {% if post.tags %}
+  <span class="post-meta">Tagged:</span>
+  {% for tag in tags %}
+  <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
+  {% unless forloop.last %},&nbsp;{% endunless %}
+  {% endfor %}
+  {% endif %}
+</div>
+</li>
+{%- endfor -%}
+</ul>
+
+  <!--
+    Showing buttons to move to the next and to the previous list of posts (pager buttons).
+  -->
+  {% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>

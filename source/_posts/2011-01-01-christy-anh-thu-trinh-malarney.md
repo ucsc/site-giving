@@ -18,12 +18,12 @@ hero:
 # Is this a featured post? Applies to first two columns on Post Archive Page.
 # If true, use: true; if false, use: false and order does not matter.
 featured_post:
-  use: false
+  use: true
   order: 2 # Options: 1 or 2
 thumbnail_image: malarney.jpg
 thumbnail_alt_text: photo of Christy Anh-Thu-Malarney
 categories: [Donor Profiles]
-tags: false
+tags: [Tag 1, Tag 2]
 ---
 <figure class="inline-image right">
 {% asset malarney.jpg magick:resize=500 alt='photo of Christy Anh-Thu-Malarney' %}

@@ -22,7 +22,7 @@ featured_post:
 thumbnail_image: hero.jpg
 thumbnail_alt_text: Featured Image Alt Text
 categories: jekyll update
-tags: false
+tags: [tag 1, tag 2]
 ---
 This is the typography post for sizing.
 
