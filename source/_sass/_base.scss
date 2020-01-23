@@ -140,7 +140,7 @@ figure.inline-image {
     &.left {
         margin: 0 auto;
         @include media-query ($on-desktop) {
-            width: 60%;
+            width: auto;
         }
     }
     &.right {

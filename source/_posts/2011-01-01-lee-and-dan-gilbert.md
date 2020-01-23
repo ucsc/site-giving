@@ -13,7 +13,6 @@ hero:
   use: false
   image: gilbert.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
   alt_text: Hero Image Alt Text
-  title: This is an aswesome <span>title</span>
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 # Is this a featured post? Applies to first two columns on Post Archive Page.
