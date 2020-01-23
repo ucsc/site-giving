@@ -262,3 +262,16 @@ ul.pager {
         margin: 5px;
     }
 }
+
+ul.pagination-trail {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    li {
+        padding: 10px;
+        background: yellow;
+        border: 1px solid black;
+    }
+}
