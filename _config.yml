@@ -42,7 +42,6 @@ give_url_text: "Give Today"
 
 pagination:
   enabled: true
-  #indexpage: "impact-of-giving"
   per_page: 5
   sort_field: 'date'
   sort_reverse: true

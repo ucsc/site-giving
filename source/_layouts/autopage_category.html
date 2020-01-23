@@ -30,19 +30,33 @@ layout: default
  {% endif %}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
-   <br />
-  {% if post %}
-  {% assign tags = post.tags %}
-   {% else %}
-    {% assign tags = page.tags %}
+  {% unless post.categories == empty %}
+  {%assign categories = post.categories %}
+  {% assign catsize = categories | split: ", " %}
+  {% if catsize.size > 1 %}
+  <span class="post-meta categories"><span class="meta-pipe"> | </span>Also Filed Under:
+{% for category in categories %}
+
+{% if category == page.autopages.display_name %}
+    {% continue %}
+    {% endif %}
+    <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
+  {% unless forloop.last %},&nbsp;{% endunless %}
+
+  {% endfor %}
+  </span>
   {% endif %}
-  {% if tags %}
-  <span class="post-meta">Tagged:</span>
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
+  {% endunless %}
+
+
+  {% unless post.tags == empty %}
+  {%assign tags = post.tags %}
+   <span class="post-meta tags"><span class="meta-pipe"> | </span>Tagged:
+  {% for tag in tags %} <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
   {% unless forloop.last %},&nbsp;{% endunless %}
   {% endfor %}
-  {% endif %}
+  </span>
+  {% endunless %}
 </div>
 </li>
 {%- endfor -%}
