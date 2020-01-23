@@ -37,22 +37,27 @@ layout: default
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  <span>Filed Under:</span>
+ {% unless categories == empty %}
+  <span class="categories">Filed Under:</span>
   {% for category in categories %}
   <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
 
   {% unless forloop.last %},&nbsp;{% endunless %}
   {% endfor %}
+  {% endunless %}
   <br />
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
   {% endif %}
-  <span>Tagged:</span>
+  {% unless tags == empty %}
+  <span class="tags">Tagged:</span>
   {% for tag in tags %}
   <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
   {% unless forloop.last %},&nbsp;{% endunless %}
   {% endfor %}
+  {% endunless %}
+
 </div>
 

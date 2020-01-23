@@ -24,6 +24,7 @@ featured_post:
 thumbnail_image: gilbert.jpg
 thumbnail_alt_text: photo of Gilbert
 categories: [Donor Profiles]
+#tags: [tag 1, tag2]
 ---
 <figure class="inline-image right">
 {% asset gilbert.jpg magick:resize=500 alt='UC Santa Cruz supporter and parent Lee Gilbert' %}
