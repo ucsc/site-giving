@@ -138,9 +138,14 @@ figure.inline-image {
     }
     &.right,
     &.left {
+        display: table;
         margin: 0 auto;
         @include media-query ($on-desktop) {
             width: auto;
+        }
+        figcaption {
+            display: table-caption;
+            caption-side: bottom;
         }
     }
     &.right {

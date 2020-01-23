@@ -8,7 +8,7 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
   {%endunless%}
   {% if page.subtitle %}
-  <h2 class="post-title p-name" itemprop="name subtitle">{{ page.subtitle | escape }}</h2>
+  <h2 class="post-subtitle p-name" itemprop="name subtitle">{{ page.subtitle | escape }}</h2>
   {%endif%}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
