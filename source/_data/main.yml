@@ -7,6 +7,8 @@ navigation:
     link: impact-of-giving/
   - title: Contact Us
     link: contact-us/
+  - title: Typography
+    link: typography/
 colleges:
   - name: Carson College
     link: "https://www.ucsc.edu"

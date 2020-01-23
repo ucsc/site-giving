@@ -23,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: gilbert.jpg
 thumbnail_alt_text: photo of Gilbert
-categories: [Donor Profiles]
+categories: [Donor Profiles, News]
 #tags: [tag 1, tag2]
 ---
 <figure class="inline-image right">
