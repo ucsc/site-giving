@@ -1,0 +1,28 @@
+<!-- Pagination trail -->
+  {% if paginator.page_trail %}
+  <ul class="pagination-trail">
+    <li class="first">
+          <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-angle-double-left"></i></a>
+      </li>
+  {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-angle-left"></i></a>
+      </li>
+
+      {% endif %}
+  {% for trail in paginator.page_trail %}
+    <li {% if page.url == trail.path %}class="selected"{% endif %}>
+        <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title | slugify}}"> {{ trail.num }}</a>
+    </li>
+  {% endfor %}
+  {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-angle-right"></i></a>
+      </li>
+      {% endif %}
+       <li class="last">
+          <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-angle-double-right"></i></a>
+      </li>
+  </ul>
+{% endif %}
+</div>
