@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<div class="home">
-
-  <h1 class="page-heading">Category: <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b> Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h1>
-
+<article class="post">
+<header class="post-header">
+  <h1 class="post-title">Category: <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b> Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h1>
+</header>
   {{ content | markdownify }}
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      {%- if post.thumbnail_image -%}
+    {%- if post.thumbnail_image -%}
 <li class="post-list-grid">
 <div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}</div>
 <div class="post-list-copy">
@@ -35,9 +35,9 @@ layout: default
   {% assign catsize = categories | split: ", " %}
   {% if catsize.size > 1 %}
   <span class="post-meta categories"><span class="meta-pipe"> | </span>Also Filed Under:
-{% for category in categories %}
+  {% for category in categories %}
 
-{% if category == page.autopages.display_name %}
+  {% if category == page.autopages.display_name %}
     {% continue %}
     {% endif %}
     <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
@@ -53,7 +53,7 @@ layout: default
   {%assign tags = post.tags %}
    <span class="post-meta tags"><span class="meta-pipe"> | </span>Tagged:
   {% for tag in tags %} <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
-  {% unless forloop.last %},&nbsp;{% endunless %}
+  {% unless forloop.last %},{% endunless %}
   {% endfor %}
   </span>
   {% endunless %}
@@ -61,10 +61,8 @@ layout: default
 </li>
 {%- endfor -%}
 </ul>
-
-  <!--
-    Showing buttons to move to the next and to the previous list of posts (pager buttons).
-  -->
+<footer class="post-footer" role="contentinfo">
+  <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <ul class="pager">
       {% if paginator.previous_page %}
@@ -81,5 +79,5 @@ layout: default
   {% endif %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-</div>
+</footer>
+</article>

@@ -21,7 +21,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: hero.jpg
 thumbnail_alt_text: Featured Image Alt Text
-categories: [jekyll, update]
+categories: [jekyll, update, News]
 tags: [tag 1, tag 2]
 ---
 This is the typography post for sizing.
