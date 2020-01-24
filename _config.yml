@@ -43,8 +43,10 @@ give_url_text: "Give Today"
 pagination:
   enabled: true
   per_page: 5
+  permalink: '/page-:num/'
   sort_field: 'date'
   sort_reverse: true
+  title: ':title - :num'
   trail:
     before: 2
     after: 2

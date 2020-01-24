@@ -271,17 +271,24 @@ ul.pagination-trail {
     display: flex;
     justify-content: center;
     li {
-        padding: 10px;
-        margin: 0 5px;
-        border: 1px solid $ucsc-primary-yellow;
-        color: $ucsc-light-blue;
-        &:hover {
-            background: $ucsc-primary-yellow;
+        margin: 0;
+        padding: 0;
+        a {
+            padding: 10px;
+            margin: 0 5px;
+            border: 1px solid $ucsc-primary-yellow;
+            color: $ucsc-light-blue;
+            &:hover {
+                background: $ucsc-primary-yellow;
+                text-decoration: none;
+            }
         }
     }
     .selected {
-        background: $ucsc-primary-yellow;
-        color: $ucsc-primary-blue;
-        font-weight: 700;
+        a {
+            background: $ucsc-primary-yellow;
+            color: $ucsc-primary-blue;
+            font-weight: 700;
+        }
     }
 }

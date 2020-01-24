@@ -10,10 +10,10 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: Professor Kay Metz was the kind of teacher students kept in touch with for years after graduation. When she died in 2018, she left numerous devoted friends and an influential body of work.
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: metzinstudio.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: metzinstudio.jpg #best at 1000px by 450px
   alt_text: Art Professor Emerita Kay Metz in her home studio in 2018
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
@@ -26,7 +26,6 @@ thumbnail_image: metzinstudio.jpg
 thumbnail_alt_text: Art Professor Emerita Kay Metz in her home studio in 2018
 categories:
   - Donor Profiles
-  - Uncategorized
 tags:
   - arts division
   - environment

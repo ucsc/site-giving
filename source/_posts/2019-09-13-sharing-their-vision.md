@@ -9,10 +9,10 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: In the 1990s, when they were both well into successful careers involved with Bay Area technology businesses, Kamil and Talat Hasan decided to endow an academic chair in Indian classical music.
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg #best at 1000px by 450px
   alt_text: CIED director Sue Carter (left) and Kamil Hasan present the 1st place prize in the the 2018 Business Design Showcase
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
@@ -27,7 +27,6 @@ image: /wp-content/uploads/2019/09/1st-place-sea-and-tech-with-sue-kamil-hasan-a
 categories:
   - Donor Profiles
   - News
-  - Uncategorized
 tags:
   - cied
   - dard neuman

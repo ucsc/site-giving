@@ -10,18 +10,18 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: "&quot;First-generation students deserve high-quality education to and through college,&quot; says David Littlefield, president of the Jacques M. Littlefield Foundation, which made a multi-year gift to the First Generation Initiative"
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: fall-resource.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: fall-resource.jpg #best at 1000px by 450px
   alt_text: photo of People
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
 # Is this a featured post? Applies to first two columns on Post Archive Page.
 # If true, use: true; if false, use: false and order does not matter.
 featured_post:
-  use: false
-  order: 2 # Options: 1 or 2
+  use: true
+  order: 1 # Options: 1 or 2
 thumbnail_image: fall-resource.jpg
 thumbnail_alt_text: photo of People
 categories:

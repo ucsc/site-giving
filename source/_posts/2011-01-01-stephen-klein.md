@@ -1,6 +1,6 @@
 ---
 title: Stephen Klein
-subtitle: Subtitle
+subtitle:
 date: 2011-01-01T17:09:59+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
@@ -8,10 +8,10 @@ layout: post
 excerpt: "Ask Stephen Klein (Cowell ’72) what areas of UC Santa Cruz he chooses to support, and the short answer is–many. Klein, a regional administrator for the County of Los Angeles Public Library, gives to scholarships, Cowell College, the University Library, and The Lionel Cantú Gay, Lesbian, Bisexual, Transgender, Intersex Resource Center."
 see_also_links:
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: true
-  image: klein.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: klein.jpg #best at 1000px by 450px
   alt_text: photo of Stephen Klein
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

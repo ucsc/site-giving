@@ -1,6 +1,6 @@
 ---
 title: Mary Thush
-subtitle: Subtitle
+subtitle:
 date: 2011-01-01T16:52:36+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
@@ -8,10 +8,10 @@ layout: post
 excerpt: "Mary Thush, a close friend of retired library media specialist David Kirk, decided to name the university as the beneficiary of her estate. &quot;Having no immediate family, I wanted to leave my estate to an educational institution like UCSC,&quot; she said."
 see_also_links:
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: thush.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: thush.jpg #best at 1000px by 450px
   alt_text: photo of Mary Thush
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

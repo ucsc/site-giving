@@ -10,10 +10,10 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: "Beginning in 2020 a new annual lecture series will honor the late Professor Hayden White by highlighting the work of researchers who share his creativity and rigor."
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: Hayden-White-Andrew-Baird.March-2017.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: Hayden-White-Andrew-Baird.March-2017.jpg #best at 1000px by 450px
   alt_text: photo of Hayden White and Andrew Baird
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

@@ -1,6 +1,6 @@
 ---
 title: Lisa Gimmy
-subtitle: Subtitle
+subtitle:
 date: 2011-01-01T19:23:55+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu

@@ -1,6 +1,6 @@
 ---
 title: Paul Rabwin
-subtitle: Subtitle
+subtitle:
 date: 2011-01-01T17:20:21+00:00
 author: Monica Grant
 author_email: mgrant1@ucsc.edu
@@ -8,10 +8,10 @@ layout: post
 excerpt: "&quot;It's clear that the creative environment at UC Santa Cruz is what motivated me to succeed in this career,&quot; said Paul Rabwin (Cowell '70), a multiple Emmy-award nominee and Golden Globe-winning television producer. Rabwin supports the UC Santa Cruz theater arts program &quot;financially, emotionally, and spiritually -- anything I can do to help.&quot;"
 see_also_links:
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: true
-  image: rabwin.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: rabwin.jpg #best at 1000px by 450px
   alt_text: photo of Paul Rabwin
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

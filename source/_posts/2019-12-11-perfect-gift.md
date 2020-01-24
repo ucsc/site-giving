@@ -10,10 +10,10 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: Mary Wells helped establish the UC Santa Cruz Silver Slug Award, which provides financial assistance to students who are university employees or their dependents. She dreams of the award’s endowment continuing to increase in size in order to provide more and greater awards each year.
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: Mary-Wells-10.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: Mary-Wells-10.jpg #best at 1000px by 450px
   alt_text: photo of Mary Wells
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

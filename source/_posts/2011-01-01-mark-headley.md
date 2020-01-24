@@ -1,6 +1,6 @@
 ---
 title: Mark Headley
-subtitle: Subtitle
+subtitle:
 date: 2011-01-01T19:20:40+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
@@ -8,10 +8,10 @@ layout: post
 excerpt:
 see_also_links:
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: headley.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: headley.jpg #best at 1000px by 450px
   alt_text: photo of Mark Headley
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

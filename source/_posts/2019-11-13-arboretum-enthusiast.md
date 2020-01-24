@@ -9,10 +9,10 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: A bequest from C. Frederick Andrews, a longtime volunteer and regular visitor to the UC Santa Cruz Arboretum and Botanic Garden, supports needed capital improvements and bolsters the endowment.
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: true
-  image: fred_andrews1939.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: fred_andrews1939.jpg #best at 1000px by 450px
   alt_text: photo of Fred Andrews
   vertical: top #options: top, bottom
   horizontal: right #options: left, right

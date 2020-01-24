@@ -1,6 +1,6 @@
 ---
 title: Lee and Dan Gilbert
-subtitle: Subtitle
+subtitle:
 date: 2011-01-01T20:14:19+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
@@ -8,10 +8,10 @@ layout: post
 excerpt: "&quot;It was very easy for me to go to college,&quot; said Lee Gilbert, a graduate of Douglass College in New Jersey. &quot;My parents paid for it, and I lived in a dorm. We were served our meals in a dining room by waitresses! So I could particularly appreciate how hard it is for any re-entry student, and especially for women.&quot;"
 see_also_links:
 pull_quote: false
-pull_quote_author: Jason
+pull_quote_author:
 hero:
   use: false
-  image: gilbert.jpg #hero-sustainable-legacy.jpg #best at 1000px by 450px
+  image: gilbert.jpg #best at 1000px by 450px
   alt_text: Hero Image Alt Text
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
