@@ -1,20 +1,29 @@
 ---
 id: 3984
-title: 'Choosing what&#8217;s important'
+title: Choosing what's important
+subtitle: Lisa Kermish found her best friends and her devotion to social justice at UC Santa Cruz. Now she’s added Slug Support to her will.
 date: 2019-09-05T20:59:43+00:00
-author: jhillard
 layout: post
-guid: https://giving.ucsc.edu/?p=3984
-permalink: /donor-profiles/choosing-whats-important/
-author_name:
+author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-opening_quote:
-  - Lisa Kermish found her best friends and her devotion to social justice at UC Santa Cruz. Now she’s added Slug Support to her will.
-see_also_links:
-  - ""
-image: /wp-content/uploads/2019/09/Kermish-Lisa.jpg
+excerpt: "As a student, Lisa Kermish (Stevenson ‘76, literature and creative writing) taught creative writing workshops, created her own major, and was arrested demonstrating for divestment from South Africa."
+pull_quote: false
+pull_quote_author:
+hero:
+  use: false
+  image: Kermish-Lisa.jpg #best at 1000px by 450px
+  alt_text: photo of Lisa Kermish
+  vertical: bottom #options: top, bottom
+  horizontal: left #options: left, right
+# Is this a featured post? Applies to first two columns on Post Archive Page.
+# If true, use: true; if false, use: false and order does not matter.
+featured_post:
+  use: false
+  order: 1 # Options: 1 or 2
+thumbnail_image: Kermish-Lisa.jpg
+thumbnail_alt_text: photo of Lisa Kermish
 categories:
   - Donor Profiles
 tags:
@@ -23,7 +32,9 @@ tags:
   - slug support
   - stevenson
 ---
-<figure id="attachment_3985" style="width: 500px" class="wp-caption alignleft"><img class="wp-image-3985" src="https://giving.ucsc.edu/wp-content/uploads/2019/09/Kermish-Lisa.jpg" alt="Lisa Kermish" width="500" height="317" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2019/09/Kermish-Lisa.jpg 900w, https://ucsc-giving.lndo.site/wp-content/uploads/2019/09/Kermish-Lisa-300x190.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2019/09/Kermish-Lisa-768x487.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption class="wp-caption-text">Lisa Kermish. Photo J.D. Hillard</figcaption></figure> 
+<figure class="inline-image right">
+{% asset Kermish-Lisa.jpg magick:resize=500 alt='photo of Lisa Kermish' %}
+<figcaption>Lisa Kermish. Photo J.D. Hillard</figcaption></figure>
 
 As a student, Lisa Kermish (Stevenson ‘76, literature and creative writing) taught creative writing workshops, created her own major, and was arrested demonstrating for divestment from South Africa.
 

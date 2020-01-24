@@ -18,7 +18,7 @@ layout: default
 <div class="post-list-copy">
 {%- endif -%}
  <h3>
-    <a class="post-link" href="{{ post.url | relative_url }}">
+    <a class="post-link" href="{% if post.link_post%}{{post.link_post}}{% else %}{{ post.url | relative_url }}{% endif %}">
       {{ post.title | escape }}
     </a>
   </h3>
