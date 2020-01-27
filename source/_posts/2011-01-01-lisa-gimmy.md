@@ -5,8 +5,8 @@ date: 2011-01-01T19:23:55+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
-excerpt: "&quot;Excerpt&quot;"
-see_also_links:
+excerpt: "&quot;When I look back on my educational experience at UC Santa Cruz, it seems in retrospect like a golden age of opportunity and abundance,&quot; said Lisa Gimmy, (Cowell ’77), who supports undergraduate scholarships through the Telephone Outreach Program. &quot;When the student callers contact me and they’re asking for donations, and they explain what they go through now and you compare it to what you were offered, your heart just goes out to them.&quot;"
+
 pull_quote: false
 pull_quote_author: false
 hero:

@@ -5,7 +5,7 @@ date: 2011-01-01T19:20:40+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
-excerpt:
+excerpt: fjkdl;saf;lasjf;lasdkjfdas
 see_also_links:
 pull_quote: false
 pull_quote_author:
