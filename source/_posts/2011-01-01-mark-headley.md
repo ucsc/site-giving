@@ -5,7 +5,7 @@ date: 2011-01-01T19:20:40+00:00
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
-excerpt: fjkdl;saf;lasjf;lasdkjfdas
+excerpt: Mark Headley didn’t know it at the time, but his education at UC Santa Cruz was the perfect preparation for his career today. As president and portfolio manager of Matthews International Capital Management LLC, Headley (Stevenson ’83) oversees portfolios across the Asian market that range from diversified to regional, to country and sector specific.
 see_also_links:
 pull_quote: false
 pull_quote_author:
