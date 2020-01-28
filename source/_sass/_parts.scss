@@ -595,11 +595,22 @@
     display: grid;
     grid-template-columns: 1fr;
     @include media-query($on-phone) {
-        grid-template-columns: 150px 1fr;
+        grid-template-columns: 1fr 200px;
     }
     grid-gap: 1rem;
-    .post-list-image {}
+    .post-list-image {
+        order: 1;
+        overflow: hidden;
+        max-height: 250px;
+        @include media-query($on-phone) {
+            order: 2;
+        }
+    }
     .post-list-copy {
+        order: 2;
+        @include media-query($on-phone) {
+            order: 1;
+        }
         h3 {
             margin-bottom: 0;
         }

@@ -58,7 +58,7 @@ support_areas:
 
 {%- if post.thumbnail_image -%}
 <li class="post-list-grid">
-<div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}</div>
+
 <div class="post-list-copy">
 {%- else -%}
 <li>
@@ -73,7 +73,7 @@ support_areas:
     <h4>{{ post.subtitle }}</h4>
  {% endif %}
  {%if post.excerpt %}
-    <p>{{ post.excerpt | markdownify | truncate:260 }}</p>
+    <p>{{ post.excerpt | markdownify | truncate:300 }}</p>
  {% endif %}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span>
@@ -88,8 +88,14 @@ support_areas:
   {% endfor %}
   </span>
   {% endunless %}
-
+{%- if post.thumbnail_image -%}
 </div>
+
+<div class="post-list-image">{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}</div>
+{%- else -%}
+</div>
+{% endif %}
+
 </li>
 {% endunless %}
 {%- endfor -%}
