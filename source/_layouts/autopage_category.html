@@ -34,7 +34,7 @@ layout: default
   {%assign categories = post.categories %}
   {% assign catsize = categories | split: ", " %}
   {% if catsize.size > 1 %}
-  <span class="post-meta categories"><span class="meta-pipe"> | </span>Also Filed Under:
+  <span class="post-meta categories">Also Filed Under:
   {% for category in categories %}
 
   {% if category == page.autopages.display_name %}
@@ -51,7 +51,7 @@ layout: default
 
   {% unless post.tags == empty %}
   {%assign tags = post.tags %}
-   <span class="post-meta tags"><span class="meta-pipe"> | </span>Tagged:
+   <span class="post-meta tags">Tagged:
   {% for tag in tags %} <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
   {% unless forloop.last %},{% endunless %}
   {% endfor %}

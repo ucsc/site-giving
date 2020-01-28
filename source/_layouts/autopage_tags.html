@@ -39,7 +39,7 @@ layout: default
 
         {% unless post.categories == empty %}
          {%assign categories = post.categories %}
-          <span class="post-meta categories"><span class="meta-pipe"> | </span>Filed Under:
+          <span class="post-meta categories">Filed Under:
          {% for category in categories %} <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
          {% unless forloop.last %},&nbsp;{% endunless %}
          {% endfor %}
@@ -50,7 +50,7 @@ layout: default
       {%assign tags = post.tags %}
       {% assign tagsize = tags | split: ", " %}
       {% if tagsize.size > 1 %}
-      <span class="post-meta tags"><span class="meta-pipe"> | </span>Also Tagged:
+      <span class="post-meta tags">Also Tagged:
 
       {% for tag in tags %}
 

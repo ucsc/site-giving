@@ -199,6 +199,9 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    &.categories {
+        display: block;
+    }
 }
 
 .post-link {
