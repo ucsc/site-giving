@@ -89,14 +89,6 @@ support_areas:
   </span>
   {% endunless %}
 
-  {% unless post.tags == empty %}
-  {%assign tags = post.tags %}
-   <span class="post-meta tags"><span class="meta-pipe"> | </span>Tagged:
-  {% for tag in tags %} <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
-  {% unless forloop.last %},&nbsp;{% endunless %}
-  {% endfor %}
-  </span>
-  {% endunless %}
 </div>
 </li>
 {% endunless %}
