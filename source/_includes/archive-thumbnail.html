@@ -1,0 +1,5 @@
+
+{% asset {{post.thumbnail_image}} @pic
+          srcset:min-width='1080' @magick:resize=200
+          srcset:min-width='0' @magick:resize=320
+        alt="{{post.thumbnail_alt_text}}"  %}
