@@ -3,10 +3,11 @@
         <h1 class="post-title hero-title">{{ page.title }}</h1>
         </header>
     <div class="hero">
-        {% asset {{page.hero.image}} alt="{{page.hero.alt_text}}" magick:resize=1000 magick:crop=1000x450+0+0 @pic
+        {% asset {{page.hero.image}} magick:resize=1000 magick:crop=1000x450+0+0 @pic
         srcset:max-width="1080 1x"
         srcset:max-width="768 0.75x"
-        srcset:max-width="415 0.5x"%}
+        srcset:max-width="415 0.5x"
+        alt="{{page.hero.alt_text}}" %}
         <header>
         <h1 class="post-title hero-title {{ page.hero.vertical }} {{ page.hero.horizontal }} color"><span>{{ page.title }}</span></h1>
         </header>
