@@ -6,7 +6,6 @@ author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
 excerpt: "&quot;So many of Christy’s interests and concerns came together at UC Santa Cruz,&quot; said Shaun Malarney, describing the education and life experiences of his late wife. Christy, a 1990 Merrill College graduate, died of cancer in 2003. &quot;She felt that the university, the education, and the extracurricular activities were some of the most tremendous experiences of her life.&quot;"
-see_also_links:
 pull_quote: false
 pull_quote_author:
 hero:
