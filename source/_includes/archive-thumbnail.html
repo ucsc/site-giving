@@ -1,5 +1,6 @@
-
+<a class="post-link" href="{% if post.link_post%}{{post.link_post}}{% else %}{{ post.url | relative_url }}{% endif %}">
 {% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}"   @pic
           srcset:min-width='1080' @magick:resize=200
           srcset:min-width='0' @magick:resize=320
 %}
+</a>
