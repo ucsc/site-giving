@@ -40,11 +40,15 @@ tags:
   - kresge college
   - kzsc
   - planned gifts
+youtubeID-1: z2dyA5wROFY
+youtubeID-2: 0VdLVwDwm7s
+youtubeID-3: x3XW6NLILqo
+
 ---
 Once, while she was a programmer at KZSC, Denise Gallant was at a party, eavesdropping on a group of people who couldn’t agree on whether what she did on the radio was art.<figure id="attachment_3666" style="width: 500px" class="wp-caption alignleft">
 
-<figure class="inline-image full">
-{% asset Hayden-White-Andrew-Baird.March-2017.jpg magick:resize=500 alt='photo of Denise Gallant at KZSC in 1977' %}
+<figure class="inline-image left">
+{% asset deniseKZSC1977.jpg magick:resize=300 alt='photo of Denise Gallant at KZSC in 1977' %}
 <figcaption>Denise Gallant hosting at KZSC circa 1977. Photo courtesy of Kevin Monahan.</figcaption></figure>
 
 She called her show Oblique Strategies after Brian Eno’s exercises for breaking creative blocks. Friday nights at 10, Gallant (Kresge ‘76, individual major) would read poetry through a reverb effect or overlay progressive rock and classical music.
@@ -61,13 +65,15 @@ KZSC was one locus of Gallant’s exploration with media and technology. Another
 
 She hosted student performances that, like her radio show, combined seemingly discordant art forms: video, dance, music. The performances included work from the Electronic Music Studio, where Gallant and Rob Schafer (Kresge ‘76, individual major) were part of a circle of students pairing musical creations with other types of performance.
 
-
+{% include youtube-player.html id=page.youtubeID-1 %}
 
 ### Building synopsis
 
 In the Electronic Music Studio, Schafer and Gallant experimented with feeding video signals through audio synthesizer circuits. When they discovered interesting effects, they included them in performances.
 
-This work continued after they completed their studies. They built a machine that could invert hue and brightness and convert black and white into rainbows. They could also convert sound waves into abstract shapes. Gallant called the device “Synopsis.”  
+This work continued after they completed their studies. They built a machine that could invert hue and brightness and convert black and white into rainbows. They could also convert sound waves into abstract shapes. Gallant called the device “Synopsis.”
+
+{% include youtube-player.html id=page.youtubeID-2 %}
   
 Her first job after UC Santa Cruz was editing video for NBC in Los Angeles. She was perhaps the first woman in that job and regularly dealt with coworkers who assumed she couldn’t do the work or would ask her on dates. More than 40 years later, she still edits video and speculates she’s done it longer than any other woman in the industry.
 
@@ -81,9 +87,11 @@ Gallant also used the synthesizer to create the hallucinatory images of near-dea
 
 ### You had me at “PFM”
 
-When she had her show at KZSC, her future husband tried to sign up to take her time slot.<figure id="attachment_3667" style="width: 295px" class="wp-caption alignleft">
+When she had her show at KZSC, her future husband tried to sign up to take her time slot.
 
-<img class="wp-image-3667 size-medium" src="https://giving.ucsc.edu/wp-content/uploads/2018/07/kevinKZSC1977-2-295x300.jpg" alt="Kevin Monahan at KZSC in 1997." width="295" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2018/07/kevinKZSC1977-2-295x300.jpg 295w, https://ucsc-giving.lndo.site/wp-content/uploads/2018/07/kevinKZSC1977-2.jpg 700w" sizes="(max-width: 295px) 100vw, 295px" /> <figcaption class="wp-caption-text">Kevin Monahan hosting circa 1977. Photo courtesy of Kevin Monahan.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset kevinKZSC1977.jpg magick:resize=300 alt='photo of Kevin Monahan hosting circa 1977.' %}
+<figcaption>Kevin Monahan hosting circa 1977. Photo courtesy of Kevin Monahan.</figcaption></figure>
 
 Kevin Monahan (Kresge) had come to UC Santa Cruz with a hunger to work with audio synthesizers. He joined the Electronic Music Studio, and when he became interested in starting a radio show, he asked about a Friday evening slot that appeared empty.
 
@@ -109,6 +117,7 @@ Part of Monahan’s job was to create the “libraries” of sounds, and one of 
 
 In the keyboard-happy 1980s, pop bands made wide use of the Emulator. You can see it at work in the Jonathan Demme video for the New Order song “Perfect Kiss.” Just before the six-minute mark, keyboardist Stephen Morris plays a solo with the frogs.  
 
+{% include youtube-player.html id=page.youtubeID-3 %}
 
 Monahan’s work on the Emulator led to opportunities to tour with Peter Gabriel and more than a decade working for audio technology companies.
 

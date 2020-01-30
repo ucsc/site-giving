@@ -118,6 +118,24 @@ img {
 
 
 /**
+ * Videos
+ *
+ */
+
+iframe {
+    display: block;
+    margin: $spacing-unit auto;
+    // padding: $spacing-unit 0;
+    width: 100%;
+    height: auto;
+    @include media-query($on-desktop) {
+        width: 560px;
+        height: 315px;
+    }
+}
+
+
+/**
  * Figures
  */
 
