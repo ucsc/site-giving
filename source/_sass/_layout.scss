@@ -52,10 +52,9 @@
                 padding-left: 0;
             }
         }
-        // &:not(:last-child) {
-        //     margin-right: 0;
-        // }
-        // margin-left: 20px;
+        &.red-pill {
+            color: $white;
+        }
     }
     @include media-query($on-desktop) {
         .nav-trigger {
