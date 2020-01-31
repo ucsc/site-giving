@@ -170,7 +170,8 @@
     }
 }
 
-.post-categories {
+.post-categories,
+.post-related {
     margin: 0;
     padding: 0;
     @include media-query ($on-desktop) {
@@ -178,6 +179,11 @@
         margin-left: $spacing-unit * 2;
         padding: ($spacing-unit / 3) 0;
     }
+}
+
+.post-related {
+    border-bottom: 2px solid $ucsc-primary-yellow;
+    margin-bottom: ($spacing-unit / 2);
 }
 
 .post-list-heading {
