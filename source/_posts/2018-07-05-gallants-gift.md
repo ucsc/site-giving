@@ -8,13 +8,10 @@ author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-see_also_links:
-  - "1"
-see_also_links_0_link_name:
-  - 'Electronic media pioneers: Innovations by UC Santa Cruz students became facets of 1980s pop culture.'
-see_also_links_0_link_link:
-  - 'https://giving.ucsc.edu/?p=3643&preview=true'
 excerpt: One night in the mid-1970s, when Denise Gallant was Kresge Town Hall manager, two of Kresge’s video projectors were stolen from her car. “And I vowed at that point that someday I would pay Kresge back for losing those.”
+see_also:
+  - title: 'Electronic media pioneers: Innovations by UC Santa Cruz students became facets of 1980s pop culture.'
+    file: 2018-07-05-electronic-media-pioneers
 pull_quote: false
 pull_quote_author:
 hero:

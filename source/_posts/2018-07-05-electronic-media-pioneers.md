@@ -12,8 +12,6 @@ excerpt: Once, while she was a programmer at KZSC, Denise Gallant was at a party
 see_also:
   - title: 'Gallant’s gift: In gratitude for the experiences on which they built their careers, Denise Gallant and Kevin Monahan added UC Santa Cruz to their will.'
     file: 2018-07-05-gallants-gift
-see_also_links_0_link_link:
-  - 'https://giving.ucsc.edu/?p=3647&preview=true'
 pull_quote: false
 pull_quote_author:
 hero:

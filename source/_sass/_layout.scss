@@ -184,6 +184,12 @@
 .post-related {
     border-bottom: 2px solid $ucsc-primary-yellow;
     margin-bottom: ($spacing-unit / 2);
+    li {
+        padding-bottom: ($spacing-unit / 2);
+        &:last-child {
+            padding-bottom: 0;
+        }
+    }
 }
 
 .post-list-heading {
