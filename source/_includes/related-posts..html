@@ -1,0 +1,8 @@
+<div class="post-related">
+<ul>
+{% assign items = post.see_also %}
+{% for item in items %}
+<li><a href="/impact-of-giving/{{item.file}}/">{{item.title}}</a></li>
+{% endfor %}
+</ul>
+</div>

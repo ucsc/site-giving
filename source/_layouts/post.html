@@ -30,6 +30,8 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+{% if post.see_also %}
+{% include related-posts.html %}
 <div class="post-meta post-categories">
 
   {% if post %}
