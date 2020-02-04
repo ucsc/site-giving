@@ -68,16 +68,47 @@ support_areas:
     button_link: https://www.ucsc.edu/
 ---
 
-{% if page.numbered_list %}
+{% if page.numbered_list.size > 3 %}
   <section class="ways-to-give three-col-grid">
-  {% for item in page.numbered_list %}
-      <div class="grid-cell {{item.list_number}}">
-          <div class="container">
-              <h3 class="head {{item.list_number}}">{{item.heading}}</h3>
-              <p class="copy">{{item.copy}}</p>
-          </div>
+
+      <div class="grid-cell">
+
+{% if page.numbered_list[0] %}
+<div class="container">
+              <h3 class="head {{page.numbered_list[0].list_number}}">{{page.numbered_list[0].heading}}</h3>
+              <p class="copy">{{page.numbered_list[0].copy}}</p>
+              </div>
+            {%endif %}
+  {% if page.numbered_list[1] %}
+  <div class="container">
+<h3 class="head {{page.numbered_list[1].list_number}}">{{page.numbered_list[1].heading}}</h3>
+              <p class="copy">{{page.numbered_list[1].copy}}</p>
+              </div>
+        {% endif %}
+
       </div>
-    {% endfor %}
+      {% if page.numbered_list[2] %}
+       <div class="grid-cell">
+<div class="container">
+<h3 class="head {{page.numbered_list[2].list_number}}">{{page.numbered_list[2].heading}}</h3>
+              <p class="copy">{{page.numbered_list[2].copy}}</p>
+              </div>
+              </div>
+        {% endif %}
+        {% if page.numbered_list[3] %}
+       <div class="grid-cell">
+<div class="container">
+<h3 class="head {{page.numbered_list[3].list_number}}">{{page.numbered_list[3].heading}}</h3>
+              <p class="copy">{{page.numbered_list[3].copy}}</p>
+              </div>
+        {% if page.numbered_list[4] %}
+        <div class="container">
+<h4 class="head {{page.numbered_list[4].list_number}}">{{page.numbered_list[4].heading}}</h4>
+              <p class="copy">{{page.numbered_list[4].copy}}</p>
+              </div>
+              {% endif %}
+              </div>
+        {% endif %}
     </section>
 {% endif %}
 {% if page.support_areas %}
