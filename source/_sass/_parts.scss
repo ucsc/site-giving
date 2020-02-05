@@ -667,3 +667,9 @@
     padding-top: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 2;
 }
+
+.layout-post {
+    .breadcrumbs {
+        padding-bottom: 0;
+    }
+}

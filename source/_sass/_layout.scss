@@ -149,7 +149,7 @@
  */
 
 .page-content {
-    padding: ($spacing-unit / 2) 0;
+    padding: 0 0 ($spacing-unit / 2);
     flex: 1;
 }
 
@@ -231,13 +231,20 @@
     margin-bottom: $spacing-unit;
 }
 
-.post-title {
-    // @include relative-font-size(2.625);
+.post-title,
+.post-subtitle {
     letter-spacing: -1px;
+}
+
+.post-title {
     line-height: 1;
     @include media-query($on-laptop) {
         @include relative-font-size(2.25);
     }
+}
+
+.post-subtitle {
+    line-height: 1.125;
 }
 
 .post-content {
