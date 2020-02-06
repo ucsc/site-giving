@@ -414,6 +414,7 @@ table {
             // flex: 1;
             // justify-content: flex-end;
             margin-left: auto;
+            padding-left: 10px;
             vertical-align: middle;
             @include media-query($on-desktop) {
                 margin-left: 0;
@@ -461,6 +462,9 @@ table {
             position: relative;
             top: .20em;
             right: 1.75rem;
+        }
+        input[type="text"] {
+            width: 90%;
         }
     }
 }
