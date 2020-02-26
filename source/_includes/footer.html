@@ -1,35 +1,69 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <data class="u-url" href="{{ " / " | relative_url }}"></data>
 
-  <div class="wrapper">
+    <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <div class="footer-col-wrapper">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
+            <div class="footer-col footer-col-one">
+                {% assign footer_head = site.data.main.footer_headings | where: "column","one"%} {% for item in footer_head %}
+                <h3 class="footer-heading">{{item.heading}}</h3>
+                {% endfor %}
+                <ul>
+                    {% for item in site.data.main.footer_one%}
+                    <li><a href="{{ item.link }}">
+        {{ item.name }}
+      </a></li>{% endfor %}
+                </ul>
+            </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+            <div class="footer-col footer-col-two">
+                {% assign footer_head = site.data.main.footer_headings | where: "column","two"%} {% for item in footer_head %}
+                <h3 class="footer-heading">{{item.heading}}</h3>
+                {% endfor %}
+                <ul>
+                    {% for item in site.data.main.footer_two%}
+                    <li><a href="{{ item.link }}">
+        {{ item.name }}
+      </a></li>{% endfor %}
+                </ul>
+            </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+            <div class="footer-col footer-col-three">
+                {% assign footer_head = site.data.main.footer_headings | where: "column","three"%} {% for item in footer_head %}
+                <h3 class="footer-heading">{{item.heading}}</h3>
+                {% endfor %}
+                <ul>
+                    {% for item in site.data.main.footer_three%}
+                    <li><a href="{{ item.link }}">
+        {{ item.name }}
+      </a></li>{% endfor %}
+                </ul>
+            </div>
+            <div class="footer-col footer-col-four">
+                {% assign footer_head = site.data.main.footer_headings | where: "column","four"%} {% for item in footer_head %}
+                <h3 class="footer-heading">{{item.heading}}</h3>
+                {% endfor %}
+                <ul>
+                    {% for item in site.data.main.footer_four%}
+                    <li><a href="{{ item.link }}">
+        {{ item.name }}
+      </a></li>{% endfor %}
+                </ul>
+            </div>
+
+        </div>
+        <div class="footer-legal">
+            <a class="footer-logo" href="https://www.ucsc.edu">{% asset ucsc-logo.svg alt="UC Santa Cruz" %}</a>
+            <ul class="legal-links">
+                {% for item in site.data.main.footer_legal%}
+                <li><a href="{{ item.link }}">
+  {{ item.name }}
+</a></li>{% endfor %}
+            </ul>
+            <p class="copyright">
+                ©2020 Regents of the University of California. All rights reserved.</p>
+        </div>
     </div>
-
-  </div>
 
 </footer>

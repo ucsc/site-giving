@@ -40,3 +40,59 @@ divisions:
     link: "https://www.ucsc.edu"
   - name: UC Santa Cruz Library
     link: "https://www.ucsc.edu"
+footer_headings:
+  - column: one
+    heading: UCSC Foundation
+  - column: two
+    heading: Impact of giving
+  - column: three
+    heading: Areas to support
+  - column: four
+    heading: Other
+footer_one:
+  - name: About the foundation
+    link: "https://foundation.ucsc.edu/index.html"
+  - name: Investment reports and policies
+    link: "https://foundation.ucsc.edu/endowment/index.html"
+  - name: Board opportunity fund
+    link: "https://foundation.ucsc.edu/opportunity-fund/index.html"
+footer_two:
+  - name: Giving stories
+    link: "https://www.ucsc.edu"
+  - name: Donor profiles
+    link: "https://www.ucsc.edu"
+  - name: Student profiles
+    link: "https://www.ucsc.edu"
+  - name: Videos
+    link: "https://www.ucsc.edu"
+  - name: Campaign for UCSC
+    link: "https://www.ucsc.edu"
+footer_three:
+  - name: UCSC Fund
+    link: "https://www.ucsc.edu"
+  - name: Search a list of funds
+    link: "https://www.ucsc.edu"
+  - name: Academics and library
+    link: "https://www.ucsc.edu"
+  - name: Colleges
+    link: "https://www.ucsc.edu"
+  - name: Faculty support and chairs
+    link: "https://www.ucsc.edu"
+  - name: Scholarships and fellowships
+    link: "https://www.ucsc.edu"
+footer_four:
+  - name: Endowment giving
+    link: "https://www.ucsc.edu"
+  - name: Philanthropy reports archive
+    link: "https://www.ucsc.edu"
+footer_legal:
+  - name: UCSC Home
+    link: "https://www.ucsc.edu"
+  - name: Careers
+    link: "https://www.ucsc.edu"
+  - name: Accessibility
+    link: "https://www.ucsc.edu"
+  - name: Privacy
+    link: "https://www.ucsc.edu"
+  - name: Emergency
+    link: "https://www.ucsc.edu"
