@@ -26,7 +26,6 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: marc-mangel-350.jpg
 thumbnail_alt_text: photo of Marc Mangel
-image: /wp-content/uploads/2018/04/marc-mangel-350.jpg
 categories:
   - News
 tags:
