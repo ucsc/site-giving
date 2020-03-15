@@ -309,18 +309,22 @@ pre {
  */
 
 .wrapper {
-    max-width: -webkit-calc(#{$size__max-width} - (#{$spacing-unit}));
-    max-width: calc(#{$size__max-width} - (#{$spacing-unit}));
+    max-width: -webkit-calc(#{$size__phone-max-width} - (#{$spacing-unit}));
+    max-width: calc(#{$size__phone-max-width} - (#{$spacing-unit}));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
     @extend %clearfix;
+    @include media-query($on-tablet) {
+        max-width: -webkit-calc(#{$size__tablet-max-width} - (#{$spacing-unit} * 2));
+        max-width: calc(#{$size__tablet-max-width} - (#{$spacing-unit} * 2));
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+    }
     @include media-query($on-desktop) {
         max-width: -webkit-calc(#{$size__max-width} - (#{$spacing-unit} * 2));
         max-width: calc(#{$size__max-width} - (#{$spacing-unit} * 2));
-        padding-right: $spacing-unit;
-        padding-left: $spacing-unit;
     }
 }
 

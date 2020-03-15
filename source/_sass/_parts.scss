@@ -127,13 +127,13 @@
 
 .two-col-grid {
     grid-template-columns: repeat(1, 1fr);
-    @include media-query($on-desktop) {
+    @include media-query($on-tablet) {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 2.5em;
     }
     .grid-cell {
         padding-bottom: $spacing-unit;
-        @include media-query($on-desktop) {
+        @include media-query($on-tablet) {
             padding-bottom: 0;
         }
         &:last-child {
@@ -144,13 +144,13 @@
 
 .three-col-grid {
     grid-template-columns: repeat(1, 1fr);
-    @include media-query($on-desktop) {
+    @include media-query($on-tablet) {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 1em;
     }
     .grid-cell:last-child {
         padding-bottom: $spacing-unit;
-        @include media-query($on-desktop) {
+        @include media-query($on-tablet) {
             padding-bottom: 0;
         }
     }

@@ -68,10 +68,14 @@ $white: #ffffff;
 --------------------------------------------------------------*/
 
 // Width of the content area
+$size__max-width: 67.5em; //1080px;
+$size__desktop-max-width: $size__max-width; // 1170px
+$size__tablet-max-width: 48em; //768px or iPad portrait;
+$size__phone-max-width: 22.5em; //360px
+// $size_desktop-max-width: 67.5em; //1080px;
 $content-width: 800px !default;
 $on-palm: 600px !default;
 $on-laptop: 800px !default;
-$size__max-width: 67.5em; //1080px;
 $on-phone: 25.938em; //415px or 1px wider than the widest portrait phone;
 $on-tablet: 48em; //768px or iPad portrait;
 $on-desktop: $size__max-width;
