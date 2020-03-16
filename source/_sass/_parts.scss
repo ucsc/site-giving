@@ -543,7 +543,7 @@
     padding-bottom: ($spacing-unit / 3);
     max-width: 100%;
     margin: 0 auto;
-    @include media-query($on-phone) {
+    @include media-query($on-tablet) {
         grid-template-columns: 200px 200px;
         max-width: 400px;
     }
