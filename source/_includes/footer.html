@@ -54,7 +54,9 @@
 
         </div>
         <div class="footer-legal">
-            <a class="footer-logo" href="https://www.ucsc.edu">{% asset ucsc-logo.svg alt="UC Santa Cruz" %}</a>
+        <div class="footer-logo-wrap">
+            <a class="footer-logo" href="https://www.ucsc.edu">{% asset ucsc-logo-blue.svg alt="UC Santa Cruz" %}</a>
+            </div>
             <ul class="legal-links">
                 {% for item in site.data.main.footer_legal%}
                 <li><a href="{{ item.link }}">

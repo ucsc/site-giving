@@ -229,7 +229,7 @@
             color: $white;
             text-align: center;
             position: relative;
-            border: 1px $grey-color-light inset;
+            // border: 1px $grey-color-light inset;
             padding: 100px 0 0;
             @include media-query ($on-desktop) {
                 max-width: 70.5%;
@@ -406,6 +406,7 @@
  */
 
 .ways-to-give {
+    padding-top: $spacing-unit;
     .grid-cell {
         @include media-query($on-desktop) {
             &.one {
@@ -630,7 +631,7 @@
  */
 
 .contact-info {
-    padding-bottom: $spacing-unit / 2;
+    padding: $spacing-unit 0;
     a {
         display: block;
         font-weight: 700;
