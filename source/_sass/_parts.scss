@@ -230,7 +230,7 @@
             text-align: center;
             position: relative;
             // border: 1px $grey-color-light inset;
-            padding: 100px 0 0;
+            padding: 100px 0 ($spacing-unit / 2);
             @include media-query ($on-desktop) {
                 max-width: 70.5%;
                 min-height: 250px;
