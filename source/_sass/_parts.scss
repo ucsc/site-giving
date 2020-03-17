@@ -179,7 +179,7 @@
 }
 
 .yellow-pill {
-    color: $ucsc-primary-blue;
+    color: $ucsc-primary-blue !important;
     &:visited,
     &:hover {
         color: $ucsc-primary-blue

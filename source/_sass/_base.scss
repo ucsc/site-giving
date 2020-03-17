@@ -243,6 +243,16 @@ a {
     }
 }
 
+.grid-cell {
+    .copy {
+        a {
+            color: $white;
+            font-weight: 700;
+            border-bottom: 2px solid $ucsc-primary-yellow;
+        }
+    }
+}
+
 .omniitems {
     a {
         color: $white;
