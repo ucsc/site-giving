@@ -144,7 +144,7 @@
 
 .three-col-grid {
     grid-template-columns: repeat(1, 1fr);
-    @include media-query($on-tablet) {
+    @include media-query($on-desktop) {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 1em;
     }
@@ -541,7 +541,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
-    padding-bottom: ($spacing-unit / 3);
+    padding-bottom: $spacing-unit;
     max-width: 100%;
     margin: 0 auto;
     @include media-query($on-tablet) {

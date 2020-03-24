@@ -95,7 +95,7 @@
     grid-template-columns: 1fr;
     grid-gap: 1.25em;
     justify-items: center;
-    @include media-query($on-desktop) {
+    @include media-query($on-tablet) {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
