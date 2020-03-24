@@ -95,7 +95,7 @@
     grid-template-columns: 1fr;
     grid-gap: 1.25em;
     justify-items: center;
-    @include media-query($on-desktop) {
+    @include media-query($on-tablet) {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
@@ -111,6 +111,7 @@
 .footer-legal {
     width: 100%;
     margin: 0 auto;
+    padding: $spacing-unit 0 0;
     text-align: center;
     .footer-logo-wrap {
         padding: ($spacing-unit / 2) 0;

@@ -20,7 +20,7 @@
     position: relative;
     text-align: center;
     img {
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        // box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
     }
     header {
         display: none;
@@ -144,7 +144,7 @@
 
 .three-col-grid {
     grid-template-columns: repeat(1, 1fr);
-    @include media-query($on-tablet) {
+    @include media-query($on-desktop) {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 1em;
     }
@@ -266,7 +266,7 @@
             top: 30px;
             // left: 50%;
             transform: translate(-50%, -50%);
-            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+            // box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
             max-width: 50%;
             @include media-query($on-desktop) {
                 max-width: 100%;
@@ -541,7 +541,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
-    padding-bottom: ($spacing-unit / 3);
+    padding-bottom: $spacing-unit;
     max-width: 100%;
     margin: 0 auto;
     @include media-query($on-tablet) {
