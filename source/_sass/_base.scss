@@ -243,12 +243,25 @@ a {
     }
 }
 
-.grid-cell {
+.page-content {
+    a {
+        border-bottom: 2px solid $ucsc-primary-yellow;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+.cta {
     .copy {
         a {
             color: $white;
             font-weight: 700;
             border-bottom: 2px solid $ucsc-primary-yellow;
+            &:hover {
+                text-decoration: none;
+                color: $ucsc-light-blue;
+            }
         }
     }
 }
