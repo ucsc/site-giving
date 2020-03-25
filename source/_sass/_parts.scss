@@ -653,6 +653,14 @@
                 padding-top: 0;
             }
         }
+        &:nth-child(2) {
+            @include media-query($on-tablet) {
+                padding-top: $spacing-unit;
+            }
+            @include media-query($on-desktop) {
+                padding-top: 0;
+            }
+        }
     }
 }
 
