@@ -1,5 +1,6 @@
 $(".omnitoggle").on("click", function() {
-    $(".omnitoggle").parent().toggleClass('active');
+    $("#omnimobile").toggleClass('active');
+    console.log("hello world");
 });
 
 $(".nav-toggle").on("click", function() {

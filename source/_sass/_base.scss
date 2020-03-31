@@ -443,13 +443,14 @@ table {
     background-color: $ucsc-primary-blue;
     display: grid;
     grid-template-columns: 140px 1fr;
+    // grid-template-rows: [desktop] auto [mobile] auto;
     .omnilogo {
         width: 100%;
         height: auto;
         text-align: center;
         margin: 10px 0;
     }
-    .omnibar {
+    .omnibar.desktop {
         width: 100%;
         margin: 0 auto;
         padding: 0.625rem 0;
@@ -515,13 +516,28 @@ table {
             width: 90%;
         }
     }
+    .omnibar.mobile {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        display: none;
+        .omniitems a {
+            display: block;
+            padding: 5px 10px;
+            text-align: center;
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+        @include media-query ($on-desktop) {
+            display: none;
+        }
+    }
+    .omnibar.mobile.active {
+        display: block;
+    }
 }
 
 @media (max-width: $size__max-width) {
-    .omnibar.active {
-        .omnitoggle {
-            color: white;
-        }
+    .omnibar.mobile.active {
         .omniitems {
             display: block;
             a {
@@ -529,8 +545,6 @@ table {
                 text-align: center;
                 padding: 1em;
                 text-decoration: none;
-                background: $white;
-                color: $ucsc-primary-blue;
                 &:hover,
                 &:active {
                     background: $ucsc-primary-blue;
