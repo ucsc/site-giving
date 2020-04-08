@@ -11,7 +11,9 @@ author_email:
 excerpt: Once, while she was a programmer at KZSC, Denise Gallant was at a party, eavesdropping on a group of people who couldn’t agree on whether what she did on the radio was art.
 see_also:
   - title: 'Gallant’s gift: In gratitude for the experiences on which they built their careers, Denise Gallant and Kevin Monahan added UC Santa Cruz to their will.'
+    local: false
     file: 2018-07-05-gallants-gift
+    link: https://crowdfund.ucsc.edu/fall-into-philanthropy/Learn-more.html
 pull_quote: false
 pull_quote_author:
 hero:

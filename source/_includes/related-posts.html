@@ -2,7 +2,11 @@
 <h3>Related Articles</h3>
 <ul>
 {% for item in page.see_also %}
+{% if item.local %}
 <li><a href="/impact-of-giving/{{item.file}}/">{{item.title}}</a></li>
+{% else %}
+<li><a href="{{item.link}}">{{item.title}}</a></li>
+{% endif %}
 {% endfor %}
 </ul>
 </div>
