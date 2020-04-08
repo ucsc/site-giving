@@ -43,7 +43,8 @@ support_areas:
       {%endif%}
       <a href="{{post.url}}" class="yellow-pill">Learn More</a>
     </div>
-{% asset {{post.thumbnail_image}} alt="{{post.thumbnail_alt_text}}" magick:resize=200 %}
+    {% include image-alt-text.html %}
+{% asset {{post.thumbnail_image}} alt="{{alt_text}}" magick:resize=200 %}
   </div>
 </div>
  {% endif %}

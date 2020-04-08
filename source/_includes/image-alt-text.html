@@ -1,0 +1,7 @@
+{% if post.thumbnail_alt_text %}
+{% assign alt_text = post.thumbnail_alt_text %}
+{% else %}
+{% assign alt_text = post.thumbnail_image | remove: ".jpg" ".png"%}
+{% endif %}
+
+
