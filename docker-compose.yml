@@ -1,6 +1,6 @@
 jekyll:
   image: jekyll/jekyll:3.8.6
-  command: jekyll serve --livereload
+  command: jekyll serve --drafts --livereload
   ports:
     - 4000:4000
     - 35729:35729
