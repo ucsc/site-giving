@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/03/other-minds-archive.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/03/other-minds-archive.html
 ---
-http://news.ucsc.edu/2016/03/other-minds-archive.html

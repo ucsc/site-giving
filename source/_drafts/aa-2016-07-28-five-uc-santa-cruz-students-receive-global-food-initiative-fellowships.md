@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/06/global-food-fellowships.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/06/global-food-fellowships.html
 ---
-http://news.ucsc.edu/2016/06/global-food-fellowships.html

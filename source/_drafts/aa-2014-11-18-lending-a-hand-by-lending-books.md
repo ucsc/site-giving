@@ -14,10 +14,8 @@ see_also_links_1_link_link:
   - http://eop.ucsc.edu/content/textbooks
 see_also_links:
   - "2"
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image:
 categories:
   - Donor Profiles

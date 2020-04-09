@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/03/packard-foundation-gift.html?ref=campaig
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/03/packard-foundation-gift.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/03/packard-foundation-gift.html?ref=campaign

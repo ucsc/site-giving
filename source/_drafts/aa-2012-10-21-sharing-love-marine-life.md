@@ -3,10 +3,6 @@ id: 3229
 title: Sharing a love of marine life
 #date: 2012-10-21T16:44:35+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: sharing-a-love-marine-life.jpg
 categories:

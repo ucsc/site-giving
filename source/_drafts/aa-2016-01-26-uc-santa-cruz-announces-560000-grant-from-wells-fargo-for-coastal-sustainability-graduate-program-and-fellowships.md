@@ -8,5 +8,5 @@ link_post: http://campaign.ucsc.edu/wells-fargo-grant/
 categories:
   - News
 format: link
+link_post: http://campaign.ucsc.edu/wells-fargo-grant/
 ---
-http://campaign.ucsc.edu/wells-fargo-grant/

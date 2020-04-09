@@ -11,5 +11,5 @@ link_post: http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amp
 categories:
   - News
 format: link
+link_post: http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/
 ---
-http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/

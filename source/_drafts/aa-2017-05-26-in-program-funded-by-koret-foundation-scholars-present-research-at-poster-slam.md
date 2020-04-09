@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2017/05/koret-slam.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2017/05/koret-slam.html
 ---
-http://news.ucsc.edu/2017/05/koret-slam.html

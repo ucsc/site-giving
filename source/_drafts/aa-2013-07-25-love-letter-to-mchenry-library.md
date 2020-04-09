@@ -8,10 +8,8 @@ see_also:
   - title: University Library
     link: http://library.ucsc.edu/
 
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image: kirk-potola.jpg
 categories:
   - Donor Profiles

@@ -3,10 +3,6 @@ id: 3127
 title: 'Stephanie Harkness: Why do I give to UC Santa Cruz?'
 #date: 2015-04-20T20:53:09+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: A word with Stephanie Harkness, UC Santa Cruz Foundation Board member
 thumbnail_image: Ian-martin-wedding.jpg
 categories:

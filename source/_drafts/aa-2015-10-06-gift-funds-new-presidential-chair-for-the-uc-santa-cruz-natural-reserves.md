@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/09/natural-reserves-chair.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/09/natural-reserves-chair.html
 ---
-http://news.ucsc.edu/2015/09/natural-reserves-chair.html

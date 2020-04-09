@@ -3,10 +3,6 @@ id: 527
 title: Putting genomics to work
 #date: 2017-08-17T16:00:25+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - UCSC Genomics Institute

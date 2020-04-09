@@ -3,10 +3,6 @@ id: 514
 title: College Eight meets Rachel Carson
 #date: 2017-08-16T17:47:28+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - Rachel Carson College

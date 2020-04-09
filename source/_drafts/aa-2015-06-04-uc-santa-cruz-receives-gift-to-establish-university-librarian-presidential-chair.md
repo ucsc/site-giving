@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/05/library-endowment-investiture.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/05/library-endowment-investiture.html
 ---
-http://news.ucsc.edu/2015/05/library-endowment-investiture.html

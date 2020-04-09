@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/02/klemola-gift.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/02/klemola-gift.html
 ---
-http://news.ucsc.edu/2016/02/klemola-gift.html

@@ -14,10 +14,8 @@ see_also_links_1_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "2"
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image: mary-doyle-400.jpg
 categories:
   - Donor Profiles

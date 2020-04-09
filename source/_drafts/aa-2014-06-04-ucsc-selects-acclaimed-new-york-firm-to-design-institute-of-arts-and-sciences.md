@@ -9,5 +9,6 @@ thumbnail_image: natural-history-field-quarter.jpg
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/06/architect-selection-institute.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/06/architect-selection-institute.html?ref=campaign
+

@@ -3,10 +3,6 @@ id: 517
 title: Connecting the arts and sciences
 #date: 2017-08-16T18:20:29+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - Institute of the Arts and Sciences

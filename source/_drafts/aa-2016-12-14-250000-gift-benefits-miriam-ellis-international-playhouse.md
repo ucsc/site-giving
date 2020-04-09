@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/11/miriam-ellis-international-playhouse-end
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/11/miriam-ellis-international-playhouse-endowment-feature.html
 ---
-http://news.ucsc.edu/2016/11/miriam-ellis-international-playhouse-endowment-feature.html

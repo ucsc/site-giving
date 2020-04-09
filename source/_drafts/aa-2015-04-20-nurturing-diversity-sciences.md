@@ -3,10 +3,6 @@ id: 3133
 title: Nurturing diversity in the sciences
 #date: 2015-04-20T21:25:06+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: |
     Julie Packard (Crown '74, biology; M.A. '78) has a lifelong love of nature and biology.
     Recognizing the institution that nurtured her, she gave $1 million gift to establish the Dean's Fund for Diversity in the Sciences.

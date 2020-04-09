@@ -9,10 +9,8 @@ see_also_links_0_link_name:
   - Gabriel Zimmerman Memorial Scholarship Fund
 see_also_links_0_link_link:
   - http://socialsciences.ucsc.edu/support-us/endowments/endowments-all/zimmerman/index.html
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image: watts-carson-350.jpg
 categories:
   - Student Profiles

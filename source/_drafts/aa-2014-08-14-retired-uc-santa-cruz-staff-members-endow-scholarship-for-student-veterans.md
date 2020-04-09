@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2014/07/bruce-lane-scholarship-endowment-success
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/07/bruce-lane-scholarship-endowment-success.html
 ---
-http://news.ucsc.edu/2014/07/bruce-lane-scholarship-endowment-success.html

@@ -8,5 +8,5 @@ link_post: http://specialevents.ucsc.edu/launch/?ref=campaign
 categories:
   - News
 format: link
+link_post: http://specialevents.ucsc.edu/launch/?ref=campaign
 ---
-http://specialevents.ucsc.edu/launch/?ref=campaign

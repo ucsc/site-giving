@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent
 ---
-http://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent

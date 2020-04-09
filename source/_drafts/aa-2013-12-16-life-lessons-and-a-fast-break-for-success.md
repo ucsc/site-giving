@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2013/12/fast-break-for-success.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2013/12/fast-break-for-success.html
 ---
-http://news.ucsc.edu/2013/12/fast-break-for-success.html

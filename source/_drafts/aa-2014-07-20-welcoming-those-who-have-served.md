@@ -4,10 +4,6 @@ title: Welcoming those who have served
 #date: 2014-07-20T21:40:00+00:00
 excerpt: "In 14 years with the U.S. Marine Corps, Angela Austin's most physically challenging, rewarding, and enjoyable duty was as a Marine Corps martial arts instructor."
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also:
   - title: UCSC Retirees Association

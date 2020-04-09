@@ -3,10 +3,6 @@ id: 529
 title: The Quarry, next generation
 #date: 2017-08-17T16:03:29+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links:
   - "2"

@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/10/nelson-archive.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/10/nelson-archive.html
 ---
-http://news.ucsc.edu/2016/10/nelson-archive.html

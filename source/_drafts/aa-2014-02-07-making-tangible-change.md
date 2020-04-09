@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/02/friends-foundation-international.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/02/friends-foundation-international.html
 ---
-http://news.ucsc.edu/2014/02/friends-foundation-international.html

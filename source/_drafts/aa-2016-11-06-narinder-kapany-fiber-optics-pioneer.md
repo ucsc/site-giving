@@ -14,10 +14,8 @@ see_also_links_1_link_link:
   - http://www.youtube.com/watch?v=m0KMesVVwwY
 see_also_links:
   - "2"
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image:00.jpeg
 categories:
   - Donor Profiles

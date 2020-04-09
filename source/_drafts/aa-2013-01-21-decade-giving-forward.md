@@ -3,10 +3,6 @@ id: 3215
 title: A decade of giving forward
 #date: 2013-01-21T16:14:29+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: a-decade-of-giving.jpg
 categories:

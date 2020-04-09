@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/06/manduchi-grant.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/06/manduchi-grant.html
 ---
-http://news.ucsc.edu/2016/06/manduchi-grant.html

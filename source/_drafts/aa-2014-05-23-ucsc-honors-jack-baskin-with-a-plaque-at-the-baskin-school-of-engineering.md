@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/05/baskin-plaque.html?ref=campaign
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/05/baskin-plaque.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/05/baskin-plaque.html?ref=campaign

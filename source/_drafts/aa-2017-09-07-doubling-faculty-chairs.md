@@ -3,10 +3,6 @@ id: 2829
 title: Doubling down on faculty chairs
 #date: 2017-09-07T22:16:21+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: double-down-chairs-cropped.jpg
 categories:

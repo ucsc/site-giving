@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/02/inspire-scholars.html?ref=campaign
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/02/inspire-scholars.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/02/inspire-scholars.html?ref=campaign

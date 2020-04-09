@@ -3,10 +3,6 @@ id: 3226
 title: In the company of friends
 #date: 2013-01-21T16:41:28+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: neel2008.jpg
 categories:

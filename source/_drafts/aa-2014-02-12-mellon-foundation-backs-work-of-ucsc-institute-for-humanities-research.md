@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/02/humanities-mellon-grant.html?ref=campaig
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/02/humanities-mellon-grant.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/02/humanities-mellon-grant.html?ref=campaign

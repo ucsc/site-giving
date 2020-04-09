@@ -3,10 +3,6 @@ id: 3220
 title: The young and the generous
 #date: 2013-01-21T16:23:55+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: hilary_van_hoose.jpg
 categories:

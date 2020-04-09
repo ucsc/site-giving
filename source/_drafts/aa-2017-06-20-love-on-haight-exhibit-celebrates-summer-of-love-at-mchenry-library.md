@@ -7,10 +7,6 @@ author:
  author_link:
   - jspringh@ucsc.edu
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 categories:
   - Featured

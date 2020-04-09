@@ -3,10 +3,6 @@ id: 503
 title: Activating social change
 #date: 2017-08-14T16:57:11+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - Everett Program

@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/05/sage-weil-gifts.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/05/sage-weil-gifts.html
 ---
-http://news.ucsc.edu/2015/05/sage-weil-gifts.html

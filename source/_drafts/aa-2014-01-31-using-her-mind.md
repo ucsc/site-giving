@@ -9,10 +9,8 @@ see_also:
   - title: The Rosa Parks African American Theme House
     link: http://news.ucsc.edu/2013/02/rpaath.html
 
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image: williams-meka.jpg
 categories:
   - Student Profiles

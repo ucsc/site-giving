@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/07/pediatric-cancer.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/07/pediatric-cancer.html
 ---
-http://news.ucsc.edu/2015/07/pediatric-cancer.html

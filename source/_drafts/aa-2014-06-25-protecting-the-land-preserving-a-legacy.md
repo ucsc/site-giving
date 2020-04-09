@@ -19,10 +19,8 @@ see_also_links_2_link_link:
   - http://www.packard.org/
 see_also_links:
   - "3"
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image: kenneth-norris.jpg
 categories:
   - Donor Profiles

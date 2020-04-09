@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/03/elizabeth-butler-scholarship.html?ref=ca
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/03/elizabeth-butler-scholarship.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/03/elizabeth-butler-scholarship.html?ref=campaign

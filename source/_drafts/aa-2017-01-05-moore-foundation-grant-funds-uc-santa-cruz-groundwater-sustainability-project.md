@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2017/01/groundwater-sustainability.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2017/01/groundwater-sustainability.html
 ---
-http://news.ucsc.edu/2017/01/groundwater-sustainability.html

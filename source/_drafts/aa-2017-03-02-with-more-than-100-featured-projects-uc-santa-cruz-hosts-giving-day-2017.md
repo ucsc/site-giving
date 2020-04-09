@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2017/03/giving-day-preview.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2017/03/giving-day-preview.html
 ---
-http://news.ucsc.edu/2017/03/giving-day-preview.html

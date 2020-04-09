@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/03/architect-finalists.html?ref=campaign
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/03/architect-finalists.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/03/architect-finalists.html?ref=campaign

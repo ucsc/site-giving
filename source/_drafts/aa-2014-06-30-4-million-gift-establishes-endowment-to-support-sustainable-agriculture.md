@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/06/farm-endowment.html?ref=campaign
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/06/farm-endowment.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/06/farm-endowment.html?ref=campaign

@@ -4,10 +4,6 @@ title: 'Linda Peterson: Why do I give to UC Santa Cruz?'
 #date: 2014-06-20T22:12:26+00:00
 excerpt: Giving can transform lives, advance research, and protect and enhance the treasures on the UC Santa Cruz campus.
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: linda-peterson.jpg
 categories:

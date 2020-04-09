@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent
 ---
-http://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent

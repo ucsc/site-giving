@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/10/founders-celebration-2016-wrapup-feature
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/10/founders-celebration-2016-wrapup-feature.html
 ---
-http://news.ucsc.edu/2016/10/founders-celebration-2016-wrapup-feature.html

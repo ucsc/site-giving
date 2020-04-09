@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/03/quarry-student-support.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/03/quarry-student-support.html
 ---
-http://news.ucsc.edu/2015/03/quarry-student-support.html

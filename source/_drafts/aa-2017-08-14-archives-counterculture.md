@@ -3,10 +3,6 @@ id: 505
 title: Archives of the counterculture
 #date: 2017-08-14T17:23:35+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - McHenry Library

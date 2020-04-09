@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/05/givingday-debut.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/05/givingday-debut.html
 ---
-http://news.ucsc.edu/2016/05/givingday-debut.html

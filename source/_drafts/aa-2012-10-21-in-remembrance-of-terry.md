@@ -3,10 +3,6 @@ id: 3232
 title: In remembrance of Terry
 #date: 2012-10-21T16:49:42+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: terry_and_child.jpg
 categories:

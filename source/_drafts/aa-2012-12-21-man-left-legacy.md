@@ -3,10 +3,6 @@ id: 3212
 title: A man who left a legacy
 #date: 2012-12-21T16:08:20+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: don-rothman.jpg
 categories:

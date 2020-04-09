@@ -4,10 +4,6 @@ title: A tale of generosities
 #date: 2014-06-20T22:23:07+00:00
 excerpt: "Lovers of Charles Dickens' books have stepped forward to sustain the Dickens Project, and the famous annual Dickens Universe conference."
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: john-jordan.jpg
 categories:

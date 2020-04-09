@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/01/genome-variation.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/01/genome-variation.html
 ---
-http://news.ucsc.edu/2015/01/genome-variation.html

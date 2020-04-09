@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/09/aguirre-appointment.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/09/aguirre-appointment.html
 ---
-http://news.ucsc.edu/2016/09/aguirre-appointment.html

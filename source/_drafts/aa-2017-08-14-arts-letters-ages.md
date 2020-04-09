@@ -3,10 +3,6 @@ id: 507
 title: Arts and letters for the ages
 #date: 2017-08-14T17:28:21+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links:
   - "2"

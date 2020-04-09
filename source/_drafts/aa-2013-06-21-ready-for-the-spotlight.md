@@ -3,10 +3,6 @@ id: 3199
 title: Ready for the spotlight
 #date: 2013-06-21T15:48:23+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: attat.jpg
 categories:

@@ -3,10 +3,6 @@ id: 3242
 title: Exploring the possibilities
 #date: 2012-10-21T16:59:31+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: raydon_alhubaishi.jpg
 categories:

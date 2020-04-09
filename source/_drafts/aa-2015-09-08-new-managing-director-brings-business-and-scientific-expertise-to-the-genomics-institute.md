@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/08/ravi-jain.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/08/ravi-jain.html
 ---
-http://news.ucsc.edu/2015/08/ravi-jain.html

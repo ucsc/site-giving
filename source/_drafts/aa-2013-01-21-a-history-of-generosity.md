@@ -3,10 +3,6 @@ id: 3223
 title: A history of generosity
 #date: 2013-01-21T16:27:36+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: irwin-anne.jpg
 categories:

@@ -11,5 +11,5 @@ link_post: http://giving.ucsc.edu/profiles/students/cowell_students_quarry.html
 categories:
   - News
 format: link
+link_post: http://giving.ucsc.edu/profiles/students/cowell\_students\_quarry.html
 ---
-http://giving.ucsc.edu/profiles/students/cowell\_students\_quarry.html

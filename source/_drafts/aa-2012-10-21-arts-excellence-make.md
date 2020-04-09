@@ -3,10 +3,6 @@ id: 3248
 title: Arts Excellence—make it so
 #date: 2012-10-21T17:12:17+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: braga-brannan.jpg
 categories:

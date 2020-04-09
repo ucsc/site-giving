@@ -1,7 +1,7 @@
 ---
 id: 3433
 title: Matching gift will boost funds—and opportunities—for undergraduates doing research
-#date: 2017-10-16T01:10:33+00:00
+date: 2017-10-16T01:10:33+00:00
 layout: post
 author:
   - J.D. Hillard
@@ -35,9 +35,11 @@ When he was an undergraduate, Doshay took a teaching assistant up on an offer to
 
 “You’re not first and foremost an undergrad, you’re someone who has a unique piece of research to share,” he says. “That changed everything for me.”
 
-### Bringing original science within reach<figure id="attachment_3458" style="width: 400px" class="wp-caption alignleft">
+### Bringing original science within reach
 
-<img class="wp-image-3458" src="https://giving.ucsc.edu/wp-content/uploads/2017/10/abuhashmeh_poster-1-300x193.jpg" alt="Nadim Abu-Hashmeh with poster " width="400" height="258" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/10/abuhashmeh_poster-1-300x193.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/10/abuhashmeh_poster-1.jpg 500w" sizes="(max-width: 400px) 100vw, 400px" /> <figcaption class="wp-caption-text">Nadim Abu-Hashmeh (Oakes &#8217;17, Earth science) will present his undergraduate research to the American Geophysical Union. Photo: J.D. Hillard</figcaption></figure> 
+<figure class="inline-image left">
+{% asset abuhashmeh_poster-1.jpg magick:resize=400 alt='photo of Abu-Hashmeh' %}
+<figcaption>Nadim Abu-Hashmeh (Oakes &#8217;17, Earth science) will present his undergraduate research to the American Geophysical Union. Photo: J.D. Hillard</figcaption></figure>
 
 Since Hierarchical Systems Research Foundation began supporting students at UC Santa Cruz in 2004, it has assisted close to 130 undergraduate and graduate students. The research grants provide resources for laboratory fees, equipment, and expenses related to preparing conference presentations—expenses that could put a project out of reach for many students. The grant application can also ask for living expenses to free awardees from the need to find employment unrelated to a career in science.
 

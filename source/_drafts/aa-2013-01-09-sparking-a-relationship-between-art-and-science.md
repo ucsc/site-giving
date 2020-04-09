@@ -8,10 +8,8 @@ see_also:
   - title: 2013 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
 
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image: rebeles.jpg
 categories:
   - Donor Profiles

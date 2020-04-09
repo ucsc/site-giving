@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2014/08/coastal-biology-building.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/08/coastal-biology-building.html
 ---
-http://news.ucsc.edu/2014/08/coastal-biology-building.html

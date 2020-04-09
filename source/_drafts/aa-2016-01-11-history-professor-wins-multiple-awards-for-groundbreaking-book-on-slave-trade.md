@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/12/zimmerman-scholars.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/12/zimmerman-scholars.html
 ---
-http://news.ucsc.edu/2015/12/zimmerman-scholars.html

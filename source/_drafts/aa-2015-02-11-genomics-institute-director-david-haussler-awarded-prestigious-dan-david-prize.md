@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/02/haussler-prize.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/02/haussler-prize.html
 ---
-http://news.ucsc.edu/2015/02/haussler-prize.html

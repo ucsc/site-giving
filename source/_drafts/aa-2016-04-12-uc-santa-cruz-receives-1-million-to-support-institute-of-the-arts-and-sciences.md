@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/04/nion-gift-ias.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/04/nion-gift-ias.html
 ---
-http://news.ucsc.edu/2016/04/nion-gift-ias.html

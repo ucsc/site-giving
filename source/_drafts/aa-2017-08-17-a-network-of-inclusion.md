@@ -3,10 +3,6 @@ id: 525
 title: A network of inclusion
 #date: 2017-08-17T15:53:01+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - Dreamweavers Fund

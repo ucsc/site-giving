@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2014/08/campaign-fy-2014.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/08/campaign-fy-2014.html
 ---
-http://news.ucsc.edu/2014/08/campaign-fy-2014.html

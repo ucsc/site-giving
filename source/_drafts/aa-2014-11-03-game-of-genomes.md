@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2014/10/banana-slug-mapping-feature-story.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/10/banana-slug-mapping-feature-story.html
 ---
-http://news.ucsc.edu/2014/10/banana-slug-mapping-feature-story.html

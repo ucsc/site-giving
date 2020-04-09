@@ -3,10 +3,6 @@ id: 3235
 title: George Hitchcock and poetry
 #date: 2012-10-21T16:52:40+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: george-hitchcock.jpg
 categories:

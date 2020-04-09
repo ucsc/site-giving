@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/08/cowell-press-endowment-story.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/08/cowell-press-endowment-story.html
 ---
-http://news.ucsc.edu/2015/08/cowell-press-endowment-story.html

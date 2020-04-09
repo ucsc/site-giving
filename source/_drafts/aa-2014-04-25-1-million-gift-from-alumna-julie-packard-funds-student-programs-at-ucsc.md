@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2014/04/julie-packard-gift.html?ref=campaign
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/04/julie-packard-gift.html?ref=campaign
 ---
-http://news.ucsc.edu/2014/04/julie-packard-gift.html?ref=campaign

@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2014/10/haussler-big-data.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2014/10/haussler-big-data.html
 ---
-http://news.ucsc.edu/2014/10/haussler-big-data.html

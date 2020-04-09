@@ -3,10 +3,6 @@ id: 3202
 title: The path to empowerment
 #date: 2013-06-21T15:51:49+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: xochitil.jpg
 categories:

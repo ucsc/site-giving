@@ -14,10 +14,8 @@ see_also_links_1_link_name:
   - The Campaign for UC Santa Cruz
 see_also_links_1_link_link:
   - http://campaign.ucsc.edu/
-author:
-  - ""
-author_email:
-  - ""
+
+
 thumbnail_image:
 categories:
   - Donor Profiles

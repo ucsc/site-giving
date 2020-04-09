@@ -1,18 +1,16 @@
 ---
 id: 3238
 title: A winning combination
-#date: 2012-10-21T16:55:46+00:00
+date: 2012-10-21T16:55:46+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: soraya-danesh.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_3239" style="width: 191px" class="wp-caption alignright"><img class="size-medium wp-image-3239" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/soraya-danesh-191x300.jpg" alt="" width="191" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/soraya-danesh-191x300.jpg 191w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/soraya-danesh.jpg 297w" sizes="(max-width: 191px) 100vw, 191px" /><figcaption class="wp-caption-text">Soraya Danesh</figcaption></figure> 
+<figure class="inline-image right">
+{% asset soraya-danesh.jpg magick:resize=250 alt='photo of Soraya Danesh' %}
+<figcaption>Soraya Danesh</figcaption></figure>
 
 Malia Bradley is working on a plan to harvest rainwater and use non-potable water for things like irrigation and toilet flushing on campus.  
 Soraya Danesh is helping students prepare for natural disasters and also make sure their residences are fire-safe.

@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/10/kroeker-packard.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/10/kroeker-packard.html
 ---
-http://news.ucsc.edu/2015/10/kroeker-packard.html

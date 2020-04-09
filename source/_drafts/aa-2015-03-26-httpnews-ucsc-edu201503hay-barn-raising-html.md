@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/03/hay-barn-raising.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/03/hay-barn-raising.html
 ---
-http://news.ucsc.edu/2015/03/hay-barn-raising.html

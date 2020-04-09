@@ -3,10 +3,6 @@ id: 3245
 title: 'Time after time: Building a legacy'
 #date: 2012-10-21T17:03:30+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: browns.jpg
 categories:

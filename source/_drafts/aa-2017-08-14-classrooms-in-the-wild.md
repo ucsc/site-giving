@@ -3,10 +3,6 @@ id: 499
 title: Classrooms in the wild
 #date: 2017-08-14T16:48:48+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links:
   - "2"

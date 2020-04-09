@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/09/gage-dayton-chair.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/09/gage-dayton-chair.html
 ---
-http://news.ucsc.edu/2016/09/gage-dayton-chair.html

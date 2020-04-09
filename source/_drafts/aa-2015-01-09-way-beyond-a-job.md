@@ -11,10 +11,8 @@ see_also_links_0_link_link:
   - https://giving.ucsc.edu/reports/2012-13/articles/connecting-112013.php
 see_also_links:
   - "2"
-author:
-  - ""
-author_email:
-  - ""
+
+
 see_also_links_1_link_name:
   - 2013 Annual Report on Philanthropy
 see_also_links_1_link_link:

@@ -11,5 +11,5 @@ link_post: https://news.ucsc.edu/2017/05/bettina-feminist-chair.html
 categories:
   - News
 format: link
+link_post: https://news.ucsc.edu/2017/05/bettina-feminist-chair.html
 ---
-https://news.ucsc.edu/2017/05/bettina-feminist-chair.html

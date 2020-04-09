@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2013/11/hitachi-agreement.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2013/11/hitachi-agreement.html
 ---
-http://news.ucsc.edu/2013/11/hitachi-agreement.html

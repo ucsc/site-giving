@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2015/11/presidential-chairs.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2015/11/presidential-chairs.html
 ---
-http://news.ucsc.edu/2015/11/presidential-chairs.html

@@ -3,10 +3,6 @@ id: 523
 title: Innovation in data science
 #date: 2017-08-17T15:32:48+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links_0_link_name:
   - Center for Research in Open Source Software

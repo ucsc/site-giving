@@ -3,10 +3,6 @@ id: 510
 title: Coastal science and policy
 #date: 2017-08-14T17:53:27+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 see_also_links:
   - "2"

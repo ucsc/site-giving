@@ -8,5 +8,5 @@ link_post: http://news.ucsc.edu/2013/10/give-dont-give-in.html
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2013/10/give-dont-give-in.html
 ---
-http://news.ucsc.edu/2013/10/give-dont-give-in.html

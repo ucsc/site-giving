@@ -11,5 +11,5 @@ link_post: http://campaign.ucsc.edu/faculty-staff
 categories:
   - News
 format: link
+link_post: http://campaign.ucsc.edu/faculty-staff
 ---
-http://campaign.ucsc.edu/faculty-staff

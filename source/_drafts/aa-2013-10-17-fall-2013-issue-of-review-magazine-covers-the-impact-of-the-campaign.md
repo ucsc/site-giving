@@ -8,5 +8,5 @@ link_post: http://review.ucsc.edu
 categories:
   - News
 format: link
+link_post: http://review.ucsc.edu
 ---
-http://review.ucsc.edu

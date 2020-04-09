@@ -3,10 +3,6 @@ id: 3194
 title: Infusing an old barn with new life
 #date: 2013-06-21T15:29:17+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: ""
 thumbnail_image: webster.jpg
 categories:

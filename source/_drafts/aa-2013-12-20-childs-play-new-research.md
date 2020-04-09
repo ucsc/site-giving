@@ -3,10 +3,6 @@ id: 3179
 title: 'Child&#8217;s play = new research'
 #date: 2013-12-20T23:28:04+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: "A $165,000 grant to UCSC's Early Education Services has enabled the program to extend childcare hours for students' children and provide an observation room for developmental psychology research."
 thumbnail_image:
 categories:

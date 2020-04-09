@@ -4,10 +4,6 @@ title: 'Paul Hall: Why do I give to UC Santa Cruz?'
 #date: 2015-04-20T21:32:24+00:00
 excerpt: My years here sharpened my thinking, taught me the value of interdisciplinary learning, and set me on my way in life.
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: "A word with Paul J. Hall (Merrill '72)"
 thumbnail_image: paul-hall.jpg
 categories:

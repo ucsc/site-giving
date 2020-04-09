@@ -11,5 +11,5 @@ link_post: http://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.
 categories:
   - News
 format: link
+link_post: http://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.html
 ---
-http://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.html
