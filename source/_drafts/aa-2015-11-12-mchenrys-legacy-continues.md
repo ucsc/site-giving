@@ -3,8 +3,7 @@ id: 264
 title: McHenry’s legacy continues
 #date: 2015-11-12T20:04:44+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -15,7 +14,7 @@ see_also_links_1_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "2"
-#thumbnail_image: mchenry-500.jpg
+thumbnail_image: mchenry-500.jpg
 categories:
   - Donor Profiles
 ---

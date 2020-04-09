@@ -3,9 +3,8 @@ id: 193
 title: 'Jerry Ruiz is fulfilling his life&#8217;s mission'
 #date: 2012-11-06T23:18:19+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image:
+excerpt: ""
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

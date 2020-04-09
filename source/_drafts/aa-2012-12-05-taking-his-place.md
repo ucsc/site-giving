@@ -3,9 +3,8 @@ id: 340
 title: Taking His Place
 #date: 2012-12-05T20:09:42+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image:
+excerpt: ""
+thumbnail_image:
 categories:
   - Student Profiles
 ---

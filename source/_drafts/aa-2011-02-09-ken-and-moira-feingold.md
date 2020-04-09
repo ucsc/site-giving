@@ -3,11 +3,10 @@ id: 146
 title: Ken and Moira Feingold
 #date: 2011-02-09T22:16:29+00:00
 layout: post
-excerpt:
-  - |
+excerpt: |
     We had the benefit of an incredible education at a fraction of what it truly costs to provide that education," said Moira Feingold (Cowell '72) in describing one of the reasons she and her husband, Ken (Cowell '71), support scholarships and the colleges at UC Santa Cruz. "College expenses have gone up so much, many families that could afford it in our day no longer can," adds Ken. "So by supporting scholarships, we want to encourage all those students to attend.
 
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

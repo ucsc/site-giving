@@ -7,12 +7,11 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - |
+excerpt: |
     Julie Packard (Crown '74, biology; M.A. '78) has a lifelong love of nature and biology.
     Recognizing the institution that nurtured her, she gave $1 million gift to establish the Dean's Fund for Diversity in the Sciences.
 
-#thumbnail_image: julie-packard.jpg
+thumbnail_image: julie-packard.jpg
 categories:
   - Donor Profiles
 ---

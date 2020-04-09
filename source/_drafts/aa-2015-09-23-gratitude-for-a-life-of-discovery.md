@@ -3,8 +3,7 @@ id: 257
 title: Gratitude for a life of discovery
 #date: 2015-09-23T19:51:15+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -15,7 +14,7 @@ see_also_links_1_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "2"
-#thumbnail_image: gutman.jpg
+thumbnail_image: gutman.jpg
 categories:
   - Donor Profiles
 ---

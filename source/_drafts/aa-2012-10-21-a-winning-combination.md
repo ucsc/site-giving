@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: soraya-danesh.jpg
+excerpt: ""
+thumbnail_image: soraya-danesh.jpg
 categories:
   - Student Profiles
 ---

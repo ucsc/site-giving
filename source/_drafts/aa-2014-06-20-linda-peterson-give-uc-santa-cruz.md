@@ -8,9 +8,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: linda-peterson.jpg
+excerpt: ""
+thumbnail_image: linda-peterson.jpg
 categories:
   - Donor Profiles
 ---

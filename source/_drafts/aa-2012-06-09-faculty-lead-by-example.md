@@ -3,12 +3,11 @@ id: 187
 title: Faculty lead by example
 #date: 2012-06-09T22:55:56+00:00
 layout: post
-excerpt:
-  - '100% of Environmental Studies faculty give to support experiential learning'
+excerpt: 100% of Environmental Studies faculty give to support experiential learning
 see_also:
   - title: Support Environmental Studies
     link: http://envs.ucsc.edu/support-us/
-#thumbnail_image: ehs-faculty.jpg
+thumbnail_image: ehs-faculty.jpg
 categories:
   - Donor Profiles
   - Featured

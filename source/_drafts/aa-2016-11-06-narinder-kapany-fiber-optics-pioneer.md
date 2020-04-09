@@ -3,8 +3,7 @@ id: 294
 title: Narinder Kapany, fiber-optics pioneer
 #date: 2016-11-06T16:07:03+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Narinder Kapany Chair in Opto-Electronics
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image:00.jpeg
+thumbnail_image:00.jpeg
 categories:
   - Donor Profiles
 ---

@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: a-decade-of-giving.jpg
+excerpt: ""
+thumbnail_image: a-decade-of-giving.jpg
 categories:
   - Donor Profiles
 ---

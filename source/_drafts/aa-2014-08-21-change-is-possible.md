@@ -3,9 +3,8 @@ id: 377
 title: '&#8216;Change is possible&#8217;'
 #date: 2014-08-21T21:41:33+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: arash-mohajerinejad.jpg
+excerpt: ""
+thumbnail_image: arash-mohajerinejad.jpg
 categories:
   - Student Profiles
 ---

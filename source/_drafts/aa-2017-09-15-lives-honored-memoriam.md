@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: campus-preserve-cropped.jpg
+excerpt: ""
+thumbnail_image: campus-preserve-cropped.jpg
 categories:
   - Campaign Impact
 ---

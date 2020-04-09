@@ -3,8 +3,7 @@ id: 393
 title: Rising to the challenge
 #date: 2015-11-23T22:12:50+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Profiles in Giving
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image: layla-cervantes-manel-camps-400.jpg
+thumbnail_image: layla-cervantes-manel-camps-400.jpg
 categories:
   - Student Profiles
 ---

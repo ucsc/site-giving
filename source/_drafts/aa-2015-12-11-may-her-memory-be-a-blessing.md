@@ -3,8 +3,7 @@ id: 273
 title: May her memory be a blessing
 #date: 2015-12-11T20:31:28+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Cantú Queer Center
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image: crair-400.jpg
+thumbnail_image: crair-400.jpg
 categories:
   - Donor Profiles
   - Featured

@@ -3,8 +3,7 @@ id: 291
 title: Resource for open source
 #date: 2016-01-24T16:03:40+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Profiles in Giving
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image: sageweil-350.jpg
+thumbnail_image: sageweil-350.jpg
 categories:
   - Donor Profiles
 ---

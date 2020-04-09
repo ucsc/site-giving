@@ -3,9 +3,8 @@ id: 330
 title: Committed to Public Service
 #date: 2011-02-24T19:51:01+00:00
 layout: post
-excerpt:
-  - Yethzéll Díaz wins inaugural award named in honor of UC Santa Cruz alumnus, slain congressional aide
-#thumbnail_image: diaz.jpg
+excerpt: Yethzéll Díaz wins inaugural award named in honor of UC Santa Cruz alumnus, slain congressional aide
+thumbnail_image: diaz.jpg
 categories:
   - Student Profiles
 ---

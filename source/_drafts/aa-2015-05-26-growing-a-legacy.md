@@ -3,8 +3,7 @@ id: 251
 title: Growing a legacy
 #date: 2015-05-26T19:11:59+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image: naraghi-sharon.jpg
+thumbnail_image: naraghi-sharon.jpg
 categories:
   - Donor Profiles
 ---

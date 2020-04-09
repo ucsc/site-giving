@@ -3,9 +3,8 @@ id: 367
 title: 'Don&#8217;t give up on your dreams'
 #date: 2014-03-25T21:31:54+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: Gemma_Garcia_sized_web.jpg
+excerpt: ""
+thumbnail_image: Gemma_Garcia_sized_web.jpg
 categories:
   - Student Profiles
 ---

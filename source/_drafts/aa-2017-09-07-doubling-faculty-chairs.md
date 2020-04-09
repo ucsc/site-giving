@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: double-down-chairs-cropped.jpg
+excerpt: ""
+thumbnail_image: double-down-chairs-cropped.jpg
 categories:
   - Campaign Impact
 ---

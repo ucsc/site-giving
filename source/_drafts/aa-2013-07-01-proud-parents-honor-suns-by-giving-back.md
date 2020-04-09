@@ -7,9 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - '<a name="crowe"></a>'
-#thumbnail_image: the-crowes.jpg
+thumbnail_image: the-crowes.jpg
 categories:
   - Donor Profiles
 ---

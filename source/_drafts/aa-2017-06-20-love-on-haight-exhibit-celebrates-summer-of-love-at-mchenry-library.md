@@ -11,8 +11,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 categories:
   - Featured
   - News

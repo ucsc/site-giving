@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -19,7 +18,7 @@ see_also_links_1_link_name:
   - Kenneth S. Norris Center for Natural History
 see_also_links_1_link_link:
   - https://norriscenter.ucsc.edu/education/natural-history-classes/nhfq/
-#thumbnail_image: UCSC_day2_UCOP-2.jpg
+thumbnail_image: UCSC_day2_UCOP-2.jpg
 categories:
   - Campaign Impact
 ---

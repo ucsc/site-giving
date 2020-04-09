@@ -8,9 +8,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: john-jordan.jpg
+excerpt: ""
+thumbnail_image: john-jordan.jpg
 categories:
   - Donor Profiles
 ---

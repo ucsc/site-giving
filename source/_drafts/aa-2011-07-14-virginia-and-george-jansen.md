@@ -3,13 +3,12 @@ id: 181
 title: Virginia and George Jansen
 #date: 2011-07-14T22:47:28+00:00
 layout: post
-excerpt:
-  - |
+excerpt: |
     Building a Legacy: How a UCSC Professor Is Providing for the Library
     
     
 
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

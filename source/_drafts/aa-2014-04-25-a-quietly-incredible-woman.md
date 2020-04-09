@@ -3,13 +3,12 @@ id: 225
 title: A quietly incredible woman
 #date: 2014-04-25T17:42:23+00:00
 layout: post
-excerpt:
-  - When alumnus Mark Headley and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.
+excerpt: When alumnus Mark Headley and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.
 author:
   - ""
 author_email:
   - ""
-#thumbnail_image: everett.jpg
+thumbnail_image: everett.jpg
 categories:
   - Donor Profiles
 ---

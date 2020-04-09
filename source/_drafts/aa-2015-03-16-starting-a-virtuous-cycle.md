@@ -3,8 +3,7 @@ id: 248
 title: Starting a virtuous cycle
 #date: 2015-03-16T19:07:39+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -23,7 +22,7 @@ see_also_links_3_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "4"
-#thumbnail_image: darren-shou-symantec-300.jpg
+thumbnail_image: darren-shou-symantec-300.jpg
 categories:
   - Donor Profiles
 ---

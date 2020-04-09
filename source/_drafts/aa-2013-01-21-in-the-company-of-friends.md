@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: neel2008.jpg
+excerpt: ""
+thumbnail_image: neel2008.jpg
 categories:
   - Donor Profiles
 ---

@@ -3,11 +3,10 @@ id: 175
 title: Joseph Bunnett
 #date: 2011-02-09T22:39:49+00:00
 layout: post
-excerpt:
-  - |
+excerpt: |
     It's a win-win situation," said professor of chemistry emeritus Joseph Bunnett of his planned gift to UC Santa Cruz. "To my way of thinking, it's hard to say whether it's a gift to this worthy institution, or an investment for my family.
 
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
   - Featured

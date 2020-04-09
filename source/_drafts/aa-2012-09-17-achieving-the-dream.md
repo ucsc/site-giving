@@ -3,9 +3,8 @@ id: 336
 title: Achieving the Dream
 #date: 2012-09-17T20:03:54+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: vassey.jpg
+excerpt: ""
+thumbnail_image: vassey.jpg
 categories:
   - Student Profiles
 ---

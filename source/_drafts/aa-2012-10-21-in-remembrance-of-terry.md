@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: terry_and_child.jpg
+excerpt: ""
+thumbnail_image: terry_and_child.jpg
 categories:
   - Donor Profiles
 ---

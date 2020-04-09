@@ -8,13 +8,12 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also:
   - title: UCSC Retirees Association
     link: http://retirees.ucsc.edu/scholarships/?ref=profiles
 
-#thumbnail_image: angela-austin.jpg
+thumbnail_image: angela-austin.jpg
 categories:
   - Donor Profiles
 ---

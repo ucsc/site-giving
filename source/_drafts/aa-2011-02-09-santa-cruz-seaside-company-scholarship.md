@@ -3,9 +3,8 @@ id: 129
 title: Santa Cruz Seaside Company Scholarship
 #date: 2011-02-09T20:17:14+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: charles-canfield.jpg
+excerpt: ""
+thumbnail_image: charles-canfield.jpg
 categories:
   - Donor Profiles
 ---

@@ -3,12 +3,11 @@ id: 383
 title: Pursuing science, technology, and transportation planning
 #date: 2015-02-18T21:56:31+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also:
   - title: Alumni Association Scholarship
     link: http://alumni.ucsc.edu/association/awards-programs/alumni-association-scholarship.html
-#thumbnail_image: Brandon-Vi-350.jpg
+thumbnail_image: Brandon-Vi-350.jpg
 categories:
   - Student Profiles
 ---

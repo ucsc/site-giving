@@ -8,8 +8,7 @@ author:
   - Tim Stephens
 author_email:
   - stephens@ucsc.edu
-excerpt:
-  - "The newest building on UCSC's vibrant Coastal Science Campus is now home to the Department of Ecology and Evolutionary Biology"
+excerpt: "The newest building on UCSC's vibrant Coastal Science Campus is now home to the Department of Ecology and Evolutionary Biology"
 categories:
   - News
 tags:

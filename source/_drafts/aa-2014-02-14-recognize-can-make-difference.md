@@ -3,8 +3,7 @@ id: 363
 title: '&#8220;I recognize I can make a difference&#8221;'
 #date: 2014-02-14T21:07:31+00:00
 layout: post
-excerpt:
-  - Student Carson Watts was the second winner of the Gabriel Zimmerman Memorial Scholarship, which supports students who are passionate about social issues and committed to public service.
+excerpt: Student Carson Watts was the second winner of the Gabriel Zimmerman Memorial Scholarship, which supports students who are passionate about social issues and committed to public service.
 see_also:
 see_also_links_0_link_name:
   - Gabriel Zimmerman Memorial Scholarship Fund
@@ -14,7 +13,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image: watts-carson-350.jpg
+thumbnail_image: watts-carson-350.jpg
 categories:
   - Student Profiles
 ---

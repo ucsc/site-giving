@@ -7,9 +7,8 @@ author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-excerpt:
-  - Popular music course established in memory of an alum will be taught by a visiting artist or scholar
-#thumbnail_image: mikewithguitar.jpg
+excerpt: Popular music course established in memory of an alum will be taught by a visiting artist or scholar
+thumbnail_image: mikewithguitar.jpg
 categories:
   - Donor Profiles
 ---

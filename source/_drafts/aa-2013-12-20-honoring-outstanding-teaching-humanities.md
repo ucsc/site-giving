@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - "The Dizikes teaching award—named for professor emeritus of American studies John Dizikes—celebrates the Humanities faculty's commitment to excellence in teaching and its impact on undergraduate students."
-#thumbnail_image: john-dizikes.jpg
+excerpt: "The Dizikes teaching award—named for professor emeritus of American studies John Dizikes—celebrates the Humanities faculty's commitment to excellence in teaching and its impact on undergraduate students."
+thumbnail_image: john-dizikes.jpg
 categories:
   - Donor Profiles
   - Student Profiles

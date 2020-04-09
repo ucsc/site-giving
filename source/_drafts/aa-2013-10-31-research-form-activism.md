@@ -3,9 +3,8 @@ id: 357
 title: Research as a Form of Activism
 #date: 2013-10-31T21:00:47+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image:
+excerpt: ""
+thumbnail_image:
 categories:
   - Student Profiles
 ---

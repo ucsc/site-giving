@@ -3,8 +3,7 @@ id: 212
 title: Love letter to McHenry Library
 #date: 2013-07-25T23:37:23+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also:
   - title: University Library
     link: http://library.ucsc.edu/
@@ -13,7 +12,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image: kirk-potola.jpg
+thumbnail_image: kirk-potola.jpg
 categories:
   - Donor Profiles
 ---

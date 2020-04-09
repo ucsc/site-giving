@@ -8,12 +8,11 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also:
   - title: $250,000 gift benefits Miriam Ellis International Playhouse
     link: https://news.ucsc.edu/2016/11/miriam-ellis-international-playhouse-endowment-feature.html
-#thumbnail_image: mirian-ellis.jpg
+thumbnail_image: mirian-ellis.jpg
 categories:
   - Donor Profiles
 ---

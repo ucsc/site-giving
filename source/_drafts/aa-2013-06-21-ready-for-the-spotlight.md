@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: attat.jpg
+excerpt: ""
+thumbnail_image: attat.jpg
 categories:
   - Donor Profiles
 ---

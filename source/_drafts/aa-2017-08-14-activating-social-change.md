@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Everett Program
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_1_link_link:
   - https://gailproject.ucsc.edu/
 see_also_links:
   - "2"
-#thumbnail_image: UCSC_day3-021.jpg
+thumbnail_image: UCSC_day3-021.jpg
 categories:
   - Campaign Impact
 ---

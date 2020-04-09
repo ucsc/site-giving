@@ -3,9 +3,8 @@ id: 322
 title: Creating Art
 #date: 2011-02-09T19:22:13+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: bonilla-art.jpg
+excerpt: ""
+thumbnail_image: bonilla-art.jpg
 categories:
   - Student Profiles
 ---

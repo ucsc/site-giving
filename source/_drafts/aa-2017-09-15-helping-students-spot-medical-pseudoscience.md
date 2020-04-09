@@ -7,9 +7,8 @@ author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-excerpt:
-  - A popular new class made possible by a donor delves into history, psychology, chemistry, ethics, and—yes—medicine, exploring the limits and potentials of health care
-#thumbnail_image: greggatesmd1.jpg
+excerpt: A popular new class made possible by a donor delves into history, psychology, chemistry, ethics, and—yes—medicine, exploring the limits and potentials of health care
+thumbnail_image: greggatesmd1.jpg
 categories:
   - Donor Profiles
 ---

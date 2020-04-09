@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - A word with Stephanie Harkness, UC Santa Cruz Foundation Board member
-#thumbnail_image: Ian-martin-wedding.jpg
+excerpt: A word with Stephanie Harkness, UC Santa Cruz Foundation Board member
+thumbnail_image: Ian-martin-wedding.jpg
 categories:
   - Donor Profiles
 ---

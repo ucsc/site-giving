@@ -3,8 +3,7 @@ id: 199
 title: Computer pioneer honors wife and grandson with scholarship
 #date: 2013-05-14T23:23:44+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "4"
 see_also_links_0_link_name:
@@ -27,7 +26,7 @@ author:
   - Denise Lee
 author_email:
   - gwenj@ucsc.edu
-#thumbnail_image: kolsky-harwood-frances.jpg
+thumbnail_image: kolsky-harwood-frances.jpg
 categories:
   - Donor Profiles
 ---

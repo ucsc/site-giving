@@ -6,7 +6,7 @@ layout: post
 see_also:
   - title: ACCESS Scholars
     link: http://ua.soe.ucsc.edu/scholarships/access
-#thumbnail_image: yemane.jpg
+thumbnail_image: yemane.jpg
 categories:
   - Student Profiles
 ---

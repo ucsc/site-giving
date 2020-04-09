@@ -3,9 +3,8 @@ id: 313
 title: Starting a Career
 #date: 2011-02-09T17:22:56+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: vendt-pearce.jpg
+excerpt: ""
+thumbnail_image: vendt-pearce.jpg
 categories:
   - Student Profiles
 ---

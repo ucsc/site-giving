@@ -3,13 +3,12 @@ id: 154
 title: William Alfred Chavez
 #date: 2011-02-09T22:21:50+00:00
 layout: post
-excerpt:
-  - |
+excerpt: |
     It was the early ‘70s, and William Chavez was editor of City on a Hill Press student newspaper and active in the California farmworker organizing efforts.
     
     “The interaction and mentorship between the faculty and the students provided tremendous influence for a young man like my brother,” his sister Olivia Chavez said. “Think of it. He actually got Cesar Chavez to speak at the UCSC Arts & Lectures series.”
 
-#thumbnail_image: chavez.jpg
+thumbnail_image: chavez.jpg
 categories:
   - Donor Profiles
   - Featured

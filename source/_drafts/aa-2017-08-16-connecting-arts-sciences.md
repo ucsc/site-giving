@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Institute of the Arts and Sciences
 see_also_links_0_link_link:
@@ -23,7 +22,7 @@ see_also_links_2_link_link:
   - http://ias.ucsc.edu/content/2015/artist-residence-russell-crotty
 see_also_links:
   - "3"
-#thumbnail_image: connecting-arts-sciences-cropped.jpg
+thumbnail_image: connecting-arts-sciences-cropped.jpg
 categories:
   - Campaign Impact
 ---

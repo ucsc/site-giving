@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - Senior engineering students create design projects to address real-world problems—some with sponsorships from high-profile companies
-#thumbnail_image: engineering.jpg
+excerpt: Senior engineering students create design projects to address real-world problems—some with sponsorships from high-profile companies
+thumbnail_image: engineering.jpg
 categories:
   - Student Profiles
 ---

@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: webster.jpg
+excerpt: ""
+thumbnail_image: webster.jpg
 categories:
   - Donor Profiles
 ---

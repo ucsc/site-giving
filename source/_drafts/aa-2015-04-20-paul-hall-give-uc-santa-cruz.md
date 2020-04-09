@@ -8,9 +8,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - "A word with Paul J. Hall (Merrill '72)"
-#thumbnail_image: paul-hall.jpg
+excerpt: "A word with Paul J. Hall (Merrill '72)"
+thumbnail_image: paul-hall.jpg
 categories:
   - Donor Profiles
 ---

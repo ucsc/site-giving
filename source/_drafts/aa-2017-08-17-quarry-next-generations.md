@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -19,7 +18,7 @@ see_also_links_1_link_name:
   - Restoring Quarry Glory
 see_also_links_1_link_link:
   - http://live-ucsc-giving.pantheonsite.io/donor-profiles/restoring-quarry-glory/
-#thumbnail_image: quarry-ret.jpg
+thumbnail_image: quarry-ret.jpg
 categories:
   - Campaign Impact
 ---

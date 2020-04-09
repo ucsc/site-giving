@@ -3,9 +3,8 @@ id: 349
 title: Overcoming the Odds
 #date: 2013-04-29T20:43:12+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: morales-juan.jpg
+excerpt: ""
+thumbnail_image: morales-juan.jpg
 categories:
   - Student Profiles
 ---

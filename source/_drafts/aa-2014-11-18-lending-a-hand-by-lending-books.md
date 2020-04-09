@@ -3,8 +3,7 @@ id: 235
 title: Lending a hand by lending books
 #date: 2014-11-18T17:59:06+00:00
 layout: post
-excerpt:
-  - A generous grandmother inspired three of her grandkids to "pay it forward" and help low-income students get the books they need.
+excerpt: A generous grandmother inspired three of her grandkids to "pay it forward" and help low-income students get the books they need.
 see_also_links_0_link_name:
   - 2014 Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

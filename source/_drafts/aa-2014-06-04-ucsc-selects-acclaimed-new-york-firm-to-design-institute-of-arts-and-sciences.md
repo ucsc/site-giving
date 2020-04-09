@@ -5,7 +5,7 @@ title: UCSC selects acclaimed New York firm to design Institute of Arts and Scie
 author: raknight
 layout: post
 link_post: http://news.ucsc.edu/2014/06/architect-selection-institute.html?ref=campaign
-#thumbnail_image: natural-history-field-quarter.jpg
+thumbnail_image: natural-history-field-quarter.jpg
 categories:
   - News
 format: link

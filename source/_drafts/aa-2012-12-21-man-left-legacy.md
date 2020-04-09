@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: don-rothman.jpg
+excerpt: ""
+thumbnail_image: don-rothman.jpg
 categories:
   - Donor Profiles
 ---

@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: browns.jpg
+excerpt: ""
+thumbnail_image: browns.jpg
 categories:
   - Donor Profiles
 ---

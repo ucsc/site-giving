@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: sharing-a-love-marine-life.jpg
+excerpt: ""
+thumbnail_image: sharing-a-love-marine-life.jpg
 categories:
   - Donor Profiles
 ---

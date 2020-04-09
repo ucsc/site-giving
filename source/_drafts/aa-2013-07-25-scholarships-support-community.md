@@ -3,8 +3,7 @@ id: 355
 title: Scholarships support community
 #date: 2013-07-25T20:59:41+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also:
   - title: Learn more about the benefits of scholarships
     link: https://financialaid.ucsc.edu/types-of-aid/scholarships/index.html

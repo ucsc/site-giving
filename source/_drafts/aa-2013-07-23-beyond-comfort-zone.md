@@ -3,13 +3,12 @@ id: 352
 title: Beyond the Comfort Zone
 #date: 2013-07-23T20:51:34+00:00
 layout: post
-excerpt:
-  - With the help of an Irwin Project Grant, which funds student art projects on campus, art and psychology major Josh Katz launched a new trajectory of art-making.
+excerpt: With the help of an Irwin Project Grant, which funds student art projects on campus, art and psychology major Josh Katz launched a new trajectory of art-making.
 author:
   - ""
 author_email:
   - ""
-#thumbnail_image: josh.jpg
+thumbnail_image: josh.jpg
 categories:
   - Student Profiles
 ---

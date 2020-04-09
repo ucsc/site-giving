@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - UCSC Genomics Institute
 see_also_links_0_link_link:
@@ -23,7 +22,7 @@ see_also_links_2_link_link:
   - https://www.humancellatlas.org/
 see_also_links:
   - "3"
-#thumbnail_image: UCSC_day2_UCOP-36.jpg
+thumbnail_image: UCSC_day2_UCOP-36.jpg
 categories:
   - Campaign Impact
 ---

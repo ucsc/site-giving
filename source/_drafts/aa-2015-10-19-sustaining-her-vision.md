@@ -3,8 +3,7 @@ id: 260
 title: Sustaining her vision
 #date: 2015-10-19T19:55:18+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -15,7 +14,7 @@ see_also_links_1_link_name:
   - The Campaign for UC Santa Cruz
 see_also_links_1_link_link:
   - http://campaign.ucsc.edu/
-#thumbnail_image: long-darrell.jpg
+thumbnail_image: long-darrell.jpg
 categories:
   - Donor Profiles
 ---

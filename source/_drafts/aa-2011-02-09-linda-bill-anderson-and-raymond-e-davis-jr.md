@@ -3,9 +3,8 @@ id: 178
 title: 'Linda &#038; Bill Anderson and Raymond E. Davis Jr.'
 #date: 2011-02-09T22:41:52+00:00
 layout: post
-excerpt:
-  - “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
-#thumbnail_image:
+excerpt: “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

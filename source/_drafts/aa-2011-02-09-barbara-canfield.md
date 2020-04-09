@@ -3,9 +3,8 @@ id: 160
 title: Barbara Canfield
 #date: 2011-02-09T22:27:28+00:00
 layout: post
-excerpt:
-  - When UCSC Foundation trustee Barbara Canfield made a gift of stock to UCSC’s Soroptimist International of Santa Cruz Endowment, her generous gift tripled the value of the fund. A supporter of Shakespeare Santa Cruz and the UCSC Affiliates for many years, Canfield made her contribution of appreciated assets to support students and to incorporate her philanthropic interests into her overall investment strategy.
-#thumbnail_image: canfield.jpg
+excerpt: When UCSC Foundation trustee Barbara Canfield made a gift of stock to UCSC’s Soroptimist International of Santa Cruz Endowment, her generous gift tripled the value of the fund. A supporter of Shakespeare Santa Cruz and the UCSC Affiliates for many years, Canfield made her contribution of appreciated assets to support students and to incorporate her philanthropic interests into her overall investment strategy.
+thumbnail_image: canfield.jpg
 categories:
   - Donor Profiles
 ---

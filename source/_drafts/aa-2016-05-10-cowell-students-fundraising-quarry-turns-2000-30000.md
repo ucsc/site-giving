@@ -3,8 +3,7 @@ id: 396
 title: Cowell students’ fundraising for Quarry turns $2,000 into $30,000
 #date: 2016-05-10T22:16:55+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Restoring the Quarry Amphitheater
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://cowell.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Student Profiles
 ---

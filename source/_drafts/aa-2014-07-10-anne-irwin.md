@@ -12,9 +12,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: irwin-anne.jpg
+excerpt: ""
+thumbnail_image: irwin-anne.jpg
 categories:
   - Donor Profiles
 tags:

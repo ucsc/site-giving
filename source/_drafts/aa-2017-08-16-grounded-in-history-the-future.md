@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -19,7 +18,7 @@ see_also_links_1_link_name:
   - Center for Agroecology and Sustainable Food Systems
 see_also_links_1_link_link:
   - https://casfs.ucsc.edu/
-#thumbnail_image: Hay-Barn-5-e1504818580783.jpg
+thumbnail_image: Hay-Barn-5-e1504818580783.jpg
 categories:
   - Campaign Impact
 ---

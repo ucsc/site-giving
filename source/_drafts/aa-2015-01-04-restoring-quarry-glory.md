@@ -3,8 +3,7 @@ id: 238
 title: Restoring quarry glory
 #date: 2015-01-04T18:03:50+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -19,7 +18,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

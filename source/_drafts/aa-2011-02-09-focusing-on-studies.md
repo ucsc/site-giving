@@ -3,9 +3,8 @@ id: 327
 title: Focusing on Studies
 #date: 2011-02-09T19:32:54+00:00
 layout: post
-excerpt:
-  - "Stella Wilson-Frey (College Eight '12, sociology) is the 2010-11 Santa Cruz Seaside Scholarship recipient."
-#thumbnail_image: wilson-frey-photo.jpg
+excerpt: "Stella Wilson-Frey (College Eight '12, sociology) is the 2010-11 Santa Cruz Seaside Scholarship recipient."
+thumbnail_image: wilson-frey-photo.jpg
 categories:
   - Student Profiles
 ---

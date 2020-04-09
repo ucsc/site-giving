@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - McHenry Library
 see_also_links_0_link_link:
@@ -23,7 +22,7 @@ see_also_links_2_link_link:
   - https://library.ucsc.edu/giving/endowments/pirkle-jones-and-ruth-marion-baruch-special-collections-photography-endowment
 see_also_links:
   - "3"
-#thumbnail_image: counterculture.jpg
+thumbnail_image: counterculture.jpg
 categories:
   - Campaign Impact
 ---

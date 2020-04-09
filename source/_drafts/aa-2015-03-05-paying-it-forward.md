@@ -3,8 +3,7 @@ id: 387
 title: Paying it forward
 #date: 2015-03-05T22:01:51+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Senior Legacy Fund
 see_also_links_0_link_link:
@@ -15,7 +14,7 @@ see_also_links_1_link_link:
   - 'https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=600&='
 see_also_links:
   - "2"
-#thumbnail_image: quan-tran-375.jpg
+thumbnail_image: quan-tran-375.jpg
 categories:
   - Student Profiles
 ---

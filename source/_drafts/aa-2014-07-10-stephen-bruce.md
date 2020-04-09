@@ -12,9 +12,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: review-spring-2011-bruce-stephen.jpg
+excerpt: ""
+thumbnail_image: review-spring-2011-bruce-stephen.jpg
 categories:
   - Donor Profiles
 tags:

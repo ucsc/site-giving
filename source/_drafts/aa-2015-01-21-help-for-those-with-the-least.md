@@ -3,8 +3,7 @@ id: 245
 title: Help for those with the least
 #date: 2015-01-21T18:24:28+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - 2014 Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

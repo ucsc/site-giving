@@ -3,8 +3,7 @@ id: 390
 title: Saving history
 #date: 2015-09-28T22:08:49+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Microbiologist and UCSC administrator Eugene Cota-Robles dies at age 86
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_2_link_link:
   - http://campaign.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image: jimiliz-375.jpg
+thumbnail_image: jimiliz-375.jpg
 categories:
   - Student Profiles
 ---

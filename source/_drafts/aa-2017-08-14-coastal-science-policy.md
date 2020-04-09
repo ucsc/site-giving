@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -19,7 +18,7 @@ see_also_links_1_link_name:
   - The Recharge Iniative
 see_also_links_1_link_link:
   - http://www.rechargeinitiative.org/
-#thumbnail_image: coastal-science-and-policy-cropped.jpg
+thumbnail_image: coastal-science-and-policy-cropped.jpg
 categories:
   - Campaign Impact
 ---

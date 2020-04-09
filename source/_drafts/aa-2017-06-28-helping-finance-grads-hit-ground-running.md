@@ -7,8 +7,7 @@ author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-excerpt:
-  - Economics Department and CAFIN hope to expand program aimed at helping students earn CFA
+excerpt: Economics Department and CAFIN hope to expand program aimed at helping students earn CFA
 see_also:
   - title: More information about CAFIN
     link: https://cafin.ucsc.edu/

@@ -3,9 +3,8 @@ id: 346
 title: I Promised Myself
 #date: 2012-12-11T20:41:35+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image:
+excerpt: ""
+thumbnail_image:
 categories:
   - Student Profiles
 ---

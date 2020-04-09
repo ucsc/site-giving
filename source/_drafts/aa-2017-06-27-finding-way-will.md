@@ -3,8 +3,7 @@ id: 306
 title: Finding a way through a will
 #date: 2017-06-27T16:32:30+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - "Alumni in Profile: Stephen Abreu's college career changed when he met professor Barry Bowman."
 see_also_links_0_link_link:
@@ -15,7 +14,7 @@ see_also_links_1_link_link:
   - https://giving.ucsc.edu/profiles/donors/morgan.html
 see_also_links:
   - "2"
-#thumbnail_image:
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

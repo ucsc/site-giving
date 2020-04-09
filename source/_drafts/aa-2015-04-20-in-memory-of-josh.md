@@ -8,9 +8,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation.
-#thumbnail_image: joshalper.jpg
+excerpt: The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation.
+thumbnail_image: joshalper.jpg
 categories:
   - Donor Profiles
 ---

@@ -3,9 +3,8 @@ id: 318
 title: Access to Opportunities
 #date: 2011-02-09T17:32:53+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: tolliver.jpg
+excerpt: ""
+thumbnail_image: tolliver.jpg
 categories:
   - Featured
   - Student Profiles

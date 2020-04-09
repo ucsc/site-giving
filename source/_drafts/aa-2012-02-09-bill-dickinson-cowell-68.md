@@ -3,12 +3,11 @@ id: 184
 title: 'Bill Dickinson (Cowell, &#8217;68)'
 #date: 2012-02-09T22:51:53+00:00 
 layout: post
-excerpt:
-  - Smith Renaissance Society supports achievement of independent students
+excerpt: Smith Renaissance Society supports achievement of independent students
 see_also:
   - title: Smith Renaissance Society supports achievement of independent students
     link: https://news.ucsc.edu/2012/02/smith-society.html
-#thumbnail_image: dickinson.jpg
+thumbnail_image: dickinson.jpg
 categories:
   - Donor Profiles
 ---

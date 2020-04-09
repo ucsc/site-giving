@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: hilary_van_hoose.jpg
+excerpt: ""
+thumbnail_image: hilary_van_hoose.jpg
 categories:
   - Donor Profiles
 ---

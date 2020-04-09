@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: raydon_alhubaishi.jpg
+excerpt: ""
+thumbnail_image: raydon_alhubaishi.jpg
 categories:
   - Student Profiles
 ---

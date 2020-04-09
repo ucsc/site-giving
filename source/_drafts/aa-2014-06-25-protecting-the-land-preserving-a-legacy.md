@@ -4,8 +4,7 @@ title: Protecting the land. Preserving a legacy.
 #date: 2014-06-25T17:47:36+00:00
 excerpt: A $2 million gift from the David and Lucile Packard Foundation honors the memory of Ken Norris, while helping to ensure that UCSC remains a leader in natural history programs.
 layout: post
-excerpt:
-  - A $2 million gift from the David and Lucile Packard Foundation honors the memory of Ken Norris, while helping to ensure that UCSC remains a leader in natural history programs.
+excerpt: A $2 million gift from the David and Lucile Packard Foundation honors the memory of Ken Norris, while helping to ensure that UCSC remains a leader in natural history programs.
 see_also_links_0_link_name:
   - 2014 Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -24,7 +23,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image: kenneth-norris.jpg
+thumbnail_image: kenneth-norris.jpg
 categories:
   - Donor Profiles
 ---

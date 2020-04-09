@@ -3,8 +3,7 @@ id: 254
 title: 'Ricky Bluthenthal: Why do I give to UC Santa Cruz?'
 #date: 2015-07-29T19:45:50+00:00
 layout: post
-excerpt:
-  - A word with Ricky Bluthenthal, UC Santa Cruz Foundation Board member
+excerpt: A word with Ricky Bluthenthal, UC Santa Cruz Foundation Board member
 see_also_links_0_link_name:
   - Annual Report on Philanthropy
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ author:
   - ""
 author_email:
   - ""
-#thumbnail_image: bluthenthal-ricky.jpg
+thumbnail_image: bluthenthal-ricky.jpg
 categories:
   - Donor Profiles
 ---

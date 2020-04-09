@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: braga-brannan.jpg
+excerpt: ""
+thumbnail_image: braga-brannan.jpg
 categories:
   - Donor Profiles
 ---

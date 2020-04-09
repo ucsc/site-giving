@@ -7,14 +7,13 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Rachel Carson College
 see_also_links_0_link_link:
   - https://rachelcarson.ucsc.edu/
 see_also:
-#thumbnail_image: NYC61956.jpg
+thumbnail_image: NYC61956.jpg
 categories:
   - Campaign Impact
 ---

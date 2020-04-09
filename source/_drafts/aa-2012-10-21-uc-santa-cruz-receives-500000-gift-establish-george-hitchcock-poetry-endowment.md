@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: george-hitchcock.jpg
+excerpt: ""
+thumbnail_image: george-hitchcock.jpg
 categories:
   - Donor Profiles
 ---

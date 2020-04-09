@@ -7,12 +7,11 @@ author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-excerpt:
-  - 'Hierarchical Systems Research Foundation offers $100,000 to match donations supporting scientific research by undergraduates '
+excerpt: Hierarchical Systems Research Foundation offers $100,000 to match donations supporting scientific research by undergraduates
 see_also:
   - title: Learn how to participate in crowdfunding
     link: https://crowdfund.ucsc.edu/fall-into-philanthropy/Learn-more.html
-#thumbnail_image: abuhashmeh_poster-1.jpg
+thumbnail_image: abuhashmeh_poster-1.jpg
 categories:
   - Featured
   - News

@@ -12,9 +12,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: chancellor-baskins-sbd-350.jpg
+excerpt: ""
+thumbnail_image: chancellor-baskins-sbd-350.jpg
 categories:
   - Donor Profiles
 tags:

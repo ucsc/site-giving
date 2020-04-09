@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Dreamweavers Fund
 see_also_links_0_link_link:
@@ -23,7 +22,7 @@ see_also_links_2_link_link:
   - https://queer.ucsc.edu/
 see_also_links:
   - "3"
-#thumbnail_image: network-of-inclusion-cropped.jpg
+thumbnail_image: network-of-inclusion-cropped.jpg
 categories:
   - Campaign Impact
 ---

@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
-#thumbnail_image: xochitil.jpg
+excerpt: ""
+thumbnail_image: xochitil.jpg
 categories:
   - Student Profiles
 ---

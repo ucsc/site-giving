@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -19,7 +18,7 @@ see_also_links_1_link_name:
   - Dickens Universe
 see_also_links_1_link_link:
   - https://dickens.ucsc.edu/universe/
-#thumbnail_image: UCSC_UCOP_day1-68.jpg
+thumbnail_image: UCSC_UCOP_day1-68.jpg
 categories:
   - Campaign Impact
 ---

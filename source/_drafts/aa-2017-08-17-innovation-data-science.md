@@ -7,8 +7,7 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - Center for Research in Open Source Software
 see_also_links_0_link_link:
@@ -19,7 +18,7 @@ see_also_links_1_link_link:
   - https://news.ucsc.edu/2015/05/data-science-center.html
 see_also_links:
   - "2"
-#thumbnail_image: UCSC_day2-83.jpg
+thumbnail_image: UCSC_day2-83.jpg
 categories:
   - Campaign Impact
 ---

@@ -3,9 +3,8 @@ id: 380
 title: Saving a dying language
 #date: 2014-10-22T21:49:11+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: Scarlett-Clothier-350.jpg
+excerpt: ""
+thumbnail_image: Scarlett-Clothier-350.jpg
 categories:
   - Student Profiles
 ---

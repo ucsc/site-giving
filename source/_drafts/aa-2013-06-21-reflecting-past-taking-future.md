@@ -7,9 +7,8 @@ author:
   - ""
 author_email:
   - ""
-excerpt:
-  - The 10th Annual Scholarship Benefit Dinner celebrates a decade of community achievement and generosity.
-#thumbnail_image: image-21.jpg
+excerpt: The 10th Annual Scholarship Benefit Dinner celebrates a decade of community achievement and generosity.
+thumbnail_image: image-21.jpg
 categories:
   - Videos
 ---

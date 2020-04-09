@@ -3,9 +3,8 @@ id: 141
 title: Sandra Frausto
 #date: 2011-02-09T22:12:55+00:00
 layout: post
-excerpt:
-  - Sandra wanted to be a teacher,” said Elizabeth Rojo, remembering her sister’s aspirations. “She saw how hard our mother worked to put all eight of us through school and how important our education was to her. For Sandra, there was never any question that she would go on to college.
-#thumbnail_image:
+excerpt: Sandra wanted to be a teacher,” said Elizabeth Rojo, remembering her sister’s aspirations. “She saw how hard our mother worked to put all eight of us through school and how important our education was to her. For Sandra, there was never any question that she would go on to college.
+thumbnail_image:
 categories:
   - Donor Profiles
 ---

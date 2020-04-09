@@ -3,9 +3,8 @@ id: 370
 title: Poetry in motion
 #date: 2014-05-08T21:36:45+00:00
 layout: post
-excerpt:
-  - ""
-#thumbnail_image: Autumn-Johnson.jpg
+excerpt: ""
+thumbnail_image: Autumn-Johnson.jpg
 categories:
   - Student Profiles
 ---

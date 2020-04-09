@@ -3,8 +3,7 @@ id: 374
 title: '&#8216;Medicine wasn&#8217;t enough&#8217;'
 #date: 2014-07-21T21:38:08+00:00
 layout: post
-excerpt:
-  - ""
+excerpt: ""
 see_also_links_0_link_name:
   - STEM Diversity Programs
 see_also_links_0_link_link:
@@ -15,7 +14,7 @@ see_also_links_1_link_link:
   - http://www.metx.ucsc.edu/research/ottemann.html
 see_also_links:
   - "2"
-#thumbnail_image: sindy-ramirez.jpg
+thumbnail_image: sindy-ramirez.jpg
 categories:
   - Student Profiles
 ---
