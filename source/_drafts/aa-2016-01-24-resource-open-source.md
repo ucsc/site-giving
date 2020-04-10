@@ -4,20 +4,13 @@ title: Resource for open source
 #date: 2016-01-24T16:03:40+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Profiles in Giving
-see_also_links_0_link_link:
-  - http://profiles.giving.ucsc.edu/
-see_also_links_1_link_name:
-  - 'News: Gifts from alum Sage Weil provide $3 million for open source research at UC Santa Cruz'
-see_also_links_1_link_link:
-  - http://news.ucsc.edu/2015/05/sage-weil-gifts.html
-see_also_links_2_link_name:
-  - The Campaign for UC Santa Cruz
-see_also_links_2_link_link:
-  - http://campaign.ucsc.edu/
-see_also_links:
-  - "3"
+see_also:
+	- title: Profiles in Giving
+		link: http://profiles.giving.ucsc.edu/
+	- title: 'News: Gifts from alum Sage Weil provide $3 million for open source research at UC Santa Cruz'
+		link: http://news.ucsc.edu/2015/05/sage-weil-gifts.html
+	- title: The Campaign for UC Santa Cruz
+		link: http://campaign.ucsc.edu/
 thumbnail_image: sageweil-350.jpg
 categories:
   - Donor Profiles

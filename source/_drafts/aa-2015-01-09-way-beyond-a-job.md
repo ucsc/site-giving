@@ -5,18 +5,11 @@ title: Way beyond a job
 excerpt: "UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986."
 layout: post
 excerpt: "UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986."
-see_also_links_0_link_name:
-  - Sparking a relationship between art and science
-see_also_links_0_link_link:
-  - https://giving.ucsc.edu/reports/2012-13/articles/connecting-112013.php
-see_also_links:
-  - "2"
-
-
-see_also_links_1_link_name:
-  - 2013 Annual Report on Philanthropy
-see_also_links_1_link_link:
-  - http://giving.ucsc.edu/reports/2012-13/index.php
+see_also:
+	- title: Sparking a relationship between art and science
+		link: https://giving.ucsc.edu/reports/2012-13/articles/connecting-112013.php
+	- title: 2013 Annual Report on Philanthropy
+		link: http://giving.ucsc.edu/reports/2012-13/index.php
 thumbnail_image:
 categories:
   - Donor Profiles

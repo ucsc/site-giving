@@ -4,20 +4,13 @@ title: Putting genomics to work
 #date: 2017-08-17T16:00:25+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - UCSC Genomics Institute
-see_also_links_0_link_link:
-  - https://ucscgenomics.soe.ucsc.edu/
-see_also_links_1_link_name:
-  - Treehouse Childhood Cancer Initiative
-see_also_links_1_link_link:
-  - https://treehousegenomics.soe.ucsc.edu/
-see_also_links_2_link_name:
-  - Human Cell Atlas
-see_also_links_2_link_link:
-  - https://www.humancellatlas.org/
-see_also_links:
-  - "3"
+see_also:
+	- title: UCSC Genomics Institute
+		link: https://ucscgenomics.soe.ucsc.edu/
+	- title: Treehouse Childhood Cancer Initiative
+		link: https://treehousegenomics.soe.ucsc.edu/
+	- title: Human Cell Atlas
+		link: https://www.humancellatlas.org/
 thumbnail_image: UCSC_day2_UCOP-36.jpg
 categories:
   - Campaign Impact

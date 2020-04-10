@@ -4,16 +4,11 @@ title: Activating social change
 #date: 2017-08-14T16:57:11+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Everett Program
-see_also_links_0_link_link:
-  - http://www.everettprogram.org/
-see_also_links_1_link_name:
-  - The Gail Project
-see_also_links_1_link_link:
-  - https://gailproject.ucsc.edu/
-see_also_links:
-  - "2"
+see_also:
+	- title: Everett Program
+		link: http://www.everettprogram.org/
+	- title: The Gail Project
+		link: https://gailproject.ucsc.edu/
 thumbnail_image: UCSC_day3-021.jpg
 categories:
   - Campaign Impact

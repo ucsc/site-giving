@@ -4,20 +4,13 @@ title: Help for those with the least
 #date: 2015-01-21T18:24:28+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - 2014 Annual Report on Philanthropy
-see_also_links_0_link_link:
-  - http://giving.ucsc.edu/reports/2012-13/index.php
-see_also_links_1_link_name:
-  - "Arts Dean's Fund for Excellence"
-see_also_links_1_link_link:
-  - http://arts.ucsc.edu/funding/arts-deans-fund-for-excellence
-see_also_links_2_link_name:
-  - The Campaign for UC Santa Cruz
-see_also_links_2_link_link:
-  - http://campaign.ucsc.edu/
-see_also_links:
-  - "3"
+see_also:
+	- title: 2014 Annual Report on Philanthropy
+		link: http://giving.ucsc.edu/reports/2012-13/index.php
+	- title: "Arts Dean's Fund for Excellence"
+		link: http://arts.ucsc.edu/funding/arts-deans-fund-for-excellence
+	- title: The Campaign for UC Santa Cruz
+		link: http://campaign.ucsc.edu/
 thumbnail_image:
 categories:
   - Donor Profiles

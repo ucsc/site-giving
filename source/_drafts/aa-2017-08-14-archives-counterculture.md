@@ -4,20 +4,13 @@ title: Archives of the counterculture
 #date: 2017-08-14T17:23:35+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - McHenry Library
-see_also_links_0_link_link:
-  - https://library.ucsc.edu/mchenry-library
-see_also_links_1_link_name:
-  - Grateful Dead Archive
-see_also_links_1_link_link:
-  - https://library.ucsc.edu/grateful-dead-archive
-see_also_links_2_link_name:
-  - Pirkle Jones and Ruth-Marion Baruch Special Collections Photography Endowment
-see_also_links_2_link_link:
-  - https://library.ucsc.edu/giving/endowments/pirkle-jones-and-ruth-marion-baruch-special-collections-photography-endowment
-see_also_links:
-  - "3"
+	- title: McHenry Library
+		link: https://library.ucsc.edu/mchenry-library
+	- title: Grateful Dead Archive
+		link: https://library.ucsc.edu/grateful-dead-archive
+	- title: Pirkle Jones and Ruth-Marion Baruch Special Collections Photography Endowment
+		link: https://library.ucsc.edu/giving/endowments/pirkle-jones-and-ruth-marion-baruch-special-collections-photography-endowment
+see_also:
 thumbnail_image: counterculture.jpg
 categories:
   - Campaign Impact

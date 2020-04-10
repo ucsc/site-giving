@@ -4,20 +4,13 @@ title: A network of inclusion
 #date: 2017-08-17T15:53:01+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Dreamweavers Fund
-see_also_links_0_link_link:
-  - 'https://eop.ucsc.edu/undocumented_student_services/Dreamers%20%20Fund.html'
-see_also_links_1_link_name:
-  - Smith Renaissance Society
-see_also_links_1_link_link:
-  - https://smithsociety.ucsc.edu/
-see_also_links_2_link_name:
-  - Lionel Cantú Queer Center
-see_also_links_2_link_link:
-  - https://queer.ucsc.edu/
-see_also_links:
-  - "3"
+see_also:
+	- title: Dreamweavers Fund
+link: 'https://eop.ucsc.edu/undocumented_student_services/Dreamers%20%20Fund.html'
+	- title: Smith Renaissance Society
+		link: https://smithsociety.ucsc.edu/
+	- title: Lionel Cantú Queer Center
+		link: https://queer.ucsc.edu/
 thumbnail_image: network-of-inclusion-cropped.jpg
 categories:
   - Campaign Impact

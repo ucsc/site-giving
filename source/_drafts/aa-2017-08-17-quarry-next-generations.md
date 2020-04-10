@@ -4,16 +4,11 @@ title: The Quarry, next generation
 #date: 2017-08-17T16:03:29+00:00
 layout: post
 excerpt: ""
-see_also_links:
-  - "2"
-see_also_links_0_link_name:
-  - Cowell students’ fundraising for Quarry turns $2,000 into $30,000
-see_also_links_0_link_link:
-  - http://live-ucsc-giving.pantheonsite.io/student-profiles/cowell-students-fundraising-quarry-turns-2000-30000/
-see_also_links_1_link_name:
-  - Restoring Quarry Glory
-see_also_links_1_link_link:
-  - http://live-ucsc-giving.pantheonsite.io/donor-profiles/restoring-quarry-glory/
+see_also:
+	- title: Cowell students’ fundraising for Quarry turns $2,000 into $30,000
+		link: http://live-ucsc-giving.pantheonsite.io/student-profiles/cowell-students-fundraising-quarry-turns-2000-30000/
+	- title: Restoring Quarry Glory
+		link: http://live-ucsc-giving.pantheonsite.io/donor-profiles/restoring-quarry-glory/
 thumbnail_image: quarry-ret.jpg
 categories:
   - Campaign Impact

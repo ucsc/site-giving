@@ -4,16 +4,11 @@ title: Paying it forward
 #date: 2015-03-05T22:01:51+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Senior Legacy Fund
-see_also_links_0_link_link:
-  - http://giving.ucsc.edu/studentgiving/seniorlegacy/index.html
-see_also_links_1_link_name:
-  - Give Now to the Senior Legacy Fund
-see_also_links_1_link_link:
-  - 'https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=600&='
-see_also_links:
-  - "2"
+see_also:
+	- title: Senior Legacy Fund
+		link: http://giving.ucsc.edu/studentgiving/seniorlegacy/index.html
+	- title: Give Now to the Senior Legacy Fund
+link: 'https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=600&='
 thumbnail_image: quan-tran-375.jpg
 categories:
   - Student Profiles

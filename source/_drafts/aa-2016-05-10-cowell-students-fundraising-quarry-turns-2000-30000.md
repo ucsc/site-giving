@@ -4,20 +4,13 @@ title: Cowell students’ fundraising for Quarry turns $2,000 into $30,000
 #date: 2016-05-10T22:16:55+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Restoring the Quarry Amphitheater
-see_also_links_0_link_link:
-  - http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/
-see_also_links_1_link_name:
-  - Your Quarry Stories
-see_also_links_1_link_link:
-  - http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/quarry-stories/
-see_also_links_2_link_name:
-  - Cowell College
-see_also_links_2_link_link:
-  - http://cowell.ucsc.edu/
-see_also_links:
-  - "3"
+see_also:
+	- title: Restoring the Quarry Amphitheater
+		link: http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/
+	- title: Your Quarry Stories
+		link: http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/quarry-stories/
+	- title: Cowell College
+		link: http://cowell.ucsc.edu/
 thumbnail_image:
 categories:
   - Student Profiles

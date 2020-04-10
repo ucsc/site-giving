@@ -4,19 +4,11 @@ title: Lending a hand by lending books
 #date: 2014-11-18T17:59:06+00:00
 layout: post
 excerpt: A generous grandmother inspired three of her grandkids to "pay it forward" and help low-income students get the books they need.
-see_also_links_0_link_name:
-  - 2014 Annual Report on Philanthropy
-see_also_links_0_link_link:
-  - http://giving.ucsc.edu/reports/2012-13/index.php
-see_also_links_1_link_name:
-  - EOP Textbook Lending Library
-see_also_links_1_link_link:
-  - http://eop.ucsc.edu/content/textbooks
-see_also_links:
-  - "2"
-
-
-thumbnail_image:
+see_also:
+	- title: 2014 Annual Report on Philanthropy
+		link: http://giving.ucsc.edu/reports/2012-13/index.php
+	- title: EOP Textbook Lending Library
+		link: http://eop.ucsc.edu/content/textbooksthumbnail_image:
 categories:
   - Donor Profiles
 ---

@@ -4,16 +4,11 @@ title: Gratitude for a life of discovery
 #date: 2015-09-23T19:51:15+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Annual Report on Philanthropy
-see_also_links_0_link_link:
-  - http://giving.ucsc.edu/reports/2013-14/index.php
-see_also_links_1_link_name:
-  - The Campaign for UC Santa Cruz
-see_also_links_1_link_link:
-  - http://campaign.ucsc.edu/
-see_also_links:
-  - "2"
+see_also:
+	- title: Annual Report on Philanthropy
+		link: http://giving.ucsc.edu/reports/2013-14/index.php
+	- title: The Campaign for UC Santa Cruz
+		link: http://campaign.ucsc.edu/
 thumbnail_image: gutman.jpg
 categories:
   - Donor Profiles

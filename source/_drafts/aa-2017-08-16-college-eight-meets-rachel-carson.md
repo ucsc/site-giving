@@ -4,11 +4,9 @@ title: College Eight meets Rachel Carson
 #date: 2017-08-16T17:47:28+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Rachel Carson College
-see_also_links_0_link_link:
-  - https://rachelcarson.ucsc.edu/
 see_also:
+	- title: Rachel Carson College
+		link: https://rachelcarson.ucsc.edu/
 thumbnail_image: NYC61956.jpg
 categories:
   - Campaign Impact

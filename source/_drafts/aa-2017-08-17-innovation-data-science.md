@@ -4,16 +4,11 @@ title: Innovation in data science
 #date: 2017-08-17T15:32:48+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Center for Research in Open Source Software
-see_also_links_0_link_link:
-  - https://cross.ucsc.edu/
-see_also_links_1_link_name:
-  - UC Santa Cruz plans Center of Excellence in Data Science Research
-see_also_links_1_link_link:
-  - https://news.ucsc.edu/2015/05/data-science-center.html
-see_also_links:
-  - "2"
+	- title: Center for Research in Open Source Software
+		link: https://cross.ucsc.edu/
+	- title: UC Santa Cruz plans Center of Excellence in Data Science Research
+		link: https://news.ucsc.edu/2015/05/data-science-center.html
+see_also:
 thumbnail_image: UCSC_day2-83.jpg
 categories:
   - Campaign Impact
