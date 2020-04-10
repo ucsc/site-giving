@@ -5,10 +5,10 @@ title: Restoring quarry glory
 layout: post
 excerpt: ""
 see_also:
-	- title: 2014 Annual Report on Philanthropy
-		link: http://giving.ucsc.edu/reports/2012-13/index.php
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: 2014 Annual Report on Philanthropy
+    link: http://giving.ucsc.edu/reports/2012-13/index.php
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image:
 categories:
   - Donor Profiles

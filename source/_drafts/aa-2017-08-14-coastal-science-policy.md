@@ -5,10 +5,10 @@ title: Coastal science and policy
 layout: post
 excerpt: ""
 see_also:
-	- title: The Graduate Program in Coastal Science and Policy
-		link: http://campaign.ucsc.edu/priorities/initiatives/coastal/
-	- title: The Recharge Iniative
-		link: http://www.rechargeinitiative.org/
+  - title: The Graduate Program in Coastal Science and Policy
+    link: http://campaign.ucsc.edu/priorities/initiatives/coastal/
+  - title: The Recharge Iniative
+    link: http://www.rechargeinitiative.org/
 thumbnail_image: coastal-science-and-policy-cropped.jpg
 categories:
   - Campaign Impact

@@ -5,12 +5,12 @@ title: Growing a legacy
 layout: post
 excerpt: ""
 see_also:
-	- title: Annual Report on Philanthropy
-		link: http://giving.ucsc.edu/reports/2013-14/index.php
-	- title: CASFS
-		link: http://casfs.ucsc.edu/
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Annual Report on Philanthropy
+    link: http://giving.ucsc.edu/reports/2013-14/index.php
+  - title: CASFS
+    link: http://casfs.ucsc.edu/
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: naraghi-sharon.jpg
 categories:
   - Donor Profiles

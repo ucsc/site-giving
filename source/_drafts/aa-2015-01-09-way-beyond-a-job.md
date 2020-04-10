@@ -6,10 +6,10 @@ excerpt: "UCSC's unique and groundbreaking Academic Excellence program has suppo
 layout: post
 excerpt: "UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986."
 see_also:
-	- title: Sparking a relationship between art and science
-		link: https://giving.ucsc.edu/reports/2012-13/articles/connecting-112013.php
-	- title: 2013 Annual Report on Philanthropy
-		link: http://giving.ucsc.edu/reports/2012-13/index.php
+  - title: Sparking a relationship between art and science
+    link: https://giving.ucsc.edu/reports/2012-13/articles/connecting-112013.php
+  - title: 2013 Annual Report on Philanthropy
+    link: http://giving.ucsc.edu/reports/2012-13/index.php
 thumbnail_image:
 categories:
   - Donor Profiles

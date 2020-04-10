@@ -4,7 +4,7 @@ title: Physicist Anthony Aguirre appointed to endowed chair in physics of inform
 #date: 2016-09-29T15:42:13+00:00
 author:
   - Joan Springhetti
- author_link:
+author_link:
   - jspringh@ucsc.edu
 layout: post
 link_post: http://news.ucsc.edu/2016/09/aguirre-appointment.html

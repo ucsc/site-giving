@@ -5,12 +5,12 @@ title: May her memory be a blessing
 layout: post
 excerpt: ""
 see_also:
-	- title: Cantú Queer Center
-		link: http://queer.ucsc.edu/
-	- title: Profiles in Giving
-		link: http://profiles.giving.ucsc.edu/
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Cantú Queer Center
+    link: http://queer.ucsc.edu/
+  - title: Profiles in Giving
+    link: http://profiles.giving.ucsc.edu/
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: crair-400.jpg
 categories:
   - Donor Profiles

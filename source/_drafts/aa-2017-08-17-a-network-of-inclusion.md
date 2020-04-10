@@ -5,12 +5,12 @@ title: A network of inclusion
 layout: post
 excerpt: ""
 see_also:
-	- title: Dreamweavers Fund
+  - title: Dreamweavers Fund
 link: 'https://eop.ucsc.edu/undocumented_student_services/Dreamers%20%20Fund.html'
-	- title: Smith Renaissance Society
-		link: https://smithsociety.ucsc.edu/
-	- title: Lionel Cantú Queer Center
-		link: https://queer.ucsc.edu/
+  - title: Smith Renaissance Society
+    link: https://smithsociety.ucsc.edu/
+  - title: Lionel Cantú Queer Center
+    link: https://queer.ucsc.edu/
 thumbnail_image: network-of-inclusion-cropped.jpg
 categories:
   - Campaign Impact

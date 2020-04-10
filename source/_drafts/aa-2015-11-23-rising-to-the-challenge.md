@@ -5,12 +5,12 @@ title: Rising to the challenge
 layout: post
 excerpt: ""
 see_also:
-	- title: Profiles in Giving
-		link: http://profiles.giving.ucsc.edu/
-	- title: Undergraduate Research Awards
-		link: https://ugr.ue.ucsc.edu/UCSC_undergrad_awards
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Profiles in Giving
+    link: http://profiles.giving.ucsc.edu/
+  - title: Undergraduate Research Awards
+    link: https://ugr.ue.ucsc.edu/UCSC_undergrad_awards
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: layla-cervantes-manel-camps-400.jpg
 categories:
   - Student Profiles

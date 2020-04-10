@@ -5,14 +5,14 @@ title: Starting a virtuous cycle
 layout: post
 excerpt: ""
 see_also:
-	- title: Annual Report on Philanthropy
-		link: http://giving.ucsc.edu/reports/2013-14/index.php
-	- title: Jack Baskin School of Engineering
-		link: https://www.soe.ucsc.edu/
-	- title: Symantec Presidential Chair in Storage and Security
-		link: http://news.ucsc.edu/2014/09/symantec-chair.html
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Annual Report on Philanthropy
+    link: http://giving.ucsc.edu/reports/2013-14/index.php
+  - title: Jack Baskin School of Engineering
+    link: https://www.soe.ucsc.edu/
+  - title: Symantec Presidential Chair in Storage and Security
+    link: http://news.ucsc.edu/2014/09/symantec-chair.html
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: darren-shou-symantec-300.jpg
 categories:
   - Donor Profiles

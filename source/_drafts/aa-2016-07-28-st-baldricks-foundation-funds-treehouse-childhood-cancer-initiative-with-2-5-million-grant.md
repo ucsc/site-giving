@@ -4,7 +4,7 @@ title: 'St. Baldrick&#039;s Foundation funds Treehouse Childhood Cancer Initiati
 #date: 2016-07-28T17:18:27+00:00
 author:
   - Joan Springhetti
- author_link:
+author_link:
   - jspringh@ucsc.edu
 layout: post
 link_post: http://news.ucsc.edu/2016/07/treehouse-grant.html

@@ -5,12 +5,12 @@ title: Saving history
 layout: post
 excerpt: ""
 see_also:
-	- title: Microbiologist and UCSC administrator Eugene Cota-Robles dies at age 86
-		link: http://news.ucsc.edu/2012/09/cota-robles.html
-	- title: Annual Report on Philanthropy
-		link: http://giving.ucsc.edu/reports/2013-14/index.php
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Microbiologist and UCSC administrator Eugene Cota-Robles dies at age 86
+    link: http://news.ucsc.edu/2012/09/cota-robles.html
+  - title: Annual Report on Philanthropy
+    link: http://giving.ucsc.edu/reports/2013-14/index.php
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: jimiliz-375.jpg
 categories:
   - Student Profiles

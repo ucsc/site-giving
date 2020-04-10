@@ -4,10 +4,10 @@ title: Innovation in data science
 #date: 2017-08-17T15:32:48+00:00
 layout: post
 excerpt: ""
-	- title: Center for Research in Open Source Software
-		link: https://cross.ucsc.edu/
-	- title: UC Santa Cruz plans Center of Excellence in Data Science Research
-		link: https://news.ucsc.edu/2015/05/data-science-center.html
+  - title: Center for Research in Open Source Software
+    link: https://cross.ucsc.edu/
+  - title: UC Santa Cruz plans Center of Excellence in Data Science Research
+    link: https://news.ucsc.edu/2015/05/data-science-center.html
 see_also:
 thumbnail_image: UCSC_day2-83.jpg
 categories:

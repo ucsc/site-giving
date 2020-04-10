@@ -5,10 +5,10 @@ title: 'Mary Doyle: Why do I give to UC Santa Cruz?'
 layout: post
 excerpt: A word with Mary E. Doyle, UC Santa Cruz Foundation president
 see_also:
-	- title: Profiles in Giving
-		link: http://profiles.giving.ucsc.edu/
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Profiles in Giving
+    link: http://profiles.giving.ucsc.edu/
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: mary-doyle-400.jpg
 categories:
   - Donor Profiles

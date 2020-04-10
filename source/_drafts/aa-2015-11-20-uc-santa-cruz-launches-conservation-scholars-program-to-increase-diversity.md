@@ -4,7 +4,7 @@ title: UC Santa Cruz launches conservation scholars program to increase diversit
 #date: 2015-11-20T15:16:33+00:00
 author:
   - Joan Springhetti
- author_link:
+author_link:
   - jspringh@ucsc.edu
 layout: post
 link_post: http://news.ucsc.edu/2015/11/conservation-scholars.html

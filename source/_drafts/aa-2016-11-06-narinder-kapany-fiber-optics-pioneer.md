@@ -5,10 +5,10 @@ title: Narinder Kapany, fiber-optics pioneer
 layout: post
 excerpt: ""
 see_also:
-	- title: Narinder Kapany Chair in Opto-Electronics
-		link: http://southasia.ucsc.edu/endowed-chairs/narinder-singh-kapany.html
-	- title: Narinder Kapany, Founder of Fiber Optics, Silicon Valley Historical Association (Video)
-		link: http://www.youtube.com/watch?v=m0KMesVVwwY
+  - title: Narinder Kapany Chair in Opto-Electronics
+    link: http://southasia.ucsc.edu/endowed-chairs/narinder-singh-kapany.html
+  - title: Narinder Kapany, Founder of Fiber Optics, Silicon Valley Historical Association (Video)
+    link: http://www.youtube.com/watch?v=m0KMesVVwwY
 thumbnail_image: 00.jpeg
 categories:
   - Donor Profiles

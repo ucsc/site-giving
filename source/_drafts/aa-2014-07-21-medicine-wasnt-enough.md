@@ -5,10 +5,10 @@ title: '&#8216;Medicine wasn&#8217;t enough&#8217;'
 layout: post
 excerpt: ""
 see_also:
-	- title: STEM Diversity Programs
-		link: http://stemdiv.ucsc.edu/imsd/
-	- title: Ottemann Lab
-		link: http://www.metx.ucsc.edu/research/ottemann.html
+  - title: STEM Diversity Programs
+    link: http://stemdiv.ucsc.edu/imsd/
+  - title: Ottemann Lab
+    link: http://www.metx.ucsc.edu/research/ottemann.html
 thumbnail_image: sindy-ramirez.jpg
 categories:
   - Student Profiles

@@ -5,10 +5,10 @@ title: Classrooms in the wild
 layout: post
 excerpt: ""
 see_also:
-	- title: UC Natural Reserve System
-		link: http://www.ucnrs.org/
-	- title: Kenneth S. Norris Center for Natural History
-		link: https://norriscenter.ucsc.edu/education/natural-history-classes/nhfq/
+  - title: UC Natural Reserve System
+    link: http://www.ucnrs.org/
+  - title: Kenneth S. Norris Center for Natural History
+    link: https://norriscenter.ucsc.edu/education/natural-history-classes/nhfq/
 thumbnail_image: UCSC_day2_UCOP-2.jpg
 categories:
   - Campaign Impact

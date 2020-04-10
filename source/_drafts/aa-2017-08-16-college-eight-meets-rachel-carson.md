@@ -5,8 +5,8 @@ title: College Eight meets Rachel Carson
 layout: post
 excerpt: ""
 see_also:
-	- title: Rachel Carson College
-		link: https://rachelcarson.ucsc.edu/
+  - title: Rachel Carson College
+    link: https://rachelcarson.ucsc.edu/
 thumbnail_image: NYC61956.jpg
 categories:
   - Campaign Impact

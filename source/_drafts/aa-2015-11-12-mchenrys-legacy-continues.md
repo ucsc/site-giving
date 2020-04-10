@@ -5,10 +5,10 @@ title: McHenry’s legacy continues
 layout: post
 excerpt: ""
 see_also:
-	- title: Annual Report on Philanthropy
-		link: http://giving.ucsc.edu/reports/2013-14/index.php
-	- title: The Campaign for UC Santa Cruz
-		link: http://campaign.ucsc.edu/
+  - title: Annual Report on Philanthropy
+    link: http://giving.ucsc.edu/reports/2013-14/index.php
+  - title: The Campaign for UC Santa Cruz
+    link: http://campaign.ucsc.edu/
 thumbnail_image: mchenry-500.jpg
 categories:
   - Donor Profiles

@@ -5,14 +5,14 @@ title: Computer pioneer honors wife and grandson with scholarship
 layout: post
 excerpt: ""
 see_also:
-	- title: Jack Baskin School of Engineering
-		link: http://www.soe.ucsc.edu/
-	- title: The Harwood G. Kolsky Papers, Computer History Museum
-		link: http://www.computerhistory.org/collections/accession/102658131
-	- title: The Forgotten Computer
-		link: http://www.hpcwire.com/hpcwire/2008-09-11/the_forgotten_computer.html
-	- title: "Fifty years later, IBM's inventors celebrate the 'Stretch'"
-		link: http://news.cnet.com/8301-10787_3-10039963-60.html
+  - title: Jack Baskin School of Engineering
+    link: http://www.soe.ucsc.edu/
+  - title: The Harwood G. Kolsky Papers, Computer History Museum
+    link: http://www.computerhistory.org/collections/accession/102658131
+  - title: The Forgotten Computer
+    link: http://www.hpcwire.com/hpcwire/2008-09-11/the_forgotten_computer.html
+  - title: "Fifty years later, IBM's inventors celebrate the 'Stretch'"
+    link: http://news.cnet.com/8301-10787_3-10039963-60.html
 author:
   - Denise Lee
 author_email:

@@ -4,7 +4,7 @@ title: Moore Foundation grant funds UC Santa Cruz groundwater sustainability pro
 #date: 2017-01-05T09:40:48+00:00
 author:
   - Joan Springhetti
- author_link:
+author_link:
   - jspringh@ucsc.edu
 layout: post
 link_post: http://news.ucsc.edu/2017/01/groundwater-sustainability.html

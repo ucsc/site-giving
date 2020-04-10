@@ -4,7 +4,7 @@ title: Colligan chair in pediatric genomics steps up the fight against childhood
 #date: 2016-12-14T11:43:52+00:00
 author:
   - Joan Springhetti
- author_link:
+author_link:
   - jspringh@ucsc.edu
 layout: post
 link_post: http://news.ucsc.edu/2016/12/pediatric-chair-endowment-story.html

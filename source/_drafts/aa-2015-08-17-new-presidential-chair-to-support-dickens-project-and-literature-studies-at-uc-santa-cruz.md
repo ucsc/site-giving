@@ -4,7 +4,7 @@ title: New Presidential Chair to support Dickens Project and Literature Studies 
 #date: 2015-08-17T11:56:39+00:00
 author:
   - Joan Springhetti
- author_link:
+author_link:
   - jspringh@ucsc.edu
 layout: post
 link_post: http://news.ucsc.edu/2015/07/dickens-presidential-chair.html
