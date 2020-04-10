@@ -4,20 +4,13 @@ title: Hellman family bestows boost for research
 #date: 2012-08-15T23:02:19+00:00
 layout: post
 excerpt: ""
-see_also_links_0_link_name:
-  - Gift establishes Hellman Fellows Program
-see_also_links_0_link_link:
-  - http://news.ucsc.edu/2011/04/hellman-fellows1.html
-see_also_links_1_link_name:
-  - UCSC Hellman Fellows Program
-see_also_links_1_link_link:
-  - http://academicaffairs.ucsc.edu/hellman/index.html
-see_also_links_2_link_name:
-  - Tribute to Warren Hellman
-see_also_links_2_link_link:
-  - http://www.baycitizen.org/obituaries/story/warren-hellman-dies-77/
-see_also_links:
-  - "3"
+see_also:
+  - title: Gift establishes Hellman Fellows Program
+    link: http://news.ucsc.edu/2011/04/hellman-fellows1.html
+  - title: UCSC Hellman Fellows Program
+    link: http://academicaffairs.ucsc.edu/hellman/index.html
+  - title: Tribute to Warren Hellman
+    link: http://www.baycitizen.org/obituaries/story/warren-hellman-dies-77/
 thumbnail_image: hellman.jpg
 categories:
   - Donor Profiles
