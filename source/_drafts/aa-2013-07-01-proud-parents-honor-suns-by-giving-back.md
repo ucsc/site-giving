@@ -2,7 +2,8 @@
 id: 2884
 title: Proud parents honor their sons by giving back
 #date: 2013-07-01T21:17:17+00:00
-layout: postthumbnail_image: the-crowes.jpg
+layout: post
+thumbnail_image: the-crowes.jpg
 categories:
   - Donor Profiles
 ---

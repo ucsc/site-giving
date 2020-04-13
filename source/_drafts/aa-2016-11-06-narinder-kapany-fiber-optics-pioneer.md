@@ -9,7 +9,7 @@ see_also:
     link: http://southasia.ucsc.edu/endowed-chairs/narinder-singh-kapany.html
   - title: Narinder Kapany, Founder of Fiber Optics, Silicon Valley Historical Association (Video)
     link: http://www.youtube.com/watch?v=m0KMesVVwwY
-thumbnail_image: 00.jpeg
+thumbnail_image: kapany-founders-200.jpeg
 categories:
   - Donor Profiles
 ---

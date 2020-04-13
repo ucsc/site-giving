@@ -1,5 +1,4 @@
 ---
-id: 517
 title: Connecting the arts and sciences
 #date: 2017-08-16T18:20:29+00:00
 layout: post
@@ -9,7 +8,7 @@ see_also:
     link: http://ias.ucsc.edu/
   - title: Crochet Coral Reef
     link: http://crochetcoralreef.org/
-  - title: "LOOK BACK IN TIME," RUSSELL CROTTY AND LICK OBSERVATORY AT THE SAN JOSE ICA
+  - title: _LOOK BACK IN TIME,_ RUSSELL CROTTY AND LICK OBSERVATORY AT THE SAN JOSE ICA
     link: http://ias.ucsc.edu/content/2015/artist-residence-russell-crotty
 thumbnail_image: connecting-arts-sciences-cropped.jpg
 categories:

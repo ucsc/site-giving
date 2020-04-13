@@ -8,7 +8,7 @@ see_also:
   - title: 2014 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
   - title: EOP Textbook Lending Library
-    link: http://eop.ucsc.edu/content/textbooksthumbnail_image:
+    link: http://eop.ucsc.edu/content/textbooksthumbnail_image
 categories:
   - Donor Profiles
 ---
