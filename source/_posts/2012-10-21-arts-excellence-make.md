@@ -1,15 +1,15 @@
 ---
 id: 3248
 title: Arts Excellence—make it so
-#date: 2012-10-21T17:12:17+00:00
+date: 2012-10-21T17:12:17+00:00
 layout: post
 excerpt: ""
 thumbnail_image: braga-brannan.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_2850" style="width: 177px" class="wp-caption alignright"><img class="wp-image-2850 size-medium" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2014/07/braga-brannan-177x300.jpg" alt="" width="177" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2014/07/braga-brannan-177x300.jpg 177w, https://ucsc-giving.lndo.site/wp-content/uploads/2014/07/braga-brannan.jpg 297w" sizes="(max-width: 177px) 100vw, 177px" /><figcaption class="wp-caption-text">Brannon Braga</figcaption></figure> 
-
+<figure class="inline-image right">
+{% asset braga-brannan.jpg magick:resize=300 alt="braga-brannan.jpg" %}<figcaption>Brannon Braga</figcaption></figure>
 Brannon Braga came up with some of his best ideas about &#8220;space, the final frontier&#8221; while walking through the woods of UC Santa Cruz.
 
 Now, Braga, a Star Trek franchise screenwriter and producer, hopes his recent $100,000 pledge to UCSC&#8217;s Arts Excellence Fund helps current and future Banana Slugs find their own way to inspiration.

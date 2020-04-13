@@ -1,15 +1,16 @@
 ---
 id: 346
 title: I Promised Myself
-#date: 2012-12-11T20:41:35+00:00
+date: 2012-12-11T20:41:35+00:00
 layout: post
 excerpt: ""
-thumbnail_image:
+thumbnail_image: xochitil.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_347" style="width: 233px" class="wp-caption alignright"><img class="size-full wp-image-347" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/xochitil.jpg" alt="xochitil" width="233" height="350" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/xochitil.jpg 233w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/xochitil-200x300.jpg 200w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Chemistry major Xochitl Rios  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset xochitil.jpg magick:resize=300 alt="xochitil" %}<figcaption>Chemistry major Xochitl Rios  
+(Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Xochitl Rios**  
  **Oakes College ’13**

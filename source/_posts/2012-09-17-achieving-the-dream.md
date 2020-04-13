@@ -1,15 +1,16 @@
 ---
 id: 336
 title: Achieving the Dream
-#date: 2012-09-17T20:03:54+00:00
+date: 2012-09-17T20:03:54+00:00
 layout: post
 excerpt: ""
 thumbnail_image: vassey.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_337" style="width: 350px" class="wp-caption alignright"><img class="size-full wp-image-337" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/vassey.jpg" alt="vassey" width="350" height="233" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/vassey.jpg 350w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/vassey-300x200.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /><figcaption class="wp-caption-text">Computer science and linguistics major Megan Vassey  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset vassey.jpg magick:resize=300 alt="vassey" %}<figcaption>Computer science and linguistics major Megan Vassey  
+(Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Megan Vassey**  
  **Crown College ’13**

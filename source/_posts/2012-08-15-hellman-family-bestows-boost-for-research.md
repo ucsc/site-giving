@@ -1,7 +1,7 @@
 ---
 id: 190
 title: Hellman family bestows boost for research
-#date: 2012-08-15T23:02:19+00:00
+date: 2012-08-15T23:02:19+00:00
 layout: post
 excerpt: ""
 see_also:
@@ -15,11 +15,8 @@ thumbnail_image: hellman.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_191" style="width: 262px" class="wp-caption alignright"><img class="size-full wp-image-191" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/hellman.jpg" alt="hellman.jpg" width="262" height="174" /><figcaption class="wp-caption-text">Warren Hellman  
-(Photo by Robert Houser)  
-The Hellman Fellows Program was established in 1995 by the Hellman family of San Francisco. It&#8217;s now in place at 13 institutions, including nine UC campuses.  
-The Hellman family started the program after observing that while junior faculty are often well-funded for research projects when first hired, they may be challenged after two or three years when start-up funding runs out before new grants are obtained. The program is designed to assist promising young faculty at this juncture in their careers.  
-Philanthropist Warren Hellman called the program &#8220;one of the best things my family has ever done with our giving.&#8221; Hellman passed away in December, 2011.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset hellman.jpg magick:resize=300 alt="hellman.jpg" %}<figcaption>Warren Hellman (Photo by Robert Houser) The Hellman Fellows Program was established in 1995 by the Hellman family of San Francisco. It&#8217;s now in place at 13 institutions, including nine UC campuses. The Hellman family started the program after observing that while junior faculty are often well-funded for research projects when first hired, they may be challenged after two or three years when start-up funding runs out before new grants are obtained. The program is designed to assist promising young faculty at this juncture in their careers. Philanthropist Warren Hellman called the program &#8220;one of the best things my family has ever done with our giving.&#8221; Hellman passed away in December, 2011.</figcaption></figure>
 
 Established in 2011 with a $625,000 gift, the UC Santa Cruz Hellman Fellows Program provides a substantial boost for talented junior faculty members who need research project funding.
 

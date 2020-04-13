@@ -1,15 +1,15 @@
 ---
 id: 193
-title: 'Jerry Ruiz is fulfilling his life&#8217;s mission'
-#date: 2012-11-06T23:18:19+00:00
+title: "Jerry Ruiz is fulfilling his life's mission"
+date: 2012-11-06T23:18:19+00:00
 layout: post
 excerpt: ""
-thumbnail_image:
+thumbnail_image: jerry-ruiz.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_194" style="width: 262px" class="wp-caption alignright"><img class="size-full wp-image-194" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/jerry-ruiz.jpg" alt="jerry-ruiz.jpg" width="262" height="175" /><figcaption class="wp-caption-text">Jerry Ruiz, Crown &#8217;77  
-UCSC Alumni Council President</figcaption></figure> 
+<figure class="inline-image right">
+{% asset jerry-ruiz.jpg magick:resize=300 alt="jerry-ruiz" %}<figcaption>Jerry Ruiz, Crown &#8217;77 UCSC Alumni Council President</figcaption></figure>
 
 It was Christmas and Jerry Ruiz’s mother had $10 to spend on presents for her children. It was a paltry sum for any mom tasked with playing Santa Claus but, in the case of Ruiz’ mother, it bordered on the impossible.
 

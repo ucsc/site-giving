@@ -1,13 +1,15 @@
 ---
 id: 2884
 title: Proud parents honor their sons by giving back
-#date: 2013-07-01T21:17:17+00:00
+date: 2013-07-01T21:17:17+00:00
 layout: post
+excerpt: ""
 thumbnail_image: the-crowes.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_2885" style="width: 297px" class="wp-caption alignright"><img class="size-full wp-image-2885" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/the-crowes.jpg" alt="" width="297" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/the-crowes.jpg 297w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/the-crowes-180x300.jpg 180w" sizes="(max-width: 297px) 100vw, 297px" /><figcaption class="wp-caption-text">Stephen and Linda Crowe</figcaption></figure> 
+<figure class="inline-image right">
+{% asset the-crowes.jpg magick:resize=300 alt="the-crowes" %}<figcaption>Stephen and Linda Crowe</figcaption></figure>
 
 Proud parents Stephen and Linda Crowe were looking for a meaningful and enduring way to honor their son, Jeremy, a fourth-year undergraduate student in UCSC&#8217;s computer science program.
 

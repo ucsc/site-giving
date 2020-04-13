@@ -1,14 +1,15 @@
 ---
 id: 3242
 title: Exploring the possibilities
-#date: 2012-10-21T16:59:31+00:00
+date: 2012-10-21T16:59:31+00:00
 layout: post
 excerpt: ""
 thumbnail_image: raydon_alhubaishi.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_3243" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-3243" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/raydon_alhubaishi-300x286.jpg" alt="" width="300" height="286" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/raydon_alhubaishi-300x286.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/raydon_alhubaishi.jpg 518w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Raydan Alhubaishi</figcaption></figure> 
+<figure class="inline-image right">
+{% asset raydon_alhubaishi.jpg magick:resize=300 alt="raydon_alhubaishi" %}<figcaption>Raydan Alhubaishi</figcaption></figure>
 
 Raydan Alhubaishi has lived in war and in exile. He has lived in a country riddled with injustice.  
 That&#8217;s why the 22-year-old, who came from the trouble-plagued country of Yemen, is studying political science at UC Santa Cruz.

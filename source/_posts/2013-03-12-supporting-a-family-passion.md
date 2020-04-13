@@ -1,7 +1,7 @@
 ---
 id: 196
 title: Supporting a family passion
-#date: 2013-03-12T23:20:31+00:00
+date: 2013-03-12T23:20:31+00:00
 layout: post
 excerpt: ""
 author:
@@ -15,8 +15,9 @@ thumbnail_image: holo.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_197" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-197" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/holo-300-rev-300x296.jpg" alt="holo-300-rev.jpg" width="300" height="296" /><figcaption class="wp-caption-text">Christine and Robert Holo  
-&#8220;Chris and I both have fond feelings for Santa Cruz, and we feel that much of the success we have today is attributable to the great and affordable education we got as undergraduates at UC Santa Cruz,&#8221; he said.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset holo.jpg magick:resize=300 alt="holo" %}<figcaption>Christine and Robert Holo  
+&#8220;Chris and I both have fond feelings for Santa Cruz, and we feel that much of the success we have today is attributable to the great and affordable education we got as undergraduates at UC Santa Cruz,&#8221; he said.</figcaption></figure>
 
 UC Santa Cruz alumni Christine and Robert Holo of New York City have made a major gift in support of the campus where they met as undergraduates, pledging $1 million to help fund a new education wing at the [Center for Ocean Health](https://ims.ucsc.edu/facilities/coastal-science-campus/ocean-health.html).
 

@@ -1,8 +1,9 @@
 ---
 id: 333
 title: Driven to Succeed
-#date: 2012-07-23T19:58:00+00:00
+date: 2012-07-23T19:58:00+00:00
 layout: post
+excerpt: ""
 see_also:
   - title: ACCESS Scholars
     link: http://ua.soe.ucsc.edu/scholarships/access
@@ -10,8 +11,8 @@ thumbnail_image: yemane.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_334" style="width: 350px" class="wp-caption alignright"><img class="size-full wp-image-334" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/yemane.jpg" alt="yemane" width="350" height="233" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/yemane.jpg 350w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/yemane-300x200.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /><figcaption class="wp-caption-text">Computer science major Sable Yemane  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset yemane.jpg magick:resize=300 alt="yemane.jpg" %}<figcaption>Computer science major Sable Yemane (Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Sable Yemane**
 

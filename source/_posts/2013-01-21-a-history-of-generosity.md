@@ -1,14 +1,15 @@
 ---
 id: 3223
 title: A history of generosity
-#date: 2013-01-21T16:27:36+00:00
+date: 2013-01-21T16:27:36+00:00
 layout: post
 excerpt: ""
 thumbnail_image: irwin-anne.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_3224" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-3224" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/irwin-anne-300x225.jpg" alt="" width="300" height="225" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/irwin-anne-300x225.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/irwin-anne.jpg 658w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Anne Irwin</figcaption></figure> 
+<figure class="inline-image right">
+{% asset irwin-anne.jpg magick:resize=300 alt="irwin-anne" %}<figcaption>Anne Irwin</figcaption></figure>
 
 Anne Irwin will never forget her 70th birthday celebration among the swell sharks and octopuses at the [Seymour Marine Discovery Center](https://seymourcenter.ucsc.edu/). It was a kind of homecoming for her.
 

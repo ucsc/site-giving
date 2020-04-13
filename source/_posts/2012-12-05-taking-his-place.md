@@ -1,15 +1,16 @@
 ---
 id: 340
 title: Taking His Place
-#date: 2012-12-05T20:09:42+00:00
+date: 2012-12-05T20:09:42+00:00
 layout: post
 excerpt: ""
-thumbnail_image:
+thumbnail_image: tello.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_341" style="width: 233px" class="wp-caption alignright"><img class="size-full wp-image-341" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/tello.jpg" alt="tello" width="233" height="350" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/tello.jpg 233w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/tello-200x300.jpg 200w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Literature major Frank Tello  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset tello.jpg magick:resize=300 alt="tello.jpg" %}<figcaption>Literature major Frank Tello  
+(Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Frank Tello**  
  **Cowell College ’13**

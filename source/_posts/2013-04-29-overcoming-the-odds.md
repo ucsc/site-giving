@@ -1,14 +1,15 @@
 ---
 id: 349
 title: Overcoming the Odds
-#date: 2013-04-29T20:43:12+00:00
+date: 2013-04-29T20:43:12+00:00
 layout: post
 excerpt: ""
 thumbnail_image: morales-juan.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_350" style="width: 300px" class="wp-caption alignright"><img class="size-full wp-image-350" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/morales-juan.jpg" alt="morales-juan" width="300" height="207" /><figcaption class="wp-caption-text">Juan Morales, whose family moved every six months to follow the crops, learned English by playing Pokemon. He is now studying computer science and video game design at UCSC. (Article by Peggy Townsend. Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset morales-juan.jpg magick:resize=300 alt="morales-juan" %}<figcaption>Juan Morales, whose family moved every six months to follow the crops, learned English by playing Pokemon. He is now studying computer science and video game design at UCSC. (Article by Peggy Townsend. Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Juan Morales**  
  **College Ten ’18**

@@ -1,7 +1,7 @@
 ---
 id: 187
 title: Faculty lead by example
-#date: 2012-06-09T22:55:56+00:00
+date: 2012-06-09T22:55:56+00:00
 layout: post
 excerpt: 100% of Environmental Studies faculty give to support experiential learning
 see_also:
@@ -12,7 +12,8 @@ categories:
   - Donor Profiles
   - Featured
 ---
-<figure id="attachment_188" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-188" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/ehs-faculty-300x149.jpg" alt="ehs-faculty.jpg" width="300" height="149" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/ehs-faculty-300x149.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/ehs-faculty.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Faculty and students in UCSC&#8217;s Environmental Studies department work to solve complex environmental problems.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset ehs-faculty.jpg magick:resize=300 alt="ehs-faculty" %}<figcaption>Faculty and students in UCSC&#8217;s Environmental Studies department work to solve complex environmental problems.</figcaption></figure>
 
 UCSC&#8217;s Environmental Studies faculty believe the future&#8217;s environmental problem-solvers must have immersive, hands-on learning. They know that students learn best when they leave the classroom behind and engage with the world.
 

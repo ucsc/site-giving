@@ -1,15 +1,16 @@
 ---
 id: 343
 title: A New Worldview
-#date: 2012-12-10T20:12:59+00:00
+date: 2012-12-10T20:12:59+00:00
 layout: post
 excerpt: ""
-thumbnail_image:
+thumbnail_image: raydon.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_344" style="width: 233px" class="wp-caption alignright"><img class="size-full wp-image-344" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/raydon.jpg" alt="raydon" width="233" height="350" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/raydon.jpg 233w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/raydon-200x300.jpg 200w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Political science major Raydan Alhubaishi  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset raydon.jpg magick:resize=300 alt="raydon.jpg" %}<figcaption>Political science major Raydan Alhubaishi  
+(Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Raydan Alhubaishi**  
  **Oakes College ’13**
