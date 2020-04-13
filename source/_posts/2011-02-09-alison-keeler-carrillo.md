@@ -1,14 +1,15 @@
 ---
 id: 157
 title: Alison Keeler Carrillo
-#date: 2011-02-09T22:25:14+00:00
+date: 2011-02-09T22:25:14+00:00
 layout: post
 excerpt: The legacy of artist and teacher Eduardo Carrillo continues to inspire and support students thanks to the generosity of his widow, Alison Keeler Carrillo, and other donors who have established a scholarship in his memory. “The scholarship is a way for Ed’s vision and values to be carried forward,” said Alison. “He did all kinds of things that really inspired his students to take their art seriously. He not only was a great painter, he was a great teacher.”
 thumbnail_image: carillo.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_158" style="width: 209px" class="wp-caption alignright"><img class="size-medium wp-image-158" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/carillo-209x300.jpg" alt="carillo.jpg" width="209" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/carillo-209x300.jpg 209w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/carillo.jpg 278w" sizes="(max-width: 209px) 100vw, 209px" /><figcaption class="wp-caption-text">The legacy of artist and teacher Eduardo Carrillo continues to inspire and support students thanks to the generosity of his widow, Alison Keeler Carrillo, and other donors who have established a scholarship in his memory.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset carillo.jpg magick:resize=300 alt="carillo" %}<figcaption>The legacy of artist and teacher Eduardo Carrillo continues to inspire and support students thanks to the generosity of his widow, Alison Keeler Carrillo, and other donors who have established a scholarship in his memory.</figcaption></figure>
 
 The Eduardo Carrillo Memorial Scholarship Fund was created with a lead gift from Alison’s mother, Florence Mithoefer. “I’m very grateful to my mother for doing that,” said Alison. “Although she wasn’t particularly wealthy, she was as generous as she could be.” Contributions from Alison, the Robert T. Keeler Foundation, and other donors have brought the endowment to nearly $250,000. The need-based scholarship provides funds to UC Santa Cruz art majors who have achieved high academic merit in painting, drawing, or sculpture. Scholarship recipients can use the funds as needed. Alison has continued to give to the fund. “I hope that the scholarship fund will continue to increase,” said Alison, “so that it can be significantly helpful to a larger number of people.&#8221;
 

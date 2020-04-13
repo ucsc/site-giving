@@ -1,7 +1,7 @@
 ---
 id: 318
 title: Access to Opportunities
-#date: 2011-02-09T17:32:53+00:00
+date: 2011-02-09T17:32:53+00:00
 layout: post
 excerpt: ""
 thumbnail_image: tolliver.jpg
@@ -9,10 +9,9 @@ categories:
   - Featured
   - Student Profiles
 ---
-<figure id="attachment_319" style="width: 387px" class="wp-caption alignright"><img class="size-full wp-image-319" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/tolliver.jpg" alt="tolliver" width="387" height="401" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/tolliver.jpg 387w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/tolliver-290x300.jpg 290w" sizes="(max-width: 387px) 100vw, 387px" /><figcaption class="wp-caption-text">Charles Tolliver, Jr.</figcaption></figure> 
-
+{% include image-alt-text.html %}
 <figure class="inline-image right">
-{% asset tolliver.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}<figcaption>Charles Tolliver, Jr.</figcaption></figure>
+{% asset tolliver.jpg magick:resize=300 alt="tolliver" %}<figcaption>Charles Tolliver, Jr.</figcaption></figure>
 
 “I focused more on my academics,” said Charles Tolliver Jr. (Merrill College), describing the impact scholarship support had on his studies at UC Santa Cruz. Tolliver was the first recipient of the Eric Thomas Memorial Scholarship, an award established to celebrate the life and achievements of the late alumnus. The scholarship recognizes and supports students who demonstrate community service.
 

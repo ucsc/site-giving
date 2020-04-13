@@ -1,7 +1,7 @@
 ---
 id: 150
 title: Allan J. Dyson
-#date: 2011-02-09T22:19:22+00:00
+date: 2011-02-09T22:19:22+00:00
 layout: post
 excerpt: |
     You can have a good public university based on what the state budget is, but you can't have a great public university without having the active involvement of donors in all sorts of areas, donors small and large," said Allan J. Dyson, University Librarian Emeritus of UC Santa Cruz.
@@ -10,7 +10,8 @@ thumbnail_image: dyson.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_151" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-151" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/dyson-300x218.jpg" alt="dyson.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/dyson-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/dyson.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Allan J. Dyson</figcaption></figure> 
+<figure class="inline-image right">
+{% asset dyson.jpg magick:resize=300 alt="dyson" %}<figcaption>Allan J. Dyson</figcaption></figure>
 
 Dyson has a personal perspective on both sides of the equation. During his nearly 25-year tenure he guided the University Library through major shifts in state support, while the number of UC Santa Cruz students doubled, the cost of library materials escalated, and information technology entered the digital age. He is also a committed UC Santa Cruz donor who has used the power of planned giving to link his name permanently with the forthcoming McHenry Library expansion and renovation.
 

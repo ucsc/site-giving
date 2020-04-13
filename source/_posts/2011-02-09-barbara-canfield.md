@@ -1,14 +1,15 @@
 ---
 id: 160
 title: Barbara Canfield
-#date: 2011-02-09T22:27:28+00:00
+date: 2011-02-09T22:27:28+00:00
 layout: post
 excerpt: When UCSC Foundation trustee Barbara Canfield made a gift of stock to UCSC’s Soroptimist International of Santa Cruz Endowment, her generous gift tripled the value of the fund. A supporter of Shakespeare Santa Cruz and the UCSC Affiliates for many years, Canfield made her contribution of appreciated assets to support students and to incorporate her philanthropic interests into her overall investment strategy.
 thumbnail_image: canfield.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_161" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-161" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/canfield-300x218.jpg" alt="canfield.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/canfield-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/canfield.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Foundation Trustee Barbara Canfield&#8217;s gift of securities allows her to incorporate her philanthropic interest in supporting UC Santa Cruz students with a tax-wise investment strategy.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset canfield.jpg magick:resize=300 alt="canfield" %}<figcaption>Foundation Trustee Barbara Canfield&#8217;s gift of securities allows her to incorporate her philanthropic interest in supporting UC Santa Cruz students with a tax-wise investment strategy.</figcaption></figure>
 
 “Because the cost basis for these stocks is so unbelievable, my financial adviser recommended that I divest myself of this particular security,” she said. By making a gift of highly appreciated stock Canfield removed her most tax-intensive and least advantageous assets from her estate. Instead of being taxed, the asset became an essential resource for programs she believes in.
 
