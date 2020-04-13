@@ -6,12 +6,13 @@ layout: post
 excerpt: |
     It's a win-win situation," said professor of chemistry emeritus Joseph Bunnett of his planned gift to UC Santa Cruz. "To my way of thinking, it's hard to say whether it's a gift to this worthy institution, or an investment for my family.
 
-thumbnail_image:
+thumbnail_image: bunnett.jpg
 categories:
   - Donor Profiles
   - Featured
 ---
-<figure id="attachment_176" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-176" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/bunnett-300x218.jpg" alt="bunnett.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/bunnett-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/bunnett.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Professor Emeritus of Chemistry Joe Bunnett believes in the power of planned giving.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset bunnett.jpg magick:resize=300 alt="tolliver" %}<figcaption>Professor Emeritus of Chemistry Joe Bunnett believes in the power of planned giving.</figcaption></figure>
 
 A member of the UC Santa Cruz campus since 1966, Bunnett established a charitable remainder unitrust (CRT). In this type of planned gift, assets are transferred to the UC Santa Cruz Foundation, which in return makes quarterly payments to the beneficiary for life, or the life of the trust. Upon termination of the trust, the remaining assets are transferred to UC Santa Cruz for use as designated by the donor.  
 Bunnett and his late wife, Sara, chose to have their CRT benefit their son David immediately and then ultimately, Crown College. &#8220;That&#8217;s the college I&#8217;ve been associated with,&#8221; said Bunnett, &#8220;and after the transfer of the trust, it will support an endowment bringing speakers with messages of intellectual significance to Crown College.&#8221;

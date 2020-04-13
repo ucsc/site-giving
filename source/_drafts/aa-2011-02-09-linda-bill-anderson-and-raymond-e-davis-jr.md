@@ -1,14 +1,15 @@
 ---
 id: 178
-title: 'Linda &#038; Bill Anderson and Raymond E. Davis Jr.'
+title: Linda & Bill Anderson and Raymond E. Davis Jr.
 #date: 2011-02-09T22:41:52+00:00
 layout: post
 excerpt: “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
-thumbnail_image:
+thumbnail_image: anderson.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_179" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-179" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/anderson-300x218.jpg" alt="anderson.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/anderson-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/anderson.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">UC Santa Cruz donors Bill and Linda Anderson and Linda&#8217;s father Raymond E. Davis Jr. honored Linda&#8217;s mother with a scholarship in her name. To date, the Marilyn C. Davis Memorial Scholarship for Re-entry Women in Science and Engineering has provided financial support for 96 students.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset anderson.jpg magick:resize=300 alt="anderson" %}<figcaption>UC Santa Cruz donors Bill and Linda Anderson and Linda&#8217;s father Raymond E. Davis Jr. honored Linda&#8217;s mother with a scholarship in her name. To date, the Marilyn C. Davis Memorial Scholarship for Re-entry Women in Science and Engineering has provided financial support for 96 students.</figcaption></figure>
 
 “You’re married. You don’t need financial support for education.” That’s the fallacy Linda Anderson, UCSC project scientist and donor is working to overcome. “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
 

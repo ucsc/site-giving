@@ -13,7 +13,8 @@ categories:
   - Donor Profiles
   - Featured
 ---
-<figure id="attachment_155" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-155" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/chavez-300x218.jpg" alt="chavez.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/chavez-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/chavez.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">As a lobbyist, Bill Chavez championed the cause of quality education for under-served populations. The William Alfred Chavez Student Award established in his honor helps to support those students who wish to attend UC Santa Cruz.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset chavez.jpg magick:resize=300 alt="chavez.jpg" %}<figcaption>As a lobbyist, Bill Chavez championed the cause of quality education for under-served populations. The William Alfred Chavez Student Award established in his honor helps to support those students who wish to attend UC Santa Cruz.</figcaption></figure>
 
 Thus began a successful career that was defined by Bill’s dedication to the “have-nots,” as Olivia put it. “Bill strived to give young people access to the political process. Everything he worked for was focused on what young people did and their learning environment.”  
 When he died in 2004, the Chavez family and his good friend Dr. Dale Shimasaki wanted to find a way to memorialize the dedication that Bill Chavez, a former UCSC Foundation Trustee, embodied.

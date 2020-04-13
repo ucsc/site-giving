@@ -8,7 +8,8 @@ thumbnail_image: vendt-pearce.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_314" style="width: 290px" class="wp-caption alignright"><img class="size-full wp-image-314" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/vendt-pearce.jpg" alt="vendt-pearce" width="290" height="400" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/vendt-pearce.jpg 290w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/vendt-pearce-218x300.jpg 218w" sizes="(max-width: 290px) 100vw, 290px" /><figcaption class="wp-caption-text">Electrical engineering major Skye Vendt-Pearce</figcaption></figure> 
+<figure class="inline-image right">
+{% asset vendt-pearce.jpg magick:resize=300 alt="vendt-pearce" %}<figcaption>Electrical engineering major Skye Vendt-Pearce</figcaption></figure>
 
 &#8220;It was a great honor just to be selected, such a surprise and such a nice one,&#8221; said Skye Vendt-Pearce, recipient of an Amy Beth Snader Memorial Scholarship. Vendt-Pearce, an electrical engineering major used the scholarship funds to purchase a laptop. &#8220;It has been awesome to be mobile with my studies,&#8221; she said.
 

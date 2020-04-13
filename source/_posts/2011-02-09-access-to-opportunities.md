@@ -9,7 +9,6 @@ categories:
   - Featured
   - Student Profiles
 ---
-{% include image-alt-text.html %}
 <figure class="inline-image right">
 {% asset tolliver.jpg magick:resize=300 alt="tolliver" %}<figcaption>Charles Tolliver, Jr.</figcaption></figure>
 

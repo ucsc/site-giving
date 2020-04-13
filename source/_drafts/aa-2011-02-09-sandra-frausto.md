@@ -4,11 +4,12 @@ title: Sandra Frausto
 #date: 2011-02-09T22:12:55+00:00
 layout: post
 excerpt: Sandra wanted to be a teacher,” said Elizabeth Rojo, remembering her sister’s aspirations. “She saw how hard our mother worked to put all eight of us through school and how important our education was to her. For Sandra, there was never any question that she would go on to college.
-thumbnail_image:
+thumbnail_image: frausto.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_142" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-142" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/frausto-300x218.jpg" alt="frausto.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/frausto-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/frausto.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Sandra celebrates her high school graduation with her mother.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset frausto.jpg magick:resize=300 alt="tolliver" %}<figcaption>Sandra celebrates her high school graduation with her mother.</figcaption></figure>
 
 Sandra was a 21-year-old senior studying sociology at UC Santa Cruz. She was committed to learning, educating, and advancing the causes of Latinas and Chicanas in the United States and beyond. Her goal of studying in Mexico City was finally realized in 1987 through the Education Abroad Program (EAP). Sadly, her dreams were cut short when she died prematurely in Mexico City.
 

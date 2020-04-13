@@ -1,6 +1,6 @@
 ---
 id: 184
-title: 'Bill Dickinson (Cowell, &#8217;68)'
+title: "Bill Dickinson (Cowell, '68)"
 #date: 2012-02-09T22:51:53+00:00 
 layout: post
 excerpt: Smith Renaissance Society supports achievement of independent students
@@ -11,7 +11,8 @@ thumbnail_image: dickinson.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_185" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-185" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/dickinson-300x197.jpg" alt="dickinson.jpg" width="300" height="197" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/dickinson-300x197.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/dickinson.jpg 325w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Bill Dickinson (Cowell, &#8217;68, philosophy), a one-time foster youth, created the Smith Renaissance Society to support other UCSC students who are on their own. He&#8217;s being honored with the UCSC Foundation Fiat Lux Award at the Scholarship Benefit Dinner, February 25.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset dickinson.jpg magick:resize=300 alt="dickinson" %}<figcaption>Bill Dickinson (Cowell, &#8217;68, philosophy), a one-time foster youth, created the Smith Renaissance Society to support other UCSC students who are on their own. He&#8217;s being honored with the UCSC Foundation Fiat Lux Award at the Scholarship Benefit Dinner, February 25.</figcaption></figure>
 
 As the cost of a University of California education has tripled since 1999, a modest but unique program at UC Santa Cruz has shown remarkable success in helping retain and graduate independent students – former foster youth, wards of the court, homeless youth, orphans, or others who are on their own.
 

@@ -8,7 +8,8 @@ thumbnail_image: diaz.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_331" style="width: 200px" class="wp-caption alignright"><img class="size-full wp-image-331" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/diaz.jpg" alt="diaz" width="200" height="287" /><figcaption class="wp-caption-text">Yethzéll Díaz, a senior majoring in Latin American and Latino studies and sociology, is helping bring computer literacy to Spanish speaking parents in Watsonville.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset diaz.jpg magick:resize=250 alt="diaz" %}<figcaption>Yethzéll Díaz, a senior majoring in Latin American and Latino studies and sociology, is helping bring computer literacy to Spanish speaking parents in Watsonville.</figcaption></figure>
 
 Yethzéll Díaz, a senior majoring in Latin American and Latino studies and sociology, is the recipient of the first Gabriel Zimmerman Memorial Scholarship at UC Santa Cruz.
 

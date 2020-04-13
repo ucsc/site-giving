@@ -3,16 +3,13 @@ id: 181
 title: Virginia and George Jansen
 #date: 2011-07-14T22:47:28+00:00
 layout: post
-excerpt: |
-    Building a Legacy: How a UCSC Professor Is Providing for the Library
-    
-    
-
-thumbnail_image:
+excerpt: "Building a Legacy: How a UCSC Professor Is Providing for the Library"
+thumbnail_image: jansen.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_182" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-182" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/jansen-300x200.jpg" alt="" width="300" height="200" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/jansen-300x200.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/jansen.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Professor Emerita Virginia Jansen, History of Art and Visual Culture, and her husband George recently made known their estate intentions for UCSC and the McHenry Library. Photo of cherry blossoms at McHenry Library by Elise H. Mahoney.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset jansen.jpg magick:resize=300 alt="jansen" %}<figcaption>Professor Emerita Virginia Jansen, History of Art and Visual Culture, and her husband George recently made known their estate intentions for UCSC and the McHenry Library. Photo of cherry blossoms at McHenry Library by Elise H. Mahoney.</figcaption></figure>
 
 UCSC faculty aren’t known for complaining about making too much money—who is?—but dogged determination, a vision, and lasting dedication can go a long way.
 

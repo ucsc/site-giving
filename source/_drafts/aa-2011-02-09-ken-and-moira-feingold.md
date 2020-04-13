@@ -6,11 +6,12 @@ layout: post
 excerpt: |
     We had the benefit of an incredible education at a fraction of what it truly costs to provide that education," said Moira Feingold (Cowell '72) in describing one of the reasons she and her husband, Ken (Cowell '71), support scholarships and the colleges at UC Santa Cruz. "College expenses have gone up so much, many families that could afford it in our day no longer can," adds Ken. "So by supporting scholarships, we want to encourage all those students to attend.
 
-thumbnail_image:
+thumbnail_image: feingold.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_147" style="width: 300px" class="wp-caption alignright"><img class="wp-image-147 size-medium" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/feingold-300x218.jpg" alt="feingold.jpg" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/feingold-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/feingold.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Ken and Moira Feingold at the inaugural Scholarship Benefit Dinner.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset feingold.jpg magick:resize=300 alt="feingold" %}<figcaption>Ken and Moira Feingold at the inaugural Scholarship Benefit Dinner.</figcaption></figure>
 
 Moira and Ken were instrumental in establishing the Santa Monica High School Scholarship, an endowed fund that provides support to a Santa Monica student entering UC Santa Cruz. The demographic profile of Santa Monica High School is typically urban: approximately 6 percent Asian, 27 percent Hispanic/Latino, 8 percent African American, and 58 percent white. Each year approximately 20 Santa Monica High School graduates enter UC Santa Cruz. &#8220;As the gap between rich and poor gets bigger and bigger, the kids who are the future of California are going to have a harder and harder time getting to college,&#8221; said Moira. &#8220;We think they deserve the kind of opportunity we had.&#8221;
 
