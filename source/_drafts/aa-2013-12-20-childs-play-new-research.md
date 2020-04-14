@@ -1,15 +1,16 @@
 ---
 id: 3179
-title: 'Child&#8217;s play = new research'
+title: "Child's play = new research"
 #date: 2013-12-20T23:28:04+00:00
 layout: post
 excerpt: "A $165,000 grant to UCSC's Early Education Services has enabled the program to extend childcare hours for students' children and provide an observation room for developmental psychology research."
-thumbnail_image:
+thumbnail_image: eec-grant.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_3181" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-3181" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/eec-grant-300x184.jpg" alt="" width="300" height="184" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/eec-grant-300x184.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/eec-grant.jpg 325w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">UC Santa Cruz Early Education Services Director Sohyla Fathi, left, and psychology professor Catherine Cooper explain the program to Giannini Fund trustees George Vera, Bruce Hopkins, and Betsy Buchalter Adler during their visit to the campus childcare center.  
-(Photo by Guy Lasnier)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset eec-grant.jpg magick:resize=300 alt="eec-grant" %}<figcaption>UC Santa Cruz Early Education Services Director Sohyla Fathi, left, and psychology professor Catherine Cooper explain the program to Giannini Fund trustees George Vera, Bruce Hopkins, and Betsy Buchalter Adler during their visit to the campus childcare center.  
+(Photo by Guy Lasnier)</figcaption></figure>
 
 A $165,000 grant to Early Education Services at UC Santa Cruz has enabled the program to extend childcare hours for students&#8217; children and provide an observation room for developmental psychology research.  
 The grant comes from the Claire Giannini Fund founded in 1998 after the death of Claire Giannini Hoffman, daughter of A.P. Giannini, founder of the Bank of America.

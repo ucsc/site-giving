@@ -11,7 +11,8 @@ thumbnail_image: kirk-potola.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_3209" style="width: 281px" class="wp-caption alignright"><img class="size-medium wp-image-3209" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2013/07/kirk-potola-281x300.jpg" alt="" width="281" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2013/07/kirk-potola-281x300.jpg 281w, https://ucsc-giving.lndo.site/wp-content/uploads/2013/07/kirk-potola.jpg 462w" sizes="(max-width: 281px) 100vw, 281px" /><figcaption class="wp-caption-text">Kirk, who won the Outstanding Staff Member of the Year Award in 2000-2001, has a longstanding and affectionate connection to the campus and, in particular, the library. (Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset kirk-potola.jpg magick:resize=300 alt="kirk-potola" %}<figcaption>Kirk, who won the Outstanding Staff Member of the Year Award in 2000-2001, has a longstanding and affectionate connection to the campus and, in particular, the library. (Photo by Carolyn Lagattuta)</figcaption></figure>
 
 David Kirk developed video and media libraries at UCSC. Now he&#8217;s arranged for a planned gift that will support McHenry Library far into the future.
 

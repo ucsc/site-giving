@@ -1,6 +1,6 @@
 ---
 id: 363
-title: '&#8220;I recognize I can make a difference&#8221;'
+title: "'I recognize I can make a difference'"
 #date: 2014-02-14T21:07:31+00:00
 layout: post
 excerpt: Student Carson Watts was the second winner of the Gabriel Zimmerman Memorial Scholarship, which supports students who are passionate about social issues and committed to public service.
@@ -11,8 +11,9 @@ thumbnail_image: watts-carson-350.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_364" style="width: 350px" class="wp-caption alignright"><img class="size-full wp-image-364" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/watts-carson-350.jpg" alt="watts-carson-350" width="350" height="525" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/watts-carson-350.jpg 350w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/watts-carson-350-200x300.jpg 200w" sizes="(max-width: 350px) 100vw, 350px" /><figcaption class="wp-caption-text">Graduate student Carson Watts (Oakes ’13, sociology)  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset watts-carson-350.jpg magick:resize=300 alt="watts-carson-350.jpg" %}<figcaption>Graduate student Carson Watts (Oakes ’13, sociology)  
+(Photo by Carolyn Lagattuta)</figcaption></figure>
 
 Black smoke from burning e-waste and the acrid smell of sewage filled the air as Carson Watts (Oakes ’13, sociology) strode through the slums of Old Fadama in the capital city of Ghana.
 

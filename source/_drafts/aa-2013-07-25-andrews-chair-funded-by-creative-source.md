@@ -11,7 +11,8 @@ thumbnail_image: classroom_experiment.jpeg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_209" style="width: 300px" class="wp-caption alignright"><img class="wp-image-209 size-medium" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/classroom_experiment-300x200.jpeg" alt="classroom_experiment" width="300" height="200" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/classroom_experiment-300x200.jpeg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/classroom_experiment.jpeg 640w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Chemistry teacher Michael Morgan has established a planned gift that will eventually endow a chair honoring Professor Emeritus Frank Andrews.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset classroom_experiment.jpeg magick:resize=300 alt="classroom_experiment.jpeg" %}<figcaption>Chemistry teacher Michael Morgan has established a planned gift that will eventually endow a chair honoring Professor Emeritus Frank Andrews.</figcaption></figure>
 
 Michael Morgan is busy right now. On top of teaching high school chemistry, he’s coaching, and it’s “right in the middle of the academic season.” His teams compete in the Science Bowl, the Chemistry Olympiad, and the National Ocean Sciences Bowl.
 

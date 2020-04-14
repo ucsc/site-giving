@@ -4,13 +4,12 @@ title: Beyond the Comfort Zone
 #date: 2013-07-23T20:51:34+00:00
 layout: post
 excerpt: With the help of an Irwin Project Grant, which funds student art projects on campus, art and psychology major Josh Katz launched a new trajectory of art-making.
-
-
 thumbnail_image: josh.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_3187" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-3187" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2013/07/josh-300x300.jpg" alt="" width="300" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2013/07/josh-300x300.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2013/07/josh.jpg 400w, https://ucsc-giving.lndo.site/wp-content/uploads/2013/07/josh-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Josh Katz has gained rich insight into himself and his art during his transformative experience at UCSC. He is majoring in art and psychology.</figcaption></figure> 
+<figure class="inline-image right">
+{% asset josh.jpg magick:resize=300 alt="josh katz" %}<figcaption>Josh Katz has gained rich insight into himself and his art during his transformative experience at UCSC. He is majoring in art and psychology.</figcaption></figure>
 
 Ask Josh Katz about his experiences at UC Santa Cruz and the 21-year-old art and psychology major will say it&#8217;s all about pushing himself out of his comfort zone.
 

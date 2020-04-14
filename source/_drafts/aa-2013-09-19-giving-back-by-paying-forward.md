@@ -7,7 +7,6 @@ excerpt: Karen Rhodes and her husband, fellow Slug Robert Weiner, have been cons
 see_also:
   - title: 2012-2013 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
-
 author:
   - Amy Ettinger
 author_email:
@@ -16,7 +15,8 @@ thumbnail_image: karen.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_3184" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-3184" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2013/09/karen-300x300.jpg" alt="" width="300" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2013/09/karen-300x300.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2013/09/karen.jpg 400w, https://ucsc-giving.lndo.site/wp-content/uploads/2013/09/karen-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">“I draw on my UC education all the time to keep myself honest and aligned with my core values,” said Karen Rhodes (Cowell, ’77, history).</figcaption></figure> 
+<figure class="inline-image right">
+{% asset karen.jpg magick:resize=300 alt="karen" %}<figcaption>“I draw on my UC education all the time to keep myself honest and aligned with my core values,” said Karen Rhodes (Cowell, ’77, history).</figcaption></figure>
 
 Karen Rhodes (Cowell &#8217;77, history) fits the profile of the versatile and determined Banana Slug. Over the years, she&#8217;s been a student, public information officer, development staff member, and an Alumni Councilor.
 

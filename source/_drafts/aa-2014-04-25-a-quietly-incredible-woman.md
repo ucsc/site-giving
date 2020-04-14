@@ -4,14 +4,13 @@ title: A quietly incredible woman
 #date: 2014-04-25T17:42:23+00:00
 layout: post
 excerpt: When alumnus Mark Headley and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.
-
-
 thumbnail_image: everett.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_226" style="width: 290px" class="wp-caption alignright"><img class="size-medium wp-image-226" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/headley-pehl-everette-290x300.jpg" alt="headley pehl everette" width="290" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/headley-pehl-everette-290x300.jpg 290w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/headley-pehl-everette.jpg 350w" sizes="(max-width: 290px) 100vw, 290px" /><figcaption class="wp-caption-text">Mark Headley (Stevenson &#8217;83, politics) and Christina Pehl  
-&#8220;Chairs are a great way to strengthen the academic system at a time of decreased resources,&#8221; said Mark Headley. &#8220;At the same time, if there is anybody you love, with a great passion for something—sciences or the arts, for example—or anybody you want to remember, this is a simple, direct way to make that honor happen.&#8221;</figcaption></figure> 
+<figure class="inline-image right">
+{% asset everett.jpg magick:resize=300 alt="everett" %}<figcaption>Mark Headley (Stevenson &#8217;83, politics) and Christina Pehl  
+&#8220;Chairs are a great way to strengthen the academic system at a time of decreased resources,&#8221; said Mark Headley. &#8220;At the same time, if there is anybody you love, with a great passion for something—sciences or the arts, for example—or anybody you want to remember, this is a simple, direct way to make that honor happen.&#8221;</figcaption></figure>
 
 When Mark Headley (Stevenson &#8217;83, politics) and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.
 
@@ -19,9 +18,10 @@ That&#8217;s how the Dorothy E. Everett Chair was born.
 
 &#8220;I knew her as a friend and as a virtual family member,&#8221; Headley said. Everett was a beloved and trusted co-worker of Headley&#8217;s father.
 
-&#8220;Early evening, about 8:30 p.m., after finishing the dinner dishes, my father would get on the phone with her to discuss the business of the day, for 25 years straight,&#8221; recalled Headley, chairman of Matthews International Capital Management LLC.<figure id="attachment_228" style="width: 208px" class="wp-caption alignright">
+&#8220;Early evening, about 8:30 p.m., after finishing the dinner dishes, my father would get on the phone with her to discuss the business of the day, for 25 years straight,&#8221; recalled Headley, chairman of Matthews International Capital Management LLC.
 
-<img class="size-medium wp-image-228" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2014/04/dorothy-everette-208x300.jpg" alt="Dorothy E. Everett" width="208" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2014/04/dorothy-everette-208x300.jpg 208w, https://ucsc-giving.lndo.site/wp-content/uploads/2014/04/dorothy-everette.jpg 225w" sizes="(max-width: 208px) 100vw, 208px" /> <figcaption class="wp-caption-text">Dorothy E. Everett</figcaption></figure> 
+<figure class="inline-image left">
+{% asset dorothy-everette.jpg magick:resize=300 alt="dorothy-everette" %}<figcaption>Dorothy E. Everett</figcaption></figure>
 
 &#8220;She came to every Christmas party. She was, basically, our Dorothy.&#8221;
 

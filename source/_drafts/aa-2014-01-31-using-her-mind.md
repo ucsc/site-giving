@@ -8,14 +8,12 @@ excerpt: "Student Meka Williams's fierce determination to succeed—along with h
 see_also:
   - title: The Rosa Parks African American Theme House
     link: http://news.ucsc.edu/2013/02/rpaath.html
-
-
-
 thumbnail_image: williams-meka.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_3163" style="width: 297px" class="wp-caption alignright"><img class="wp-image-3163 size-full" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2014/01/meka.jpg" alt="" width="297" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2014/01/meka.jpg 297w, https://ucsc-giving.lndo.site/wp-content/uploads/2014/01/meka-180x300.jpg 180w" sizes="(max-width: 297px) 100vw, 297px" /><figcaption class="wp-caption-text">Sociology major Meka Williams (Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset meka.jpg magick:resize=300 alt="meka williams" %}<figcaption>Sociology major Meka Williams (Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Meka Willams**  
  **Stevenson &#8217;15**

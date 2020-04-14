@@ -1,6 +1,6 @@
 ---
 id: 367
-title: 'Don&#8217;t give up on your dreams'
+title: "Don't give up on your dreams"
 #date: 2014-03-25T21:31:54+00:00
 layout: post
 excerpt: ""
@@ -8,8 +8,9 @@ thumbnail_image: Gemma_Garcia_sized_web.jpg
 categories:
   - Student Profiles
 ---
-<figure id="attachment_368" style="width: 180px" class="wp-caption alignright"><img class="size-full wp-image-368" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Gemma_Garcia_sized_web.jpg" alt="Gemma_Garcia_sized_web" width="180" height="187" /><figcaption class="wp-caption-text">Gemma Garcia is studying history and sociology  
-(Photo by Carolyn Lagattuta)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset Gemma_Garcia_sized_web.jpg magick:resize=300 alt="Gemma_Garcia_sized_web" %}<figcaption>Gemma Garcia is studying history and sociology  
+(Photo by Carolyn Lagattuta)</figcaption></figure>
 
 **Gemma Garcia Oakes &#8217;14**
 

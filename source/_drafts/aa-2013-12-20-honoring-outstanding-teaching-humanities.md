@@ -9,7 +9,8 @@ categories:
   - Donor Profiles
   - Student Profiles
 ---
-<figure id="attachment_3191" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-3191" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/donka-300x199.jpg" alt="" width="300" height="199" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/donka-300x199.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/donka.jpg 325w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Senior Linguistics major John Zwart, with UCSC professor of Linguistics Donka Farkas (Photo by Marissa Fullum-Campbell)</figcaption></figure> 
+<figure class="inline-image right">
+{% asset donka.jpg magick:resize=300 alt="donka" %}<figcaption>Senior Linguistics major John Zwart, with UCSC professor of Linguistics Donka Farkas (Photo by Marissa Fullum-Campbell)</figcaption></figure>
 
 Linguistics professor Donka Farkas was presented with the 2013 John Dizikes Teaching Award in Humanities yesterday at the Humanities Division&#8217;s Spring Awards Celebration.
 
