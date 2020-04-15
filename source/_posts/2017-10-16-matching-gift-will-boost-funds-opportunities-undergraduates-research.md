@@ -13,7 +13,7 @@ see_also:
     link: https://crowdfund.ucsc.edu/fall-into-philanthropy/Learn-more.html
 thumbnail_image: abuhashmeh_poster-1.jpg
 categories:
-  - Featured
+
   - News
 tags:
   - scholarship

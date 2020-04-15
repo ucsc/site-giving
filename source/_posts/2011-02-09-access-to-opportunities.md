@@ -6,7 +6,7 @@ layout: post
 excerpt: ""
 thumbnail_image: tolliver.jpg
 categories:
-  - Featured
+
   - Student Profiles
 ---
 <figure class="inline-image right">

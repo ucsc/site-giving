@@ -9,7 +9,7 @@ author_link:
 layout: post
 excerpt: ""
 categories:
-  - Featured
+
   - News
 link_post: https://news.ucsc.edu/2017/06/library-haight-exhibit.html
 ---

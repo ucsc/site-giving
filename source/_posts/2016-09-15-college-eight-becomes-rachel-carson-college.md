@@ -8,7 +8,7 @@ author_link:
   - jspringh@ucsc.edu
 layout: post
 categories:
-  - Featured
+
   - News
 link_post: http://news.ucsc.edu/2016/09/rachel-carson-college.html
 ---

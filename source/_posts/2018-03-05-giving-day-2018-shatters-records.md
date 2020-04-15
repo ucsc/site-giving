@@ -28,5 +28,3 @@ categories:
 format: link
 link_post: https://news.ucsc.edu/2018/03/giving-day-2018-feature-wrapup.html
 ---
-
-

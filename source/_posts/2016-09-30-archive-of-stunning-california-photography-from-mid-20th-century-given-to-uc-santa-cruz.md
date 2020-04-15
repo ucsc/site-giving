@@ -8,7 +8,7 @@ author_link:
   - srapp@ucsc.edu
 layout: post
 categories:
-  - Featured
+
   - News
 link_post: http://news.ucsc.edu/2016/10/jones-baruch-gift.html?ref=grb-message
 ---

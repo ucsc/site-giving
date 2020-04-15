@@ -8,5 +8,5 @@ author_link:
   - jspringh@ucsc.edu
 layout: post
 categories:
-  - Featured
+
 ---
