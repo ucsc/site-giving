@@ -7,4 +7,6 @@ excerpt: "Great moments — beautiful instants, crystallized memories, learning,
 thumbnail_image: make-it-happen.png
 categories:
   - Videos
+youtubeID-1: nAQ8Z_IDqnQ
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}

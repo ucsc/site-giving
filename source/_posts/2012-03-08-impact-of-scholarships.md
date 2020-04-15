@@ -7,4 +7,6 @@ excerpt: Isadora Caffe, a senior molecular, cell, and developmental biology majo
 thumbnail_image: impact-of-scholarships.png
 categories:
   - Videos
+youtubeID-1: 6EtMiDsH0wI
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}

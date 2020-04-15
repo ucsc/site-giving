@@ -7,4 +7,6 @@ excerpt: The Long Family and the Joseph and Vera Long Foundation receive the 201
 thumbnail_image: joseph-long.png
 categories:
   - Videos
+youtubeID-1: dgxL55Mefvc
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}

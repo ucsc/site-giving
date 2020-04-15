@@ -7,4 +7,7 @@ excerpt: Leaving behind an early life of poverty, Layla Cervantes (College Eight
 thumbnail_image: layla-cervantes.png
 categories:
   - Videos
+youtubeID-1: fOLtTgjMAFg
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}
+

@@ -7,4 +7,6 @@ excerpt: The Gabe Zimmerman Memorial Scholarship Fund supports undergraduate stu
 thumbnail_image: gabe-zimmerman.png
 categories:
   - Videos
+youtubeID-1: 8HseIlmFKIE
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}

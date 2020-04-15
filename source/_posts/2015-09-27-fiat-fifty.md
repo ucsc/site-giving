@@ -7,4 +7,6 @@ excerpt: To celebrate 50 years since the founding of UC Santa Cruz, pioneer facu
 thumbnail_image: fiat-fifty.png
 categories:
   - Videos
+youtubeID-1: TJCCrT1Eb_c
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}

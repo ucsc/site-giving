@@ -7,4 +7,6 @@ excerpt: A message from a place of gratitude, hoping you know every gift has bee
 thumbnail_image: thank-you2.png
 categories:
   - Videos
+youtubeID-1: ixjd4o2RTd4
 ---
+{% include youtube-player.html id=page.youtubeID-1 %}
