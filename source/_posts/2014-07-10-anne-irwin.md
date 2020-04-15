@@ -7,8 +7,6 @@ layout: post
 link_post: http://giving.ucsc.edu/reports/2011-12/articles/a-history-of-generosity.php
 image_url:
   - http://giving.ucsc.edu/reports/2011-12/images/article-photos/irwin-anne.jpg
-
-
 excerpt: ""
 thumbnail_image: irwin-anne.jpg
 categories:
