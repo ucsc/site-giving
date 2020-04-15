@@ -2,8 +2,12 @@
 <h3>Related Articles</h3>
 <ul>
 {% for item in page.see_also %}
-{% if item.local %}
-<li><a href="/impact-of-giving/{{item.file}}/">{{item.title}}</a></li>
+{% if item.file %}
+  {% if item.file contains ".pdf"%}
+  <li><a href="/pdf/{{item.file}}/">{{item.title}}</a></li>
+  {% else %}
+  <li><a href="/impact-of-giving/{{item.file}}/">{{item.title}}</a></li>
+  {% endif %}
 {% else %}
 <li><a href="{{item.link}}">{{item.title}}</a></li>
 {% endif %}
