@@ -35,11 +35,6 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-  - scope:
-      path: "/ways-to-give/"
-      type: "pages"
-    values:
-      permalink: /ways-to-give/:title/
 
 # Global Variables
 give_url: "https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722"
