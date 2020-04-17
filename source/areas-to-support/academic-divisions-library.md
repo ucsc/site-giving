@@ -51,7 +51,3 @@ The Jack Baskin School of Engineering is home to [Applied Mathematics & Statist
 <img src="https://giving.ucsc.edu/wp-content/uploads/2017/08/library-300x200.jpg" alt="" width="300" height="200" /> The University Library is home to [McHenry Library](https://library.ucsc.edu/mchenry-library), [Science & Engineering Library](https://library.ucsc.edu/science), [Special Collections and Archives](http://guides.library.ucsc.edu/speccoll/), and extensive online resources that serve students and researchers on campus and off campus.
 
 <a href="http://library.ucsc.edu/" target="_self" role="button"><br /> Learn More<br /> </a>
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

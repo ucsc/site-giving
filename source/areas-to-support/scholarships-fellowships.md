@@ -33,7 +33,3 @@ Fellowships give graduate students the opportunity to pursue academic interests 
   * **Chancellor’s Fellowship Funds:** Pays all university fees for incoming doctoral students in any discipline.
   * **Eugene Cota-Robles Fellowship Fund:** Granted to first-year graduate students who have overcome significant social or educational obstacles to achieve a college education.
   * **Divisional and Department Funds:** Fellowships given by the Dean’s Office in each of our academic divisions.
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

@@ -60,7 +60,3 @@ Leadership Annual Giving
 UC Santa Cruz University Relations  
 (831) 502-8192  
 [chermans@ucsc.edu](mailto:anngibb@ucsc.edu)
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

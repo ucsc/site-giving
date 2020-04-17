@@ -16,7 +16,3 @@ Faculty chairs and other research support is key to attracting and retaining wor
   * **Immediate use research support:** $25,000 and up
   * **Chancellor’s Faculty Recruitment Fund:** $5,000 and up
   * **Dean’s Excellence funds:** Gifts of any size
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

@@ -11,7 +11,3 @@ guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2919
 Endowments created in memory of loved ones provide meaningful support to our campus. We acknowledge and remember these very special people.
 
 Select any of the thumbnail images for a larger view. We welcome photographs for this page; please send them to <giving@ucsc.edu> or call (831) 459-3251.
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

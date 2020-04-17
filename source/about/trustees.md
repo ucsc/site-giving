@@ -459,7 +459,3 @@ Samuel L. Wright
   * [About the Foundation](https://foundation.ucsc.edu/index.html)
   * [Investment Reports and Policies](https://foundation.ucsc.edu/endowment/index.html)
   * [Board Opportunity Fund](https://foundation.ucsc.edu/opportunity-fund/index.html)
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

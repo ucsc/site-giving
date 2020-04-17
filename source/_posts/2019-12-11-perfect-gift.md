@@ -62,7 +62,7 @@ She has also taken advantage of retirement by traveling—Switzerland, Italy, an
 
 ### Giving via IRA
 
-Wells continues making regular donations to the Silver Slug Award, and in 2019 she added the award and [the UCSC Fund](https://giving.ucsc.edu/giving-opportunities/ucsc-fund/), the campus discretionary fund, to the beneficiaries of her IRA. She noted that as a nonprofit, the university can receive the gift tax-free.
+Wells continues making regular donations to the Silver Slug Award, and in 2019 she added the award and [the UCSC Fund](/areas-to-support/ucsc-fund/), the campus discretionary fund, to the beneficiaries of her IRA. She noted that as a nonprofit, the university can receive the gift tax-free.
 
 Her hope is that the Silver Slug Award can grow enough that it is able to make a difference for all the employee families who need it.
 

@@ -27,7 +27,3 @@ We acknowledge and remember the special people recognized by endowments with a 
 Photos tells stories and stir memories. We  honor some of the people recognized by endowments with this photo gallery.
 
 <a href="/ways-to-give/endowment-giving/memorial-endowments/memorial-endowments-gallery/" target="_self" role="button"><br /> Photo Gallery<br /> </a>
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

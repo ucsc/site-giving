@@ -17,4 +17,3 @@ categories:
   - News
 format: link
 ---
-https://news.ucsc.edu/2017/10/campaign-close.html

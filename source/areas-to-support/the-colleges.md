@@ -71,7 +71,3 @@ Founded in 1968, the guiding ethos of Merrill College is exploring cultural iden
 <img src="https://giving.ucsc.edu/wp-content/uploads/2017/08/College-10-150x150.jpg" alt="" width="150" height="150" /> Located adjacent to College Nine, College Ten (founded 2002) emphasizes social justice and community, evidenced in the motto, _Justice for all_. Fundraising priorities for College Ten include Practical Activism, the Alternative Spring Break and faculty and Provost endowments.
 
 <a role="button" href="http://collegeten.ucsc.edu/about/index.html" target="_self"><br /> Learn More<br /> </a>
-
-### Ready to make a difference?
-
-<a role="button" href="http://connect.ucsc.edu/givenow" target="_self"><br /> Give Now<br /> </a>

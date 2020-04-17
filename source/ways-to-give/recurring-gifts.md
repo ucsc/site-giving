@@ -38,7 +38,3 @@ By establishing a monthly donation, you not only allow students the valuable ass
 Once you have selected which monthly gift will work the best for you, and provide your payment information via our secure website, your monthly gift will be taken out on the same day each month: the 1st, 15th, or the day of your initial gift.
 
 Throughout the year, if you choose, you will receive newsletter updates to projects of interest; UC Santa Cruz digital magazines which come out annually; and invitations to upcoming events of interest. At any time, if you would like to increase or decrease your donation, you may do so at your convenience.
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

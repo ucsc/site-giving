@@ -8,38 +8,39 @@ navigation:
   - title: Contact Us
     link: contact-us/
 colleges:
-  - name: Carson College
-    link: "https://www.ucsc.edu"
   - name: Cowell College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=75"
   - name: Crown College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=77"
   - name: Kresge College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=80&"
   - name: Merrill College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=78"
   - name: Oakes College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=81"
   - name: Porter College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=79"
+  - name: Rachel Carson College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=82"
   - name: Stevenson College
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=76"
   - name: College Nine
-    link: "https://www.ucsc.edu"
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=83"
   - name: College Ten
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=84"
 divisions:
   - name: Arts
-    link: "https://www.ucsc.edu"
+    link: "http://arts.ucsc.edu/"
   - name: Baskin School of Engineering
-    link: "https://www.ucsc.edu"
+    link: "https://www.soe.ucsc.edu/"
   - name: Humanities
-    link: "https://www.ucsc.edu"
-  - name: Physical and Biological
-    link: "https://www.ucsc.edu"
+    link: "https://humanities.ucsc.edu/"
+  - name: Physical and Biological Sciences
+    link: "https://pbsci.ucsc.edu/"
   - name: Social Sciences
-    link: "https://www.ucsc.edu"
+    link: "https://socialsciences.ucsc.edu/academics/index.html"
   - name: UC Santa Cruz Library
-    link: "https://www.ucsc.edu"
+    link: "http://library.ucsc.edu/"
 footer_headings:
   - column: one
     heading: UCSC Foundation
@@ -58,31 +59,31 @@ footer_one:
     link: "https://foundation.ucsc.edu/opportunity-fund/index.html"
 footer_two:
   - name: Giving stories
-    link: "https://www.ucsc.edu"
+    link: /impact-of-giving/
   - name: Donor profiles
-    link: "https://www.ucsc.edu"
+    link: /category/donor-profiles/
   - name: Student profiles
-    link: "https://www.ucsc.edu"
+    link: /category/student-profiles/
   - name: Videos
-    link: "https://www.ucsc.edu"
+    link: /category/videos/
   - name: Campaign for UCSC
-    link: "https://www.ucsc.edu"
+    link: /category/campaign-impact/
 footer_three:
   - name: UCSC Fund
-    link: "https://www.ucsc.edu"
+    link: /areas-to-support/ucsc-fund/
   - name: Search a list of funds
-    link: "https://www.ucsc.edu"
+    link: http://alumni.ucsc.edu/search-designations/
   - name: Academics and library
-    link: "https://www.ucsc.edu"
+    link: /areas-to-support/academic-divisions-library/
   - name: Colleges
-    link: "https://www.ucsc.edu"
+    link: /areas-to-support/the-colleges/
   - name: Faculty support and chairs
-    link: "https://www.ucsc.edu"
+    link: /areas-to-support/faculty-support-chairs/
   - name: Scholarships and fellowships
-    link: "https://www.ucsc.edu"
+    link: /areas-to-support/scholarships-fellowships/
 footer_four:
   - name: Endowment giving
-    link: "https://www.ucsc.edu"
+    link: http://0.0.0.0:4000/ways-to-give/endowment-giving/
   - name: Philanthropy reports archive
     link: "https://www.ucsc.edu"
 footer_legal:

@@ -57,7 +57,3 @@ The Special Collections Endowment is the library&#8217;s basic unrestricted fund
 This fund support undergraduate students in the Division of Social Sciences who are passionate about social issues and committed to public service. It honors alumnus Gabe Zimmerman who working for Arizona Congresswoman Gabrielle Giffords as her Director of Community Outreach when he was tragically shot and killed.
 
 <a href="http://socialsciences.ucsc.edu/support-us/endowments/index.html" target="_self" role="button"><br /> More social science funds<br /> </a>
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>

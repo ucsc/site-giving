@@ -34,7 +34,3 @@ Academic innovation benefits from strategic support in a range of areas, includi
   * Seed funding for innovative programs in the Colleges
   * Extending hours of operation at McHenry Library
   * Supporting intercollegiate athletics
-
-### Ready to make a difference?
-
-<a href="http://connect.ucsc.edu/givenow" target="_self" role="button"><br /> Give Now<br /> </a>
