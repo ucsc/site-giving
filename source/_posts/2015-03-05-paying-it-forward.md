@@ -8,7 +8,7 @@ see_also:
   - title: Senior Legacy Fund
     link: http://giving.ucsc.edu/studentgiving/seniorlegacy/index.html
   - title: Give Now to the Senior Legacy Fund
-link: 'https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=600&='
+    link: 'https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=600&='
 thumbnail_image: quan-tran-375.jpg
 categories:
   - Student Profiles

@@ -11,6 +11,9 @@ hero:
   alt_text: parents-giving
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
+see_also:
+  - title: Ways funds are used
+    link: /ways-to-give/chancellors-associates/ways-funds-used/
 ---
 Donors who give $1,000 or more annually to one of two discretionary funds—the UC Santa Cruz Fund or the Parents Fund—are recognized as Chancellor&#8217;s Associates. It is the chancellor&#8217;s way of saying thank you and extending the opportunity for you to be part of a community of donors and friends of the university. Learn about giving levels and donor benefits.
 
@@ -52,7 +55,3 @@ David Kirk, retired media specialist at McHenry Library, supports the library an
 Learn more about the [Chancellor&#8217;s Associates](/pdf/chancellors-associates.pdf).
 
 [![associates](/assets/images/brochure-cover.jpg)](/pdf/chancellors-associates.pdf)
-
-### Read More
-
-  * [Ways funds are used](/ways-to-give/chancellors-associates/ways-funds-used/)

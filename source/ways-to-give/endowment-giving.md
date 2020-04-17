@@ -11,6 +11,19 @@ hero:
   alt_text: endowments-page-billboard
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
+see_also:
+  - title: Memorial Endowments
+    link: /ways-to-give/endowment-giving/memorial-endowments/
+  - title: Arts Endowments
+    link: http://arts.ucsc.edu/giving/endowments
+  - title: Jack Baskin School of Engineering Naming Gift
+    link: https://www.soe.ucsc.edu/about-us/our-naming-gift
+  - title: Humanities Endowments
+    link: http://humanities.ucsc.edu/about/giving/endowments/index.html
+  - title: Social Sciences Endowments
+    link: http://socialsciences.ucsc.edu/support-us/index.html
+  - title: Library Endowments
+    link: http://library.ucsc.edu/giving/endowments/endow-a-collection
 ---
 <figure class="inline-image full">
 {% asset endowments-page-billboard.jpg magick:resize=1000 alt="endowments-page-billboard" %}</figure>
@@ -42,15 +55,6 @@ UC Santa Cruz has a portfolio of more than 400 endowed funds with diverse purpos
 ## Endowment Reports
 
 Endowment reports provide timely information on the fiscal status and impact of each fund. Reports are provided annually to donors, next of kin, or representatives of each fund. Recipient names are provided for endowed scholarship funds.
-
-## See Also
-
-  * [Memorial Endowments](/ways-to-give/endowment-giving/memorial-endowments/)
-  * [Arts Endowments](http://arts.ucsc.edu/giving/endowments)
-  * [Jack Baskin School of Engineering Naming Gift](https://www.soe.ucsc.edu/about-us/our-naming-gift)
-  * [Humanities Endowments](http://humanities.ucsc.edu/about/giving/endowments/index.html)
-  * [Social Sciences Endowments](http://socialsciences.ucsc.edu/support-us/index.html)
-  * [Library Endowments](http://library.ucsc.edu/giving/endowments/endow-a-collection)
 
 [![associates](/assets/images/endowment-report-2018-cover.jpg)](/pdf/Endowment-Report-Insert-2018.pdf)
 

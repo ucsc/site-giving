@@ -14,3 +14,6 @@ layout: default
 {{ content }}
 {% endif %}
 </article>
+{% if page.see_also %}
+{% include related-posts.html %}
+{% endif %}
