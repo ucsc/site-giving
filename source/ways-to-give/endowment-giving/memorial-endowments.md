@@ -6,13 +6,6 @@ author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2911
 ---
-## Memorial Endowments  
-
-
-<p id="breadcrumbs">
-  <a href="http://live-ucsc-giving.pantheonsite.io/" rel="v:url" property="v:title">Home</a> » <a href="http://live-ucsc-giving.pantheonsite.io/ways-to-give/" rel="v:url" property="v:title">Ways to Give</a> » <a href="http://live-ucsc-giving.pantheonsite.io/ways-to-give/endowment-giving/" rel="v:url" property="v:title">Endowment Giving</a> » <strong>Memorial Endowments</strong>
-</p>
-
 <img src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/CowellRanchBldgs.jpg" alt="CowellRanchBldgs" itemprop="image" height="612" width="1600" /> 
 
 Endowments created in memory of loved ones are a lasting tribute that benefits UC Santa Cruz long into the future. Memorial endowments enhance our campus by providing meaningful support to students, faculty, facilities, and programs at UC Santa Cruz.

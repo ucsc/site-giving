@@ -6,13 +6,6 @@ author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2901
 ---
-## Endowment Giving  
-
-
-<p id="breadcrumbs">
-  <a href="http://live-ucsc-giving.pantheonsite.io/" rel="v:url" property="v:title">Home</a> » <a href="http://live-ucsc-giving.pantheonsite.io/giving/" rel="v:url" property="v:title">Giving</a> » <a href="http://live-ucsc-giving.pantheonsite.io/giving/ways-to-give/" rel="v:url" property="v:title">Ways to Give</a> » <a href="http://live-ucsc-giving.pantheonsite.io/giving/ways-to-give/endowment-giving/" rel="v:url" property="v:title">Endowment Giving</a> » <strong>Featured Endowments</strong>
-</p>
-
 <img src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/this-place-matters.jpg" alt="FCLWHD student interns and Renee. Entry for National Trust for Historic Preservation's This Place Matters campaign." itemprop="image" height="642" width="1200" /> 
 
 Endowments benefit each of our academic divisions by supporting students, faculty, programs, and facilities.

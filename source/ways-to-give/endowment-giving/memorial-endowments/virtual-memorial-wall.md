@@ -6,13 +6,6 @@ author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2992
 ---
-## Virtual memorial wall  
-
-
-<p id="breadcrumbs">
-  <a href="http://live-ucsc-giving.pantheonsite.io/" rel="v:url" property="v:title">Home</a> » <a href="http://live-ucsc-giving.pantheonsite.io/ways-to-give/" rel="v:url" property="v:title">Ways to Give</a> » <a href="http://live-ucsc-giving.pantheonsite.io/ways-to-give/endowment-giving/" rel="v:url" property="v:title">Endowment Giving</a> » <a href="http://live-ucsc-giving.pantheonsite.io/ways-to-give/endowment-giving/memorial-endowments/" rel="v:url" property="v:title">Memorial Endowments</a> » <strong>Virtual memorial wall</strong>
-</p>
-
 <img src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/east-field-bench.jpg" alt="east-field-bench" itemprop="image" height="219" width="549" /> 
 
 Endowments created in memory of loved ones, faculty, alumni, and campus friends provide meaningful support to UC Santa Cruz. We acknowledge and remember these very special people.

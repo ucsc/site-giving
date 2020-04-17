@@ -8,11 +8,6 @@ guid: http://live-ucsc-giving.pantheonsite.io/?page_id=794
 ---
 ## UC Santa Cruz Foundation  
 
-
-<p id="breadcrumbs">
-  <a href="https://giving.ucsc.edu/" >Home</a> » <a href="https://giving.ucsc.edu/about/" >About</a> » <strong>Trustees</strong>
-</p>
-
 Working in close partnership with the chancellor, administration, faculty and staff, the **UC Santa Cruz Foundation **shares the university’s vision of academic excellence and its commitment to public service. The Foundation is a not-for-profit, public-benefit corporation (tax ID 23-7394590) organized in 1974 to raise and manage private support for UC Santa Cruz.  The current foundation chair is Alec J. Webster.
 
 ## Foundation Trustees  

@@ -6,13 +6,6 @@ author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=3307
 ---
-## Make a monthly gift to UC Santa Cruz  
-
-
-<p id="breadcrumbs">
-  <a href="https://giving.ucsc.edu/" rel="v:url" property="v:title">Home</a> » <a href="https://giving.ucsc.edu/ways-to-give/" rel="v:url" property="v:title">Ways to Give</a> » <strong>Make a monthly gift to UC Santa Cruz</strong>
-</p>
-
 ## Be a supporter today and tomorrow<figure id="attachment_3312" style="width: 292px" class="wp-caption alignright">
 
 <img src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/ucsc-farm-greenhouse-683x1024.jpg" alt="" width="292" height="438" /> <figcaption class="wp-caption-text">Students work in the greenhouse at the UCSC Farm</figcaption></figure> 

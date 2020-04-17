@@ -45,17 +45,13 @@ Endowment reports provide timely information on the fiscal status and impact of 
 
 ## See Also
 
-  * [Memorial Endowments](https://giving.ucsc.edu/ways-to-give/endowment-giving/memorial-endowments/)
+  * [Memorial Endowments](/ways-to-give/endowment-giving/memorial-endowments/)
   * [Arts Endowments](http://arts.ucsc.edu/giving/endowments)
   * [Jack Baskin School of Engineering Naming Gift](https://www.soe.ucsc.edu/about-us/our-naming-gift)
   * [Humanities Endowments](http://humanities.ucsc.edu/about/giving/endowments/index.html)
   * [Social Sciences Endowments](http://socialsciences.ucsc.edu/support-us/index.html)
   * [Library Endowments](http://library.ucsc.edu/giving/endowments/endow-a-collection)
 
-<a href="/wp-content/uploads/2019/03/Endowment-Report-Insert-2018.pdf" target="_self"><br /> <img title="endowment-report-2018-cover" src="https://giving.ucsc.edu/wp-content/uploads/2019/03/endowment-report-2018-cover.jpg" alt="endowment-report-2018-cover" width="400" height="518" /><br /> </a>
+[![associates](/assets/images/endowment-report-2018-cover.jpg)](/pdf/Endowment-Report-Insert-2018.pdf)
 
-[Download our report on the impact of endowments in 2018](/wp-content/uploads/2019/03/Endowment-Report-Insert-2018.pdf)
-
-### Ready to make a difference?
-
-<a role="button" href="http://connect.ucsc.edu/givenow" target="_self"><br /> Give Now<br /> </a>
+[Download our report on the impact of endowments in 2018](/pdf/Endowment-Report-Insert-2018.pdf)
