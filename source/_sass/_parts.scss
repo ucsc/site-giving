@@ -156,6 +156,55 @@
     }
 }
 
+.the-colleges {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: ($spacing-unit / 2) 0;
+    border-top: 1px solid $ucsc-primary-yellow;
+    @include media-query($on-tablet) {
+        grid-template-columns: 150px 1fr;
+        grid-gap: 10px;
+        grid-template-rows: repeat(2, minmax(25px, auto));
+    }
+    .college-name {
+        text-align: center;
+        @include media-query($on-tablet) {
+            grid-column-start: 1;
+            grid-column-end: 3;
+            text-align: left;
+        }
+    }
+    .college-thumb {
+        margin: 0 auto 10px;
+        @include media-query($on-tablet) {
+            grid-column-start: 1;
+            grid-column-end: 2;
+            margin: 0;
+        }
+    }
+    .college-blurb {
+        margin-top: 15px;
+        @include media-query($on-tablet) {
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 2;
+            align-self: start;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+    .blue-pill {
+        @include media-query($on-tablet) {
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 2;
+            justify-self: end;
+            align-self: end;
+            margin: 0;
+        }
+    }
+}
+
 
 /*
  *
@@ -173,6 +222,7 @@
     @include relative-font-size(1.25);
     border-radius: 5px;
     border-radius: 0.3125rem;
+    border-bottom: none!important;
     &:hover {
         text-decoration: none;
     }
