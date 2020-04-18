@@ -136,6 +136,32 @@ iframe {
 
 
 /**
+ * Left and Right floats
+ */
+
+.right,
+.left {
+    display: table;
+    margin: 0 auto;
+    @include media-query ($on-desktop) {
+        width: auto;
+    }
+}
+
+.right {
+    @include media-query($on-desktop) {
+        float: right;
+        margin: 0 0 ($spacing-unit * 1) ($spacing-unit * 1);
+    }
+}
+
+.left {
+    float: left;
+    margin: 0 ($spacing-unit * 1) ($spacing-unit * 1) 0;
+}
+
+
+/**
  * Figures
  */
 
@@ -154,27 +180,9 @@ figure.inline-image {
             width: 100%;
         }
     }
-    &.right,
-    &.left {
-        display: table;
-        margin: 0 auto;
-        @include media-query ($on-desktop) {
-            width: auto;
-        }
-        figcaption {
-            display: table-caption;
-            caption-side: bottom;
-        }
-    }
-    &.right {
-        @include media-query($on-desktop) {
-            float: right;
-            margin: 0 0 ($spacing-unit * 1) ($spacing-unit * 1);
-        }
-    }
-    &.left {
-        float: left;
-        margin: 0 ($spacing-unit * 1) ($spacing-unit * 1) 0;
+    figcaption {
+        display: table-caption;
+        caption-side: bottom;
     }
     img {
         margin: 0 auto;
@@ -185,6 +193,20 @@ figcaption {
     font-size: $small-font-size;
     color: $grey-color;
     padding-top: $spacing-unit / 4;
+}
+
+
+/**
+ * sidebars
+ */
+
+aside {
+    font-weight: 300;
+    padding: 1.8em;
+    &.right,
+    &.left {
+        width: 35%;
+    }
 }
 
 
