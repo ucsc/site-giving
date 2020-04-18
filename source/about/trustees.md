@@ -5,6 +5,13 @@ date: 2017-08-21T19:32:28+00:00
 author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=794
+see_also:
+  - title: About the Foundation
+    link: https://foundation.ucsc.edu/index.html
+  - title: Investment Reports and Policies
+    link: https://foundation.ucsc.edu/endowment/index.html
+  - title: Board Opportunity Fund
+    link: https://foundation.ucsc.edu/opportunity-fund/index.html
 ---
 ## UC Santa Cruz Foundation  
 
@@ -452,10 +459,3 @@ Antonio Velasco
 Virginia C. Wilson  
 Donald R. Worn  
 Samuel L. Wright
-
-## Learn More  
-
-
-  * [About the Foundation](https://foundation.ucsc.edu/index.html)
-  * [Investment Reports and Policies](https://foundation.ucsc.edu/endowment/index.html)
-  * [Board Opportunity Fund](https://foundation.ucsc.edu/opportunity-fund/index.html)
