@@ -24,12 +24,13 @@ see_also:
     link: http://socialsciences.ucsc.edu/support-us/index.html
   - title: Library Endowments
     link: http://library.ucsc.edu/giving/endowments/endow-a-collection
+sidebar1: endowment-giving-sidebar.html
 ---
 <figure class="inline-image full">
 {% asset endowments-page-billboard.jpg magick:resize=1000 alt="endowments-page-billboard" %}</figure>
 
 ## Securing the Future
-
+{% include sidebars/{{page.sidebar1}} classes="right" %}
 Endowments at UC Santa Cruz support lasting, transformative change. With endowments, UC Santa Cruz is cultivating a vibrant learning community—one that truly supports the students and faculty of today and tomorrow. This strategy allows the university the freedom to be proactive in its planning, visionary in approach, and agile in its ability to respond to new opportunities.
 
 Endowments enable UC Santa Cruz to accomplish its greatest priorities:
@@ -51,11 +52,3 @@ Be a part of defining the next 50 years of achievement at UC Santa Cruz. If you 
 When you contribute to endowments, you help create a permanent legacy of support for UCSC. Endowment assets are invested and a portion of the value of the fund is paid out each year to support the fund&#8217;s purpose. Any earnings in excess of this distribution are used to build the fund&#8217;s market value. In this way, an endowment fund can grow and provide support for its designated purpose in perpetuity.
 
 UC Santa Cruz has a portfolio of more than 400 endowed funds with diverse purposes, created to enhance the educational experience of our students. Endowments can be restricted to specific areas and needs, such as scholarships, professorships, academic programs, and campus life. Many gifts to endowments are made in support of the library, education, research, athletics, leadership programs, the UCSC Colleges, and other areas related to the quality of our campus experience. Unrestricted endowments enable the Chancellor, deans, and other campus leaders to address pressing needs or opportunities.
-
-## Endowment Reports
-
-Endowment reports provide timely information on the fiscal status and impact of each fund. Reports are provided annually to donors, next of kin, or representatives of each fund. Recipient names are provided for endowed scholarship funds.
-
-[![associates](/assets/images/endowment-report-2018-cover.jpg)](/pdf/Endowment-Report-Insert-2018.pdf)
-
-[Download our report on the impact of endowments in 2018](/pdf/Endowment-Report-Insert-2018.pdf)

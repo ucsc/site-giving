@@ -6,9 +6,10 @@ author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=3307
 ---
-## Be a supporter today and tomorrow<figure id="attachment_3312" style="width: 292px" class="wp-caption alignright">
+## Be a supporter today and tomorrow
 
-<img src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/ucsc-farm-greenhouse-683x1024.jpg" alt="" width="292" height="438" /> <figcaption class="wp-caption-text">Students work in the greenhouse at the UCSC Farm</figcaption></figure> 
+<figure class="inline-image right">
+{% asset ucsc-farm-greenhouse.jpg magick:resize=300 alt="Students work in the greenhouse at the UCSC Farm" %}<figcaption>Students work in the greenhouse at the UCSC Farm</figcaption></figure>
 
 By establishing a monthly donation, you not only allow students the valuable assets they need, but also cut down on administrative costs. Setting up a monthly gift allows for an easy and affordable way for your donation to make the most impact.
 
@@ -24,14 +25,15 @@ By establishing a monthly donation, you not only allow students the valuable ass
   * Allows control over your involvement with the ability to initiate, decrease, or increase your donation at any time
   * Helps promote sustainable practices
 
-## Establish your monthly support of:  
+## Establish your monthly support of:
 
-
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=10" target="_self" role="button"><br /> $10<br /> </a>  
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=25" target="_self" role="button"><br /> $25<br /> </a>  
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=50" target="_self" role="button"><br /> $50<br /> </a>  
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=100" target="_self" role="button"><br /> $100<br /> </a>  
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly" target="_self" role="button"><br /> other<br /> </a>
+<div class="gift-amounts">
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=10" target="_self" class="blue-pill"> $10</a>  
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=25" target="_self" class="blue-pill"> $25</a>  
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=50" target="_self" class="blue-pill"> $50</a>  
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly&#038;amount=100" target="_self" class="blue-pill"> $100</a>  
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&#038;gid=1&#038;pgid=761&#038;cid=1722&#038;paymenttype=perpetualonly" target="_self" class="blue-pill"> other</a>
+</div>
 
 ## How it works:
 
