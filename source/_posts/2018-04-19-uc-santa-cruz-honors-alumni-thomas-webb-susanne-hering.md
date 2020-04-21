@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: susanne-hering-310.jpg
 thumbnail_alt_text: photo of Susanne Hering
-image: /wp-content/uploads/2018/04/susanne-hering-310.jpg
+image: susanne-hering-310.jpg
 categories:
   - News
 tags:

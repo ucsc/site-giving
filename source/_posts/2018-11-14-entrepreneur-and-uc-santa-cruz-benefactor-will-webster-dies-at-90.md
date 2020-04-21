@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: willwebster102017.jpg
 thumbnail_alt_text: photo of Ted Alper in a boat
-image: /wp-content/uploads/2018/11/willwebster102017.jpg
+image: willwebster102017.jpg
 categories:
   - Donor Profiles
   - News

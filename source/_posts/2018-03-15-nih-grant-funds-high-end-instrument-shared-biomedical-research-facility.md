@@ -20,7 +20,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: glenn-millhauser-400.jpg
 thumbnail_alt_text: photo of Glenn Millhauser
-image: /wp-content/uploads/2018/03/glenn-millhauser-400.jpg
+image: glenn-millhauser-400.jpg
 categories:
   - News
 tags:

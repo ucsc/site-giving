@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: maxineandplants.jpg
 thumbnail_alt_text: photo Maxine Lane surrounded by succulents she propagates
-image: /wp-content/uploads/2018/04/maxineandplants.jpg
+image: maxineandplants.jpg
 categories:
   - Donor Profiles
   - News

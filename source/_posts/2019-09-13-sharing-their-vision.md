@@ -23,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
 thumbnail_alt_text: CIED director Sue Carter (left) and Kamil Hasan present the 1st place prize in the the 2018 Business Design Showcase
-image: /wp-content/uploads/2019/09/1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
+image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
 categories:
   - Donor Profiles
   - News

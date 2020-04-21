@@ -24,7 +24,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: faber-rubin-400.jpg
 thumbnail_alt_text: photo of Sandra Faber and Vera Rubin
-image: /wp-content/uploads/2018/08/faber-rubin-400.jpg
+image: faber-rubin-400.jpg
 categories:
   - News
 tags:

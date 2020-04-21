@@ -23,7 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: knight-400.jpg
 thumbnail_alt_text: photo of groovy fire
-image: /wp-content/uploads/2018/04/knight-400.jpg
+image: knight-400.jpg
 categories:
   - News
   - Student Profiles

@@ -5,8 +5,16 @@ date: 2017-09-12T22:44:22+00:00
 author: Jason
 layout: page
 guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2901
+hero:
+  use: false
+  image: maxineandplants.jpg #best at 1000px by 450px
+  alt_text: photo of Maxine Lane surrounded by succulents she propagates
+  vertical: bottom #options: top, bottom
+  horizontal: left #options: left, right
 ---
-<img src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/this-place-matters.jpg" alt="FCLWHD student interns and Renee. Entry for National Trust for Historic Preservation's This Place Matters campaign." itemprop="image" height="642" width="1200" /> 
+<figure class="inline-image full">
+{% asset maxineandplants.jpg magick:resize=1200 alt="FCLWHD student interns and Renee. Entry for National Trust for Historic Preservation's This Place Matters campaign." itemprop="image" %}
+<figcaption>FCLWHD student interns and Renee. Entry for National Trust for Historic Preservation's This Place Matters campaign.</figcaption></figure>
 
 Endowments benefit each of our academic divisions by supporting students, faculty, programs, and facilities.
 

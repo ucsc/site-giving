@@ -25,7 +25,7 @@ featured_post:
 thumbnail_image: whale-and-researchers.jpg
 thumbnail_alt_text: photo of researchers in a boat looking at a whale
 categories:
-image: /wp-content/uploads/2018/06/whale-and-researchers.jpg
+image: whale-and-researchers.jpg
 categories:
   - News
 tags:

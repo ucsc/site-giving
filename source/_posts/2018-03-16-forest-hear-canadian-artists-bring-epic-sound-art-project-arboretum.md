@@ -17,7 +17,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: forest-2-400.jpg
 thumbnail_alt_text: photo of people in a forest
-image: /wp-content/uploads/2018/03/forest-2-400.jpg
+image: forest-2-400.jpg
 categories:
   - News
 tags:

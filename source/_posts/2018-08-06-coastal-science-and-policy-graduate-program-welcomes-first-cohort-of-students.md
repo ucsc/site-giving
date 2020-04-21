@@ -23,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: students-composite-1.jpg
 thumbnail_alt_text: composite photo of students
-image: /wp-content/uploads/2018/08/students-composite-1.jpg
+image: students-composite-1.jpg
 categories:
   - Campaign Impact
   - News

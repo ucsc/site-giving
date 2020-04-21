@@ -23,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: stefany-carlo-410.jpg
 thumbnail_alt_text: photo of graduate students Stefany Rubio and Carlo Parico
-image: /wp-content/uploads/2018/08/stefany-carlo-410.jpg
+image: stefany-carlo-410.jpg
 categories:
   - News
   - Student Profiles

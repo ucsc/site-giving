@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: George-Blumenthal.jpg
 thumbnail_alt_text: photo of George Blumenthal at the entrance to UC Santa Cruz
-image: /wp-content/uploads/2019/03/George-Blumenthal.jpg
+image: George-Blumenthal.jpg
 categories:
   - Support
 ---
