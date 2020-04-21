@@ -8,7 +8,10 @@ thumbnail_image: browns.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3246" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/browns-300x221.jpg" alt="" width="300" height="221" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/browns-300x221.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/browns.jpg 671w" sizes="(max-width: 300px) 100vw, 300px" />Parents Ken and Marian Brown are loyal supporters of UCSC, and they continue to recognize the campus with their generosity even though their daughter, Monica Brown, graduated 17 years ago.  
+<figure class="inline-image right">
+{% asset browns.jpg magick:resize=400 alt='browns.jpg' %}
+<figcaption>The Brown Family</figcaption></figure>
+Parents Ken and Marian Brown are loyal supporters of UCSC, and they continue to recognize the campus with their generosity even though their daughter, Monica Brown, graduated 17 years ago.  
 Monica (Stevenson &#8217;95, literature [creative writing] and psychology) is now senior director of marketing for [LeapFrog](http://www.leapfrog.com/en-us/home), an educational company in Emeryville that makes toys, kids&#8217; learning tablets, and games.
 
 The Browns said Monica&#8217;s UCSC experience created a template for her life. Monica is also now a contributor to the university.

@@ -8,7 +8,11 @@ thumbnail_image: terry_and_child.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3233" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/terry_and_child-180x300.jpg" alt="" width="180" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/terry_and_child-180x300.jpg 180w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/terry_and_child.jpg 297w" sizes="(max-width: 180px) 100vw, 180px" />The late Terry Freitas would have enjoyed drinking coffee and talking politics late into the night at the café that now bears his name.
+<figure class="inline-image right">
+{% asset terry_and_child.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}
+<figcaption>Terry Freitas</figcaption></figure>
+
+The late Terry Freitas would have enjoyed drinking coffee and talking politics late into the night at the café that now bears his name.
 
 On September 20, this inviting, student-run nightspot, formerly known as Café Revolución, was rededicated as the Terry Freitas Café, commemorating a young alumnus who died while helping an indigenous people maintain its ancient culture.
 

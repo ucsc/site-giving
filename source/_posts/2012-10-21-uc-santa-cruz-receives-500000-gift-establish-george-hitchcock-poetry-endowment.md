@@ -8,7 +8,11 @@ thumbnail_image: george-hitchcock.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3236" src="https://giving.ucsc.edu/wp-content/uploads/2017/09/george-hitchcock-300x218.jpg" alt="" width="300" height="218" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/george-hitchcock-300x218.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/george-hitchcock.jpg 680w" sizes="(max-width: 300px) 100vw, 300px" />UC Santa Cruz has received a gift of $500,000 to establish The George P. Hitchcock Modern Poetry Fund at [Porter College](https://porter.ucsc.edu/).
+<figure class="inline-image right">
+{% asset george-hitchcock.jpg magick:resize=300 alt='george-hitchcock.jpg' %}
+<figcaption>George Hitchcock</figcaption></figure>
+
+UC Santa Cruz has received a gift of $500,000 to establish The George P. Hitchcock Modern Poetry Fund at [Porter College](https://porter.ucsc.edu/).
 
 A renowned publisher, poet, painter, and UCSC lecturer emeritus in creative writing, Hitchcock died in 2010 at the age of 96.
 

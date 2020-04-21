@@ -8,7 +8,12 @@ thumbnail_image: a-decade-of-giving.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3216" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/a-decade-of-giving-300x206.jpg" alt="" width="300" height="206" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/a-decade-of-giving-300x206.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/a-decade-of-giving.jpg 720w" sizes="(max-width: 300px) 100vw, 300px" />Now in its 10th year, the Scholarship Benefit Dinner has become one of UCSC&#8217;s premiere fundraising events, highlighting community achievement while helping outstanding students fund their college educations.
+<figure class="inline-image right">
+{% asset a-decade-of-giving.jpg magick:resize=300 alt='a-decade-of-giving.jpg' %}
+<figcaption>Susan Wojcicki, Senior Vice President of advertising at Google</figcaption></figure>
+
+
+Now in its 10th year, the Scholarship Benefit Dinner has become one of UCSC&#8217;s premiere fundraising events, highlighting community achievement while helping outstanding students fund their college educations.
 
 The Scholarship Benefit Dinner, popularly known as SBD, has drawn attention and strong public support to UCSC&#8217;s scholarship giving campaign, which has raised more than $23 million—with 7,948 donors and 21,673 gifts—over the past decade.
 

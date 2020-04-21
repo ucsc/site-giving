@@ -8,7 +8,10 @@ thumbnail_image: sharing-a-love-marine-life.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3230" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/sharing-a-love-marine-life-180x300.jpg" alt="" width="180" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/sharing-a-love-marine-life-180x300.jpg 180w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/sharing-a-love-marine-life.jpg 297w" sizes="(max-width: 180px) 100vw, 180px" />When Enid Rusev began volunteering at Long Marine Lab in 1981, the aquarium was housed in a shed across the road from a Brussels sprout field. However, she and her husband, John, saw great potential in this small research and educational facility.
+<figure class="inline-image right">
+{% asset sharing-a-love-marine-life.jpg magick:resize=180 alt='sharing-a-love-marine-life.jpg' %}</figure>
+
+When Enid Rusev began volunteering at Long Marine Lab in 1981, the aquarium was housed in a shed across the road from a Brussels sprout field. However, she and her husband, John, saw great potential in this small research and educational facility.
 
 Inspired by the vision of Bill Doyle, founding director of UCSC&#8217;s [Institute of Marine Sciences](https://seymourcenter.ucsc.edu/marine-science/institute-of-marine-sciences-long-marine-lab-ucsc/), they have helped to fulfill his dream for the past 31 years. Volunteering and donating to this unique education and research center, located on a coastal bluff overlooking the Monterey Bay, has been one of the most satisfying experiences of their lives.
 

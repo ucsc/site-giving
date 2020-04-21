@@ -8,7 +8,11 @@ thumbnail_image: neel2008.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3227" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/neel2008-180x300.jpg" alt="" width="180" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/neel2008-180x300.jpg 180w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/neel2008.jpg 297w" sizes="(max-width: 180px) 100vw, 180px" />Neel Sundaresan, senior director of eBay Research Labs, wants to eliminate barriers to jobs in science, technology, engineering, and mathematics, known as &#8220;STEM&#8221; careers.
+<figure class="inline-image right">
+{% asset neel2008.jpg magick:resize=300 alt='neel2008.jpg' %}
+<figcaption>Neel Sundaresan, senior director of eBay Research Labs</figcaption></figure>
+
+Neel Sundaresan, senior director of eBay Research Labs, wants to eliminate barriers to jobs in science, technology, engineering, and mathematics, known as &#8220;STEM&#8221; careers.
 
 Last year, with that goal in mind, Sundaresan created a scholarship program that focuses on strongly motivated, high-performing female undergraduates who come from disadvantaged backgrounds and are pursuing STEM careers.
 

@@ -8,7 +8,9 @@ thumbnail_image: charles-canfield.jpg
 categories:
   - Donor Profiles
 ---
-<figure id="attachment_130" style="width: 209px" class="wp-caption alignright"><img class="size-medium wp-image-130" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/charles-canfield-209x300.jpg" alt="" width="209" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/charles-canfield-209x300.jpg 209w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/charles-canfield.jpg 278w" sizes="(max-width: 209px) 100vw, 209px" /><figcaption class="wp-caption-text">Local businessman Charles Canfield, president of the Santa Cruz Seaside Company</figcaption></figure> 
+<figure class="inline-image right">
+{% asset charles-canfield.jpg magick:resize=400 alt='Local businessman Charles Canfield, president of the Santa Cruz Seaside Company' %}
+<figcaption>MLocal businessman Charles Canfield, president of the Santa Cruz Seaside Company</figcaption></figure>
 
 &#8220;To be able to create a scholarship for local students studying at UC Santa Cruz is something I&#8217;m very proud of,&#8221; said Charles Canfield, president of the Santa Cruz Seaside Company and owner and operator of the Santa Cruz Beach Boardwalk since 1984. &#8220;I want to help ensure that future generations of local students are able to pursue their dreams through education.&#8221;
 
