@@ -8,7 +8,11 @@ thumbnail_image: xochitil.jpg
 categories:
   - Student Profiles
 ---
-<img class="alignright size-medium wp-image-3203" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/xochitil-180x300.jpg" alt="" width="180" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/xochitil-180x300.jpg 180w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/xochitil.jpg 297w" sizes="(max-width: 180px) 100vw, 180px" />Xochitl Rios&#8217;s father left school in fourth grade, coaxing a living out of the soil. Her mother, who had a third-grade education, raised 12 children in their small village in Central Mexico.
+<figure class="inline-image right">
+{% asset xochitil.jpg magick:resize=180 alt='xochitil.jpg' %}
+<figcaption></figcaption></figure>
+
+Xochitl Rios&#8217;s father left school in fourth grade, coaxing a living out of the soil. Her mother, who had a third-grade education, raised 12 children in their small village in Central Mexico.
 
 Today, Rios (Oakes &#8217;13) is a UC Santa Cruz student majoring in chemistry with plans to go to graduate school. A U.S. citizen now, she wants to work in pharmaceutical research.
 

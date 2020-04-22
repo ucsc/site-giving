@@ -4,7 +4,7 @@ title: UC Santa Cruz Parents and Families
 date: 2017-08-20T22:43:44+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=740
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=740
 hero:
   use: false
   image: parents-giving.png #best at 1000px by 450px

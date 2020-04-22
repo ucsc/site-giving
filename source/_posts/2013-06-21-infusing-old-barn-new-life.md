@@ -8,7 +8,11 @@ thumbnail_image: webster.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-2716" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2014/07/webster-300x222.jpg" alt="" width="300" height="222" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2014/07/webster-300x222.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2014/07/webster.jpg 668w" sizes="(max-width: 300px) 100vw, 300px" />When Alec Webster started paying attention to the old Cowell Ranch Hay Barn, a century and a half of use, disuse, and the elements had taken a steep toll. By the time he started really caring, it was clearly falling down.
+<figure class="inline-image right">
+{% asset webster.jpg magick:resize=300 alt='webster.jpg' %}
+<figcaption></figcaption></figure>
+
+When Alec Webster started paying attention to the old Cowell Ranch Hay Barn, a century and a half of use, disuse, and the elements had taken a steep toll. By the time he started really caring, it was clearly falling down.
 
 Still, he saw an amazing opportunity. If restored, the barn could be a way to honor the history of UC Santa Cruz and the land itself, bring new focus to South Campus, add momentum to adjacent environmental and food sustainability programs, and become a catalyst for others to invest in the university.
 

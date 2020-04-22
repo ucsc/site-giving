@@ -4,7 +4,7 @@ title: Signature Initiatives
 date: 2017-08-18T22:56:41+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=693
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=693
 ---
 Our Signature Initiatives stem from UC Santa Cruz’s core strengths of cross-disciplinary cooperation, commitment to social and environmental responsibility, and an unparalleled record of innovation. By developing each of these ambitious initiatives, we will elevate UC Santa Cruz’s contributions to health, the environment, the sciences, and the arts, and leave our unique mark on a rapidly changing world.
 
@@ -24,10 +24,10 @@ Innovative exhibitions, teaching and research. The usual boundaries do not apply
 
 Shaping the foundational science for advances in all walks of life
 
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/GEn_DNA-0x0.jpg)  
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Otters_600-0x0.jpg)  
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Art-Spokes-0x0.jpg)  
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Data-man-at-computer-0x0.jpg) 
+![](/assets/images/GEn_DNA-0x0.jpg)  
+![](/assets/images/Otters_600-0x0.jpg)  
+![](/assets/images/Art-Spokes-0x0.jpg)  
+![](/assets/images/Data-man-at-computer-0x0.jpg) 
 
 ### Ready to make a difference?
 

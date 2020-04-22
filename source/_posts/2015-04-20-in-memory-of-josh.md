@@ -9,7 +9,11 @@ thumbnail_image: joshalper.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3137" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/joshalper-300x286.jpg" alt="" width="300" height="286" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/joshalper-300x286.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/joshalper.jpg 519w" sizes="(max-width: 300px) 100vw, 300px" />The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation, which will help work-study students at McHenry Library and give a boost to UC Santa Cruz cycling club members.
+<figure class="inline-image right">
+{% asset joshalper.jpg magick:resize=400 alt='joshalper' %}
+<figcaption></figcaption></figure>
+
+The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation, which will help work-study students at McHenry Library and give a boost to UC Santa Cruz cycling club members.
 
 Alper, who worked at McHenry Library for eight years, was killed in 2013 while biking on Highway 1 north of Santa Cruz.
 

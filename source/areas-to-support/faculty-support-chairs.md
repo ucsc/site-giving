@@ -4,7 +4,7 @@ title: Faculty Support and Chairs
 date: 2017-09-21T17:45:57+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=3256
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=3256
 ---
 <figure class="inline-image">
 {% asset double-down-chairs-cropped.jpg alt="double-down-chairs-cropped" %}</figure>

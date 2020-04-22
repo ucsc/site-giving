@@ -4,7 +4,7 @@ title: Make a monthly gift to UC Santa Cruz
 date: 2017-09-22T21:11:52+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=3307
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=3307
 ---
 ## Be a supporter today and tomorrow
 

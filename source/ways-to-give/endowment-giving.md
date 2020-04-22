@@ -4,7 +4,7 @@ title: Endowment Giving
 date: 2017-09-12T22:13:31+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2889
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=2889
 hero:
   use: false
   image: endowments-page-billboard.jpg #best at 1000px by 450px

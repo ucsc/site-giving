@@ -3,15 +3,16 @@ id: 3133
 title: Nurturing diversity in the sciences
 date: 2015-04-20T21:25:06+00:00
 layout: post
-excerpt: |
-    Julie Packard (Crown '74, biology; M.A. '78) has a lifelong love of nature and biology.
-    Recognizing the institution that nurtured her, she gave $1 million gift to establish the Dean's Fund for Diversity in the Sciences.
-
+excerpt: Julie Packard (Crown '74, biology; M.A. '78) has a lifelong love of nature and biology. Recognizing the institution that nurtured her, she gave $1 million gift to establish the Dean's Fund for Diversity in the Sciences.
 thumbnail_image: julie-packard.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3134" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/julie-packard-180x300.jpg" alt="" width="180" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/julie-packard-180x300.jpg 180w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/julie-packard.jpg 297w" sizes="(max-width: 180px) 100vw, 180px" />Julie Packard (Crown &#8217;74, biology; M.A. &#8217;78) has a lifelong love of nature and biology. The Monterey Bay was her living lab when she was a student at UC Santa Cruz.
+<figure class="inline-image right">
+{% asset julie-packard.jpg magick:resize=400 alt='julie-packard' %}
+<figcaption></figcaption></figure>
+
+Julie Packard (Crown &#8217;74, biology; M.A. &#8217;78) has a lifelong love of nature and biology. The Monterey Bay was her living lab when she was a student at UC Santa Cruz.
 
 Now she&#8217;s giving back to the institution that nurtured her; this year she gave a $1 million gift to establish the Dean&#8217;s Fund for Diversity in the Sciences, designed to support programs that will help underrepresented minority students excel in science and math.
 

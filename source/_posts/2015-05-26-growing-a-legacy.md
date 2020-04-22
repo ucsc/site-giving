@@ -15,7 +15,11 @@ thumbnail_image: naraghi-sharon.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-252" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/naraghi-sharon-182x300.jpg" alt="naraghi-sharon" width="182" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/naraghi-sharon-182x300.jpg 182w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/08/naraghi-sharon.jpg 293w" sizes="(max-width: 182px) 100vw, 182px" />Third-generation Central Valley farmer Sharon Naraghi fell in love with UC Santa Cruz&#8217;s sustainable farming program when she visited the campus&#8217;s organic farm stand and signed up for a farm-to-fork dinner.
+<figure class="inline-image right">
+{% asset naraghi-sharon.jpg magick:resize=180 alt='naraghi-sharon' %}
+<figcaption></figcaption></figure>
+
+Third-generation Central Valley farmer Sharon Naraghi fell in love with UC Santa Cruz&#8217;s sustainable farming program when she visited the campus&#8217;s organic farm stand and signed up for a farm-to-fork dinner.
 
 While Naraghi&#8217;s father mostly employed conventional farming methods, he used water-conserving irrigation techniques from his native Iran, and set aside 10 acres that were completely organic, with Persian grapes, fruits, and vegetables.
 

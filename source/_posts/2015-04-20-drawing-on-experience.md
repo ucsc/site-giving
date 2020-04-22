@@ -9,7 +9,11 @@ thumbnail_image: reynolds.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-full wp-image-3125" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/reynolds.jpg" alt="" width="297" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/reynolds.jpg 297w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/reynolds-180x300.jpg 180w" sizes="(max-width: 297px) 100vw, 297px" />Jock Reynolds (Stevenson &#8217;69, psychology) will never forget the dialogues he and 14 fellow students had in visiting artist Robert Watts&#8217;s &#8220;Experimental Arts Workshop.&#8221; They interacted with the likes of composer John Cage, father of &#8220;Happenings&#8221; Allan Kaprow, sculptor George Segal, and other avant-garde artists.
+<figure class="inline-image right">
+{% asset reynolds.jpg magick:resize=400 alt='reynolds' %}
+<figcaption></figcaption></figure>
+
+Jock Reynolds (Stevenson &#8217;69, psychology) will never forget the dialogues he and 14 fellow students had in visiting artist Robert Watts&#8217;s &#8220;Experimental Arts Workshop.&#8221; They interacted with the likes of composer John Cage, father of &#8220;Happenings&#8221; Allan Kaprow, sculptor George Segal, and other avant-garde artists.
 
 This transformative educational experience and others were funded by a major grant from the Carnegie Foundation. The grant proposal had been prepared and submitted by sculptor Gurdon Woods, founder of UC Santa Cruz&#8217;s Art Department and an inspirational mentor to the young Reynolds.
 

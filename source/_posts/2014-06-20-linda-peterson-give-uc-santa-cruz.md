@@ -9,7 +9,12 @@ thumbnail_image: linda-peterson.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-full wp-image-3152" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/linda-peterson.jpg" alt="" width="297" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/linda-peterson.jpg 297w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/linda-peterson-180x300.jpg 180w" sizes="(max-width: 297px) 100vw, 297px" />Because when I was a student here, I was inspired by a Community Studies project that made me reach outside myself and become involved in the community. UCSC laid the groundwork for the person I&#8217;ve become today.
+<figure class="inline-image right">
+{% asset linda-peterson.jpg magick:resize=300 alt='linda-peterson' %}
+<figcaption></figcaption></figure>
+
+
+Because when I was a student here, I was inspired by a Community Studies project that made me reach outside myself and become involved in the community. UCSC laid the groundwork for the person I&#8217;ve become today.
 
 Giving is a powerful thing. It&#8217;s a way to reach out a hand, memorialize for all time the name of someone beloved, or ensure that future generations have a chance to succeed and make the world a better place.
 

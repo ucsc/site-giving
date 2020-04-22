@@ -9,7 +9,12 @@ thumbnail_image: paul-hall.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright wp-image-3140 size-medium" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/paul-hall-180x300.jpg" alt="" width="180" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/paul-hall-180x300.jpg 180w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/paul-hall.jpg 297w" sizes="(max-width: 180px) 100vw, 180px" />I give because I got a fantastic undergraduate education here, including great mentoring from brilliant professors who remain my friends to this day. My years here sharpened my thinking, taught me the value of interdisciplinary learning, and set me on my way in life. Now more than ever, public universities need our time, our commitment, and our generous gifts to maintain their level of excellence.
+<figure class="inline-image right">
+{% asset paul-hall.jpg magick:resize=180 alt='paul-hall' %}
+<figcaption></figcaption></figure>
+
+
+I give because I got a fantastic undergraduate education here, including great mentoring from brilliant professors who remain my friends to this day. My years here sharpened my thinking, taught me the value of interdisciplinary learning, and set me on my way in life. Now more than ever, public universities need our time, our commitment, and our generous gifts to maintain their level of excellence.
 
 I gave to McHenry Library because I was lucky enough to be here when Dean McHenry was the visionary founding chancellor—and the campus&#8217; excellent library bears his name.
 

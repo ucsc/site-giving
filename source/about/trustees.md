@@ -4,7 +4,7 @@ title: Trustees
 date: 2017-08-21T19:32:28+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=794
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=794
 see_also:
   - title: About the Foundation
     link: https://foundation.ucsc.edu/index.html

@@ -4,7 +4,7 @@ title: Featured Endowments
 date: 2017-09-12T22:44:22+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=2901
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=2901
 hero:
   use: false
   image: maxineandplants.jpg #best at 1000px by 450px

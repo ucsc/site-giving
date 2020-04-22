@@ -8,7 +8,10 @@ thumbnail_image: Ian-martin-wedding.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3128" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/Ian-martin-wedding-300x272.jpg" alt="" width="300" height="272" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/Ian-martin-wedding-300x272.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/Ian-martin-wedding.jpg 544w" sizes="(max-width: 300px) 100vw, 300px" />I&#8217;ve discovered something important during my time as a Foundation Board member at UC Santa Cruz over the past three years—there are many ways to give to the university, just as there are many ways to become a part of the campus community.
+<figure class="inline-image right">
+{% asset Ian-martin-wedding.jpg magick:resize=400 alt='Ian-martin-wedding.jpg' %}
+<figcaption></figcaption></figure>
+I&#8217;ve discovered something important during my time as a Foundation Board member at UC Santa Cruz over the past three years—there are many ways to give to the university, just as there are many ways to become a part of the campus community.
 
 I was a typical Gidget way back when, growing up riding the waves, spending my summers on Balboa Island, Huntington Beach, San Onofre, Laguna Beach, and, of course, Santa Cruz. For years my husband and I co-owned a successful business in Soquel and a home in Pasatiempo. It was comforting and inspiring to look out the window and see waves.
 

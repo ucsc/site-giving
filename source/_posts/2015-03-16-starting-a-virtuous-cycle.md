@@ -17,7 +17,11 @@ thumbnail_image: darren-shou-symantec-300.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-249" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/darren-shou-symantec-300-179x300.jpg" alt="" width="179" height="300" />Darren Shou of Mountain View-based security and storage leader Symantec had a simple explanation for his company&#8217;s $500,000 contribution toward a $1 million endowment to establish a chair in storage and security at UC Santa Cruz.
+<figure class="inline-image right">
+{% asset darren-shou-symantec-300.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}
+<figcaption></figcaption></figure>
+
+Darren Shou of Mountain View-based security and storage leader Symantec had a simple explanation for his company&#8217;s $500,000 contribution toward a $1 million endowment to establish a chair in storage and security at UC Santa Cruz.
 
 &#8220;It&#8217;s a virtuous cycle,&#8221; said Shou, a senior director of Symantec Research Labs, who played a decisive role in making this gift happen. &#8220;We support the School of Engineering so they can support the best and brightest students from around the world.&#8221;
 

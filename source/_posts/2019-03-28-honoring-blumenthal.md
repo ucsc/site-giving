@@ -69,4 +69,6 @@ As Chancellor Blumenthal himself says about the program: “Thanks to our donors
 
 [Please join us in honoring Chancellor Blumenthal](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=984) with a gift to the George R. Blumenthal Fund for the Chancellor’s Undergraduate Internship Program.
 
-For more information or to make a gift, please contact Jeff Shilling at <shilling@ucsc.edu> or (831) 459-5591.<img class="size-medium wp-image-3899 alignright" src="https://giving.ucsc.edu/wp-content/uploads/2019/03/George-Blumenthal-sign4-1-300x185.jpg" alt="" width="300" height="185" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2019/03/George-Blumenthal-sign4-1-300x185.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2019/03/George-Blumenthal-sign4-1-768x474.jpg 768w, https://ucsc-giving.lndo.site/wp-content/uploads/2019/03/George-Blumenthal-sign4-1-1024x632.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+For more information or to make a gift, please contact Jeff Shilling at <shilling@ucsc.edu> or (831) 459-5591.<figure class="inline-image right">
+{% asset George-Blumenthal.jpg magick:resize=400 alt='George-Blumenthal-sign4-1' %}
+<figcaption></figcaption></figure>

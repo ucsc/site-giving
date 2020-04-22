@@ -8,7 +8,11 @@ thumbnail_image: attat.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3200" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/attat-300x244.jpg" alt="" width="300" height="244" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/attat-300x244.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/attat.jpg 608w" sizes="(max-width: 300px) 100vw, 300px" />The African American Theater Arts Troupe does more than put on heart-stirring performances at UCSC.
+<figure class="inline-image right">
+{% asset attat.jpg magick:resize=400 alt='attat.jpg' %}
+<figcaption></figcaption></figure>
+
+The African American Theater Arts Troupe does more than put on heart-stirring performances at UCSC.
 
 It raises cultural awareness throughout the region, and has awarded more than $85,000 in scholarships to students involved with the troupe.
 

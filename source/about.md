@@ -4,7 +4,7 @@ title: About
 date: 2017-07-21T21:35:24+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=10
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=10
 ---
 When you support UC Santa Cruz, you are investing in an extraordinary place. We are committed to transformative education and high-impact research that makes the world a better place.
 

@@ -8,7 +8,11 @@ thumbnail_image: hilary_van_hoose.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-medium wp-image-3221" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/hilary_van_hoose-300x209.jpg" alt="" width="300" height="209" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/hilary_van_hoose-300x209.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/hilary_van_hoose.jpg 710w" sizes="(max-width: 300px) 100vw, 300px" />This year, the Class of 2013 hopes to raise $12,000 for the [Senior Legacy Fund](https://alumni.ucsc.edu/programs-services/student-programs/senior-legacy.html), a $2,000 increase over last year&#8217;s student fundraising efforts. The Senior Fund is a student-initiated, student-funded, and student-controlled giving fund started by the Class of 2010. It&#8217;s all part of the spirit of giving, which is inspiring members of the UCSC community even before they graduate.
+<figure class="inline-image right">
+{% asset hilary_van_hoose.jpg magick:resize=300 alt='hilary_van_hoose.jpg' %}
+<figcaption></figcaption></figure>
+
+This year, the Class of 2013 hopes to raise $12,000 for the [Senior Legacy Fund](https://alumni.ucsc.edu/programs-services/student-programs/senior-legacy.html), a $2,000 increase over last year&#8217;s student fundraising efforts. The Senior Fund is a student-initiated, student-funded, and student-controlled giving fund started by the Class of 2010. It&#8217;s all part of the spirit of giving, which is inspiring members of the UCSC community even before they graduate.
 
 &#8220;The idea behind the Senior Legacy Fund is simple but powerful, &#8216; said Emilie Winfield, student giving outreach intern. &#8220;Money from students goes directly to other students. Students can choose exactly where the money goes. And it&#8217;s not just undergraduates. Parents, students, faculty—anyone can give to the fund.&#8221;
 

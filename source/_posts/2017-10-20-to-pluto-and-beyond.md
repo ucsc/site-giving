@@ -30,9 +30,10 @@ tags:
   
 An undergraduate student at UC Santa Cruz has expanded our knowledge of Pluto—and gotten a boost toward a career with the help of UC Santa Cruz donors.
 
-In 2015 when the [_New Horizons_ space probe](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flew close by Pluto, it photographed strange pits in part of the frozen nitrogen and methane of the dwarf planet’s surface.<figure id="attachment_3445" style="width: 500px" class="wp-caption alignleft">
-
-<img class="wp-image-3445 size-full" src="https://giving.ucsc.edu/wp-content/uploads/2017/10/abuhashmeh_poster2.jpg" alt="Nadim Abu-Hashmeh present poster of his findings" width="500" height="355" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/10/abuhashmeh_poster2.jpg 500w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/10/abuhashmeh_poster2-300x213.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> <figcaption class="wp-caption-text">With support from an endowment for undergraduate research, Nadim Abu-Hashmeh will present his research to the American Geophysical Union. Photo: J.D. Hillard</figcaption></figure> 
+In 2015 when the [_New Horizons_ space probe](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flew close by Pluto, it photographed strange pits in part of the frozen nitrogen and methane of the dwarf planet’s surface.
+<figure class="inline-image full">
+{% asset abuhashmeh_poster2.jpg magick:resize=400 alt='abuhashmeh_poster.jpg' %}
+<figcaption>With support from an endowment for undergraduate research, Nadim Abu-Hashmeh will present his research to the American Geophysical Union. Photo: J.D. Hillard</figcaption></figure>
 
 “They kind of stretch out, and they’re clumped together in some spots,” says Nadim Abu-Hashmeh (Oakes ‘17, Earth sciences). “There aren’t any features that look quite like this in the solar system.”
 

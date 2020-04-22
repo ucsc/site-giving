@@ -13,7 +13,11 @@ thumbnail_image: angela-austin.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-full wp-image-3143" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/angela-austin.jpg" alt="" width="297" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/angela-austin.jpg 297w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/angela-austin-180x300.jpg 180w" sizes="(max-width: 297px) 100vw, 297px" />In 14 years with the U.S. Marine Corps, Angela Austin&#8217;s most physically challenging, rewarding, and enjoyable duty was as a Marine Corps martial arts instructor.
+<figure class="inline-image right">
+{% asset angela-austin.jpg magick:resize=400 alt='angela-austin' %}
+<figcaption></figcaption></figure>
+
+In 14 years with the U.S. Marine Corps, Angela Austin&#8217;s most physically challenging, rewarding, and enjoyable duty was as a Marine Corps martial arts instructor.
 
 Married to another Marine still on active duty for two more years, she took a hiatus from her studies this past year for the birth of her son—she is set to graduate this June. Her ultimate goal is to work at a national or state park or federal reserve: &#8220;Helping in conservation efforts is the difference I want to make in this world, in order to preserve the things in nature I have appreciated and loved my entire life.&#8221;
 

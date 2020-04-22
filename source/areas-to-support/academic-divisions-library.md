@@ -4,7 +4,7 @@ title: Academic Divisions and Library
 date: 2017-08-18T23:07:31+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=700
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=700
 ---
 Each academic division at UC Santa Cruz emphasizes interdisciplinary inquiry and experiential learning. UC Santa Cruz seeks to make specific investments in the initiatives and facilities that each division needs. These investments are key to maintaining and growing UC Santa Cruz’s commitment to academic excellence and to work that is as disruptive as it is extraordinary.
 

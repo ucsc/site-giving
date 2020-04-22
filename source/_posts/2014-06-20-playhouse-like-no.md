@@ -12,7 +12,11 @@ thumbnail_image: mirian-ellis.jpg
 categories:
   - Donor Profiles
 ---
-<img class="aligncenter size-full wp-image-3146" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/mirian-ellis.jpg" alt="" width="789" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/mirian-ellis.jpg 789w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/mirian-ellis-300x188.jpg 300w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/mirian-ellis-768x481.jpg 768w" sizes="(max-width: 789px) 100vw, 789px" />Search anywhere and you won’t find anything quite like UCSC’s International Playhouse, an annual program of short theater pieces staged in different languages by students in the university’s Language Program.
+<figure class="inline-image right">
+{% asset mirian-ellis.jpg magick:resize=400 alt='mirian-ellis' %}
+<figcaption></figcaption></figure>
+
+Search anywhere and you won’t find anything quite like UCSC’s International Playhouse, an annual program of short theater pieces staged in different languages by students in the university’s Language Program.
 
 Language lecturer Miriam Ellis planted the seeds for the playhouse in 1972 when she started offering a program of theater and music in French at UCSC.
 

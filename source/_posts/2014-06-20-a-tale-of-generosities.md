@@ -9,7 +9,11 @@ thumbnail_image: john-jordan.jpg
 categories:
   - Donor Profiles
 ---
-<img class="alignright size-full wp-image-3156" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/john-jordan.jpg" alt="" width="297" height="494" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/john-jordan.jpg 297w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/john-jordan-180x300.jpg 180w" sizes="(max-width: 297px) 100vw, 297px" />Trude Hoffacker will never forget the year she was feeling down and the Dickens Universe conference boosted her spirits. &#8220;I said to a friend, let&#8217;s go to this conference,&#8221; she said. &#8220;Dickens always makes me laugh, and I need a laugh.&#8221;
+<figure class="inline-image right">
+{% asset john-jordan.jpg magick:resize=400 alt='john-jordan' %}
+<figcaption></figcaption></figure>
+
+Trude Hoffacker will never forget the year she was feeling down and the Dickens Universe conference boosted her spirits. &#8220;I said to a friend, let&#8217;s go to this conference,&#8221; she said. &#8220;Dickens always makes me laugh, and I need a laugh.&#8221;
 
 That was 1981. She hasn&#8217;t missed a Dickens Universe since.
 

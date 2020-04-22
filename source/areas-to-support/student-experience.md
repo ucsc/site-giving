@@ -4,7 +4,7 @@ title: Student Experience
 date: 2017-08-18T20:45:34+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=638
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=638
 ---
 UC Santa Cruz is committed to enhancing student experiences through investment in our shared facilities, experiential learning, leadership development and our colleges.
 
@@ -28,10 +28,10 @@ Expand undergraduate research, internship and Field Study opportunities
 
 Create opportunities for students to develop key leadership skills and abilities
 
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Student-enviro-0x400.jpg)  
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Student-philanthropy-0x400.jpg)  
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Student-OnwardCA9-0x400.jpg)  
-![](http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/08/Student-buttons-0x400.jpg) 
+![](/assets/images/Student-enviro-0x400.jpg)  
+![](/assets/images/Student-philanthropy-0x400.jpg)  
+![](/assets/images/Student-OnwardCA9-0x400.jpg)  
+![](/assets/images/Student-buttons-0x400.jpg) 
 
 ### Ready to make a difference?
 

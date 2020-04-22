@@ -4,7 +4,7 @@ title: UC Santa Cruz Fund
 date: 2017-09-18T21:21:43+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=3077
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=3077
 hero:
   use: true
   image: ucsc-fund-image.jpg #best at 1000px by 450px

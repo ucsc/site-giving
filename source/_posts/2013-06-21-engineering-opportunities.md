@@ -8,7 +8,11 @@ thumbnail_image: engineering.jpg
 categories:
   - Student Profiles
 ---
-<img class="alignright size-medium wp-image-3197" src="http://live-ucsc-giving.pantheonsite.io/wp-content/uploads/2017/09/engineering-228x300.jpg" alt="" width="228" height="300" srcset="https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/engineering-228x300.jpg 228w, https://ucsc-giving.lndo.site/wp-content/uploads/2017/09/engineering.jpg 376w" sizes="(max-width: 228px) 100vw, 228px" />Imagine a robot that travels on the ceiling and helps you out around the house. Try to picture an autonomous, mechanized lifeguard that waits in the water, kicking into high gear when someone starts drowning.
+<figure class="inline-image right">
+{% asset engineering.jpg magick:resize=300 alt='engineering.jpg' %}
+<figcaption></figcaption></figure>
+
+Imagine a robot that travels on the ceiling and helps you out around the house. Try to picture an autonomous, mechanized lifeguard that waits in the water, kicking into high gear when someone starts drowning.
 
 These may sound like props in the latest J. J. Abrams movie, but engineering students at UC Santa Cruz have turned their collaborations with industry professionals into essential projects that address real-world concerns ranging from climate change and public safety to the secrets of extraterrestrial soil.
 

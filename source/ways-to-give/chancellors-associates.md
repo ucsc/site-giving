@@ -4,7 +4,7 @@ title: Chancellor's Associates
 date: 2017-08-21T15:45:46+00:00
 author: Jason
 layout: page
-guid: http://live-ucsc-giving.pantheonsite.io/?page_id=748
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=748
 hero:
   use: false
   image: parents-giving.png #best at 1000px by 450px
