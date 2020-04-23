@@ -651,10 +651,14 @@
     display: grid;
     grid-template-columns: 1fr;
     @include media-query($on-phone) {
-        grid-template-columns: 1fr 200px;
+        grid-template-columns: 1fr 250px;
+        grid-template-rows: minmax(auto, 265px);
     }
-    grid-gap: 1rem;
+    grid-gap: 1.25rem;
+    row-gap: 1em;
     .post-list-image {
+        justify-self: center;
+        align-self: stretch;
         order: 1;
         @include media-query($on-phone) {
             order: 2;

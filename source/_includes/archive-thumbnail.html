@@ -1,9 +1,5 @@
 {% include image-alt-text.html %}
 <a class="post-link" href="{% if post.link_post%}{{post.link_post}}{% else %}{{ post.url | relative_url }}{% endif %}">
-{% asset {{post.thumbnail_image}} alt="{{alt_text}}"   @pic
-          srcset:min-width='1080' @magick:resize=200
-          srcset:min-width='0' @magick:resize=320
+{% asset {{post.thumbnail_image}} magick:resize=x250 alt="{{alt_text}}"
 %}
 </a>
-
-
