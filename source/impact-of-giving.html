@@ -77,7 +77,13 @@ support_areas:
  {% endif %}
  {%if post.excerpt %}
     <p>{{ post.excerpt | markdownify | truncate:310 }}</p>
+  {% else %}
+    {% unless post.link_post%}
+      {{ post.content | strip_html | truncatewords: 50 }}
+    {% endunless %}
  {% endif %}
+
+
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span>
   {%- endif -%}
