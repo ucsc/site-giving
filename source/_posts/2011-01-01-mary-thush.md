@@ -26,8 +26,8 @@ categories: [Donor Profiles]
 tags: false
 ---
 <figure class="inline-image right">
-{% asset thush.jpg magick:resize=500 alt='photo of Mary Thush' %}
-<figcaption>Christy Anh-Thu Trinh-Malarney in Hue, Vietnam. Christy, her husband Shaun, and their two children spent a year in Vietnam during Shaun&#8217;s sabbatical leave.</figcaption></figure> 
+{% asset thush.jpg magick:resize=200 alt='photo of Mary Thush' %}
+<figcaption></figcaption></figure> 
 Mary Thush, a close friend of retired library media specialist David Kirk, decided to name the university as the beneficiary of her estate. “Having no immediate family, I wanted to leave my estate to an educational institution like UCSC,” she said.
 
 When Mary passed away, proceeds from her gift augmented the David Kirk Video Endowment and established the Mary E. Thush Media Center Endowment. Thush’s generosity ensures her lasting role in helping the library acquire and maintain digital media resources that offer depth, distinction, and excellence.
