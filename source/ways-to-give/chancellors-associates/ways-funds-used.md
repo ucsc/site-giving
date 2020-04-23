@@ -6,8 +6,8 @@ author: Jason
 layout: page
 guid: https://live-ucsc-giving.pantheonsite.io/?page_id=3116
 ---
-<figure class="inline-image right">
-{% asset ways-funds-are-used-banner.jpg magick:resize=400 alt='ways-funds-are-used-banner' %}
+<figure class="inline-image full">
+{% asset ways-funds-are-used-banner.jpg magick:resize=900 alt='ways-funds-are-used-banner' %}
 <figcaption></figcaption></figure>
 
 The chancellor invests the UC Santa Cruz Fund and the Parents Fund where they will have the greatest impact. Here are some of the ways he has invested:
