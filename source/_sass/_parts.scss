@@ -461,6 +461,7 @@
 
 .ways-to-give {
     padding-top: $spacing-unit;
+    border-bottom: 2px solid $ucsc-primary-yellow;
     .grid-cell {
         @include media-query($on-desktop) {
             &.one {
