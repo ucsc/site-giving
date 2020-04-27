@@ -122,6 +122,10 @@ footer_two:
     link: /category/videos/
   - name: Campaign for UCSC
     link: /category/campaign-impact/
+  - name: Endowment giving
+    link: /ways-to-give/endowment-giving/
+  - name: Philanthropy reports archive
+    link: "https://www.ucsc.edu"
 footer_three:
   - name: UCSC Fund
     link: /areas-to-support/ucsc-fund/
@@ -135,11 +139,6 @@ footer_three:
     link: /areas-to-support/faculty-support-chairs/
   - name: Scholarships and fellowships
     link: /areas-to-support/scholarships-fellowships/
-footer_four:
-  - name: Endowment giving
-    link: http://0.0.0.0:4000/ways-to-give/endowment-giving/
-  - name: Philanthropy reports archive
-    link: "https://www.ucsc.edu"
 footer_legal:
   - name: UCSC Home
     link: "https://www.ucsc.edu"

@@ -40,18 +40,6 @@
       </a></li>{% endfor %}
                 </ul>
             </div>
-            <div class="footer-col footer-col-four">
-                {% assign footer_head = site.data.main.footer_headings | where: "column","four"%} {% for item in footer_head %}
-                <h3 class="footer-heading">{{item.heading}}</h3>
-                {% endfor %}
-                <ul>
-                    {% for item in site.data.main.footer_four%}
-                    <li><a href="{{ item.link }}">
-        {{ item.name }}
-      </a></li>{% endfor %}
-                </ul>
-            </div>
-
         </div>
         <div class="footer-legal">
         <div class="footer-logo-wrap">
