@@ -72,9 +72,6 @@ support_areas:
       {{ post.title | escape }}
     </a>
   </h3>
- {%if post.subtitle %}
-    <h4>{{ post.subtitle }}</h4>
- {% endif %}
  {%if post.excerpt %}
     <p>{{ post.excerpt | markdownify | truncate:310 }}</p>
   {% else %}
