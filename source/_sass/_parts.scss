@@ -331,14 +331,17 @@
         }
     }
     hr {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        // grid-row: 2 / span 2;
+        display: none;
         width: 100%;
-        display: block;
+        // display: block;
         border-bottom: 2px solid $ucsc-primary-yellow;
         &:last-child {
             display: none;
+        }
+        @include media-query($on-tablet) {
+            display: block;
+            grid-column-start: 1;
+            grid-column-end: 3;
         }
     }
 }
