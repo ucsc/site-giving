@@ -1,12 +1,9 @@
 <section class="wrapper  hero-wrap">
 <header>
-        <h1 class="post-title hero-title">{{ page.title }}</h1>
+        <h1 class="post-title hero-title">{% if page.hero.hero_link%}<a href="{{page.hero.hero_link}}">{% endif%}{{ page.title }}{% if page.hero.hero_link%}</a>{% endif%}</h1>
         </header>
     <div class="hero">
-    {% if page.hero.hero_link%}
-<a href="{{page.hero.hero_link}}">
-
-    {% endif%}
+    {% if page.hero.hero_link%}<a href="{{page.hero.hero_link}}">{% endif%}
         {% asset {{page.hero.image}} @pic
         srcset:min-width='1080' @magick:resize=1000
         srcset:min-width='768' @magick:resize=700
