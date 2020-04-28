@@ -332,10 +332,14 @@
     }
     hr {
         grid-column-start: 1;
-        grid-column-end: 2;
-        grid-row: 2 / span 2;
+        grid-column-end: 3;
+        // grid-row: 2 / span 2;
         width: 100%;
         display: block;
+        border-bottom: 2px solid $ucsc-primary-yellow;
+        &:last-child {
+            display: none;
+        }
     }
 }
 

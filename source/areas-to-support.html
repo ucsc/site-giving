@@ -53,6 +53,7 @@ support_areas:
 {% if page.support_areas %}
 <section class="cta two-col-grid">
   {% for item in page.support_areas %}
+  {% assign this_loop = forloop.index | modulo: 2 %}
     <div class="grid-cell">
         <div class="container">
             <div class="copy">
@@ -65,7 +66,9 @@ support_areas:
         {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
         {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
     </div>
-  <!-- <hr>    -->
+{% if this_loop == 0 -%}
+<hr>
+{% endif -%}
   {% endfor %}
 
 </section>
