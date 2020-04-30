@@ -697,10 +697,17 @@
  */
 
 .contact-info {
-    padding: $spacing-unit 0;
+    padding: ($spacing-unit / 2) 0;
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
     a {
         display: block;
         font-weight: 700;
+        border-bottom: none;
+    }
+    @include media-query ($on-desktop) {
+        padding: $spacing-unit 0;
     }
 }
 
