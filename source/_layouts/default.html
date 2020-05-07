@@ -9,7 +9,7 @@
 {% assign class = url | slice: 0, size %}
 {% capture id %}{{ id_prefix }}{{ class }}{% endcapture %}
 
-<body class="{{ layout }} {{ id }}">
+<body class="{{ layout }} {{ id }}{% if page.url == "/" %} home {% endif %}">
 
     {%- include header.html -%} {% if page.hero.use %} {%- include hero.html -%} {% endif %}
     <main class="page-content" aria-label="Content">
