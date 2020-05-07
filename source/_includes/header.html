@@ -21,4 +21,6 @@
 
     </div>
 </header>
+{% unless page.url == "/"%}
 {% include breadcrumbs.html%}
+{% endunless %}
