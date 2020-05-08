@@ -8,7 +8,7 @@ guid: https://live-ucsc-giving.pantheonsite.io/?page_id=2911
 hero:
   use: true
   image: CowellRanchBldgs.jpg #best at 1000px by 450px
-  hero_link: 
+  hero_link: false
   alt_text: Cowell Ranch Buildings
   vertical: bottom #options: top, bottom
   horizontal: right #options: left, right

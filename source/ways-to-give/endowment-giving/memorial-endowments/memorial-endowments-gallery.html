@@ -20,6 +20,7 @@ Select any of the thumbnail images for a larger view. We welcome photographs for
 {% for memorial in site.data.main.memorial %}
 {% if memorial.link %}<a href="{{memorial.link}}">{% endif%}
 <figure class="inline-image right">
-{% asset {{memorial.image}} magick:resize=130 alt="{{memorial.caption}}" title="{{memorial.caption}}" %}</figure>
+{% asset {{memorial.image}} magick:resize=130 alt="{{memorial.caption}}" title="{{memorial.caption}}" %}
+<figcaption>{{memorial.name}}</figcaption></figure>
 {% if memorial.link %}</a>{% endif%}
 {% endfor %}

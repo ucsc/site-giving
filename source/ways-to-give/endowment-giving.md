@@ -6,11 +6,11 @@ author: Jason
 layout: page
 guid: https://live-ucsc-giving.pantheonsite.io/?page_id=2889
 hero:
-  use: false
+  use: true
   image: endowments-page-billboard.jpg #best at 1000px by 450px
   alt_text: endowments-page-billboard
-  vertical: top #options: top, bottom
-  horizontal: right #options: left, right
+  vertical: bottom #options: top, bottom
+  horizontal: left #options: left, right
 see_also:
   - title: Memorial Endowments
     link: /ways-to-give/endowment-giving/memorial-endowments/
@@ -26,9 +26,6 @@ see_also:
     link: http://library.ucsc.edu/giving/endowments/endow-a-collection
 sidebar1: endowment-giving-sidebar.html
 ---
-<figure class="inline-image full">
-{% asset endowments-page-billboard.jpg magick:resize=1000 alt="endowments-page-billboard" %}</figure>
-
 ## Securing the Future
 {% include sidebars/{{page.sidebar1}} classes="right" %}
 Endowments at UC Santa Cruz support lasting, transformative change. With endowments, UC Santa Cruz is cultivating a vibrant learning community—one that truly supports the students and faculty of today and tomorrow. This strategy allows the university the freedom to be proactive in its planning, visionary in approach, and agile in its ability to respond to new opportunities.
