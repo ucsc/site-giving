@@ -5,11 +5,14 @@ date: 2017-09-13T00:00:35+00:00
 author: Jason
 layout: page
 guid: https://live-ucsc-giving.pantheonsite.io/?page_id=2911
+hero:
+  use: true
+  image: CowellRanchBldgs.jpg #best at 1000px by 450px
+  hero_link: 
+  alt_text: Cowell Ranch Buildings
+  vertical: bottom #options: top, bottom
+  horizontal: right #options: left, right
 ---
-<figure class="inline-image full">
-{% asset CowellRanchBldgs.jpg magick:resize=1600 alt='CowellRanchBldgs' %}
-<figcaption></figcaption></figure>
-
 Endowments created in memory of loved ones are a lasting tribute that benefits UC Santa Cruz long into the future. Memorial endowments enhance our campus by providing meaningful support to students, faculty, facilities, and programs at UC Santa Cruz.
 
 ## Virtual Wall  

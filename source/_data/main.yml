@@ -171,3 +171,137 @@ annual_reports:
     pdf: annual-report-07-08.pdf
   - year: 2008-09
     pdf: annual-report-08-09.pdf
+memorial:
+  - name: Bruce C. Lane
+    image: bruce-c-lane.jpg
+    caption: Bruce C. Lane, Staff 1964-1991. This memorial endowment through the UCSC Retirees Association supports scholarships for students who have served in the United States military.
+    link:
+  - name: Jeremy Marx
+    image: Jeremy-Marx.jpg
+    caption: Jeremy Marx, anthropology major, UC Santa Cruz. This memorial endowment supports merit-based awards for undergraduate papers in cultural anthropology, with preference given to seniors' papers on rituals, festivals, and ludic events, rites of passage, art and symbolism and life transitions.
+    link:
+  - name: Eileen Brooks
+    image: EileenBrooks.jpg
+    caption: Eileen Brooks, assistant professor of economics, UC Santa Cruz. This memorial endowment supports merit-based graduate student awards in the Department of Economics.
+    link:
+  - name: Richard Cooley
+    image: Richard-Cooley.jpg
+    caption: Richard Cooley, environmental studies program founder, UC Santa Cruz. This memorial endowment supports field project awards for undergraduate students with a preference to students majoring in Environmental Studies.
+    link:
+  - name: Ida Benson Lynn
+    image: ida-benson-lynn.jpg
+    caption: Ida Benson Lynn. This memorial endowment supports the Ida Benson Lynn Endowed Chair in Ocean Health
+    link:
+  - name: Eduardo Carrillo
+    image: Eduardo_Carrillo.jpg
+    caption: Eduardo Carrillo, professor of arts and founding member of Oakes College, UC Santa Cruz. This memorial endowment supports the Eduardo Carrillo Scholarship in Arts.
+    link:
+  - name: Lionel Cantu
+    image: cantu_lionel.jpg
+    caption: Lionel Cantu, assistant professor of sociology, UC Santa Cruz. This memorial endowment supports merit-based awards to students in any department with preference to those interested in Immigration Studies, transnational/cross border studies, Latino/Latina sociology, gender and sexuality, or gay men and masculinity
+    link:
+  - name: Kathryn Cheney Merriam
+    image: Kathryn_Merriam.jpg
+    caption: Kathryn Cheney Merriam, community leader, Santa Cruz. This memorial endowment support a scholarship to an undergraduate student showing financial need and studying education.
+    link:
+  - name: Jessica Roy
+    image: jessica_roy.jpg
+    caption: Jessica Roy, sociology graduate student, UC Santa Cruz. This memorial endowment supports student awards for interdisciplinary studies including Environment, Feminism, and Sociology, with a preference for interest in issues of equity and poverty in international development, especially in relation to women and environment.
+    link:
+  - name: Frank X. Barron
+    image: barron-frank.jpg
+    caption: Frank X. Barron, professor emeritus of psychology, UC Santa Cruz
+    link:
+  - name: Priscilla Parkin
+    image: priscilla_parkin.jpg
+    caption: Priscilla Parkin, Crown College, UC Santa Cruz. This memorial endowment is awarded annually to a Crown College student for academic excellence in mathematics or the exact sciences.
+    link:
+  - name: Nancy Matlock
+    image: Nancy-Matlock.jpg
+    caption: Nancy Matlock, supervisor of teacher education, UC Santa Cruz. This memorial endowment supports the Teacher Education Program.
+    link:
+  - name: Rick Hooper
+    image: rick_hooper.jpg
+    caption: Rick Hooper, Stevenson alumnus, politics major and economics minor, UC Santa Cruz. This memorial endowment supports a need-based academic merit scholarship for an undergraduate student with interest in traveling to increase understanding of or study in an Arabic-speaking or Muslim word.
+    link:
+  - name: Brian Martin Sweeney
+    image: Brian_Martin_Sweeney.jpg
+    caption: Brian Martin Sweeney, late husband of Vice Chancellor Donna M. Murphy, UC Santa Cruz. This memorial endowment supports a high achieving undergraduate student through a UCSC Campus Merit Scholarship.
+    link:
+  - name: Terence Freitas
+    image: Terry_Freitas.jpg
+    caption: Terence Freitas, Crown College alumnus, biology and environmental studies major, UC Santa Cruz. This memorial endowment supports a need- and merit-based award to environmental studies undergraduate students, with special consideration to indigenous peoples in developing countries.
+    link:
+  - name: Federico and Rena Perlino
+    image: perlino.jpg
+    caption: Federico and Rena Perlino, Perlino's Poultry Market owners, Santa Cruz. This memorial endowment supports a scholarship for a graduate student.
+    link:
+  - name: Gabriel Zimmerman
+    image: Gabe-Zimmerman.jpg
+    caption: Gabriel Zimmerman, Stevenson alumnus, sociology major, UC Santa Cruz. This memorial endowment supports social sciences students who are in financial need and are seeking careers in social justice or public service.
+    link:
+  - name: Stanley Flatte
+    image: stanley_flatte.jpg
+    caption: Stanley Flatte, professor emeritus in physics, UC Santa Cruz. This memorial endowment supports an annual lecture by a distinguished physicist at UCSC.
+    link:
+  - name: Sabrina Greenfield
+    image: sabrina-greenfield.jpg
+    caption: Sabrina Greenfield, feminist studies major, UC Santa Cruz. This memorial endowment supports a scholarship to a College Ten student with financial need majoring in Feminist Studies.
+    link:
+  - name: Sally Jane Hammond
+    image: SallyJaneHammond.jpg
+    caption: "Sally Jane Hammond, staff member, UC Santa Cruz. This memorial endowment supports a transfer student at Crown College, in this preferred order: 1) Cabrillo, 2) Monterey Peninsula, 3) Hartnell, and 4) Gavilan."
+    link:
+  - name: Anthony Fink
+    image: Anthony_Fink.jpg
+    caption: Anthony Fink, professor of chemistry and biochemistry, UC Santa Cruz. This memorial endowment supports merit-based student awards related to human health and biological chemistry.
+    link:
+  - name: Ryan Heumann
+    image: ryan_heumann.jpg
+    caption: Ryan Heumann, anthropology major, UC Santa Cruz. This memorial endowment supports one or more awards to full-time undergradtuate students majoring in anthropology, in order to assist with the costs of faculty-sponsored independent research, research-related travel, or travel to academic conferences.
+    link:
+  - name: Ali Akbar Kahn
+    image: ali_akbar_khan.jpg
+    caption: Ali Akbar Khan, world-renowned musician; distinguished adjunct professor of music, UC Santa Cruz. This memorial endowment supports upports the study and performance of classical Indian music.
+    link:
+  - name: Andrew and Mary Madeline Stolpe
+    image: andrew-mary-stolpe.jpg
+    caption: Andrew and Mary Madeline Stolpe. This memorial endowment supports the Daniel O. Stolpe Archive in Special Collections.
+    link:
+  - name: David Shaeffer
+    image: David-Shaeffer.jpg
+    caption: David Shaeffer, artist. This memorial endowment supports the David Sheaffer local theater archive in Special Collections and also supports book, journal, and non-print media collections in Theater Arts.
+    link:
+  - name: William Everson
+    image: everson_former-students.gif
+    caption: William Everson, distinguished poet, master printer of the McHenry Library's Lime Kiln Press, and UCSC Poet-in-Residence. This memorial endowment provides enriched support for UCSC library collections in poetry and fine printing.
+    link:
+  - name: George Barati
+    image: george-barati.gif
+    caption: George Barati, distinguished cellist, conductor, and composer. This memorial endowment supports a scholarship for a music major whose principal instrument is the cello, preferably an incoming freshman to play in string quartet of the Student Resident Ensemble at UC Santa Cruz.
+    link:
+  - name: Kenneth Norris
+    image: norris_kenneth.gif
+    caption: Kenneth Norris, professor of natural history, director of the Center for Coastal Marine Studies (now the Institute of Marine Sciences), chair of the Environmental Studies Department, and coordinator of the Environmental Studies Field Program, UC Santa Cruz; founder of the University of California Natural Reserve System. This memorial endowment provides funds for undergraduate and graduate research on marine mammals.
+    link:
+  - name: Ronald Ruby
+    image: ronald-ruby.jpg
+    caption: Ronald Ruby, a founding physics professor at UC Santa Cruz. This memorial endowment supports a campus award for excellence in teaching.
+    link:
+  - name: Thomas Jefferson Jackson
+    image: See_Thomas_Jefferson_Jackson.jpg
+    caption: Thomas Jackson Jefferson (and Frances Graves) See, astronomer at Lick Observatory. This memorial endowment provides enriched support for UCSC library collections in the history of science, especially the history of astronomy and physics.
+    link:
+  - name: Mark Cary
+    image: mark-cary-lowerfront.jpg
+    caption: Mark Cary, UC Santa Cruz pioneer class (shown lower front). This memorial endowment supports a Cowell undergraduate in the field of the natural sciences.
+    link:
+  - name: Marilyn Stevens
+    image: marilyn-stevens.jpg
+    caption: Marilyn Stevens, physics department manager, UC Santa Cruz. This memorial endowment supports a scholarship for a current upper-division physics undergraduate student and a current physics graduate student.
+    link:
+  - name: Ken Gram
+    image: ken_gram.jpg
+    caption: Ken Gram, UCSC Creative Writing Alum. The Kenneth Andrew Gram memorial scholarship will benefit creative writing students.
+    link:
+

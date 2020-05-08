@@ -1,0 +1,25 @@
+---
+id: 2919
+title: Memorial Endowments Gallery
+date: 2017-09-13T22:10:44+00:00
+author: Jason
+layout: page
+guid: https://live-ucsc-giving.pantheonsite.io/?page_id=2919
+hero:
+  use: true
+  image: memorial-banner.jpg #best at 1000px by 450px
+  hero_link: https://www.ucsc.edu
+  alt_text: Hero Image Alt Text
+  vertical: bottom #options: top, bottom
+  horizontal: left #options: left, right
+---
+Endowments created in memory of loved ones provide meaningful support to our campus. We acknowledge and remember these very special people.
+
+Select any of the thumbnail images for a larger view. We welcome photographs for this page; please send them to <giving@ucsc.edu> or call (831) 459-3251.
+
+{% for memorial in site.data.main.memorial %}
+{% if memorial.link %}<a href="{{memorial.link}}">{% endif%}
+<figure class="inline-image right">
+{% asset {{memorial.image}} magick:resize=130 alt="{{memorial.caption}}" title="{{memorial.caption}}" %}</figure>
+{% if memorial.link %}</a>{% endif%}
+{% endfor %}
