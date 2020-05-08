@@ -115,7 +115,8 @@
  */
 
 .two-col-grid,
-.three-col-grid {
+.three-col-grid,
+.memorial-grid {
     display: grid;
     justify-items: center;
     .grid-cell {
@@ -131,7 +132,7 @@
         grid-gap: 2.5em;
     }
     .grid-cell {
-        padding-bottom: $spacing-unit;
+        padding-bottom: $spacing-unit !important;
         @include media-query($on-tablet) {
             padding-bottom: 0;
         }
@@ -152,6 +153,23 @@
         @include media-query($on-tablet) {
             padding-bottom: 0;
         }
+    }
+}
+
+.memorial-grid {
+    grid-template-columns: repeat(1, 1fr);
+    padding-top: $spacing-unit;
+    @include media-query($on-tablet) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    @include media-query($on-desktop) {
+        grid-template-columns: repeat(6, 1fr);
+    }
+    figure.grid-cell {
+        margin-bottom: $spacing-unit !important;
+    }
+    figcaption {
+        text-align: center;
     }
 }
 
