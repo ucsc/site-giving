@@ -147,6 +147,10 @@
  * Page content
  */
 
+.post {
+    padding-top: ($spacing-unit / 2);
+}
+
 .page-content {
     padding: 0 0 ($spacing-unit / 2);
     flex: 1;
