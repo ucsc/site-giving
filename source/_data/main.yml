@@ -69,6 +69,10 @@ divisions:
     link: "https://socialsciences.ucsc.edu/academics/index.html"
     image: social-sciences.jpeg
     blurb: The Division of Social Sciences is home to [Anthropology](https://anthro.ucsc.edu/), [Economics](https://economics.ucsc.edu/), [Education](https://education.ucsc.edu/), [Environmental Studies](https://envs.ucsc.edu/), [Latin American/Latino Studies](https://lals.ucsc.edu/), [Legal Studies](https://legalstudies.ucsc.edu/index.html), [Politics](https://politics.ucsc.edu/), [Psychology](https://psychology.ucsc.edu/) and [Sociology](https://sociology.ucsc.edu/).
+  - name: UC Observatories
+    link: "https://www.ucolick.org/"
+    image: lick-observatory.jpg
+    blurb: The [University of California Observatories (UCO)](https://www.ucolick.org/home/index.html) is a multi-campus research unit. We operate the [Lick Observatory](https://www.ucolick.org/main/index.html), the technical labs at UC Santa Cruz and UCLA, and we are a managing partner of the Keck Observatory in Hawaii. We are the center for the UC participation in the Thirty-Meter Telescope (TMT) project.
   - name: UC Santa Cruz Library
     link: "http://library.ucsc.edu/"
     image: library.jpg
