@@ -20,9 +20,9 @@ hero:
 # Is this a featured post? Applies to first two columns on Post Archive Page.
 # If true, use: true; if false, use: false and order does not matter.
 featured_post:
-  use: false
+  use: true
   order: 1 # Options: 1 or 2
-thumbnail_image: fall-resource.jpg
+thumbnail_image: first-gen-latina.jpg
 thumbnail_alt_text: photo of People
 categories:
   - Donor Profiles
