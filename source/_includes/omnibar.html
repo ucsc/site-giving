@@ -11,6 +11,18 @@
           </a> {% endfor %}
       </div>
 <form class="omniform" action="/" method="get" _lpchecked="1"><label for="search" class="screen-reader-text">Search this site</label><input type="text" name="s" id="search" value=""><input type="image" alt="Search" src="/assets/images/search.svg"></form>
+
+                <!-- Google Custom Search -->
+                <div class="search" role="search">
+                <form action="/search/" id="cse-search-box-site">
+                  <div>
+                    <label class="hide" for="search-site"class="screen-reader-text">Search this site</label>
+                    <input class="query" id="search-site" name="q" placeholder="Search this site" type="text"/>
+                    <input class="srchBtn" type="submit"/>
+                  </div>
+                 </form>
+                </div>
+                <!-- end Google Custom Search -->
 <a href="#" class="omnitoggle"><i class="fas fa-bars"></i></a>
 
 </nav>
