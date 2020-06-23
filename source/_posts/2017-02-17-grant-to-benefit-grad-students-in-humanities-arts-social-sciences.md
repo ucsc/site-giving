@@ -7,9 +7,9 @@ author:
 author_link:
   - jspringh@ucsc.edu
 layout: post
-link_post: http://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent
+link_post: https://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent
 categories:
   - News
 format: link
-link_post: http://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent
+link_post: https://news.ucsc.edu/2017/02/humanities-grad-grant.html?ref=recent
 ---

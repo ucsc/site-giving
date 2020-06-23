@@ -10,6 +10,6 @@ layout: post
 categories:
 
   - News
-link_post: http://news.ucsc.edu/2016/10/jones-baruch-gift.html?ref=grb-message
+link_post: https://news.ucsc.edu/2016/10/jones-baruch-gift.html?ref=grb-message
 ---
 

@@ -10,7 +10,7 @@ see_also:
   - title: Jack Baskin School of Engineering
     link: https://www.soe.ucsc.edu/
   - title: Symantec Presidential Chair in Storage and Security
-    link: http://news.ucsc.edu/2014/09/symantec-chair.html
+    link: https://news.ucsc.edu/2014/09/symantec-chair.html
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: darren-shou-symantec-300.jpg

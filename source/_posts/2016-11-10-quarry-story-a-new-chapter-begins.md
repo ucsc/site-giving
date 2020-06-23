@@ -7,9 +7,9 @@ author:
 author_link:
   - jspringh@ucsc.edu
 layout: post
-link_post: http://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.html
+link_post: https://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.html
 categories:
   - News
 format: link
-link_post: http://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.html
+link_post: https://news.ucsc.edu/2016/10/quarry-amphitheater-groundbreak-feature.html
 ---

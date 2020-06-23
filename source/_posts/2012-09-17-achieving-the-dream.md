@@ -21,7 +21,7 @@ categories:
 
 **Why I chose UC Santa Cruz**: I came to cheer camp at UCSC and thought the campus was so pretty, plus it was the perfect distance from my hometown. But I also received a huge package from the [ACCESS](http://ua.soe.ucsc.edu/scholarships/access) program for high-achieving, financially disadvantaged students. Besides a $10,000 scholarship for the first two years, I was put in a learning community where I got to know other engineering students. We all lived in quiet housing at Crown and had the same mindset. It was a way to form community and also get help when I needed it.
 
-**Obstacles I faced**: I was a straight-A student and third in my high-school class, but my family wasn’t able to provide much financial support for college. Besides the ACCESS scholarship, I received the [Amy Beth Snader Memorial Scholarship](http://news.ucsc.edu/2003/11/425.html), which was named in honor of an alumna in Computer and Information Sciences. The scholarships made all the difference so I could get an education at a UC campus.
+**Obstacles I faced**: I was a straight-A student and third in my high-school class, but my family wasn’t able to provide much financial support for college. Besides the ACCESS scholarship, I received the [Amy Beth Snader Memorial Scholarship](https://news.ucsc.edu/2003/11/425.html), which was named in honor of an alumna in Computer and Information Sciences. The scholarships made all the difference so I could get an education at a UC campus.
 
 **Future ambitions**: I want to go to grad school and eventually work as a speech pathologist.
 

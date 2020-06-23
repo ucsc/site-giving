@@ -7,9 +7,9 @@ author:
 author_link:
   - jspringh@ucsc.edu
 layout: post
-link_post: http://news.ucsc.edu/2016/02/klemola-gift.html
+link_post: https://news.ucsc.edu/2016/02/klemola-gift.html
 categories:
   - News
 format: link
-link_post: http://news.ucsc.edu/2016/02/klemola-gift.html
+link_post: https://news.ucsc.edu/2016/02/klemola-gift.html
 ---

@@ -10,5 +10,5 @@ layout: post
 categories:
   - News
 format: link
-link_post: http://news.ucsc.edu/2017/02/field-lights.html
+link_post: https://news.ucsc.edu/2017/02/field-lights.html
 ---

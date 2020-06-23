@@ -7,9 +7,9 @@ author:
 author_link:
   - jspringh@ucsc.edu
 layout: post
-link_post: http://news.ucsc.edu/2015/01/50-news-release.html
+link_post: https://news.ucsc.edu/2015/01/50-news-release.html
 categories:
   - News
 format: link
-link_post: http://news.ucsc.edu/2015/01/50-news-release.html
+link_post: https://news.ucsc.edu/2015/01/50-news-release.html
 ---

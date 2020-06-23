@@ -9,7 +9,7 @@ see_also:
   - title: 2013-2013 Report
     link: http://giving.ucsc.edu/reports/2012-13/index.php
   - title: $2 million gift supports natural history fieldwork at UC Santa Cruz
-    link: http://news.ucsc.edu/2014/03/packard-foundation-gift.html
+    link: https://news.ucsc.edu/2014/03/packard-foundation-gift.html
   - title: The David and Lucile Packard Foundation
     link: http://www.packard.org/
 thumbnail_image: kenneth-norris.jpg
