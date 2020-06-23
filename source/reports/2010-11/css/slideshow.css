@@ -1,0 +1,111 @@
+/* HTML ELEMENTS */
+
+/* COMMON CLASSES */
+.break {
+	clear:both;
+}
+/* HEADER */
+#header {
+	height:425px;
+}
+.headerimg {
+	background-position: center top;
+	background-repeat: no-repeat;
+	width:960px;
+	height:425px;
+	position:absolute;
+}
+/* HEADER TEXT */
+#headertxt {
+	width:960px;
+	margin:0 auto;
+	clear:both;
+	position:relative;
+	top:74px;
+}
+#firstline, #secondline {
+	position: absolute;
+}
+#firstline {
+	background-image:url("../images/slideshow/textbg.png");
+	color:#7DB22B;
+	font-size:20px;
+	line-height: 20px;
+	padding: 5px 10px 5px 5px;
+	float:left;
+	display:block;
+	margin: -75px 0 0 0;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+}
+#secondline {
+	background-color: #7DB22B;
+	color:#FFF;
+	text-decoration:none;
+	font-size:23px;
+	line-height: 23px;
+	padding: 5px 10px 5px 5px;
+	float:left;
+	display:block;
+	clear:both;
+	margin: -40px 0 0 0;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+}
+#secondline:hover {
+	text-decoration:none;
+	color:#FFF;
+}
+.pictured {
+	width: 800px;
+	background-image:url(../images/slideshow/text_bg.png);
+	color:#FFF;
+	font-size:12px;
+	line-height: 18px;
+	padding: 0 0 0 10px;
+	text-transform:uppercase;
+	float:left;
+	display:block;
+	clear:both;
+	margin-top: 280px;
+	background-repeat: repeat;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+}
+.pictured a {
+	font-size:12px;
+	letter-spacing:0;
+	text-transform:none;
+	color:#FFF;
+	text-decoration:none;
+}
+.pictured a:hover {
+	text-decoration:none;
+}
+/* CONTROLS */
+.btn {
+
+	height:32px;
+	width:32px;
+	float:right;
+	cursor:pointer;
+	
+}
+#back {
+	background-image:url("../images/slideshow/btn_back.png");
+}
+#next {
+	background-image:url("../images/slideshow/btn_next.png");
+}
+#control {
+	background-image:url("../images/slideshow/btn_pause.png");
+}
+/* HEADER HAVIGATION */
+#headernav-outer { position:absolute; margin:370px 0 0 0; width:960px; z-index:2;}
+#headernav { padding-left:864px; }

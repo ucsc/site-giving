@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'UniversLTStd55Roman';
+    src: url('../webfonts/universltstd-webfont.eot');
+    src: url('../webfonts/universltstd-webfont.eot%3F') format('embedded-opentype'),
+         url('../webfonts/universltstd-webfont.woff') format('woff'),
+         url('../webfonts/universltstd-webfont.ttf') format('truetype'),
+         url('../webfonts/universltstd-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

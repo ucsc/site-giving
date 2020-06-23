@@ -1,0 +1,142 @@
+#doc {
+	background:#fff;
+	border:1em solid #fff;
+	-moz-border-radius:5px;
+	-webkit-border-radius: 5px;
+}
+form div {
+	padding-bottom:10px;
+	display: block;
+	width: 100%;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+form label {
+	font-size: 13px;
+	float:left;
+	width:100%;
+	color:#666;
+	white-space: normal;
+	clear: right;
+	font-family: UniversLTStd55Roman, Arial, Helvetica, sans-serif;
+}
+form div#bar {
+	clear:both;
+	float:none;
+	margin:1em 0;
+	background:#e1e1e1;
+	width: 100%;
+	text-align:right;
+	padding: 5px 5px 5px 0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+table {
+	font-size:11px;
+	width:100%;
+	margin:1em 0;
+	border:1px solid #CCC;
+	border-collapse:collapse;
+}
+th, td {
+	border:1px solid #CCC;
+	padding:3px;
+	color:#666;
+}
+thead th {
+	background:#2D4371;
+	font-weight:bold;
+	color:#FFF;
+	font-family: UniversLTStd55Roman, Arial, Helvetica, sans-serif;
+}
+#yql {
+	padding:1em;
+	background:#eee;
+	border:1px solid #999;
+	-moz-border-radius:5px;
+}
+#ft {
+	font-size:11px;
+	text-align:right;
+	margin:2em 0;
+}
+pre {
+	border:1px solid #999;
+	padding:.5em;
+	margin:1em 0;
+	border:1px solid #999;
+	background:#eee;
+	-moz-box-shadow:2px 2px 2px rgba(33, 33, 33, .3);
+	-moz-border-radius:5px;
+}
+#example {
+	padding:.5em;
+	margin:1em 0;
+	border-top:2px solid #666;
+	border-bottom:2px solid #666;
+}
+#bd ul {
+	margin-left:1em;
+}
+#bd li {
+	list-style:square;
+	padding-bottom:.5em;
+}
+#bd li code {
+	font-weight:bold;
+	color:#060;
+}
+em {
+	font-style:italic;
+	color:#666
+}
+#hd li {
+	display:inline;
+	list-style:none;
+	padding-right:1em;
+}
+#hd a {
+	font-size:100%;
+	font-weight:bold;
+	text-decoration:none;
+}
+#hd ul {
+	background:#9fc;
+	padding:.5em;
+	-webkit-border-radius: 5px;
+	-moz-border-radius:5px;
+	-moz-box-shadow:2px 2px 3px rgba(0, 0, 0, .3);
+}
+#search {
+	background:#2D4371;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 5px 5px 5px 10px;
+	margin: 0 0 18px 0;
+	font-size: 12px;
+	font-family: UniversLTStd55Roman, Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+#inputArea input, #inputArea textarea
+{
+    font-family: Arial, Sans-Serif;
+    font-size: 13px;
+    margin-bottom: 5px;
+	float: left;
+	height: 17px;
+    display: block;
+    padding: 0;
+    border: solid 1px #85b1de;
+    width: 200px;
+    background-image: url( '../images/blue_bg.png' );
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+#full-logo {
+	width: 100%;
+	background-image: url(../images/logo_bg_full.jpg);
+	background-repeat: repeat-x;
+	margin-bottom: 10px;
+}

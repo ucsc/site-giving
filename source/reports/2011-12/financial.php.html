@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>UC Santa Cruz Summer 2013 Report on Philanthropy</title>
+<!-- JQUERY -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<!-- JS -->
+<script type="text/javascript" src="js/modernizr.custom.79639.js"></script> 
+<!-- STYLE -->
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="css/ie8.css">
+<![endif]-->
+
+<!-- VIDEO -->
+  <link href="css/video-js.css" rel="stylesheet" type="text/css">
+  <script src="js/video.js"></script>
+  <!-- Unless using the CDN hosted version, update the URL to the Flash SWF -->
+  <script>
+    _V_.options.flash.swf = "video-js.swf";
+  </script>
+<!-- SLIDING CONTENT -->
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+
+    $(".slidingDiv").hide();
+    $(".show_hide").show();
+    
+    $('.show_hide').click(function(){
+    $(".slidingDiv").slideToggle();
+    });
+
+});
+
+</script>
+<!-- FONTS -->
+<link href='https://fonts.googleapis.com/css?family=Chivo:400,900' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4301164-1']);
+  _gaq.push(['_setDomainName', '.ucsc.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<meta content="width = device-width, initial-scale = 0.5, minimum-scale = 0.2, maximum-scale = 5" name="viewport" />
+<meta content="UC Santa Cruz Winter 2013 Report on Philanthropy" property="og:title" />
+<meta content="P3: Purposeful. Profound. Philanthropy. Stories of people who are making a difference at UC Santa Cruz." property="og:description" />
+<meta content="website" property="og:type" />
+<meta content="http://giving.ucsc.edu/reports/2012-13/images/facebook-sharing.jpg" property="og:image" />
+<meta content="UC Santa Cruz" property="og:site_name" />
+<meta content="1322847221,508316988" property="fb:admins" /> 
+</head>
+
+<body>
+
+<!-- HEADER HERE -->
+<div id="header">
+  <div class="container"> <a href="index.php.html"><img src="images/p3-logo.gif" alt="P3 Profiles in giving" width="240" height="127" border="0" class="logo"/></a>
+    <img src="images/ucsc-philanthropy.gif" alt="UCSC - Summer 2013 REPORT ON PHILANTHROPY" class="ucsc"/>
+    <a href="https://secure.imodules.com/s/1069/index-2-column.aspx?sid=1069&amp;gid=1&amp;pgid=761&amp;cid=1722" onClick="_gaq.push(['_trackEvent', 'P3', 'P3-Gift-Button', 'Make a Gift - P3']);"><img src="images/ucsc-make-a-gift.png" alt="Make a Gift" title="Make a Gift" width="104" height="109" border="0" class="make-a-gift"/></a>
+    <ul>
+      <li> <a href="index.php.html">HOME</a></li>
+      <li> <a href="stories.php.html">STORIES</a></li>
+      <li> <a href="financial.php.html">FINANCIAL</a> </li>
+      <li> <a href="honor-roll.php.html">HONOR ROLL</a> </li>
+      <li> <a href="foundation.php.html">FOUNDATION</a></li>
+      <li> <a href="contact-us.php.html" class="last">CONTACT US</a></li>
+    </ul>
+  </div>
+  </div>
+<!-- END HEADER --><script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<!-- PURPOSE GIFTS -->
+<script type="text/javascript">
+$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'purpose2011',
+                plotBackgroundColor: null,
+                backgroundColor:'rgba(255, 255, 255, 0.0)',
+                plotBorderWidth: null,
+                plotShadow: false
+            },
+            exporting: { enabled: false },
+            title: {
+                text: ''
+            },
+            credits: {
+                enabled: false
+            },
+            tooltip: {
+                formatter: function() {
+                    return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage*100)/100 +'%';
+                }
+                
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: false,
+                        color: '#000000',
+                        connectorColor: '#000000',
+                        formatter: function() {
+                            return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage) +'%';
+                            
+                        }
+                        
+                        
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Giving Breakdown',
+                data: [
+                    ['Faculty research',   28.66],
+                    ['Instruction',       2.63],
+                    ['Campus Improvement',11.23],
+                    ['Other purposes',    43.78],
+                    ['Student support',     7.31],
+                    ['Department support',   5.27],
+                    ['Unrestricted',   1.07]
+                ]
+            }]
+        });
+    });
+    
+});
+
+</script>
+<!-- END PURPOSE GIFTS -->
+
+<!-- PRIVATE GIFTS -->
+<script type="text/javascript">
+$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'private2011',
+                plotBackgroundColor: null,
+                backgroundColor:'rgba(255, 255, 255, 0.0)',
+                plotBorderWidth: null,
+                plotShadow: false
+            },
+            exporting: { enabled: false },
+            title: {
+                text: ''
+            },
+            credits: {
+                enabled: false
+            },
+            tooltip: {
+                formatter: function() {
+                    return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage*100)/100 +'%';
+                }
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: false,
+                        color: '#000000',
+                        
+                        connectorColor: '#000000',
+                        formatter: function() {
+                            return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage) +'%';
+                        }
+                        
+                    }
+                    
+                }
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Giving Breakdown',
+                data: [
+                    ['All alumni',   30.44],
+                    ['Parents',      4.42],
+                    ['Faculty & Staff', 5.77],
+                    ['Other Individuals',    18.92],
+                    ['Foundations',     11.75],
+                    ['Businesses',   19.09],
+                    ['Campus & Other Organizations',   9.61]
+                ]
+            }]
+        });
+    });
+    
+});
+</script>
+<!-- END PRIVATE GIFTS -->
+<!-- ENDOWNMENT PERFORMANCE -->
+<script type="text/javascript">
+$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'endownment',
+                backgroundColor: '#f2f0e4',
+            },
+            exporting: { enabled: false },
+            title: {
+                text: ''
+            },
+            xAxis: {
+                categories: ['2006-7', '2007-8', '2008-9', '2009-10', '2010-11', '2011-12']
+            },
+             yAxis: {
+                title: {
+                    text: '%'
+                }
+             },
+            tooltip: {
+                formatter: function() {
+                    return ''+
+                        this.series.name +': '+ this.y +'%';
+                }
+            },
+            
+            credits: {
+                enabled: false
+            },
+            series: [{
+                 type: 'column',
+                name: 'UCSC Endowment Performance',
+                data: [20, -1.93, -17.74, 10.87, 20.17, -0.36]
+            }, {
+                type: 'column',
+                name: 'UCSC Endowment Benchmark',
+                data: [18, -.17, -13.99, 9.55, 17.90, -2.28]
+            }, {
+                type: 'spline',
+                name: 'Annual Rate of Inflation',
+                data: [ 0, 4.30, -0.14, 1.05, 3.56, 1.66]
+            }]
+        });
+    });
+ });
+</script>
+<!-- END ENDOWNMENT PERFORMANCE -->
+<script type="text/javascript">
+ $(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'trust',
+                backgroundColor:'rgba(255, 255, 255, 0.0)',
+                type: 'area'
+            },
+            exporting: { enabled: false },
+            title: {
+                text: '',
+            },
+            credits: {
+                enabled: false
+            },
+            subtitle: {
+                text: '',
+            },
+            xAxis: {
+                categories: ['2007-8', '2008-9', '2009-10', '2010-11', '20011-12'],
+                tickmarkPlacement: 'on',
+                title: {
+                    enabled: false
+                }
+            },
+            yAxis: {
+                title: {
+                    text: 'Millions'
+                },
+                labels: {
+                    formatter: function() {
+                        return this.value / 1000000;
+                    }
+                }
+            },
+            tooltip: {
+                formatter: function() {
+                    return ''+
+                        this.x +': $'+ Highcharts.numberFormat(this.y, 0, ',') ;
+                }
+            },
+            plotOptions: {
+                area: {
+                    stacking: 'normal',
+                    lineColor: '#666666',
+                    lineWidth: 1,
+                    marker: {
+                        lineWidth: 1,
+                        lineColor: '#666666'
+                    }
+                }
+            },
+            series: [{
+                name: 'Trust/Unitrust',
+                data: [4016203,4398122,2831102,4185690,4140690]
+            }, {
+                name: 'UC Regent Endowments',
+                data: [61754931,48393960,53234889,64314588,61543703]
+            }, {
+                name: 'Foundation Endowments',
+                data: [53203304,41718225,46277090,55450901,55956352]
+          
+            }]
+        });
+    });
+});
+</script>
+
+<!-- PAYOUT -->
+<script type="text/javascript">
+ $(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'payout',
+                backgroundColor:'rgba(255, 255, 255, 0.0)',
+                type: 'area'
+            },
+            exporting: { enabled: false },
+            title: {
+                text: '',
+            },
+            credits: {
+                enabled: false
+            },
+            subtitle: {
+                text: '',
+            },
+            xAxis: {
+                categories: ['2006-7', '2007-8', '2008-9', '2009-10', '2010-11', '20011-12'],
+                tickmarkPlacement: 'on',
+                title: {
+                    enabled: false
+                }
+            },
+            yAxis: {
+                title: {
+                    text: 'Millions'
+                },
+                labels: {
+                    formatter: function() {
+                        return this.value / 1000000;
+                    }
+                }
+            },
+            tooltip: {
+                formatter: function() {
+                    return ''+
+                        this.x +': $'+ Highcharts.numberFormat(this.y, 0, ',') ;
+                }
+            },
+            plotOptions: {
+                area: {
+                    stacking: 'normal',
+                    lineColor: '#666666',
+                    lineWidth: 1,
+                    marker: {
+                        lineWidth: 1,
+                        lineColor: '#666666'
+                    }
+                }
+            },
+            series: [{
+                name: 'Payouts Amount',
+                color: '#89A54E',
+                data: [4248949,4507966,3312914,3312914,4069886,5089655 ]
+            
+            }]
+        });
+    });
+});
+</script>
+
+<div class="content">
+<h1>Financial Information</h1>
+<div class="right-noborder">
+<h3>Source of Private Funds: 2011-12<br />
+(Total: $23,921,403.76)</h3>
+<div id="private2011" style="width: 460px; margin: -25px 0 -12px 0; padding: 0; float: right;"></div>
+<ul>
+        <li><div class="blue"></div>All Alumni $7,282,999.73</li>
+        <li><div class="red"></div>Parents $1,057,330.80</li>
+        <li><div class="green"></div>Faculty & Staff $1,379,994.29</li>
+        <li><div class="purple"></div>
+        Other Individuals $4,526,934.92</li>
+        <li><div class="cyan"></div>Foundations $2,811,061.65</li>
+        <li><div class="orange"></div> Businesses $4,565,425.10</li>
+        <li><div class="light-purple"></div>Campus & Other Organizations $2,297,657.27</li>
+       
+        
+    </ul>
+</div>
+
+
+<div class="left-noborder">
+<h3>Use of Private Funds: 2011-12<br />
+(Total: $23,921,403.76)</h3>
+<div id="purpose2011" style="width: 460px; margin: -25px 0 -25px 0; padding: 0;"></div>
+    <ul>
+        <li><div class="blue"></div>Faculty Research $6,857,918.90</li>
+        <li><div class="red"></div>Instruction $630,944.00</li>
+        <li><div class="green"></div>Campus Improvement $2,688,527.47</li>
+        <li><div class="purple"></div>Other Purposes* $10,473,976.08</li>
+        <li><div class="cyan"></div>Student Support $1,749,823.03</li>
+        <li><div class="orange"></div>Department Support $1,262,885.37</li>
+        <li><div class="light-purple"></div>Unrestricted $257,328.91</li>
+        <li class="last">*Other purposes includes gifts to library operations or endowment, unrestricted campus endowment, and other non-academic units such as the campus art galleries, radio station, Arboretum, and Friends or campus support groups.</li>
+        
+    </ul>
+</div>
+
+<div class="container" style="margin-top: 80px">
+<h3 style="color:#00458c !important">UC Santa Cruz Endowment Performance: 2006-2012
+</h3>(Total percentage return for fiscal year ending June 30)
+<div id="endownment" style="min-width: 940px; height: 400px; margin: 0 auto"></div>
+</div>
+
+<div class="container" style="margin-top: 80px">
+<h3 style="color:#00458c !important">Growth of Endowment/Trust/Unitrust</h3>
+<div id="trust" style="width: 940px; height: 400px; margin: 0 auto"></div>
+</div>
+
+<div class="container" style="margin-top: 80px">
+<h3 style="color:#00458c !important">Endowment Payouts to Campus</h3>
+<div id="payout" style="width: 940px; height: 400px; margin: 0 auto"></div>
+</div>
+</div>
+<div class="clear"></div>
+<!-- FOOTER -->
+<div class="bottom_footer">
+	<div class="container">
+    	<div class="left">
+        UC SANTA CRUZ, 1156 HIGH STREET, SANTA CRUZ, CA 95064<br />
+© 2013 REGENTS OF THE UNIVERSITY OF CALIFORNIA. ALL RIGHTS RESERVED.
+        </div>
+        <div class="right">
+        <span class="social-media">
+ <a href="https://www.facebook.com/ucsantacruz"><img src="images/facebook.gif" width="82" height="36" alt="UCSC Facebook" border="0"></a>
+ <a href="http://twitter.com/ucsc"><img src="images/twitter.gif" width="82" height="36" alt="UCSC Twitter" border="0"></a>
+ <a href="http://www.youtube.com/ucsantacruz"><img src="images/youtube.gif" width="82" height="36" alt="UCSC Youtube" border="0"></a>
+ <a href="http://www.linkedin.com/groups?home=&gid=102708"><img src="images/linkedin.gif" width="82" height="36" alt="UCSC LinkedIn" border="0"></a>
+ </span>
+        </div>
+    </div>
+</div>
+<!-- END FOOTER -->
+</body>
+</html>

@@ -1,0 +1,65 @@
+/* PHOTOS */
+}
+.photo {
+    width: 297px;
+    height: 494px;
+    font-size: 0;
+    position: absolute;
+    z-index: 199;
+}
+.photo > .storyimage {
+    position: relative;
+    display: inline-block;
+    width: 297px;
+    height: 494px;
+}
+.photo > .storyimage > .storyimage {
+    display: inline-block;
+    z-index: 500;
+    background-image: url(http://giving.ucsc.edu/reports/2013-14/images/article-photos/george-hitchcock.jpg);
+    width: 297px;
+    height: 494px;
+	border-top-left-radius: 5px !important;
+}
+
+.photo > .storyimage2 {
+    position: relative;
+    display: inline-block;
+    width: 297px;
+    height: 494px;
+}
+.photo > .storyimage2 > .storyimage2 {
+    display: inline-block;
+    z-index: 500;
+    background-image: url(http://giving.ucsc.edu/reports/2013-14/images/article-photos/browns.jpg);
+    width: 297px;
+    height: 494px;
+}
+
+.photo > .storyimage3 {
+    position: relative;
+    display: inline-block;
+    width: 297px;
+    height: 494px;
+}
+.photo > .storyimage3 > .storyimage3 {
+    display: inline-block;
+    z-index: 500;
+    background-image: url(http://giving.ucsc.edu/reports/2013-14/images/article-photos/holo.jpg);
+    width: 297px;
+    height: 494px;
+}
+
+.photo > .storyimage4 {
+    position: relative;
+    display: inline-block;
+    width: 297px;
+    height: 494px;
+}
+.photo > .storyimage4 > .storyimage4 {
+    display: inline-block;
+    z-index: 500;
+    background-image: url(http://giving.ucsc.edu/reports/2013-14/images/article-photos/raydon_alhubaishi.jpg);
+    width: 297px;
+    height: 494px;
+}

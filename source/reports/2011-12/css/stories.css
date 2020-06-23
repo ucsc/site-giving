@@ -1,0 +1,71 @@
+.third {
+    width:298px;
+    margin:0 20px 35px 0;
+    overflow:hidden;
+    float:left;
+    position:relative;
+    clear: both;
+}
+
+.third img { display:block; }
+
+.top { position:absolute; top:0; left:0; z-index:20 }
+
+.last { margin-bottom: 0px !important; }
+
+.middle {margin-bottom: 35px !important; }
+
+.text {
+    display: block;
+    width: 280px;
+    padding: 8px;
+    height: 102px;
+    position: absolute;
+    color: #FFF;
+    font-size: 12px;
+    line-height: 17px;
+}
+.span {
+    width: 293px;
+}
+#season_separator_fall, #season_separator_winter, #season_separator_summer {
+    width: 100%;
+    padding: 8px 0 5px 10px;
+    color: #FFF !important;
+    border-radius:5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    line-height: 18px;
+    margin-top: 10px;
+    }
+    
+#season_separator_fall {
+    
+    background-color: #4cb9a6;
+    margin-top: 75px !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#63cebc', endColorstr='#4cb9a6'); /* for IE */
+     background: -webkit-gradient(linear, left top, left bottom, from(#63cebc), to(#4cb9a6)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #63cebc,  #4cb9a6); /* for firefox 3.6+ */
+border-bottom: 1px solid #CCC;
+
+    
+    }
+#season_separator_winter {
+    background-color: #4eb5d4;
+    margin-top: 75px !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cc5db', endColorstr='#4eb5d4'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#5cc5db), to(#4eb5d4)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #5cc5db,  #4eb5d4); /* for firefox 3.6+ */
+border-bottom: 1px solid #CCC;
+
+    
+    }
+#season_separator_summer {
+    background-color: #ff9d3f;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffca98', endColorstr='#ff9d3f'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffca98), to(#ff9d3f)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #ffca98,  #ff9d3f); /* for firefox 3.6+ */
+border-bottom: 1px solid #CCC;
+
+    
+    }

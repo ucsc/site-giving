@@ -1,0 +1,117 @@
+.rotator-container {
+	display: block;
+	background: rgb(255, 255, 255); /* The Fallback */
+    background: rgba(255, 255, 255, 0.9); 
+	border-radius: 10px;
+	padding: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-bottom: 1px #999 solid;
+	margin: 20px 0 0 0;
+}
+
+.cbp-qtrotator {
+	position: relative;
+	margin: 0 auto 0 auto;
+	max-width: 850px;
+	width: 100%;
+}
+
+.cbp-qtrotator h2 {
+	font-size: 1.5em;
+	color: #00458c;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+
+.cbp-qtrotator .cbp-qtcontent {
+	position: absolute;
+	min-height: 150px;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
+	padding: 2em 0;
+	top: 0;
+	z-index: 0;
+	opacity: 0;
+	width: 100%;
+}
+
+.no-js .cbp-qtrotator .cbp-qtcontent {
+	border-bottom: none;
+}
+
+.cbp-qtrotator .cbp-qtcontent.cbp-qtcurrent,
+.no-js .cbp-qtrotator .cbp-qtcontent {
+	position: relative; 
+	z-index: 100;
+	pointer-events: auto;
+	opacity: 1;
+}
+
+.cbp-qtrotator .cbp-qtcontent:before,
+.cbp-qtrotator .cbp-qtcontent:after {
+	content: " ";
+	display: table;
+}
+
+.cbp-qtrotator .cbp-qtcontent:after {
+	clear: both;
+}
+
+.cbp-qtprogress {
+	position: absolute;
+	background: #F08625;
+	height: 2px;
+	width: 0%;
+	top: 0;
+	z-index: 1000;
+}
+
+.cbp-qtrotator blockquote {
+	margin: 0;
+	padding: 0;
+}
+
+.cbp-qtrotator blockquote p {
+	font-size: 1.25em;
+	color: #888;
+	font-weight: 300;
+	line-height: 1.45em;
+	margin: 0.4em 0 2em;
+}
+
+.cbp-qtrotator blockquote footer {
+	font-size: 1.2em;
+}
+
+.cbp-qtrotator blockquote footer:before {
+	content: '» ';
+}
+
+.cbp-qtrotator .cbp-qtcontent img {
+	float: right;
+	margin-left: 1.5em;
+	width: 15em;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+	background: rgb(0, 69, 140); /* The Fallback */
+    background: rgba(0, 69, 140, 0.2); 
+}
+
+/* Example for media query */
+@media screen and (max-width: 30.6em) { 
+
+	.cbp-qtrotator {
+		font-size: 70%;
+	}
+
+	.cbp-qtrotator img {
+		width: 80px;
+	}
+
+}

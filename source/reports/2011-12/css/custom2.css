@@ -1,0 +1,109 @@
+.bb-bookblock {
+	width: 279px;
+	height: 180px;
+}
+
+ul.bb-custom-grid {
+	list-style: none;
+	margin: 60px 0 60px 0;
+	padding: 0;
+	width: 940px;
+}
+
+/* Micro clearfix hack by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/ */
+ul.bb-custom-grid:before,
+ul.bb-custom-grid:after {
+	content: " ";
+    display: table;
+}
+
+ul.bb-custom-grid:after {
+	clear: both;
+}
+/* end clearfix hack */
+
+ul.bb-custom-grid li {
+	float: left;
+	width: 275px;
+	padding: 10px 15px 0 10px;
+	background-color: #F6F4EC;
+	position: relative;
+	border-left: 3px solid #00458c;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+ul.bb-custom-grid li:nth-child(odd) {
+}
+
+ul.bb-custom-grid li:before,
+ul.bb-custom-grid li:after{
+	content: '';
+	position: absolute;
+	z-index: -2;
+	bottom: 15px;
+	left:  10px;
+	width: 50%;
+	height: 20%;
+	box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+	-webkit-transform: rotate(-3deg);
+	-moz-transform: rotate(-3deg);
+	-ms-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	transform: rotate(-3deg);
+}
+
+ul.bb-custom-grid li:after {
+	right: 10px;
+	left: auto;
+	-webkit-transform: rotate(3deg);
+	-moz-transform: rotate(3deg);
+	-ms-transform: rotate(3deg);
+	-o-transform: rotate(3deg);
+	transform: rotate(3deg);
+}
+
+ul.bb-custom-grid li a {
+	display: block;
+}
+
+ul.bb-custom-grid li h3 {
+	color: #9a9b92;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 35px;
+	text-shadow: 0 1px 1px rgba(255,255,255,0.9);
+}
+
+ul.bb-custom-grid nav {
+	text-align: center;
+}
+
+ul.bb-custom-grid nav span {
+	display: inline-block;
+	width: 16px;
+	height: 15px;
+	border-radius: 50%;
+	background: #f0f0f0;
+	margin: 0px 3px 10px 3px;
+	/* margin 3px without number */
+	cursor: pointer;
+	text-align: center;
+	padding-left: 1px;
+	box-shadow: 
+		inset 0 1px 1px rgba(0,0,0,0.2), 
+		0 2px 1px rgba(255,255,255,0.9);
+		
+}
+
+ul.bb-custom-grid nav span.bb-current {
+	background: #00458c;
+	color: #FFF !important;
+	font-size: 10px !important;
+}
