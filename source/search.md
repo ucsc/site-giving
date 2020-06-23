@@ -14,4 +14,4 @@ title: Search
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:searchresults-only as_sitesearch="www.ucsc.edu"></gcse:searchresults-only>
+<gcse:searchresults-only as_sitesearch="giving.ucsc.edu"></gcse:searchresults-only>
