@@ -6,7 +6,7 @@ layout: post
 excerpt: ""
 see_also:
   - title: Gift establishes Hellman Fellows Program
-    link: http://news.ucsc.edu/2011/04/hellman-fellows1.html
+    link: https://news.ucsc.edu/2011/04/hellman-fellows1.html
   - title: UCSC Hellman Fellows Program
     link: http://academicaffairs.ucsc.edu/hellman/index.html
   - title: Tribute to Warren Hellman

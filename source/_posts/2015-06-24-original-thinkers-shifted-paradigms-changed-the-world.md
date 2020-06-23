@@ -7,9 +7,9 @@ author:
 author_link:
   - jspringh@ucsc.edu
 layout: post
-link_post: http://news.ucsc.edu/2015/06/original-thinkers.html
+link_post: https://news.ucsc.edu/2015/06/original-thinkers.html
 categories:
   - News
 format: link
-link_post: http://news.ucsc.edu/2015/06/original-thinkers.html
+link_post: https://news.ucsc.edu/2015/06/original-thinkers.html
 ---

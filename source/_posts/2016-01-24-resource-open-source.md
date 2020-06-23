@@ -8,7 +8,7 @@ see_also:
   - title: Profiles in Giving
     link: http://profiles.giving.ucsc.edu/
   - title: "News: Gifts from alum Sage Weil provide $3 million for open source research at UC Santa Cruz"
-    link: http://news.ucsc.edu/2015/05/sage-weil-gifts.html
+    link: https://news.ucsc.edu/2015/05/sage-weil-gifts.html
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: sageweil-350.jpg

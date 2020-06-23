@@ -10,5 +10,5 @@ layout: post
 categories:
 
   - News
-link_post: http://news.ucsc.edu/2016/09/rachel-carson-college.html
+link_post: https://news.ucsc.edu/2016/09/rachel-carson-college.html
 ---

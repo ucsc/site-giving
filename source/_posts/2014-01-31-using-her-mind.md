@@ -7,7 +7,7 @@ layout: post
 excerpt: "Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a potentially grim future."
 see_also:
   - title: The Rosa Parks African American Theme House
-    link: http://news.ucsc.edu/2013/02/rpaath.html
+    link: https://news.ucsc.edu/2013/02/rpaath.html
 thumbnail_image: williams-meka.jpg
 categories:
   - Student Profiles
