@@ -803,3 +803,13 @@
 .hidden {
     display: none !important;
 }
+
+.paginated {
+    width: 100%;
+    header {
+        margin-bottom: -15px;
+    }
+    .post-title {
+        margin-bottom: 0;
+    }
+}
