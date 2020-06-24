@@ -156,25 +156,29 @@ footer_legal:
     link: "https://www.ucsc.edu"
 annual_reports:
   - year: 1999-2000
-    pdf: annual_report-9900.pdf
+    link: annual_report-9900.pdf
   - year: 2000-01
-    pdf: annual_report-0001.pdf
+    link: annual_report-0001.pdf
   - year: 2001-02
-    pdf: annual_report-0102.pdf
+    link: annual_report-0102.pdf
   - year: 2002-03
-    pdf: annual_report-0203.pdf
+    link: annual_report-0203.pdf
   - year: 2003-04
-    pdf: annual_report-0304.pdf
+    link: annual_report-0304.pdf
   - year: 2004-05
-    pdf: annual_report-0405.pdf
+    link: annual_report-0405.pdf
   - year: 2005-06
-    pdf: annual_report-0506.pdf
+    link: annual_report-0506.pdf
   - year: 2006-07
-    pdf: annual_report-0607.pdf
+    link: annual_report-0607.pdf
   - year: 2007-08
-    pdf: annual-report-07-08.pdf
+    link: annual-report-07-08.pdf
   - year: 2008-09
-    pdf: annual-report-08-09.pdf
+    link: annual-report-08-09.pdf
+  - year: 2009-2010
+    link: 2009-10/
+  - year: 2010-2011
+    link: 2010-11/
 memorial:
   - name: Bruce C. Lane
     image: bruce-c-lane.jpg
