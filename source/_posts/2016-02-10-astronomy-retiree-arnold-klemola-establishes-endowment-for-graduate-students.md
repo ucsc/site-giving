@@ -4,7 +4,7 @@ title: Astronomy retiree Arnold Klemola establishes endowment for graduate stude
 date: 2016-02-10T11:37:51+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/02/klemola-gift.html

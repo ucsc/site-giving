@@ -4,7 +4,7 @@ date: 2015-09-17T13:05:55+00:00
 layout: post
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 categories:
   - News

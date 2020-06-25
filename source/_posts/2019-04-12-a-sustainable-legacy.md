@@ -13,7 +13,7 @@ pull_quote: false
 pull_quote_author:
 hero:
   use: true
-  image: Lisa-Schaechter.jpg #best at 1000px by 450px
+  image: lisa-schaechter.jpg #best at 1000px by 450px
   alt_text: photo of Lisa Schaechter
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
@@ -22,8 +22,8 @@ hero:
 featured_post:
   use: false
   order: 1 # Options: 1 or 2
-thumbnail_image: Lisa-Schaechter.jpg
-thumbnail_alt_text: photo of Lisa Schaechter
+thumbnail_image: lisa-schaechter.jpg
+thumbnail_alt_text: Photo of Lisa Schaechter
 categories:
   - Donor Profiles
 tags:
@@ -40,8 +40,9 @@ One of her causes is the Center for Agroecology and Sustainable Food Systems at 
 “It’s a program that has really changed the world,” she says. “When I was a student, the organic produce didn’t look appetizing and there wasn’t very much of it. Organic food was just this wild idea.”
 
 <figure class="inline-image full">
-{% asset Lisa-Schaechter.jpg magick:resize=900 alt='photo of Lisa Schaechter' %}
+{% asset lisa-schaechter.jpg magick:resize=900 alt='photo of Lisa Schaechter' %}
 <figcaption>Lisa Schaechter, alumna, donor (J.D. Hillard/UC Santa Cruz)</figcaption></figure>
+
 ### MOCI
 
 Schaechter, who is in her 50s, says the impetus for her planning came when she realized her home had greatly multiplied in value since she bought it. She has no children or other heirs. If something happened to her, she doesn’t want to leave a mess for her siblings or parents.

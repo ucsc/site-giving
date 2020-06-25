@@ -4,7 +4,7 @@ title: New UC Presidential Chair to strengthen screenwriting program at UC Santa
 date: 2015-10-06T13:42:09+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/09/film-presidential-chair.html

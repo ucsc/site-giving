@@ -4,10 +4,6 @@ title: Honoring Chancellor George Blumenthal
 subtitle: "Please help honor Chancellor George Blumenthal on his retirement with your gift to the Chancellor's Undergraduate Internships."
 date: 2019-03-28T21:04:38+00:00
 layout: post
-author:
-  - ""
-author_email:
-  - ""
 excerpt: During his time as head of UC Santa Cruz, Chancellor George Blumenthal has presided over a campus that has increasingly earned recognition as a research powerhouse. At the same time, UC Santa Cruz became a leader in educational access and support for students of all backgrounds.
 pull_quote: false
 pull_quote_author:
@@ -30,7 +26,7 @@ categories:
 ---
 **During his time as head of UC Santa Cruz, Chancellor George Blumenthal has presided over a campus that has increasingly earned recognition as a research powerhouse. At the same time, UC Santa Cruz became a leader in educational access and support for students of all backgrounds. Upon his retirement this June, [help honor this champion of knowledge and opportunity](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=984) by ensuring permanent funding for a program he treasures—the Chancellor’s Undergraduate Internships.**
 
-#### George Blumenthal, 10th chancellor of UC Santa Cruz
+## George Blumenthal, 10th chancellor of UC Santa Cruz
 
 A towering presence with a stride to match, Chancellor Blumenthal was appointed following decades of distinguished work as a member of the astrophysics faculty. His work with UC Santa Cruz colleagues Joel Primack and Sandra Faber, along with Martin Rees of Cambridge University, remains the standard explanation of the formation of galaxies and galaxy clusters.
 
@@ -44,11 +40,11 @@ And under his leadership, the university forged a historic agreement with the ci
 {% asset cuip.png magick:resize=900 alt='photo of Chancellor&rsquo;s Undergraduate Internship Program participants'  %}
 <figcaption>Chancellor&rsquo;s Undergraduate Internship Program participants</figcaption></figure>
 
-#### The George R. Blumenthal Fund for the Chancellor’s Undergraduate Internship Program
+## The George R. Blumenthal Fund for the Chancellor’s Undergraduate Internship Program
 
 To honor and thank Chancellor Blumenthal for his years of service and significant achievements, a group of friends and admirers is raising a fund to be presented in June—[the George R. Blumenthal Fund for CUIP](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=984), which will support the [Chancellor’s Undergraduate Internship Program (CUIP)](https://careers.ucsc.edu/intern/cuip/). This is a program with which Chancellor Blumenthal feels strongly connected, and that he valued, championed, and nurtured.
 
-#### What is CUIP
+## What is CUIP
 
 CUIP complements undergraduate degrees with career-launching experience. Interns earn $8,000 toward academic expenses while planning and completing high-priority campus projects, such as:
 

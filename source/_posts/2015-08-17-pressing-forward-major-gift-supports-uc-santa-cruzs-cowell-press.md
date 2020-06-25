@@ -4,7 +4,7 @@ title: "Pressing forward: Major gift supports UC Santa Cruz's Cowell Press"
 date: 2015-08-17T12:07:43+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/08/cowell-press-endowment-story.html

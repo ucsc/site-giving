@@ -4,7 +4,7 @@ title: Campus and Wells Fargo officials break ground for Coastal Biology buildin
 date: 2014-09-28T22:40:38+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2014/09/coastal-biology-groundbreaking.html

@@ -4,7 +4,7 @@ title: UC Santa Cruz receives $1 million to support Institute of the Arts and Sc
 date: 2016-04-12T17:09:51+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/04/nion-gift-ias.html

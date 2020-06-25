@@ -22,6 +22,7 @@ featured_post:
 thumbnail_image: malarney.jpg
 thumbnail_alt_text: photo of Christy Anh-Thu-Malarney
 categories: [Donor Profiles]
+hidden: true
 tags: false #[Tag 1, Tag 2]
 ---
 <figure class="inline-image right">

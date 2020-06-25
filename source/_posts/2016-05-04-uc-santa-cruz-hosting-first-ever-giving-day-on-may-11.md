@@ -4,7 +4,7 @@ title: UC Santa Cruz hosting its first-ever online Giving Day on May 11
 date: 2016-05-04T16:01:15+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/04/givingday2016.html

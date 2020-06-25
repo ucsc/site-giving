@@ -4,7 +4,7 @@ title: UC Santa Cruz receives gift to establish Baskin Foundation Presidential C
 date: 2017-05-15T13:58:59+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2017/05/bettina-feminist-chair.html

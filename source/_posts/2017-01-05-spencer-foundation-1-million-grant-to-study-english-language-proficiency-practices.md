@@ -4,7 +4,7 @@ title: Spencer Foundation awards $1 million for study of English proficiency pra
 date: 2017-01-05T09:49:12+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/12/english-proficiency.html
