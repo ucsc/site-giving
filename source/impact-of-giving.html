@@ -25,7 +25,7 @@ support_areas:
     button_text: Search an A-Z List
     button_link: http://alumni.ucsc.edu/search-designations/
 ---
-
+{% if paginator.page <= 1 %}
 {%- if site.posts.size > 0 -%}
 <section class="cta two-col-grid">
 {%- for post in site.posts -%}
@@ -50,6 +50,7 @@ support_areas:
  {% endif %}
  {% endfor %}
  </section>
+ {%endif%}
  {%endif%}
  {%- if paginator.posts.size > 0 -%}
 
