@@ -8,7 +8,7 @@
 
         <nav class="site-nav">
         {% assign permalink = page.url | remove:'index.html' | remove_first: '/' %}
-          {%for item in site.data.main.navigation %}
+          {%for item in site.data.navigation %}
               {% if permalink == item.link %}
             <a class="page-link current" href="{{ item.link | relative_url}}">{{ item.title }}</a>
             {% else %}
