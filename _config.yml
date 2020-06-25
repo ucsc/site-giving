@@ -1,11 +1,12 @@
 title: Giving to UC Santa Cruz
-email: web@ucsc.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  When you support UC Santa Cruz, you are investing in an extraordinary place. We are committed to transformative education and high-impact research that makes the world a better place..
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "giving.ucsc.edu" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+email: giving@ucsc.edu
+description: "When you support UC Santa Cruz, you are investing in an extraordinary place. We are committed to transformative education and high-impact research that makes the world a better place."
+
+url: "https://giving.ucsc.edu"
+
+# Structure configuration
+source: ./source
+destination: ./build
 
 # Other Settings
 show_excerpts: false
@@ -18,16 +19,13 @@ plugins:
   - jekyll-assets
   - jekyll-paginate-v2
 
-# Structure configuration
-source: ./source
-destination: ./build
 
 # Build Settings
 markdown: kramdown
 kramdown:
   auto_ids: false
   parse_block_html: false
-permalink: /impact-of-giving/:year-:month-:day-:title/
+permalink: /impact-of-giving/:year/:month/:day/:title/
 
 defaults:
   - scope:
@@ -60,16 +58,7 @@ autopages:
     title: 'Posts in category :cat'
     permalink: '/category/:cat'
     slugify:
-      mode: raw
-      cased: true
-  collections:
-    enabled: false
-    layouts:
-      - 'autopage_collection.html'
-    title: 'Posts in collection :coll' # :coll is replaced by the collection name
-    permalink: '/collection/:coll'
-    slugify:
-      mode: raw
+      mode: 'default'
       cased: true
   tags:
     enabled: true
@@ -78,7 +67,7 @@ autopages:
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
     slugify:
-      mode: raw
+      mode: 'default'
       cased: true
 
 
