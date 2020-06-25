@@ -1,5 +1,5 @@
 {% include image-alt-text.html %}
-<a class="post-link" href="{% if post.link_post%}{{post.link_post}}{% else %}{{ post.url | relative_url }}{% endif %}">
-{% asset {{post.thumbnail_image}} magick:resize=x250 alt="{{alt_text}}"
+<a class="post-link" href="{% if post.link_post %}{{ post.link_post }}{% else %}{{ post.url | relative_url }}{% endif %}">
+{% asset {{post.thumbnail_image}} magick:resize=180x alt="{{ alt_text }}"
 %}
 </a>
