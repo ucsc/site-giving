@@ -1,0 +1,53 @@
+headings:
+  - column: one
+    heading: UCSC Foundation
+  - column: two
+    heading: Impact of giving
+  - column: three
+    heading: Areas to support
+  - column: four
+    heading: Other
+column_one:
+  - name: About the foundation
+    link: "https://foundation.ucsc.edu/index.html"
+  - name: Investment reports and policies
+    link: "https://foundation.ucsc.edu/endowment/index.html"
+  - name: Board opportunity fund
+    link: "https://foundation.ucsc.edu/opportunity-fund/index.html"
+column_two:
+  - name: Giving stories
+    link: /impact-of-giving/
+  - name: Donor profiles
+    link: /category/donor-profiles/
+  - name: Student profiles
+    link: /category/student-profiles/
+  - name: Videos
+    link: /category/videos/
+  - name: Campaign for UCSC
+    link: /category/campaign-impact/
+  - name: Endowment giving
+    link: /ways-to-give/endowment-giving/
+  - name: Philanthropy reports archive
+    link: "/reports/"
+column_three:
+  - name: UCSC Fund
+    link: /areas-to-support/ucsc-fund/
+  - name: Search a list of funds
+    link: http://alumni.ucsc.edu/search-designations/
+  - name: Academics and library
+    link: /areas-to-support/academic-divisions-library/
+  - name: Colleges
+    link: /areas-to-support/the-colleges/
+  - name: Faculty support and chairs
+    link: /areas-to-support/faculty-support-chairs/
+  - name: Scholarships and fellowships
+    link: /areas-to-support/scholarships-fellowships/
+legal:
+  - name: UC Santa Cruz
+    link: "https://www.ucsc.edu"
+  - name: Careers
+    link: "https://www.ucsc.edu/about/employment.html"
+  - name: Privacy
+    link: "https://its.ucsc.edu/terms/"
+  - name: Emergency
+    link: "https://emergency.ucsc.edu"

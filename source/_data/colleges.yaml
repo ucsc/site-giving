@@ -1,0 +1,41 @@
+colleges:
+  - name: Cowell College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=75"
+    image: Cowell_College_1_banner.jpg
+    blurb: "The founding college of UC Santa Cruz, Cowell exemplifies commitment to academic endeavors in a supportive community, as expressed in its motto, The pursuit of truth in the company of friends. Fundraising priorities for Cowell include its honors program, its galleries and endowments for faculty and provost."
+  - name: Crown College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=77"
+    image: crown.png
+    blurb: "The third college established at UC Santa Cruz (1967), Crown College explores the relationship of science and technology with the world around us through the theme, Science, Technology and Society. In addition to provost and faculty endowments, fundraising priorities for Crown include support for the Science Learning Community, Social Fiction Conference, Writing Initiative."
+  - name: Kresge College
+    link: "https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=80&"
+    image: kresge_piazzetta.jpg
+    blurb: "Founded in 1971, Kresge encourages its students to see participatory democracy as a means of encouraging a strong sense of community. All first-year students examine the concept through the core course Power and Representation. The Common Ground Center – a catalyst and facilitator of systemic change through action education, research, advocacy, and civic engagement – is a funding priority for Kresge College."
+  - name: Merrill College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=78"
+    image: merrill-aerial.jpg
+    blurb: "Founded in 1968, the guiding ethos of Merrill College is exploring cultural identities and raising global consciousness. Reestablishing a newly imagined field study program will connect service and experiential learning for Merrill students. Provost and faculty endowments will support additional college priorities."
+  - name: Oakes College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=81"
+    image: oakes-wide.jpg
+    blurb: "Oakes Colleges was founded in 1972 as a multicultural college committed to embracing students from diverse backgrounds. Oakes is also now home to the Community Studies program, placing students in service learning projects that provide real world context for their academic studies. Their funding priorities include support for the Oakes Science Community and the West Campus Writing Center."
+  - name: Porter College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=79"
+    image: Porter2.jpg
+    blurb: "Students from all disciplines reside at Porter (founded 1969), but live steeped in the arts. The motto, _Arts longa, vita brevis (Life is short, art endures) _infuses residential life at Porter College. Funding priorities include sustaining teaching and Provost endowments, expanding interdisciplinary opportunities, support for the Teaching Artists in Residence Program and other student-centered programs."
+  - name: Rachel Carson College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=82"
+    image: UCSC_College_Eight.jpg
+    blurb: "Rachel Carson College, formerly College Eight, was established in 1972 with the theme Environment and Society. It provides students with an interdisciplinary grounding in environmental, ecological and sustainability programs. In collaboration with other departments and programs across the university, the college recently launched a sustainability minor."
+  - name: Stevenson College
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=76"
+    image: stevenson.jpg
+    blurb: "Founded in 1966, Stevenson’s theme, Self and Society, highlights self-understanding and participation in community. In addition to faculty and provost endowments, funding priorities for Stevenson College include a lecture series, support for the Rainbow Theater, and improvements to the Coffee House, knoll and garden."
+  - name: College Nine
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=83"
+    image: College-9.jpg
+    blurb: "College Nine opened in the Fall of 2000 with a strong focus on international and global perspectives. Its direct affiliation with the Division of Social Sciences fosters in students from all disciplines a common interest in becoming global citizens. In addition to faculty and provost endowments, College Nine seeks funding to support iFloor, an international living center, and a robust collegiate Model UN program."
+  - name: College Ten
+    link: "https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&gid=1&pgid=761&dids=84"
+    image: College-10.jpg
+    blurb: "Located adjacent to College Nine, College Ten (founded 2002) emphasizes social justice and community, evidenced in the motto, Justice for all. Fundraising priorities for College Ten include Practical Activism, the Alternative Spring Break and faculty and Provost endowments."
