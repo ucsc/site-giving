@@ -31,7 +31,9 @@ layout: default
     <p>{{ post.excerpt }}</p>
  {% endif %}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
+  <span class="post-meta">
+    {%- if post.author -%}By: <span itemprop="author">
+      {%- if post.author_email -%}<a href="mailto:{{post.author_email}}">{{post.author}}</a>{% else %}{{ post.author }}{% endif -%},&nbsp;</span> {%- endif -%} {{ post.date | date: date_format }}</span>
   {% unless post.categories == empty %}
   {%assign categories = post.categories %}
   {% assign catsize = categories | split: ", " %}
