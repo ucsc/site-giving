@@ -13,16 +13,17 @@
 
     {%- include header.html -%}
 
-    {% if page.hero.use %}
-    {% if paginator.page <= 1 %}
+{% if page.hero.use %}
+    {% unless paginator.page >= 2%}
     {%- include hero.html -%}
-    {% else %}
-        <div class="wrapper paginated">
+    {% endunless%}
+    {% endif %}
+    {% if paginator.page >= 2%}
+    <div class="wrapper paginated">
     <header >
         <h1 class="post-title" >{{ page.title }}  </h1>
-      </header>
-    </div>
-    {% endif %}
+        </header>
+        </div>
     {% endif %}
 
 
