@@ -4,7 +4,7 @@ title: "Graduate student brings renowned photographer Pirkle Jones's personal ar
 date: 2016-10-27T14:17:29+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/10/nelson-archive.html

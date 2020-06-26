@@ -4,7 +4,7 @@ title: Celebrating four new endowed chairs and inaugural chair holders
 date: 2017-05-23T14:55:10+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 categories:

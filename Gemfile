@@ -7,11 +7,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
 gem "jekyll", "~> 3.8"
 gem "mini_magick"
 gem "image_optim"
-#gem 'jekyll-paginate-v2', '~> 2.0'
 # gem "html-proofer"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

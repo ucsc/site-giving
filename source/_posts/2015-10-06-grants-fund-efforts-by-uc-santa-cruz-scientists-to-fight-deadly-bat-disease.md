@@ -4,7 +4,7 @@ title: Grants fund efforts by UC Santa Cruz scientists to fight deadly bat disea
 date: 2015-10-06T13:39:51+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/09/bat-disease-grants.html

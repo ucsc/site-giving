@@ -4,7 +4,7 @@ title: UC Santa Cruz sees unprecedented undergraduate interest
 date: 2015-01-14T18:06:55+00:00
 author:
   - Joan Springhetti
-author_link:
+author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/01/applications-release.html

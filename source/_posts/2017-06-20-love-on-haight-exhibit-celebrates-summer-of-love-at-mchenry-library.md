@@ -4,7 +4,7 @@ title: ‘Love on Haight’ exhibit celebrates Summer of Love at McHenry Library
 date: 2017-06-20T11:26:19+00:00
 author:
   - Scott Rappaport
-author_link:
+author_email:
   - srapp@ucsc.edu
 layout: post
 excerpt: ""

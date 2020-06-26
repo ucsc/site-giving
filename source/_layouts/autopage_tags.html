@@ -22,7 +22,7 @@ layout: default
     <div class="post-list-copy">
     {%- endif -%}
      <h3>
-    <a class="post-link" href="{% if post.link_post%}{{post.link_post}}{% else %}{{ post.url | relative_url }}{% endif %}">
+    <a class="post-link" href="{% if post.link_post %}{{ post.link_post }}{% else %}{{ post.url | relative_url }}{% endif %}">
       {{ post.title | escape }}
     </a>
       </h3>
@@ -40,7 +40,7 @@ layout: default
         {% unless post.categories == empty %}
          {%assign categories = post.categories %}
           <span class="post-meta categories">Filed Under:
-         {% for category in categories %} <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
+         {% for category in categories %} <a href="{{ site.baseurl }}/category/{{ category | slugify }}">{{category }}</a>
          {% unless forloop.last %},&nbsp;{% endunless %}
          {% endfor %}
          </span>
@@ -57,7 +57,7 @@ layout: default
       {% if tag == page.autopages.display_name %}
         {% continue %}
         {% endif %}
-        <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
+        <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/">{{ tag }}</a>
       {% unless forloop.last %},{% endunless %}
 
       {% endfor %}
