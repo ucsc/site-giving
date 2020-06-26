@@ -1,27 +1,33 @@
 <header class="site-header" role="banner">
-    {%- include omnibar.html -%}
-    <div class="wrapper masthead">
 
-        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  {%- include omnibar.html -%}
 
-        <a href="#" class="nav-toggle"><i class="fas fa-bars"></i></a>
+  <div class="wrapper masthead">
 
-        <nav class="site-nav">
-        {% assign permalink = page.url | remove:'index.html' | remove_first: '/' %}
-          {%for item in site.data.navigation %}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-              {% if permalink == item.link %}
-            <a class="page-link current" href="{{ item.link | relative_url}}">{{ item.title }}</a>
-            {% else %}
-            <a class="page-link" href="{{ item.link | relative_url }}">{{ item.title }}</a>
+    <a href="#" class="nav-toggle"><i class="fas fa-bars"></i></a>
 
-            {%- endif -%}
-            {%- endfor -%}
-<a class="page-link red-pill" href="{{ site.give_url }}">{{ site.give_url_text }}</a>
-        </nav>
+    <nav class="site-nav">
 
-    </div>
+      {% assign permalink = page.url | remove:'index.html' | remove_first: '/' %}
+
+      {% for item in site.data.navigation %}
+
+        {% if permalink == item.link %}
+          <a class="page-link current" href="{{ item.link | relative_url}}">{{ item.title }}</a>
+        {% else %}
+          <a class="page-link" href="{{ item.link | relative_url }}">{{ item.title }}</a>
+        {%- endif -%}
+      {%- endfor -%}
+
+      <a class="page-link red-pill" href="{{ site.give_url }}">{{ site.give_url_text }}</a>
+    </nav>
+
+  </div>
+
 </header>
+
 {% unless page.url == "/" %}
-{% include breadcrumbs.html %}
+  {% include breadcrumbs.html %}
 {% endunless %}

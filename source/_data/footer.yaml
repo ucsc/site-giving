@@ -9,11 +9,11 @@ headings:
     heading: Other
 column_one:
   - name: About the foundation
-    link: "https://foundation.ucsc.edu/index.html"
+    link: "https://foundation.ucsc.edu/"
   - name: Investment reports and policies
-    link: "https://foundation.ucsc.edu/endowment/index.html"
+    link: "https://foundation.ucsc.edu/endowment/"
   - name: Board opportunity fund
-    link: "https://foundation.ucsc.edu/opportunity-fund/index.html"
+    link: "https://foundation.ucsc.edu/opportunity-fund/"
 column_two:
   - name: Giving stories
     link: /impact-of-giving/

@@ -13,15 +13,17 @@ hero:
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 ---
+
 Endowments created in memory of loved ones provide meaningful support to our campus. We acknowledge and remember these very special people.
 
 We welcome photographs for this page; please send them to <giving@ucsc.edu> or call (831) 459-3251.
+
 <div class="memorial-grid">
-{% for memorial in site.data.main.memorial %}
-{% if memorial.link %}<a href="{{memorial.link}}">{% endif%}
-<figure class="inline-image right grid-cell">
-{% asset {{memorial.image}} magick:resize=130 magick:crop=130x145+0+0 alt="{{memorial.caption}}" title="{{memorial.caption}}" %}
-<figcaption>{{memorial.name}}</figcaption></figure>
-{% if memorial.link %}</a>{% endif%}
-{% endfor %}
+  {% for memorial in site.data.memorial %}
+    {% if memorial.link %}<a href="{{ memorial.link }}">{% endif%}
+      <figure class="inline-image right grid-cell">
+        {% asset {{memorial.image}} magick:resize=130 magick:crop=130x145+0+0 alt="{{memorial.caption}}" title="{{memorial.caption}}" %}
+        <figcaption>{{ memorial.name }}</figcaption></figure>
+    {% if memorial.link %}</a>{% endif%}
+  {% endfor %}
 </div>

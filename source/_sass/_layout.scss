@@ -1,4 +1,4 @@
-/**
+ /**
  * Site header
  */
 
@@ -131,6 +131,7 @@
         li::after {
             content: "|";
             color: $ucsc-light-blue;
+            margin: 0 .5em;
         }
         li:last-child::after {
             display: none;

@@ -10,10 +10,11 @@ All UC Santa Cruz students are part of both a prestigious university and a colle
 
 Each college is seeking support for its innovative programs and initiatives that serve students and push the boundaries of knowledge and understanding.
 
- {% for college in site.data.main.colleges%}
+{% for college in site.data.colleges %}
  <div class="the-colleges">
- <h2 class="college-name">{{college.name}}</h2>
+ <h2 class="college-name">{{ college.name }}</h2>
  <figure class="college-thumb">
-{% asset {{college.image}} magick:resize=200 alt='{{college.image}}' %}</figure>
-<p class="college-blurb">{{college.blurb}}</p>
- <a href="{{ college.link }}" class="blue-pill">Learn More</a></div>{% endfor %}
+  {% asset {{college.image}} magick:resize=200 alt='{{college.image}}' %}</figure>
+  <p class="college-blurb">{{college.blurb}}</p>
+  <a href="{{ college.link }}" class="blue-pill">Learn More</a></div>
+{% endfor %}
