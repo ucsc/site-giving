@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2014/08/coastal-biology-building.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2014/08/coastal-biology-building.html
 ---

@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2017/03/giving-day-2017-feature-story.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2017/03/giving-day-2017-feature-story.html
 ---

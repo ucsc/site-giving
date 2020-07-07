@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2014/09/coastal-biology-groundbreaking.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2014/09/coastal-biology-groundbreaking.html
 ---

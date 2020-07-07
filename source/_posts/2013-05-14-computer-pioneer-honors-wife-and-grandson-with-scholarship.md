@@ -15,7 +15,7 @@ see_also:
 author:
   - Denise Lee
 author_email:
-  - gwenj@ucsc.edu
+  - publicaffairs@ucsc.edu
 thumbnail_image: kolsky-harwood-frances.jpg
 categories: "Donor Profiles"
 ---

@@ -7,8 +7,3 @@ link_post: http://www.mercurynews.com/breaking-news/ci_24836309/uc-santa-cruz-re
 categories: "News"
 format: link
 ---
-<blockquote class="wp-embedded-content" data-secret="yH4BICQPCy">
-  <p>
-    <a href="http://www.mercurynews.com/breaking-news/ci_24836309/uc-santa-cruz-researcher-leads-cancers-digital-revolution">UC Santa Cruz researcher leads cancer's digital revolution</a>
-  </p>
-</blockquote>

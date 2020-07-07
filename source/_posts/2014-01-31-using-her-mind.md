@@ -11,6 +11,7 @@ see_also:
 thumbnail_image: williams-meka.jpg
 categories: "Student Profiles"
 ---
+
 <figure class="inline-image right">
 {% asset meka.jpg magick:resize=300 alt="meka williams" %}<figcaption>Sociology major Meka Williams (Photo by Carolyn Lagattuta)</figcaption></figure>
 

@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2015/10/kroeker-packard.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2015/10/kroeker-packard.html
 ---

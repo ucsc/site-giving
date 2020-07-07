@@ -13,6 +13,5 @@ thumbnail_image: coastal-bio1-410.jpg
 thumbnail_alt_text: photo of UC Santa Cruz Coastal Biology Building
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2017/10/coastal-biology-building.html
 ---
 

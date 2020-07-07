@@ -5,8 +5,7 @@ date: 2013-12-20
 layout: post
 excerpt: "The Dizikes teaching award—named for professor emeritus of American studies John Dizikes—celebrates the Humanities faculty's commitment to excellence in teaching and its impact on undergraduate students."
 thumbnail_image: john-dizikes.jpg
-categories: "Donor Profiles"
-  - Student Profiles
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset donka.jpg magick:resize=300 alt="donka" %}<figcaption>Senior Linguistics major John Zwart, with UCSC professor of Linguistics Donka Farkas (Photo by Marissa Fullum-Campbell)</figcaption></figure>

@@ -10,8 +10,6 @@ image_url:
 
 thumbnail_image: chancellor-baskins-sbd-350.jpg
 categories: "Donor Profiles"
-tags:
-  - profile
 format: link
 link_post: https://news.ucsc.edu/2011/02/sbd-after-story.html
 ---

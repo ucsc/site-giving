@@ -10,6 +10,5 @@ author_email:
   - shj@ucsc.edu
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2017/10/grant-epc.html
 ---
 

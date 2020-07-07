@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2014/09/linguistics-irish-tongue.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2014/09/linguistics-irish-tongue.html
 ---

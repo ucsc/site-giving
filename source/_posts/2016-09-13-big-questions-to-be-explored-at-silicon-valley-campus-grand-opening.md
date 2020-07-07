@@ -7,8 +7,7 @@ author:
 author_email:
   - jspringh@ucsc.edu
 layout: post
-link_post: https://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent
+link_post: https://news.ucsc.edu/2016/09/silicon-valley-opening.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent
 ---

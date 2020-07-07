@@ -8,5 +8,5 @@ author_email:
   - jspringh@ucsc.edu
 categories: "News"
 format: link
-link_post: http://www.nytimes.com/2015/09/15/opinion/mark-bittman-the-roots-of-organic-farming.html?utm\_source=homepage&utm\_campaign=carousel&utm_medium=slide-0
+link_post: http://www.nytimes.com/2015/09/15/opinion/mark-bittman-the-roots-of-organic-farming.html
 ---

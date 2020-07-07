@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2015/07/warhol-ias-grant.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2015/07/warhol-ias-grant.html
 ---

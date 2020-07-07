@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2016/06/zimmerman-scholar-2016.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/06/zimmerman-scholar-2016.html
 ---

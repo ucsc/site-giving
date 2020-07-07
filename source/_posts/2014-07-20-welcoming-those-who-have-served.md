@@ -7,10 +7,10 @@ layout: post
 see_also:
   - title: UCSC Retirees Association
     link: http://retirees.ucsc.edu/scholarships/?ref=profiles
-
 thumbnail_image: angela-austin.jpg
 categories: "Donor Profiles"
 ---
+
 <figure class="inline-image right">
 {% asset angela-austin.jpg magick:resize=400 alt='angela-austin' %}
 <figcaption></figcaption></figure>

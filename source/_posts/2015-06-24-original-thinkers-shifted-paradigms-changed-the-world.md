@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2015/06/original-thinkers.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2015/06/original-thinkers.html
 ---

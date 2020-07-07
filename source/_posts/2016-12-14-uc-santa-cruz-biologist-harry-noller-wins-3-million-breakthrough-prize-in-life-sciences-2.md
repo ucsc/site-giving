@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2016/12/pediatric-chair-endowment-story.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/12/pediatric-chair-endowment-story.html
 ---

@@ -3,7 +3,6 @@ id: 3420
 title: UC Santa Cruz raises more than $335 million from 63,064 donors
 date: 2017-10-06
 layout: post
-guid: https://giving.ucsc.edu/?p=3420
 link_post: https://news.ucsc.edu/2017/10/campaign-close.html
 author:
   - Joan Springhetti

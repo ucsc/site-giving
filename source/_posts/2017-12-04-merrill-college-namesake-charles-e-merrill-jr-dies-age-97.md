@@ -9,8 +9,6 @@ author_name:
   - Dan White
 author_email:
   - "dwhite@ucsc.edu"
-opening_quote:
-  - ""
 thumbnail_image: ch-merrill-jr.jpg
 thumbnail_alt_text: photo of Charles Merrill Jr.
 categories: "News"

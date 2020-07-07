@@ -5,6 +5,7 @@ layout: post
 thumbnail_image: arash-mohajerinejad.jpg
 categories: "Student Profiles"
 ---
+
 <figure class="inline-image right">
 {% asset arash-mohajerinejad.jpg magick:resize=300 alt="arash-mohajerinejad.jpg" %}<figcaption>Abuoali &#8220;Arash&#8221; Mohajerinejad (Oakes &#8217;14)  
 (Photo by Carolyn Lagattuta)</figcaption></figure>

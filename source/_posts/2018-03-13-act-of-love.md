@@ -17,8 +17,6 @@ hero:
   alt_text: photo of Adilah Barnes
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
-# Is this a featured post? Applies to first two columns on Post Archive Page.
-# If true, use: true; if false, use: false and order does not matter.
 featured_post:
   use: false
   order: 1 # Options: 1 or 2

@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2015/03/hay-barn-raising.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2015/03/hay-barn-raising.html
 ---

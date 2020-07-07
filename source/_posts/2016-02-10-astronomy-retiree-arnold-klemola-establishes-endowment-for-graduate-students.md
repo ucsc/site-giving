@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2016/02/klemola-gift.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/02/klemola-gift.html
 ---

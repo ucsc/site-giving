@@ -6,5 +6,4 @@ layout: post
 link_post: http://blog.archpaper.com/wordpress/archives/78583
 categories: "News"
 format: link
-link_post: http://blog.archpaper.com/wordpress/archives/78583
 ---

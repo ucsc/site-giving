@@ -10,5 +10,4 @@ layout: post
 link_post: https://news.ucsc.edu/2015/07/dickens-presidential-chair.html
 categories: "News"
 format: link
-link_post: https://news.ucsc.edu/2015/07/dickens-presidential-chair.html
 ---
