@@ -1,17 +1,15 @@
 ---
 id: 260
 title: Sustaining her vision
-date: 2015-10-19T19:55:18+00:00
+date: 2015-10-19
 layout: post
-excerpt: ""
 see_also:
   - title: Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2013-14/index.php
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: long-darrell.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset long-darrell.jpg magick:resize=300 alt="long-darrell.jpg" %}<figcaption>Darrell Long, UC Santa Cruz professor of computer science</figcaption></figure>

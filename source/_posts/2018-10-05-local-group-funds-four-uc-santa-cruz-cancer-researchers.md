@@ -2,7 +2,7 @@
 id: 3797
 title: Local group funds four UC Santa Cruz cancer researchers
 subtitle: The Santa Cruz Cancer Benefit Group continues its support for cancer research at UC Santa Cruz with new grants
-date: 2018-10-05T16:34:12+00:00
+date: 2018-10-05
 layout: post
 author:
   - Tim Stephens
@@ -23,13 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: cancerresearchers.jpg
 thumbnail_alt_text: photo of Cancer Researchers
-categories:
-  - News
-tags:
-  - cancer
-  - grant
-  - research
-  - santa cruz cancer benefit group
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/sccbg-awards.html
 ---

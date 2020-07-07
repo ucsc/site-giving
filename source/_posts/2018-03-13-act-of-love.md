@@ -2,7 +2,7 @@
 id: 3584
 title: Act of love
 subtitle: 
-date: 2018-03-13T18:38:30+00:00
+date: 2018-03-13
 layout: post
 author:
   - Dan White
@@ -24,11 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: barneshonor350.jpeg
 thumbnail_alt_text: photo of Adilah Barnes
-categories:
-  - News
-tags:
-  - adilah barnes
-  - alumni
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/adilah-barnes-honor.html
 ---

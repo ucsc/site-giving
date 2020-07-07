@@ -2,7 +2,7 @@
 id: 3984
 title: Choosing what's important
 subtitle: Lisa Kermish found her best friends and her devotion to social justice at UC Santa Cruz. Now she’s added Slug Support to her will.
-date: 2019-09-05T20:59:43+00:00
+date: 2019-09-05
 layout: post
 author:
   - J.D. Hillard
@@ -24,13 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: Kermish-Lisa.jpg
 thumbnail_alt_text: photo of Lisa Kermish
-categories:
-  - Donor Profiles
-tags:
-  - lisa kermish
-  - planned gifts
-  - slug support
-  - stevenson
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset Kermish-Lisa.jpg magick:resize=500 alt='photo of Lisa Kermish' %}

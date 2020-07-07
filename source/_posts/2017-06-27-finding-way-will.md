@@ -1,17 +1,15 @@
 ---
 id: 306
 title: Finding a way through a will
-date: 2017-06-27T16:32:30+00:00
+date: 2017-06-27
 layout: post
-excerpt: ""
 see_also:
   - title: "Alumni in Profile: Stephen Abreu's college career changed when he met professor Barry Bowman."
     link: https://news.ucsc.edu/2010/10/review-fall-2010-abreu.html
   - title: Honoring a beloved professor with a planned gift.
     link: https://giving.ucsc.edu/profiles/donors/morgan.html
 thumbnail_image: rustybarrylab-760.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset rustybarrylab-760.jpg magick:resize=300 alt="rustybarrylab" %}<figcaption>Emeritus Professor Barry Bowman and his wife, researcher Emma Jean Bowman, worked side by side for decades revealing the secrets of a protein called V-ATPase. Now retired, they&#8217;ve made continuing research a priority in their will. Photo by Barry Bowman.</figcaption></figure>

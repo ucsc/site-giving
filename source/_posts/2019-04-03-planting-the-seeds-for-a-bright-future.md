@@ -2,7 +2,7 @@
 id: 3907
 title: Planting the Seeds for a Bright Future
 subtitle: Kaj Enderlein, an alumnus of the Center for Agroecology and Sustainable Food Systems apprenticeship, has established a planned gift to the program that changed his life.
-date: 2019-04-03T16:16:35+00:00
+date: 2019-04-03
 layout: post
 author_name:
   - J.D. Hillard
@@ -24,9 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: man-with-carrots.jpg
 thumbnail_alt_text: photo of CASFS Carrots
-categories:
-  - Donor Profiles
-  - News
+categories: "Donor Profiles"
 tags:
   - casfs
   - planned gifts

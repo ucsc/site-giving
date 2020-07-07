@@ -1,9 +1,8 @@
 ---
 id: 291
 title: Resource for open source
-date: 2016-01-24T16:03:40+00:00
+date: 2016-01-24
 layout: post
-excerpt: ""
 see_also:
   - title: Profiles in Giving
     link: http://profiles.giving.ucsc.edu/
@@ -12,8 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: sageweil-350.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset sageweil-350.jpg magick:resize=300 alt="Sage Weil" %}<figcaption>Sage Weil earned his Ph.D. in computer science at UC Santa Cruz in 2007.</figcaption></figure>

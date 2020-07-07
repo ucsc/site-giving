@@ -2,7 +2,7 @@
 id: 3586
 title: NIH grant funds high-end instrument for shared biomedical research facility
 subtitle: UC Santa Cruz establishes a Bay Area facility in electron paramagnetic resonance with a $1.5-million grant from NIH's High-End Instrumentation program
-date: 2018-03-15T11:39:16+00:00
+date: 2018-03-15
 layout: post
 author:
   - Tim Stephens
@@ -21,12 +21,7 @@ featured_post:
 thumbnail_image: glenn-millhauser-400.jpg
 thumbnail_alt_text: photo of Glenn Millhauser
 image: glenn-millhauser-400.jpg
-categories:
-  - News
-tags:
-  - biomedicine
-  - grants
-  - national institutes for health
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/epr-facility.html
 ---

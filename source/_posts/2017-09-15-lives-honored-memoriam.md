@@ -1,12 +1,10 @@
 ---
 id: 3019
 title: Lives honored, in memoriam
-date: 2017-09-15T16:28:20+00:00
+date: 2017-09-15
 layout: post
-excerpt: ""
 thumbnail_image: campus-preserve-cropped.jpg
-categories:
-  - Campaign Impact
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset campus-preserve.jpg magick:resize=300 alt='photo of Campus Preserve' %}

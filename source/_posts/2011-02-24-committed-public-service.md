@@ -1,12 +1,11 @@
 ---
 id: 330
 title: Committed to Public Service
-date: 2011-02-24T19:51:01+00:00
+date: 2011-02-24
 layout: post
 excerpt: Yethzéll Díaz wins inaugural award named in honor of UC Santa Cruz alumnus, slain congressional aide
 thumbnail_image: diaz.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset diaz.jpg magick:resize=250 alt="diaz" %}<figcaption>Yethzéll Díaz, a senior majoring in Latin American and Latino studies and sociology, is helping bring computer literacy to Spanish speaking parents in Watsonville.</figcaption></figure>

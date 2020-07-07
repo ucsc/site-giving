@@ -1,15 +1,14 @@
 ---
 id: 2275
 title: Gift to UC Santa Cruz funds new presidential chair for physics of information
-date: 2015-09-08T17:00:44+00:00
+date: 2015-09-08
 author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/09/faggin-chair.html
-categories:
-  - News
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2015/09/faggin-chair.html
 ---

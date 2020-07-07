@@ -1,12 +1,10 @@
 ---
 id: 193
 title: "Jerry Ruiz is fulfilling his life's mission"
-date: 2012-11-06T23:18:19+00:00
+date: 2012-11-06
 layout: post
-excerpt: ""
 thumbnail_image: jerry-ruiz.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset jerry-ruiz.jpg magick:resize=300 alt="jerry-ruiz" %}<figcaption>Jerry Ruiz, Crown &#8217;77 UCSC Alumni Council President</figcaption></figure>

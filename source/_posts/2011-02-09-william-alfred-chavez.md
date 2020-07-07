@@ -1,7 +1,7 @@
 ---
 id: 154
 title: William Alfred Chavez
-date: 2011-02-09T22:21:50+00:00
+date: 2011-02-09
 layout: post
 excerpt: |
     It was the early ‘70s, and William Chavez was editor of City on a Hill Press student newspaper and active in the California farmworker organizing efforts.
@@ -9,9 +9,7 @@ excerpt: |
     “The interaction and mentorship between the faculty and the students provided tremendous influence for a young man like my brother,” his sister Olivia Chavez said. “Think of it. He actually got Cesar Chavez to speak at the UCSC Arts & Lectures series.”
 
 thumbnail_image: chavez.jpg
-categories:
-  - Donor Profiles
-  - Featured
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset chavez.jpg magick:resize=300 alt="chavez.jpg" %}<figcaption>As a lobbyist, Bill Chavez championed the cause of quality education for under-served populations. The William Alfred Chavez Student Award established in his honor helps to support those students who wish to attend UC Santa Cruz.</figcaption></figure>

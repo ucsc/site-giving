@@ -1,17 +1,15 @@
 ---
 id: 510
 title: Coastal science and policy
-date: 2017-08-14T17:53:27+00:00
+date: 2017-08-14
 layout: post
-excerpt: ""
 see_also:
   - title: The Graduate Program in Coastal Science and Policy
     link: http://campaign.ucsc.edu/priorities/initiatives/coastal/
   - title: The Recharge Iniative
     link: http://www.rechargeinitiative.org/
 thumbnail_image: coastal-science-and-policy-cropped.jpg
-categories:
-  - Campaign Impact
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset coastal-science-and-policy.jpg magick:resize=300 alt="coastal-science-and-policy" %}<figcaption>A joint UC Santa Cruz and U.S. Geological Survey project tracks sea otters off the California Central Coast using a radio receiver and a telescope.eft: A joint UC Santa Cruz and U.S. Geological Survey project tracks sea otters off the California Central Coast using a radio receiver and a telescope. (Photo by Sean Bogle)</figcaption></figure>

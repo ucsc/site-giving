@@ -1,15 +1,13 @@
 ---
 id: 212
 title: Love letter to McHenry Library
-date: 2013-07-25T23:37:23+00:00
+date: 2013-07-25
 layout: post
-excerpt: ""
 see_also:
   - title: University Library
     link: http://library.ucsc.edu/
 thumbnail_image: kirk-potola.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset kirk-potola.jpg magick:resize=300 alt="kirk-potola" %}<figcaption>Kirk, who won the Outstanding Staff Member of the Year Award in 2000-2001, has a longstanding and affectionate connection to the campus and, in particular, the library. (Photo by Carolyn Lagattuta)</figcaption></figure>

@@ -2,7 +2,7 @@
 id: 3970
 title: Sharing the joy
 subtitle: Caitlin Croughan, a Dickens Universe regular, established a planned gift to the Dickens Project, citing Dickens commitment to social justice and the power of stories to build community
-date: 2019-08-07T16:57:52+00:00
+date: 2019-08-07
 layout: post
 author:
   - J.D. Hillard
@@ -24,11 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: Caitlin-Croughan.jpg
 thumbnail_alt_text: photo of Caitlin Croughan
-categories:
-  - Donor Profiles
-tags:
-  - dickens project
-  - planned gifts
+categories: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset Caitlin-Croughan.jpg magick:resize=400 alt='photo of Caitlin Croughan' %}

@@ -1,7 +1,6 @@
 ---
 title: Mark Headley
-subtitle:
-date: 2011-01-01T19:20:40+00:00
+date: 2011-01-01
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
@@ -22,8 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: headley.jpg
 thumbnail_alt_text: photo of Mark Headley
-categories: [Donor Profiles]
-tags: false
+categories: "Donor Profiles"
 ---
 Mark Headley didn&#8217;t know it at the time, but his education at UC Santa Cruz was the perfect preparation for his career today. As president and portfolio manager of Matthews International Capital Management LLC, Headley (Stevenson &#8217;83) oversees portfolios across the Asian market that range from diversified to regional, to country and sector specific. &#8220;I had no idea there was a job called portfolio manager out there,&#8221; said Headley, who majored in economics and politics, &#8220;but the work I was doing at UC Santa Cruz, comparing the economic development of countries, is exactly what I&#8217;m doing today.&#8221;
 
@@ -45,5 +43,3 @@ UC Santa Cruz also gave Headley a start in his first career: fencing. &#8220;I s
 Headley&#8217;s strong connection to the University of California system is a family affair. His father is an alumnus of UC Berkeley, both of his parents worked for the University of California, and in 1965 his family came to the ceremonies that officially opened UC Santa Cruz. Headley was only six, but after walking around the campus, he decided that this was where he would go to college.
 
 &#8220;I think the University of California system is the greatest public education system in the history of the planet,&#8221; said Headley. &#8220;I think the environment at Santa Cruz compares to the finest private universities. The range of opportunities here is just enormous.&#8221;
-
-For more information on supporting programs in the Social Science Division, contact Jennifer Graham at (831)459-3689 or <jennifergraham@ucsc.edu>.

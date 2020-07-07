@@ -1,7 +1,7 @@
 ---
 id: 3408
 title: Helping students spot medical pseudoscience
-date: 2017-09-15T22:59:31+00:00
+date: 2017-09-15
 layout: post
 author:
   - J.D. Hillard
@@ -9,8 +9,7 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: A popular new class made possible by a donor delves into history, psychology, chemistry, ethics, and—yes—medicine, exploring the limits and potentials of health care
 thumbnail_image: greggatesmd1.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset greggatesmd1.jpg magick:resize=300 alt="greggatesmd1" %}<figcaption>Dr. Greg Gates spent years building curriculum for a class about what medicine can and can not accomplish. Photo: Associate Professor Grant Hartzog.</figcaption></figure>

@@ -1,7 +1,6 @@
 ---
 title: Paul Rabwin
-subtitle:
-date: 2011-01-01T17:20:21+00:00
+date: 2011-01-01
 author: Monica Grant
 author_email: mgrant1@ucsc.edu
 layout: post
@@ -22,8 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: rabwin.jpg
 thumbnail_alt_text: photo of Paul Rabwin
-categories: [Donor Profiles]
-tags: false
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset rabwin.jpg magick:resize=500 alt='photo of Paul Rabwin' %}

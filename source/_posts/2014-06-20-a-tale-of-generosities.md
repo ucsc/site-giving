@@ -1,13 +1,11 @@
 ---
 id: 3155
 title: A tale of generosities
-date: 2014-06-20T22:23:07+00:00
+date: 2014-06-20
 excerpt: "Lovers of Charles Dickens' books have stepped forward to sustain the Dickens Project, and the famous annual Dickens Universe conference."
 layout: post
-excerpt: ""
 thumbnail_image: john-jordan.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset john-jordan.jpg magick:resize=400 alt='john-jordan' %}

@@ -1,15 +1,13 @@
 ---
 id: 355
 title: Scholarships support community
-date: 2013-07-25T20:59:41+00:00
+date: 2013-07-25
 layout: post
-excerpt: ""
 see_also:
   - title: Learn more about the benefits of scholarships
     link: https://financialaid.ucsc.edu/types-of-aid/scholarships/index.html
 
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 Part of what sets UC Santa Cruz apart is our commitment to the quality of experience undergraduates receive. For many that promise would be out of reach without scholarships supported by generous donors. For some donors, scholarships represent a way to enrich their community.
 

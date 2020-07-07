@@ -1,12 +1,10 @@
 ---
 id: 380
 title: Saving a dying language
-date: 2014-10-22T21:49:11+00:00
+date: 2014-10-22
 layout: post
-excerpt: ""
 thumbnail_image: Scarlett-Clothier-350.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset Scarlett-Clothier-350.jpg magick:resize=350 alt="Scarlett-Clothier" %}<figcaption>Scarlett Clothier-Goldschmidt is a 2014 Porter College graduate in linguistics who is pursuing her master&#8217;s degree. (Photo by Carolyn Lagattuta)</figcaption></figure>

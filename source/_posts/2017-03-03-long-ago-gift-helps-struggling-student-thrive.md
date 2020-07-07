@@ -1,16 +1,14 @@
 ---
 id: 401
 title: Long-ago gift helps a struggling student thrive
-date: 2017-03-03T22:22:14+00:00
+date: 2017-03-03
 layout: post
-excerpt: ""
 author:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
 thumbnail_image: jbrandenburg.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image full">
 {% asset jbrandenburg.jpg magick:resize=760 alt="tolliver" %}<figcaption>Justice Brandenburg will graduate in 2017 with a major in legal studies. (photo by J.D. Hillard)</figcaption></figure>

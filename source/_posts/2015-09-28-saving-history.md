@@ -1,9 +1,8 @@
 ---
 id: 390
 title: Saving history
-date: 2015-09-28T22:08:49+00:00
+date: 2015-09-28
 layout: post
-excerpt: ""
 see_also:
   - title: Microbiologist and UCSC administrator Eugene Cota-Robles dies at age 86
     link: https://news.ucsc.edu/2012/09/cota-robles.html
@@ -12,8 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: jimiliz-375.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset jimiliz-375.jpg magick:resize=300 alt="jimiliz" %}<figcaption>Jimiliz Valiente-Neighbours, Sociology (Photo by Carolyn Lagattuta)</figcaption></figure>

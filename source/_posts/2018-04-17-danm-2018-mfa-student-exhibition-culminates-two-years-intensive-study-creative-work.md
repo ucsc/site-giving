@@ -1,7 +1,7 @@
 ---
 id: 3614
 title: DANM 2018 MFA student exhibition culminates two years of intensive study and creative work
-date: 2018-04-17T15:51:23+00:00
+date: 2018-04-17
 layout: post
 author:
   - Scott Rappaport
@@ -24,12 +24,7 @@ featured_post:
 thumbnail_image: knight-400.jpg
 thumbnail_alt_text: photo of groovy fire
 image: knight-400.jpg
-categories:
-  - News
-  - Student Profiles
-tags:
-  - danm
-  - graduate students
+categories: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/04/danm-mfa-exhibition.html
 ---

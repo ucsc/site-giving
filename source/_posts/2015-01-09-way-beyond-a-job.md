@@ -1,7 +1,7 @@
 ---
 id: 242
 title: Way beyond a job
-date: 2015-01-09T18:07:41+00:00
+date: 2015-01-09
 excerpt: "UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986."
 layout: post
 excerpt: "UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986."
@@ -11,8 +11,7 @@ see_also:
   - title: 2013 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
 thumbnail_image: konopelski.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset konopelski.jpg magick:resize=300 alt="konopelski" %}<figcaption>Like many ACE participants, the Konopelskis were work-study students, and the first in their families to earn a four-year degree. Nancy Cox-Konopelski is the program&#8217;s director, and Joe Konopelski is a chemistry professor. They are also longtime financial supporters.</figcaption></figure>

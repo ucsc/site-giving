@@ -1,7 +1,7 @@
 ---
 id: 3582
 title: Influential historian Hayden White dies at 89
-date: 2018-03-13T18:37:39+00:00
+date: 2018-03-13
 layout: post
 guid: https://giving.ucsc.edu/?p=3582
 permalink: https://news.ucsc.edu/2018/03/hayden-white-news-obit.html
@@ -25,13 +25,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: hayden-white-2017-250.png
 thumbnail_alt_text: photo of Hayden White
-categories:
-  - News
-tags:
-  - faculty
-  - hayden white
-  - historiography
-  - history
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/hayden-white-news-obit.html
 ---

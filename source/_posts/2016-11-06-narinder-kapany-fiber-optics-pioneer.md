@@ -1,17 +1,15 @@
 ---
 id: 294
 title: Narinder Kapany, fiber-optics pioneer
-date: 2016-11-06T16:07:03+00:00
+date: 2016-11-06
 layout: post
-excerpt: ""
 see_also:
   - title: Narinder Kapany Chair in Opto-Electronics
     link: http://southasia.ucsc.edu/endowed-chairs/narinder-singh-kapany.html
   - title: Narinder Kapany, Founder of Fiber Optics, Silicon Valley Historical Association (Video)
     link: http://www.youtube.com/watch?v=m0KMesVVwwY
 thumbnail_image: kapany-founders-200.jpeg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset kapany-founders-200.jpeg magick:resize=200 alt="kapany-founders" %}<figcaption>Narinder Kapany received the UCSC Foundation&#8217;s Fiat Lux Award in 2008. (Photo by R. R. Jones)</figcaption></figure>

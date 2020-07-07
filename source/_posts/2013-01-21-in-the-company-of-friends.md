@@ -1,12 +1,10 @@
 ---
 id: 3226
 title: In the company of friends
-date: 2013-01-21T16:41:28+00:00
+date: 2013-01-21
 layout: post
-excerpt: ""
 thumbnail_image: neel2008.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset neel2008.jpg magick:resize=300 alt='neel2008.jpg' %}

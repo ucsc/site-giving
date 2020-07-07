@@ -2,7 +2,7 @@
 id: 3938
 title: Great expectations and the general magic of failure
 subtitle: A new film by Dickens Universe regular and benefactor Mike Stern is the story of a little-known company that set in motion much of our technological world
-date: 2019-05-08T17:06:49+00:00
+date: 2019-05-08
 layout: post
 author:
   - J.D. Hillard
@@ -24,14 +24,6 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: sternmaudekerrush600.jpg
 thumbnail_alt_text: photo of Mike Stern, Matt Maude and Sarah Kerrush
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - dickens project
-  - donor profile
-  - general magic
-  - john jordan
-  - mike stern
+categories: "Donor Profiles"
 link_post: https://news.ucsc.edu/2019/05/sternmagic.html
 ---

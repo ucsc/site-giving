@@ -1,15 +1,14 @@
 ---
 id: 363
 title: "'I recognize I can make a difference'"
-date: 2014-02-14T21:07:31+00:00
+date: 2014-02-14
 layout: post
 excerpt: Student Carson Watts was the second winner of the Gabriel Zimmerman Memorial Scholarship, which supports students who are passionate about social issues and committed to public service.
 see_also:
   - title: Gabriel Zimmerman Memorial Scholarship Fund
     link: http://socialsciences.ucsc.edu/support-us/endowments/endowments-all/zimmerman/index.html
 thumbnail_image: watts-carson-350.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset watts-carson-350.jpg magick:resize=300 alt="watts-carson-350.jpg" %}<figcaption>Graduate student Carson Watts (Oakes ’13, sociology)  

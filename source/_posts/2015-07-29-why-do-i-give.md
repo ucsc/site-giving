@@ -1,7 +1,7 @@
 ---
 id: 254
 title: "Ricky Bluthenthal: Why do I give to UC Santa Cruz?"
-date: 2015-07-29T19:45:50+00:00
+date: 2015-07-29
 layout: post
 excerpt: A word with Ricky Bluthenthal, UC Santa Cruz Foundation Board member
 see_also:
@@ -10,8 +10,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: bluthenthal-ricky.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset bluthenthal-ricky.jpg magick:resize=300 alt="bluthenthal-ricky" %}<figcaption>Ricky Bluthenthal (Merrill &#8217;86, History and Sociology) and Nancy Berglass (Merrill ‘85, Community Studies)</figcaption></figure>

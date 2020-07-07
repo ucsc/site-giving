@@ -1,9 +1,8 @@
 ---
 id: 196
 title: Supporting a family passion
-date: 2013-03-12T23:20:31+00:00
+date: 2013-03-12
 layout: post
-excerpt: ""
 author:
   - Tim Stephens
 author_email:
@@ -12,8 +11,7 @@ see_also:
   - title: Ocean investment
     link: https://giving.ucsc.edu/reports/2011-12/articles/ocean-investment.php
 thumbnail_image: holo.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset holo.jpg magick:resize=300 alt="holo" %}<figcaption>Christine and Robert Holo  

@@ -1,7 +1,7 @@
 ---
 id: 2672
 title: Celebrating four new endowed chairs and inaugural chair holders
-date: 2017-05-23T14:55:10+00:00
+date: 2017-05-23
 author:
   - Joan Springhetti
 author_email:

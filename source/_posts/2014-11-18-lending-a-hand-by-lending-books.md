@@ -1,7 +1,7 @@
 ---
 id: 235
 title: Lending a hand by lending books
-date: 2014-11-18T17:59:06+00:00
+date: 2014-11-18
 layout: post
 excerpt: A generous grandmother inspired three of her grandkids to "pay it forward" and help low-income students get the books they need.
 thumbnail_image: anne-bourdet.jpg
@@ -10,8 +10,7 @@ see_also:
     link: http://giving.ucsc.edu/reports/2012-13/index.php
   - title: EOP Textbook Lending Library
     link: http://eop.ucsc.edu/content/textbooksthumbnail_image
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset anne-bourdet.jpg magick:resize=250 alt="Anna Bourdet Hagata around 1918." %}<figcaption>Anna Bourdet Hagata around 1918.</figcaption></figure>

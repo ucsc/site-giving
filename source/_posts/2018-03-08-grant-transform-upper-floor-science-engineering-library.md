@@ -2,7 +2,7 @@
 id: 3575
 title: Grant to transform upper floor of Science and Engineering Library
 subtitle: A $5 million grant will kick-start the Science and Engineering Library’s transformation and name floor to honor legendary astrophysicist Sandra Faber
-date: 2018-03-08T16:27:36+00:00
+date: 2018-03-08
 layout: post
 author:
   - Scott Hernandez-Jason
@@ -24,8 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: sandy-elizabeth-500px.jpg
 thumbnail_alt_text: photo of University Librarian and Professor
-categories:
-  - News
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/se-library.html
 ---

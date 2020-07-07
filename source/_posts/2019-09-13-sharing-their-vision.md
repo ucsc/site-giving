@@ -1,7 +1,7 @@
 ---
 title: Sharing their vision
 subtitle: Over more than two decades, Kamil and Talat Hasan’s extraordinary philanthropy has transformed multiple areas across UC Santa Cruz.
-date: 2019-09-13T23:29:34+00:00
+date: 2019-09-13
 layout: post
 author:
   - J.D. Hillard
@@ -24,14 +24,7 @@ featured_post:
 thumbnail_image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
 thumbnail_alt_text: CIED director Sue Carter (left) and Kamil Hasan present the 1st place prize in the the 2018 Business Design Showcase
 image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - cied
-  - dard neuman
-  - kamil and talat hasan chair of indian classical music
-  - south asia
+categories: "Donor Profiles"
 ---
 In the 1990s, when they were both well into successful careers involved with Bay Area technology businesses, Kamil and Talat Hasan decided to endow an academic chair in Indian classical music.
 

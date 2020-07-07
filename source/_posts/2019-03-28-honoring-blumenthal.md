@@ -2,7 +2,7 @@
 id: 3898
 title: Honoring Chancellor George Blumenthal
 subtitle: "Please help honor Chancellor George Blumenthal on his retirement with your gift to the Chancellor's Undergraduate Internships."
-date: 2019-03-28T21:04:38+00:00
+date: 2019-03-28
 layout: post
 excerpt: During his time as head of UC Santa Cruz, Chancellor George Blumenthal has presided over a campus that has increasingly earned recognition as a research powerhouse. At the same time, UC Santa Cruz became a leader in educational access and support for students of all backgrounds.
 pull_quote: false
@@ -21,9 +21,9 @@ featured_post:
 thumbnail_image: George-Blumenthal.jpg
 thumbnail_alt_text: photo of George Blumenthal at the entrance to UC Santa Cruz
 image: George-Blumenthal.jpg
-categories:
-  - Support
+categories: "News"
 ---
+
 **During his time as head of UC Santa Cruz, Chancellor George Blumenthal has presided over a campus that has increasingly earned recognition as a research powerhouse. At the same time, UC Santa Cruz became a leader in educational access and support for students of all backgrounds. Upon his retirement this June, [help honor this champion of knowledge and opportunity](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=984) by ensuring permanent funding for a program he treasures—the Chancellor’s Undergraduate Internships.**
 
 ## George Blumenthal, 10th chancellor of UC Santa Cruz
@@ -48,10 +48,10 @@ To honor and thank Chancellor Blumenthal for his years of service and significan
 
 CUIP complements undergraduate degrees with career-launching experience. Interns earn $8,000 toward academic expenses while planning and completing high-priority campus projects, such as:
 
-  * Marketing planning for the Career and Women&#8217;s centers
-  * Establishing student recruitment programs for Oakes College and Student Organization Advising and Resources
-  * Creating a tree inventory system for Landscape Management
-  * Designing and analyzing assessment surveys for the library, Campus Housing, and Instructional Computing
+* Marketing planning for the Career and Women&#8217;s centers
+* Establishing student recruitment programs for Oakes College and Student Organization Advising and Resources
+* Creating a tree inventory system for Landscape Management
+* Designing and analyzing assessment surveys for the library, Campus Housing, and Instructional Computing
 
 Students invited to the CUIP have demonstrated initiative by organizing campus programs and events. CUIP is an opportunity to build on that potential with team-building and decision-making practice, under the guidance of professionals in the administration. When they enter the workforce, program alumni rank among UC Santa Cruz’s most marketable graduates, able to list obstacles overcome and accomplishments completed.
 

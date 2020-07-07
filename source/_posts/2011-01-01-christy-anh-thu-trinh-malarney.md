@@ -1,13 +1,11 @@
 ---
 title: Christy Anh-Thu Trinh-Malarney
-subtitle:
-date: 2011-01-01T17:52:59+00:00
+date: 2011-01-01
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
 excerpt: "&quot;So many of Christy’s interests and concerns came together at UC Santa Cruz,&quot; said Shaun Malarney, describing the education and life experiences of his late wife. Christy, a 1990 Merrill College graduate, died of cancer in 2003. &quot;She felt that the university, the education, and the extracurricular activities were some of the most tremendous experiences of her life.&quot;"
 pull_quote: false
-pull_quote_author:
 hero:
   use: false
   image: malarney.jpg #best at 1000px by 450px
@@ -21,12 +19,12 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: malarney.jpg
 thumbnail_alt_text: photo of Christy Anh-Thu-Malarney
-categories: [Donor Profiles]
+categories: "Donor Profiles"
 hidden: true
-tags: false #[Tag 1, Tag 2]
 ---
+
 <figure class="inline-image right">
-{% asset malarney.jpg magick:resize=300 alt='photo of Christy Anh-Thu-Malarney' %}
+  {% asset malarney.jpg magick:resize=300 alt='photo of Christy Anh-Thu-Malarney' %}
 <figcaption>Christy Anh-Thu Trinh-Malarney in Hue, Vietnam. Christy, her husband Shaun, and their two children spent a year in Vietnam during Shaun&#8217;s sabbatical leave.</figcaption></figure>
 
 &#8220;So many of Christy&#8217;s interests and concerns came together at UC Santa Cruz,&#8221; said Shaun Malarney, describing the education and life experiences of his late wife. Christy, a 1990 Merrill College graduate, died of cancer in 2003. &#8216;&#8221;She felt that the university, the education, and the extracurricular activities were some of the most tremendous experiences of her life.&#8221;
@@ -44,5 +42,3 @@ Christy&#8217;s years at UC Santa Cruz, where she earned a double major in polit
 In addition to her studies, Christy was active in the UC Santa Cruz Vietnamese Student Association, serving as president for two years, and she helped raise funds for Vietnamese refugees through the San Francisco People Walk-a-Thon. Following Christy&#8217;s graduation, which included honors in politics, she worked in Hong Kong as a preschool coordinator at two Vietnamese refugee detention centers.
 
 &#8220;From her late teens onward, Christy had devoted herself to her native country and its people,&#8221; said Malarney, &#8220;but her potential contributions to them were never fully realized due to her untimely death. It is our family&#8217;s goal to recognize her and to set something up to acknowledge the achievements of others as committed as she was.&#8221;
-
-To learn more about this scholarship or to establish other need-based scholarships at UC Santa Cruz, please contact John Hopkins at 831-459-3822 or <jehopkin@ucsc.edu>.

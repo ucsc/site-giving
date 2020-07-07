@@ -2,7 +2,7 @@
 id: 4058
 title: Critical support
 subtitle: A gift from Andrew Baird, a former student of pioneering History of Consciousness Professor Hayden White, has endowed an annual lecture honoring White and his work
-date: 2019-12-12T00:37:49+00:00
+date: 2019-12-12
 layout: post
 author:
   - J.D. Hillard
@@ -24,15 +24,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: Hayden-White-Andrew-Baird.March-2017.jpg
 thumbnail_alt_text: photo of Hayden White and Andrew Baird
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - andrew baird
-  - hayden white
-  - hayden white lectures
-  - history of consciousness
-  - the humanities institute
+categories: "Donor Profiles"
 ---
 
 <figure class="inline-image right">

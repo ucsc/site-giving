@@ -1,11 +1,9 @@
 ---
 title: "'Change is possible'"
-date: 2014-08-21T21:41:33+00:00
+date: 2014-08-21
 layout: post
-excerpt: ""
 thumbnail_image: arash-mohajerinejad.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset arash-mohajerinejad.jpg magick:resize=300 alt="arash-mohajerinejad.jpg" %}<figcaption>Abuoali &#8220;Arash&#8221; Mohajerinejad (Oakes &#8217;14)  

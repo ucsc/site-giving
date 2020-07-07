@@ -1,17 +1,15 @@
 ---
 id: 499
 title: Classrooms in the wild
-date: 2017-08-14T16:48:48+00:00
+date: 2017-08-14
 layout: post
-excerpt: ""
 see_also:
   - title: UC Natural Reserve System
     link: http://www.ucnrs.org/
   - title: Kenneth S. Norris Center for Natural History
     link: https://norriscenter.ucsc.edu/education/natural-history-classes/nhfq/
 thumbnail_image: UCSC_day2_UCOP-2.jpg
-categories:
-  - Campaign Impact
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_day2_UCOP-2.jpg magick:resize=300 alt="UCSC_day2_UCOP-2" %}<figcaption>Field study students explore the sands in Younger Lagoon Reserve (Photo by Elena Zhukova)</figcaption></figure>

@@ -2,7 +2,7 @@
 id: 4009
 title: Pioneering printmaker
 subtitle: Professor Kay Metz, who trained and inspired generations of artists, leaves a bequest supporting Arts and Special Collections
-date: 2019-10-04T18:48:54+00:00
+date: 2019-10-04
 layout: post
 author:
   - J.D. Hillard
@@ -24,15 +24,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: metzinstudio.jpg
 thumbnail_alt_text: Art Professor Emerita Kay Metz in her home studio in 2018
-categories:
-  - Donor Profiles
-tags:
-  - arts division
-  - environment
-  - kay metz
-  - library
-  - planned gifts
-  - special collections
+categories: "Donor Profiles"
 ---
 Professor Kay Metz was the kind of teacher students kept in touch with for years after graduation. When she died in 2018, she left numerous devoted friends and an influential body of work.
 

@@ -1,12 +1,11 @@
 ---
 id: 157
 title: Alison Keeler Carrillo
-date: 2011-02-09T22:25:14+00:00
+date: 2011-02-09
 layout: post
 excerpt: The legacy of artist and teacher Eduardo Carrillo continues to inspire and support students thanks to the generosity of his widow, Alison Keeler Carrillo, and other donors who have established a scholarship in his memory. “The scholarship is a way for Ed’s vision and values to be carried forward,” said Alison. “He did all kinds of things that really inspired his students to take their art seriously. He not only was a great painter, he was a great teacher.”
 thumbnail_image: carillo.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset carillo.jpg magick:resize=300 alt="carillo" %}<figcaption>The legacy of artist and teacher Eduardo Carrillo continues to inspire and support students thanks to the generosity of his widow, Alison Keeler Carrillo, and other donors who have established a scholarship in his memory.</figcaption></figure>

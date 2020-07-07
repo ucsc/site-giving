@@ -2,7 +2,7 @@
 id: 3643
 title: Electronic media pioneers
 subtitle: Innovations by UC Santa Cruz students became facets of 1980s pop culture.
-date: 2018-07-05T20:38:18+00:00
+date: 2018-07-05
 layout: post
 author:
   - J.D. Hillard
@@ -27,16 +27,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: deniseKZSC1977-1.jpg
 thumbnail_alt_text: photo of Denise Gallant, 1977
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - denise gallant
-  - e-mu systems
-  - kevin monahan
-  - kresge college
-  - kzsc
-  - planned gifts
+categories: "Donor Profiles"
 youtubeID-1: z2dyA5wROFY
 youtubeID-2: 0VdLVwDwm7s
 youtubeID-3: x3XW6NLILqo

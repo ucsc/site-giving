@@ -1,12 +1,10 @@
 ---
 id: 3220
 title: The young and the generous
-date: 2013-01-21T16:23:55+00:00
+date: 2013-01-21
 layout: post
-excerpt: ""
 thumbnail_image: hilary_van_hoose.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset hilary_van_hoose.jpg magick:resize=300 alt='hilary_van_hoose.jpg' %}

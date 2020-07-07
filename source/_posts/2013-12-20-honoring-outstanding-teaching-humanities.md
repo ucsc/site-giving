@@ -1,12 +1,11 @@
 ---
 id: 3190
 title: Honoring outstanding teaching in the humanities
-date: 2013-12-20T23:39:13+00:00
+date: 2013-12-20
 layout: post
 excerpt: "The Dizikes teaching award—named for professor emeritus of American studies John Dizikes—celebrates the Humanities faculty's commitment to excellence in teaching and its impact on undergraduate students."
 thumbnail_image: john-dizikes.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
   - Student Profiles
 ---
 <figure class="inline-image right">

@@ -1,7 +1,7 @@
 ---
 id: 219
 title: Giving back by paying forward
-date: 2013-09-19T15:48:37+00:00
+date: 2013-09-19
 layout: post
 excerpt: Karen Rhodes and her husband, fellow Slug Robert Weiner, have been consistent, reliable donors to UC Santa Cruz, providing valuable support for Cowell College, the History Department, scholarships, and more.
 see_also:
@@ -12,8 +12,7 @@ author:
 author_email:
   - gwenj@ucsc.edu
 thumbnail_image: karen.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset karen.jpg magick:resize=300 alt="karen" %}<figcaption>“I draw on my UC education all the time to keep myself honest and aligned with my core values,” said Karen Rhodes (Cowell, ’77, history).</figcaption></figure>

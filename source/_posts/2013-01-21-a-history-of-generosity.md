@@ -1,12 +1,10 @@
 ---
 id: 3223
 title: A history of generosity
-date: 2013-01-21T16:27:36+00:00
+date: 2013-01-21
 layout: post
-excerpt: ""
 thumbnail_image: irwin-anne.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset irwin-anne.jpg magick:resize=300 alt="irwin-anne" %}<figcaption>Anne Irwin</figcaption></figure>

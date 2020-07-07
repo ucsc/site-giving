@@ -1,9 +1,8 @@
 ---
 id: 190
 title: Hellman family bestows boost for research
-date: 2012-08-15T23:02:19+00:00
+date: 2012-08-15
 layout: post
-excerpt: ""
 see_also:
   - title: Gift establishes Hellman Fellows Program
     link: https://news.ucsc.edu/2011/04/hellman-fellows1.html
@@ -12,8 +11,7 @@ see_also:
   - title: Tribute to Warren Hellman
     link: http://www.baycitizen.org/obituaries/story/warren-hellman-dies-77/
 thumbnail_image: hellman.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset hellman.jpg magick:resize=300 alt="hellman.jpg" %}<figcaption>Warren Hellman (Photo by Robert Houser) The Hellman Fellows Program was established in 1995 by the Hellman family of San Francisco. It&#8217;s now in place at 13 institutions, including nine UC campuses. The Hellman family started the program after observing that while junior faculty are often well-funded for research projects when first hired, they may be challenged after two or three years when start-up funding runs out before new grants are obtained. The program is designed to assist promising young faculty at this juncture in their careers. Philanthropist Warren Hellman called the program &#8220;one of the best things my family has ever done with our giving.&#8221; Hellman passed away in December, 2011.</figcaption></figure>

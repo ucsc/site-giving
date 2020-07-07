@@ -2,7 +2,7 @@
 id: 3924
 title: A sustainable legacy
 subtitle: An alumna includes CASFS in her legacy with a planned gift.
-date: 2019-04-12T21:23:35+00:00
+date: 2019-04-12
 layout: post
 author:
   - J.D. Hillard
@@ -24,11 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: lisa-schaechter.jpg
 thumbnail_alt_text: Photo of Lisa Schaechter
-categories:
-  - Donor Profiles
-tags:
-  - casfs
-  - planned gift
+categories: "Donor Profiles"
 ---
 
 When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations.

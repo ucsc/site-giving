@@ -1,7 +1,7 @@
 ---
 id: 3573
 title: Giving Day 2018 shatters records
-date: 2018-03-05T16:50:05+00:00
+date: 2018-03-05
 layout: post
 author:
   - Dan White
@@ -23,8 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: givingdayrevelers350.jpg
 thumbnail_alt_text: photo of Giving Day revelers
-categories:
-  - News
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/giving-day-2018-feature-wrapup.html
 ---

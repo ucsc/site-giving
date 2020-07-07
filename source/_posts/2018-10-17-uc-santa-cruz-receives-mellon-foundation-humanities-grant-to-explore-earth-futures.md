@@ -1,8 +1,7 @@
 ---
 id: 3802
 title: UC Santa Cruz receives Mellon Foundation humanities grant to explore Earth Futures
-subtitle:
-date: 2018-10-17T13:57:50+00:00
+date: 2018-10-17
 layout: post
 author:
   - Scott Rappaport
@@ -23,12 +22,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: mellon-earth-images-nasa-425.jpg
 thumbnail_alt_text: photo of earth images
-categories:
-  - News
-tags:
-  - earth futures
-  - grant
-  - melon foundation
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/mellon-humanities-futures.html
 ---

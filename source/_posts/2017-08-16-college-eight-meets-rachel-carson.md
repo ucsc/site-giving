@@ -1,15 +1,13 @@
 ---
 id: 514
 title: College Eight meets Rachel Carson
-date: 2017-08-16T17:47:28+00:00
+date: 2017-08-16
 layout: post
-excerpt: ""
 see_also:
   - title: Rachel Carson College
     link: https://rachelcarson.ucsc.edu/
 thumbnail_image: NYC61956.jpg
-categories:
-  - Campaign Impact
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset NYC61956.jpg magick:resize=300 alt="NYC61956" %}<figcaption>Rachel Carson—shown at Southport Island, Maine, in 1960—and her legacy as an environmental activist and writer live on at UC Santa Cruz. (Photo by Erich Hartmann / Magnum Photos)</figcaption></figure>

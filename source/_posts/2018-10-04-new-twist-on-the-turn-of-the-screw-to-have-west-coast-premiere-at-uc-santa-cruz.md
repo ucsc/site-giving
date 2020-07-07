@@ -1,7 +1,7 @@
 ---
 id: 3793
 title: New twist on "The Turn of the Screw" to have West Coast premiere at UC Santa Cruz"
-date: 2018-10-04T16:31:37+00:00
+date: 2018-10-04
 layout: post
 author:
   - Scott Rappaport
@@ -22,12 +22,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: turn-of-the-screw.jpg
 thumbnail_alt_text: photo of turn-of-the-screw.jpg
-categories:
-  - News
-tags:
-  - henry james
-  - secret window
-  - turn of the screw
+categories: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/weems-play-premiere.html 
 ---

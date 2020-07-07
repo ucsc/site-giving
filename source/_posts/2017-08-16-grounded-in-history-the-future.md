@@ -1,17 +1,15 @@
 ---
 id: 519
 title: Grounded in history, the future
-date: 2017-08-16T18:23:53+00:00
+date: 2017-08-16
 layout: post
-excerpt: ""
 see_also:
   - title: The Cowell Ranch Hay Barn Project
     link: https://casfs.ucsc.edu/about/support-casfs/haybarn.html
   - title: Center for Agroecology and Sustainable Food Systems
     link: https://casfs.ucsc.edu/
 thumbnail_image: Hay-Barn-5-e1504818580783.jpg
-categories:
-  - Campaign Impact
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset Hay-Barn-5-e1504818580783.jpg magick:resize=300 alt='photo of rebuilt Cowell Ranch Hay Barn' %}

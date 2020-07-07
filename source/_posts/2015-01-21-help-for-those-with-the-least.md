@@ -1,9 +1,8 @@
 ---
 id: 245
 title: Help for those with the least
-date: 2015-01-21T18:24:28+00:00
+date: 2015-01-21
 layout: post
-excerpt: ""
 see_also:
   - title: 2014 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
@@ -12,8 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: andrade.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset andrade.jpg magick:resize=300 alt="andrade" %}<figcaption>Youri Bujko and Luciana Andrade</figcaption></figure>

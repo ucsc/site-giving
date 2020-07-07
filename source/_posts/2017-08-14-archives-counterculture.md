@@ -1,9 +1,8 @@
 ---
 id: 505
 title: Archives of the counterculture
-date: 2017-08-14T17:23:35+00:00
+date: 2017-08-14
 layout: post
-excerpt: ""
 see_also:
   - title: McHenry Library
     link: https://library.ucsc.edu/mchenry-library
@@ -12,8 +11,7 @@ see_also:
   - title: Pirkle Jones and Ruth-Marion Baruch Special Collections Photography Endowment
     link: https://library.ucsc.edu/giving/endowments/pirkle-jones-and-ruth-marion-baruch-special-collections-photography-endowment
 thumbnail_image: counterculture.jpg
-categories:
-  - Campaign Impact
+categories: "News"
 ---
 <figure class="inline-image right">
 {% asset counterculture.jpg magick:resize=300 alt="counterculture" %}<figcaption>Black Panthers from Sacramento at a Free Huey Rally at Bobby Hutton Memorial Park in Oakland, from a photo essay on the Black Panthers by Pirkle Jones, 1968. The woman with the camera at center-left is Ruth-Marion Baruch. (Photo courtesy Special Collections, University Library, University of California, Santa Cruz. Pirkle Jones and Ruth-Marion Baruch photographs)</figcaption></figure>

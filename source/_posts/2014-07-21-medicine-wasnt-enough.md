@@ -1,17 +1,15 @@
 ---
 id: 374
 title: "'Medicine wasn't enough'"
-date: 2014-07-21T21:38:08+00:00
+date: 2014-07-21
 layout: post
-excerpt: ""
 see_also:
   - title: STEM Diversity Programs
     link: http://stemdiv.ucsc.edu/imsd/
   - title: Ottemann Lab
     link: http://www.metx.ucsc.edu/research/ottemann.html
 thumbnail_image: sindy-ramirez.jpg
-categories:
-  - Student Profiles
+categories: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset sindy-ramirez.jpg magick:resize=300 alt="tolliver" %}<figcaption>Sindy Ramirez (Oakes &#8217;15) participated in a MBRS Summer Research Institute last year. The Minority Biomedical Research Support (MBRS) program, provides participating students with the opportunity to receive an in-depth experience in the academic and experimental aspects of biological research. MBRS is a program of the STEM Diversity Institute for students in the Science, Technology, Engineering, and Mathematics (STEM) fields. (Photo by Carolyn Lagattuta)</figcaption></figure>

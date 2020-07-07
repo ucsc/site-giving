@@ -1,7 +1,7 @@
 ---
 title: Arboretum enthusiast
 subtitle: 
-date: 2019-11-13T18:56:35+00:00
+date: 2019-11-13
 layout: post
 author:
   - J.D. Hillard
@@ -23,13 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: fred_andrews1939.jpg
 thumbnail_alt_text: photo of Fred Andrews
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - arboretum
-  - c. frederick andrews
-  - planned gifts
+categories: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset fred_andrews1939.jpg magick:resize=500 alt='photo of Fred Andrews in 1939' %}

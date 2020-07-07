@@ -2,7 +2,7 @@
 id: 3978
 title: Finding his way—with a little help
 subtitle: 
-date: 2019-08-26T20:20:30+00:00
+date: 2019-08-26
 layout: post
 author:
   - Peggy Townsend
@@ -24,14 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: patrick-bailey-story.jpg
 thumbnail_alt_text: photo of Patrick Bailey
-categories:
-  - News
-  - Student Profiles
-tags:
-  - cancer
-  - packard scholars
-  - patrick bailey
-  - research
+categories: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2019/08/finding-his-way-with-a-little-help.html
 ---

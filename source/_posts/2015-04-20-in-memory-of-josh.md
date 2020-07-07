@@ -1,13 +1,12 @@
 ---
 id: 3136
 title: In memory of Josh
-date: 2015-04-20T21:31:02+00:00
+date: 2015-04-20
 excerpt: The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation.
 layout: post
 excerpt: The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation.
 thumbnail_image: joshalper.jpg
-categories:
-  - Donor Profiles
+categories: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset joshalper.jpg magick:resize=400 alt='joshalper' %}
