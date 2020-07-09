@@ -9,7 +9,7 @@ see_also:
   - title: Restoring Quarry Glory
     link: http://live-ucsc-giving.pantheonsite.io/donor-profiles/restoring-quarry-glory/
 thumbnail_image: quarry-ret.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset quarry-ret.jpg magick:resize=300 alt="quarry-ret" %}<figcaption>Students rehearsing in April, 1980. The Quarry Amphitheater was designed by landscape architect Robert Royston. (Photo courtesy of Barton-Gillet)</figcaption></figure>

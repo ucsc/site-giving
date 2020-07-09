@@ -10,7 +10,7 @@ author_email:
   - shj@ucsc.edu
 thumbnail_image: state-innovation.jpg
 thumbnail_alt_text: photo of Student in a lab
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2017/12/state-innovation-funds.html
 ---

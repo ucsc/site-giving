@@ -11,7 +11,7 @@ author_email:
 excerpt: "The newest building on UCSC's vibrant Coastal Science Campus is now home to the Department of Ecology and Evolutionary Biology"
 thumbnail_image: coastal-bio1-410.jpg
 thumbnail_alt_text: photo of UC Santa Cruz Coastal Biology Building
-categories: "News"
+category: "News"
 format: link
 ---
 

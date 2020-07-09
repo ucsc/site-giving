@@ -7,7 +7,7 @@ see_also:
   - title: ACCESS Scholars
     link: http://ua.soe.ucsc.edu/scholarships/access
 thumbnail_image: yemane.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset yemane.jpg magick:resize=300 alt="yemane.jpg" %}<figcaption>Computer science major Sable Yemane (Photo by Carolyn Lagattuta)</figcaption></figure>

@@ -8,7 +8,7 @@ see_also:
   - title: Frank Andrews helps students maximize potential, feel valued
     link: https://news.ucsc.edu/2013/11/frank-andrews.html
 thumbnail_image: classroom_experiment.jpeg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset classroom_experiment.jpeg magick:resize=300 alt="classroom_experiment.jpeg" %}<figcaption>Chemistry teacher Michael Morgan has established a planned gift that will eventually endow a chair honoring Professor Emeritus Frank Andrews.</figcaption></figure>

@@ -22,7 +22,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: mellon-earth-images-nasa-425.jpg
 thumbnail_alt_text: photo of earth images
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/mellon-humanities-futures.html
 ---

@@ -8,6 +8,6 @@ author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2017/03/gunderson-chair.html
-categories: "News"
+category: "News"
 format: link
 ---

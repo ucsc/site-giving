@@ -7,6 +7,6 @@ author:
 author_email:
   - srapp@ucsc.edu
 layout: post
-categories: "News"
+category: "News"
 link_post: https://news.ucsc.edu/2017/06/library-haight-exhibit.html
 ---

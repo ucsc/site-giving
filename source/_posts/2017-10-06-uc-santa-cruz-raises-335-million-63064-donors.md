@@ -8,6 +8,6 @@ author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
-categories: "News"
+category: "News"
 format: link
 ---

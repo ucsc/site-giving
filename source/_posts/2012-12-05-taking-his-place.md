@@ -4,7 +4,7 @@ title: Taking His Place
 date: 2012-12-05
 layout: post
 thumbnail_image: tello.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset tello.jpg magick:resize=300 alt="tello.jpg" %}<figcaption>Literature major Frank Tello  

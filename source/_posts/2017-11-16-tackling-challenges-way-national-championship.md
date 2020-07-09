@@ -12,7 +12,7 @@ author_email:
   - jhillard@ucsc.edu
 thumbnail_image: reno_match.jpg
 thumbnail_alt_text: photo of UC Santa Cruz Rubgy
-categories: "News"
+category: "News"
 format: link
 ---
 

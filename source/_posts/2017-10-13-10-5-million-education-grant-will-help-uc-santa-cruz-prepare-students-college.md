@@ -8,7 +8,7 @@ author:
   - Scott Hernandez-Jason
 author_email:
   - shj@ucsc.edu
-categories: "News"
+category: "News"
 format: link
 ---
 

@@ -9,7 +9,7 @@ image_url:
   - https://news.ucsc.edu/2011/04/images/review-spring-2011-bruce-stephen.jpg
 
 thumbnail_image: review-spring-2011-bruce-stephen.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 format: link
 link_post: https://news.ucsc.edu/2011/04/review-spring-2011-philanthropy-bruce.html
 ---

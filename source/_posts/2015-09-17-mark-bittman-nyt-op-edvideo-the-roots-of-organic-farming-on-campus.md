@@ -6,7 +6,7 @@ author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
-categories: "News"
+category: "News"
 format: link
 link_post: http://www.nytimes.com/2015/09/15/opinion/mark-bittman-the-roots-of-organic-farming.html
 ---

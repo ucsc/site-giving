@@ -6,7 +6,7 @@ excerpt: Seeking to ensure that the transformative educational experiences he ha
 layout: post
 excerpt: Seeking to ensure that the transformative educational experiences he had as a UC Santa Cruz student continue, alumnus Jock Reynolds has established the Alumni Fund for Visiting Artists.
 thumbnail_image: reynolds.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset reynolds.jpg magick:resize=400 alt='reynolds' %}

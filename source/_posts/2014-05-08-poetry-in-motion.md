@@ -4,7 +4,7 @@ title: Poetry in motion
 date: 2014-05-08
 layout: post
 thumbnail_image: Autumn-Johnson.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset Autumn-Johnson.jpg magick:resize=300 alt="Autumn-Johnson" %}<figcaption>Autumn Johnson is majoring in sociology and politics.  

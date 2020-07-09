@@ -11,6 +11,6 @@ author_email:
 excerpt: The two-part humanities initiative supports student success for doctoral candidates from diverse backgrounds expands the impact of the public “Questions That Matter” outreach program.
 thumbnail_image: ihr-banner.png
 thumbnail_alt_text: Institute for Humanitites Research
-categories: "News"
+category: "News"
 format: link
 ---

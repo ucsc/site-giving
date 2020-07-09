@@ -23,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: fred_andrews1939.jpg
 thumbnail_alt_text: photo of Fred Andrews
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset fred_andrews1939.jpg magick:resize=500 alt='photo of Fred Andrews in 1939' %}

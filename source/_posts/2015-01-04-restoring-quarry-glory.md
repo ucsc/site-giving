@@ -9,7 +9,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: hancock.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset hancock.jpg magick:resize=300 alt="hancock" %}<figcaption>William Hancock (Cowell &#8217;79, environmental planning)</figcaption></figure>

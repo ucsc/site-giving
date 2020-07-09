@@ -11,7 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: andrade.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset andrade.jpg magick:resize=300 alt="andrade" %}<figcaption>Youri Bujko and Luciana Andrade</figcaption></figure>

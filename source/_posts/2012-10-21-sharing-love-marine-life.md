@@ -4,7 +4,7 @@ title: Sharing a love of marine life
 date: 2012-10-21
 layout: post
 thumbnail_image: sharing-a-love-marine-life.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset sharing-a-love-marine-life.jpg magick:resize=180 alt='sharing-a-love-marine-life.jpg' %}</figure>

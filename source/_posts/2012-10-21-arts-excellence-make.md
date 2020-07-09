@@ -4,7 +4,7 @@ title: Arts Excellence—make it so
 date: 2012-10-21
 layout: post
 thumbnail_image: braga-brannan.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset braga-brannan.jpg magick:resize=300 alt="braga-brannan.jpg" %}<figcaption>Brannon Braga</figcaption></figure>

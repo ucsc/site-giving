@@ -9,7 +9,7 @@ see_also:
   - title: Ottemann Lab
     link: http://www.metx.ucsc.edu/research/ottemann.html
 thumbnail_image: sindy-ramirez.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset sindy-ramirez.jpg magick:resize=300 alt="tolliver" %}<figcaption>Sindy Ramirez (Oakes &#8217;15) participated in a MBRS Summer Research Institute last year. The Minority Biomedical Research Support (MBRS) program, provides participating students with the opportunity to receive an in-depth experience in the academic and experimental aspects of biological research. MBRS is a program of the STEM Diversity Institute for students in the Science, Technology, Engineering, and Mathematics (STEM) fields. (Photo by Carolyn Lagattuta)</figcaption></figure>

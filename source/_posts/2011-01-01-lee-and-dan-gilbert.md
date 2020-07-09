@@ -21,7 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: gilbert.jpg
 thumbnail_alt_text: photo of Gilbert
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset gilbert.jpg magick:resize=500 alt='UC Santa Cruz supporter and parent Lee Gilbert' %}

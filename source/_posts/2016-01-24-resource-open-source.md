@@ -11,7 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: sageweil-350.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset sageweil-350.jpg magick:resize=300 alt="Sage Weil" %}<figcaption>Sage Weil earned his Ph.D. in computer science at UC Santa Cruz in 2007.</figcaption></figure>

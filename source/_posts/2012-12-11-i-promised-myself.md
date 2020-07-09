@@ -4,7 +4,7 @@ title: I Promised Myself
 date: 2012-12-11
 layout: post
 thumbnail_image: xochitil.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset xochitil.jpg magick:resize=300 alt="xochitil" %}<figcaption>Chemistry major Xochitl Rios  

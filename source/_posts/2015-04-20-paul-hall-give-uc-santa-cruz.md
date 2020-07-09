@@ -6,7 +6,7 @@ excerpt: My years here sharpened my thinking, taught me the value of interdiscip
 layout: post
 excerpt: "A word with Paul J. Hall (Merrill '72)"
 thumbnail_image: paul-hall.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset paul-hall.jpg magick:resize=180 alt='paul-hall' %}

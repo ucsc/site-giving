@@ -10,7 +10,7 @@ author_email:
   - jmcnulty@ucsc.edu
 thumbnail_image: gliessman-group_450.jpg
 thumbnail_alt_text: group photo
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/01/campbell-investiture.html
 ---

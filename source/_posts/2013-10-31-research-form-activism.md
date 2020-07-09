@@ -4,7 +4,7 @@ title: Research as a Form of Activism
 date: 2013-10-31
 layout: post
 thumbnail_image: cheong-350.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset cheong-350.jpg magick:resize=350 alt="Yeram Cheong" %}<figcaption>Undergraduate Yeram Cheong, a South Korean immigrant, wants to bring research into a future career as a counselor and teacher</figcaption></figure>

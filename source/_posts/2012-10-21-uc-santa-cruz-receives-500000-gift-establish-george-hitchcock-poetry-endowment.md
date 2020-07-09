@@ -4,7 +4,7 @@ title: George Hitchcock and poetry
 date: 2012-10-21
 layout: post
 thumbnail_image: george-hitchcock.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset george-hitchcock.jpg magick:resize=300 alt='george-hitchcock.jpg' %}

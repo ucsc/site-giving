@@ -4,7 +4,7 @@ title: In remembrance of Terry
 date: 2012-10-21
 layout: post
 thumbnail_image: terry_and_child.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset terry_and_child.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}

@@ -10,6 +10,6 @@ author:
 author_email:
   - stephens@ucsc.edu
 subtitle: "The Santa Cruz Cancer Benefit Group has given more than $450,000 in grants to the campus since 2005"
-categories: "News"
+category: "News"
 format: link
 ---

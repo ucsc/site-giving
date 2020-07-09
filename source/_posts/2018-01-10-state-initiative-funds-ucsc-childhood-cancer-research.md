@@ -9,7 +9,7 @@ author_email:
   - stephens@ucsc.edu
 thumbnail_image: ckcc-410.jpg
 thumbnail_alt_text: photo of UCSC researchers
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/01/treehouse-grant.html
 ---

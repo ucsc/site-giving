@@ -24,7 +24,7 @@ featured_post:
 thumbnail_image: knight-400.jpg
 thumbnail_alt_text: photo of groovy fire
 image: knight-400.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/04/danm-mfa-exhibition.html
 ---

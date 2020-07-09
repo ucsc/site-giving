@@ -25,7 +25,7 @@ featured_post:
 thumbnail_image: susanne-hering-310.jpg
 thumbnail_alt_text: photo of Susanne Hering
 image: susanne-hering-310.jpg
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/pbsci-alumni-awards.html
 ---

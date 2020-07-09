@@ -8,7 +8,7 @@ author:
   - Tim Stephens
 author_email:
   - stephens@ucsc.edu
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2017/12/hhmi-professors.html
 ---

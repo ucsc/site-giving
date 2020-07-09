@@ -9,7 +9,7 @@ see_also:
   - title: The Gail Project
     link: https://gailproject.ucsc.edu/
 thumbnail_image: UCSC_day3-021.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_day3-021.jpg magick:resize=300 alt="UCSC_day" %}<figcaption>The Gail Project is a collaborative exploration of the founding years of the American military occupation of Okinawa, inspired by photos taken in 1952–53 by U.S. Army Cpt. Charles Eugene Gail. (Photo by Elena Zhukova)</figcaption></figure>

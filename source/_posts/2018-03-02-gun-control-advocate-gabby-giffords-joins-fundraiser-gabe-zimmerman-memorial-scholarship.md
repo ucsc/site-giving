@@ -9,7 +9,7 @@ author_email:
   - jmcnulty@ucsc.edu
 thumbnail_image: zimmerman-gabby_400.jpg
 thumbnail_alt_text: photo of Gabby Gifford
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/zimmerman.html
 ---

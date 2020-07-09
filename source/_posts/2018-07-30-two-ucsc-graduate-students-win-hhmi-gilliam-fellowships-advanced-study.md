@@ -24,7 +24,7 @@ featured_post:
 thumbnail_image: stefany-carlo-410.jpg
 thumbnail_alt_text: photo of graduate students Stefany Rubio and Carlo Parico
 image: stefany-carlo-410.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/07/gilliam-fellows.html
 ---

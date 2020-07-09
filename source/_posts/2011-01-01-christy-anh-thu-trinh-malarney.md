@@ -19,7 +19,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: malarney.jpg
 thumbnail_alt_text: photo of Christy Anh-Thu-Malarney
-categories: "Donor Profiles"
+category: "Donor Profiles"
 hidden: true
 ---
 

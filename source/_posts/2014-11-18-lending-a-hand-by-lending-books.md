@@ -10,7 +10,7 @@ see_also:
     link: http://giving.ucsc.edu/reports/2012-13/index.php
   - title: EOP Textbook Lending Library
     link: http://eop.ucsc.edu/content/textbooksthumbnail_image
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset anne-bourdet.jpg magick:resize=250 alt="Anna Bourdet Hagata around 1918." %}<figcaption>Anna Bourdet Hagata around 1918.</figcaption></figure>

@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: linicks.png
 thumbnail_alt_text: photo of Michael and Debbie Linick at Perito Moreno Glacier, Argentina
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset linicks.png magick:resize=500 alt='photo of Michael and Debbie Linick at Perito Moreno Glacier, Argentina' %}

@@ -20,7 +20,7 @@ see_also_links_0_link_link:
   - 'https://crowdfund.ucsc.edu/?cfpage=explore&cat_id=5054'
 thumbnail_image: abuhashmeh_poster.jpg
 thumbnail_alt_text: 
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
   
 An undergraduate student at UC Santa Cruz has expanded our knowledge of Pluto—and gotten a boost toward a career with the help of UC Santa Cruz donors.

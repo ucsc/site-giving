@@ -17,7 +17,7 @@ author:
 author_email:
   - publicaffairs@ucsc.edu
 thumbnail_image: kolsky-harwood-frances.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset kolsky-harwood-frances.jpg magick:resize=300 alt="kolsky-harwood-frances" %}<figcaption>Harwood and Frances Cliek Kolsky met while students at the University of Kansas and married just before Harwood left to serve in World War II. &#8220;Most people expected that the war would only last a year, and then we would soon be back home. It was difficult to be immediately separated for three years,&#8221; said Kolsky. Frances was a 1943 graduate of the University of Kansas, as was Harwood. She taught high school while he was in the army from 1943 to 1946. Harwood returned to KU for a year then he started graduate school at Harvard. Once again, they were separated, this time for a couple of months, because Frances was expecting. Frances and Harwood had four children, three grandchildren, and now, one great grandchild. They were active members of the Saratoga Federated Church. The Kolskys celebrated 60 years of marriage in 2002. They were looking forward with enthusiasm to moving to the Saratoga Retirement Community. Sadly they lost their grandson, Patrick, and Frances passed away in 2003 before this dream could be realized.</figcaption></figure>

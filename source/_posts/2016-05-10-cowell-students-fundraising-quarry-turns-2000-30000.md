@@ -11,7 +11,7 @@ see_also:
   - title: Cowell College
     link: http://cowell.ucsc.edu/
 thumbnail_image: quarry-cowell-students.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image full">
 {% asset quarry-cowell-students.jpg magick:resize=300 alt="quarry-cowell-students" %}<figcaption>Cowell Provost Faye Crosby, seated left, and members of the philanthropy-focused “Good vs. Good” class.</figcaption></figure>

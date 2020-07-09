@@ -4,7 +4,7 @@ title: Santa Cruz Seaside Company Scholarship
 date: 2011-02-09
 layout: post
 thumbnail_image: charles-canfield.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset charles-canfield.jpg magick:resize=400 alt='Local businessman Charles Canfield, president of the Santa Cruz Seaside Company' %}

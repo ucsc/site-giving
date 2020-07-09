@@ -10,7 +10,7 @@ author_email:
   - srapp@ucsc.edu
 thumbnail_image: dunn-350-best-rydell.jpg
 thumbnail_alt_text: photo of David Dunn
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/01/dunn-rydell-fellowship.html
 ---

@@ -6,7 +6,7 @@ excerpt: The family and close friends of Josh Alper are sustaining the memory of
 layout: post
 excerpt: The family and close friends of Josh Alper are sustaining the memory of this alumnus, beloved staff member, and avid bicyclist with the Joshua Alper-Marines Foundation.
 thumbnail_image: joshalper.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset joshalper.jpg magick:resize=400 alt='joshalper' %}

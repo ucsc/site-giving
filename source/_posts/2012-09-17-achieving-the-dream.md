@@ -4,7 +4,7 @@ title: Achieving the Dream
 date: 2012-09-17
 layout: post
 thumbnail_image: vassey.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset vassey.jpg magick:resize=300 alt="vassey" %}<figcaption>Computer science and linguistics major Megan Vassey  

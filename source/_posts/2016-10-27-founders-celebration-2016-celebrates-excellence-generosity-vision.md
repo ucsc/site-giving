@@ -8,6 +8,6 @@ author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/10/founders-celebration-2016-wrapup-feature.html
-categories: "News"
+category: "News"
 format: link
 ---

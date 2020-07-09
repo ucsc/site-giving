@@ -10,7 +10,7 @@ see_also:
   - title: Lionel Cantú Queer Center
     link: https://queer.ucsc.edu/
 thumbnail_image: network-of-inclusion-cropped.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset network-of-inclusion.jpg magick:resize=300 alt="network-of-inclusion" %}<figcaption>Incoming graduate students gather for orientation in the Humanities courtyard. (Photo by Elena Zhukova)</figcaption></figure>

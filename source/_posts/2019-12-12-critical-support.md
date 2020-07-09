@@ -1,7 +1,7 @@
 ---
 id: 4058
-title: Critical support
-subtitle: A gift from Andrew Baird, a former student of pioneering History of Consciousness Professor Hayden White, has endowed an annual lecture honoring White and his work
+title: "Critical support"
+subtitle: "A gift from Andrew Baird, a former student of pioneering History of Consciousness Professor Hayden White, has endowed an annual lecture honoring White and his work"
 date: 2019-12-12
 layout: post
 author:
@@ -10,7 +10,6 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: "Beginning in 2020 a new annual lecture series will honor the late Professor Hayden White by highlighting the work of researchers who share his creativity and rigor."
 pull_quote: false
-pull_quote_author:
 hero:
   use: false
   image: Hayden-White-Andrew-Baird.March-2017.jpg #best at 1000px by 450px
@@ -24,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: Hayden-White-Andrew-Baird.March-2017.jpg
 thumbnail_alt_text: photo of Hayden White and Andrew Baird
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 
 <figure class="inline-image right">

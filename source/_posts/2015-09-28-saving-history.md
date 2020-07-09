@@ -11,7 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: jimiliz-375.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset jimiliz-375.jpg magick:resize=300 alt="jimiliz" %}<figcaption>Jimiliz Valiente-Neighbours, Sociology (Photo by Carolyn Lagattuta)</figcaption></figure>

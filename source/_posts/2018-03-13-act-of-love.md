@@ -22,7 +22,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: barneshonor350.jpeg
 thumbnail_alt_text: photo of Adilah Barnes
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/adilah-barnes-honor.html
 ---

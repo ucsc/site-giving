@@ -4,7 +4,7 @@ title: Overcoming the Odds
 date: 2013-04-29
 layout: post
 thumbnail_image: morales-juan.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset morales-juan.jpg magick:resize=300 alt="morales-juan" %}<figcaption>Juan Morales, whose family moved every six months to follow the crops, learned English by playing Pokemon. He is now studying computer science and video game design at UCSC. (Article by Peggy Townsend. Photo by Carolyn Lagattuta)</figcaption></figure>

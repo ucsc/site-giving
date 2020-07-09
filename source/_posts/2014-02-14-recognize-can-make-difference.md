@@ -8,7 +8,7 @@ see_also:
   - title: Gabriel Zimmerman Memorial Scholarship Fund
     link: http://socialsciences.ucsc.edu/support-us/endowments/endowments-all/zimmerman/index.html
 thumbnail_image: watts-carson-350.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset watts-carson-350.jpg magick:resize=300 alt="watts-carson-350.jpg" %}<figcaption>Graduate student Carson Watts (Oakes ’13, sociology)  

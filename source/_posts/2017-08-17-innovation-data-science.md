@@ -8,7 +8,7 @@ see_also:
   - title: UC Santa Cruz plans Center of Excellence in Data Science Research
     link: https://news.ucsc.edu/2015/05/data-science-center.html
 thumbnail_image: UCSC_day2-83.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_day2-83.jpg magick:resize=300 alt="UCSC_day2-83" %}<figcaption>Students and faculty explore theoretical foundations and practical applications for richly structured, heterogeneous data. (Photo by Elena Zhukova)</figcaption></figure>

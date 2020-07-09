@@ -10,7 +10,7 @@ author_email:
   - stephens@ucsc.edu
 thumbnail_image: tambo-barrett-400.jpg
 thumbnail_alt_text: photo of Graduate students
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/02/trdrp-grants.html
 ---

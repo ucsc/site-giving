@@ -4,7 +4,7 @@ title: Exploring the possibilities
 date: 2012-10-21
 layout: post
 thumbnail_image: raydon_alhubaishi.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset raydon_alhubaishi.jpg magick:resize=300 alt="raydon_alhubaishi" %}<figcaption>Raydan Alhubaishi</figcaption></figure>

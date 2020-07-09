@@ -24,7 +24,7 @@ featured_post:
 thumbnail_image: students-composite-1.jpg
 thumbnail_alt_text: composite photo of students
 image: students-composite-1.jpg
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/08/coastal-program.html
 ---

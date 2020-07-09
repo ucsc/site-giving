@@ -4,7 +4,7 @@ title: Proud parents honor their sons by giving back
 date: 2013-07-01
 layout: post
 thumbnail_image: the-crowes.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset the-crowes.jpg magick:resize=300 alt="the-crowes" %}<figcaption>Stephen and Linda Crowe</figcaption></figure>

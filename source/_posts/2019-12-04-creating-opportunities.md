@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: first-gen-latina.jpg
 thumbnail_alt_text: photo of People
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 
 <figure class="inline-image left">

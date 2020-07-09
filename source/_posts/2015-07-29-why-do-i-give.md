@@ -10,7 +10,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: bluthenthal-ricky.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset bluthenthal-ricky.jpg magick:resize=300 alt="bluthenthal-ricky" %}<figcaption>Ricky Bluthenthal (Merrill &#8217;86, History and Sociology) and Nancy Berglass (Merrill ‘85, Community Studies)</figcaption></figure>

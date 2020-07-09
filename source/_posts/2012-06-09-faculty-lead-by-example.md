@@ -8,7 +8,7 @@ see_also:
   - title: Support Environmental Studies
     link: http://envs.ucsc.edu/support-us/
 thumbnail_image: ehs-faculty.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset ehs-faculty.jpg magick:resize=300 alt="ehs-faculty" %}<figcaption>Faculty and students in UCSC&#8217;s Environmental Studies department work to solve complex environmental problems.</figcaption></figure>

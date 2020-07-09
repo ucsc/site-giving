@@ -5,7 +5,7 @@ date: 2013-06-21
 layout: post
 excerpt: Senior engineering students create design projects to address real-world problems—some with sponsorships from high-profile companies
 thumbnail_image: engineering.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset engineering.jpg magick:resize=300 alt='engineering.jpg' %}

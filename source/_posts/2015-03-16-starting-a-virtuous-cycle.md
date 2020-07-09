@@ -13,7 +13,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: darren-shou-symantec-300.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset darren-shou-symantec-300.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}

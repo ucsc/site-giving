@@ -9,7 +9,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: long-darrell.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset long-darrell.jpg magick:resize=300 alt="long-darrell.jpg" %}<figcaption>Darrell Long, UC Santa Cruz professor of computer science</figcaption></figure>

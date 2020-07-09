@@ -4,7 +4,7 @@ title: A decade of giving forward
 date: 2013-01-21
 layout: post
 thumbnail_image: a-decade-of-giving.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset a-decade-of-giving.jpg magick:resize=300 alt='a-decade-of-giving.jpg' %}

@@ -4,7 +4,7 @@ title: A man who left a legacy
 date: 2012-12-21
 layout: post
 thumbnail_image: don-rothman.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset don-rothman.jpg magick:resize=300 alt="don-rothman" %}<figcaption>Don and Diana Rothman</figcaption></figure>

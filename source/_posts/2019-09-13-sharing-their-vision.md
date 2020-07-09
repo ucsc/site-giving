@@ -24,7 +24,7 @@ featured_post:
 thumbnail_image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
 thumbnail_alt_text: CIED director Sue Carter (left) and Kamil Hasan present the 1st place prize in the the 2018 Business Design Showcase
 image: 1st-place-sea-and-tech-with-sue-kamil-hasan-and-stephanie-webb-740x480.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 In the 1990s, when they were both well into successful careers involved with Bay Area technology businesses, Kamil and Talat Hasan decided to endow an academic chair in Indian classical music.
 

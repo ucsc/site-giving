@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: rush-holt.jpg
 thumbnail_alt_text: photo of Rush Holt, CEO American Association for the Advancement of Science
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/osterbrock-lecture.html
 ---

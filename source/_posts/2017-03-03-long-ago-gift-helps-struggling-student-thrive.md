@@ -8,7 +8,7 @@ author:
 author_email:
   - jhillard@ucsc.edu
 thumbnail_image: jbrandenburg.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image full">
 {% asset jbrandenburg.jpg magick:resize=760 alt="tolliver" %}<figcaption>Justice Brandenburg will graduate in 2017 with a major in legal studies. (photo by J.D. Hillard)</figcaption></figure>

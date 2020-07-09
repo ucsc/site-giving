@@ -3,7 +3,7 @@ title: "'Change is possible'"
 date: 2014-08-21
 layout: post
 thumbnail_image: arash-mohajerinejad.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 
 <figure class="inline-image right">

@@ -11,7 +11,7 @@ see_also:
   - title: 2013 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
 thumbnail_image: konopelski.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset konopelski.jpg magick:resize=300 alt="konopelski" %}<figcaption>Like many ACE participants, the Konopelskis were work-study students, and the first in their families to earn a four-year degree. Nancy Cox-Konopelski is the program&#8217;s director, and Joe Konopelski is a chemistry professor. They are also longtime financial supporters.</figcaption></figure>

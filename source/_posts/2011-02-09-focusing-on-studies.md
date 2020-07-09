@@ -5,7 +5,7 @@ date: 2011-02-09
 layout: post
 excerpt: "Stella Wilson-Frey (College Eight '12, sociology) is the 2010-11 Santa Cruz Seaside Scholarship recipient."
 thumbnail_image: wilson-frey-photo.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset wilson-frey-photo.jpg magick:resize=250 alt="wilson-frey-photo" %}<figcaption>Stella Wilson-Frey (College Eight &#8217;12, sociology)</figcaption></figure>

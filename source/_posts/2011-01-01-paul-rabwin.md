@@ -21,7 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: rabwin.jpg
 thumbnail_alt_text: photo of Paul Rabwin
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset rabwin.jpg magick:resize=500 alt='photo of Paul Rabwin' %}

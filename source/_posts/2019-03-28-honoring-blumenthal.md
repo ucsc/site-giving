@@ -21,7 +21,7 @@ featured_post:
 thumbnail_image: George-Blumenthal.jpg
 thumbnail_alt_text: photo of George Blumenthal at the entrance to UC Santa Cruz
 image: George-Blumenthal.jpg
-categories: "News"
+category: "News"
 ---
 
 **During his time as head of UC Santa Cruz, Chancellor George Blumenthal has presided over a campus that has increasingly earned recognition as a research powerhouse. At the same time, UC Santa Cruz became a leader in educational access and support for students of all backgrounds. Upon his retirement this June, [help honor this champion of knowledge and opportunity](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=984) by ensuring permanent funding for a program he treasures—the Chancellor’s Undergraduate Internships.**

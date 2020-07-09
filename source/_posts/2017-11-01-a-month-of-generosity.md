@@ -11,6 +11,6 @@ author_email:
 excerpt: This 30-day fundraiser spotlights the Smith Renaissance Society, People’s Media Advocacy Asia, the Underground Research Fund for Science and Engineering, the Everett Program, the Randall Morgan Collections and Natural History Initiative, and other worthy causes.
 thumbnail_image: dunn-350-best-rydell.jpg
 thumbnail_alt_text: photo of David Dunn
-categories: "News"
+category: "News"
 format: link
 ---

@@ -23,7 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: bassi-london-400.jpg
 thumbnail_alt_text: photo of Karen Bassi
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/08/humanities-neh-grants.html 
 ---

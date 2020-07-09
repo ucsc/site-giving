@@ -4,7 +4,7 @@ title: Doubling down on faculty chairs
 date: 2017-09-07
 layout: post
 thumbnail_image: double-down-chairs-cropped.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset double-down-chairs.jpg magick:resize=300 alt="double-down-chairs" %}<figcaption>Among those honored with a chair naming is Murray Baumgarten, distinguished emeritus professor of English and comparative literature and projects coordinator for Jewish studies. (Photo by Elena Zhukova)</figcaption></figure>

@@ -14,7 +14,7 @@ see_also_links_1_link_name:
 see_also_links_1_link_link:
   - https://dickens.ucsc.edu/universe/
 thumbnail_image: UCSC_UCOP_day1-68.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_UCOP_day1-68.jpg magick:resize=300 alt='photo of Denise Gallant at KZSC in 1977' %}

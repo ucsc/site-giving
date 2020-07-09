@@ -8,6 +8,6 @@ author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/03/hay-barn-raising.html
-categories: "News"
+category: "News"
 format: link
 ---

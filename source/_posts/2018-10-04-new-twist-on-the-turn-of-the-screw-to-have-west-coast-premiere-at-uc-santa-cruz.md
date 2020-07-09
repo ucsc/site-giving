@@ -22,7 +22,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: turn-of-the-screw.jpg
 thumbnail_alt_text: photo of turn-of-the-screw.jpg
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/weems-play-premiere.html 
 ---

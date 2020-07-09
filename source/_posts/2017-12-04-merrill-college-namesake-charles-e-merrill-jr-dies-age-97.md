@@ -11,7 +11,7 @@ author_email:
   - "dwhite@ucsc.edu"
 thumbnail_image: ch-merrill-jr.jpg
 thumbnail_alt_text: photo of Charles Merrill Jr.
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2017/12/charles-merrill-dies.html
 ---

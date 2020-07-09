@@ -21,7 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: headley.jpg
 thumbnail_alt_text: photo of Mark Headley
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 Mark Headley didn&#8217;t know it at the time, but his education at UC Santa Cruz was the perfect preparation for his career today. As president and portfolio manager of Matthews International Capital Management LLC, Headley (Stevenson &#8217;83) oversees portfolios across the Asian market that range from diversified to regional, to country and sector specific. &#8220;I had no idea there was a job called portfolio manager out there,&#8221; said Headley, who majored in economics and politics, &#8220;but the work I was doing at UC Santa Cruz, comparing the economic development of countries, is exactly what I&#8217;m doing today.&#8221;
 

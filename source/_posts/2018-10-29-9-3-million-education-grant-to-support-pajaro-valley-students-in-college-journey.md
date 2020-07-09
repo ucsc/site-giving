@@ -23,7 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: pvhs-app-help.jpg
 thumbnail_alt_text: photo of Patrick Bailey
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/gear-up.html 
 ---

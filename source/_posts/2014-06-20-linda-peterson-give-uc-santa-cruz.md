@@ -5,7 +5,7 @@ date: 2014-06-20
 excerpt: Giving can transform lives, advance research, and protect and enhance the treasures on the UC Santa Cruz campus.
 layout: post
 thumbnail_image: linda-peterson.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset linda-peterson.jpg magick:resize=300 alt='linda-peterson' %}

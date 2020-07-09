@@ -4,7 +4,7 @@ title: A New Worldview
 date: 2012-12-10
 layout: post
 thumbnail_image: raydon.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset raydon.jpg magick:resize=300 alt="raydon.jpg" %}<figcaption>Political science major Raydan Alhubaishi  

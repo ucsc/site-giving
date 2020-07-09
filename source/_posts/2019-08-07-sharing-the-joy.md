@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: Caitlin-Croughan.jpg
 thumbnail_alt_text: photo of Caitlin Croughan
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset Caitlin-Croughan.jpg magick:resize=400 alt='photo of Caitlin Croughan' %}

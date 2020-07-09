@@ -7,7 +7,7 @@ see_also:
   - title: Alumni Association Scholarship
     link: http://alumni.ucsc.edu/association/awards-programs/alumni-association-scholarship.html
 thumbnail_image: Brandon-Vi-350.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset Brandon-Vi-350.jpg magick:resize=300 alt="Brandon Vi" %}<figcaption>Brandon Vi (Crown &#8217;17, physics and computer science) (Photo by Carolyn Lagattuta)</figcaption></figure>

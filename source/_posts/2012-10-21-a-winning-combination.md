@@ -4,7 +4,7 @@ title: A winning combination
 date: 2012-10-21
 layout: post
 thumbnail_image: soraya-danesh.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset soraya-danesh.jpg magick:resize=250 alt='photo of Soraya Danesh' %}

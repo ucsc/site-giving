@@ -23,7 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: angela-brooks-350.jpg
 thumbnail_alt_text: photo of Angela Brooks
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/06/angela-brooks.html 
 ---

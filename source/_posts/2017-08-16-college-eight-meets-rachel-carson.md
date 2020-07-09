@@ -7,7 +7,7 @@ see_also:
   - title: Rachel Carson College
     link: https://rachelcarson.ucsc.edu/
 thumbnail_image: NYC61956.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset NYC61956.jpg magick:resize=300 alt="NYC61956" %}<figcaption>Rachel Carson—shown at Southport Island, Maine, in 1960—and her legacy as an environmental activist and writer live on at UC Santa Cruz. (Photo by Erich Hartmann / Magnum Photos)</figcaption></figure>

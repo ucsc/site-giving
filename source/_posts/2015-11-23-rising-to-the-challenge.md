@@ -11,7 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: layla-cervantes-manel-camps-400.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset layla-cervantes-manel-camps-400.jpg magick:resize=300 alt="layla-cervantes-manel-camps" %}<figcaption>Layla Cervantes (College Eight ’16) and her mentor Manel Camps, Associate Professor In Microbiology and Environmental Toxicology</figcaption></figure>

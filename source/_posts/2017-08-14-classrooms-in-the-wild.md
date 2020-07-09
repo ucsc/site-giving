@@ -9,7 +9,7 @@ see_also:
   - title: Kenneth S. Norris Center for Natural History
     link: https://norriscenter.ucsc.edu/education/natural-history-classes/nhfq/
 thumbnail_image: UCSC_day2_UCOP-2.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_day2_UCOP-2.jpg magick:resize=300 alt="UCSC_day2_UCOP-2" %}<figcaption>Field study students explore the sands in Younger Lagoon Reserve (Photo by Elena Zhukova)</figcaption></figure>

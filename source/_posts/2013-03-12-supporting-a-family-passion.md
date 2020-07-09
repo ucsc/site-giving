@@ -11,7 +11,7 @@ see_also:
   - title: Ocean investment
     link: https://giving.ucsc.edu/reports/2011-12/articles/ocean-investment.php
 thumbnail_image: holo.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset holo.jpg magick:resize=300 alt="holo" %}<figcaption>Christine and Robert Holo  

@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: rachelnelson320.jpg
 thumbnail_alt_text: photo of Rachel Nelson
-categories: "Student Profiles"
+category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/04/distinguished-grad-alumni-advance-feature.html
 ---

@@ -21,7 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: klein.jpg
 thumbnail_alt_text: photo of Stephen Klein
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 Ask Stephen Klein (Cowell &#8217;72) what areas of UC Santa Cruz he chooses to support, and the short answer is&#8211;many. Klein, a regional administrator for the County of Los Angeles Public Library, gives to scholarships, Cowell College, the University Library, and The Lionel Cantú Gay, Lesbian, Bisexual, Transgender, Intersex Resource Center. &#8220;People who have a stake in UC Santa Cruz need to step up and make that concrete. One way to do that is to give your time and another way to do that is to give your money. I&#8217;m able to do both, and I&#8217;m grateful for the opportunity.&#8221;
 <figure class="inline-image right">

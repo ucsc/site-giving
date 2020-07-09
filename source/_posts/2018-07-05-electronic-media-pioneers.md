@@ -27,7 +27,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: deniseKZSC1977-1.jpg
 thumbnail_alt_text: photo of Denise Gallant, 1977
-categories: "Donor Profiles"
+category: "Donor Profiles"
 youtubeID-1: z2dyA5wROFY
 youtubeID-2: 0VdLVwDwm7s
 youtubeID-3: x3XW6NLILqo

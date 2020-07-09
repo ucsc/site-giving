@@ -11,7 +11,7 @@ see_also:
   - title: Pirkle Jones and Ruth-Marion Baruch Special Collections Photography Endowment
     link: https://library.ucsc.edu/giving/endowments/pirkle-jones-and-ruth-marion-baruch-special-collections-photography-endowment
 thumbnail_image: counterculture.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset counterculture.jpg magick:resize=300 alt="counterculture" %}<figcaption>Black Panthers from Sacramento at a Free Huey Rally at Bobby Hutton Memorial Park in Oakland, from a photo essay on the Black Panthers by Pirkle Jones, 1968. The woman with the camera at center-left is Ruth-Marion Baruch. (Photo courtesy Special Collections, University Library, University of California, Santa Cruz. Pirkle Jones and Ruth-Marion Baruch photographs)</figcaption></figure>

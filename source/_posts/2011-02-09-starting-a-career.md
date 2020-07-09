@@ -4,7 +4,7 @@ title: Starting a Career
 date: 2011-02-09
 layout: post
 thumbnail_image: vendt-pearce.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset vendt-pearce.jpg magick:resize=300 alt="vendt-pearce" %}<figcaption>Electrical engineering major Skye Vendt-Pearce</figcaption></figure>

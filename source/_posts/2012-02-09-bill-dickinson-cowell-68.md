@@ -8,7 +8,7 @@ see_also:
   - title: Smith Renaissance Society supports achievement of independent students
     link: https://news.ucsc.edu/2012/02/smith-society.html
 thumbnail_image: dickinson.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset dickinson.jpg magick:resize=300 alt="dickinson" %}<figcaption>Bill Dickinson (Cowell, &#8217;68, philosophy), a one-time foster youth, created the Smith Renaissance Society to support other UCSC students who are on their own. He&#8217;s being honored with the UCSC Foundation Fiat Lux Award at the Scholarship Benefit Dinner, February 25.</figcaption></figure>

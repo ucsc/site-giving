@@ -10,7 +10,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: mary-doyle-400.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset mary-doyle-400.jpg magick:resize=300 alt="mary-doyle" %}<figcaption>Mary E. Doyle, UC Santa Cruz Foundation president</figcaption></figure>

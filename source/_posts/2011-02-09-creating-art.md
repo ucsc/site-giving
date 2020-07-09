@@ -4,7 +4,7 @@ title: Creating Art
 date: 2011-02-09
 layout: post
 thumbnail_image: bonilla-art.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset bonilla.jpg magick:resize=300 alt="bonilla" %}<figcaption>“It had always been my dream to go to UCSC,” said Nancy Bonilla, and scholarship support helped make her dream a reality.</figcaption></figure>

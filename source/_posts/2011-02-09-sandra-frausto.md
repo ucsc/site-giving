@@ -5,7 +5,7 @@ date: 2011-02-09
 layout: post
 excerpt: Sandra wanted to be a teacher,” said Elizabeth Rojo, remembering her sister’s aspirations. “She saw how hard our mother worked to put all eight of us through school and how important our education was to her. For Sandra, there was never any question that she would go on to college.
 thumbnail_image: frausto.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset frausto.jpg magick:resize=300 alt="tolliver" %}<figcaption>Sandra celebrates her high school graduation with her mother.</figcaption></figure>

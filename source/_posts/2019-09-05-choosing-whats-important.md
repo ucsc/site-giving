@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: Kermish-Lisa.jpg
 thumbnail_alt_text: photo of Lisa Kermish
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset Kermish-Lisa.jpg magick:resize=500 alt='photo of Lisa Kermish' %}

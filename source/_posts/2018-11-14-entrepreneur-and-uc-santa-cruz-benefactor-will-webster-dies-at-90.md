@@ -25,7 +25,7 @@ featured_post:
 thumbnail_image: willwebster102017.jpg
 thumbnail_alt_text: photo of Ted Alper in a boat
 image: willwebster102017.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/11/will-webster.html
 ---

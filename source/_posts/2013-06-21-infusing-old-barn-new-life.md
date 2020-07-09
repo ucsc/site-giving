@@ -4,7 +4,7 @@ title: Infusing an old barn with new life
 date: 2013-06-21
 layout: post
 thumbnail_image: webster.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset webster.jpg magick:resize=300 alt='webster.jpg' %}

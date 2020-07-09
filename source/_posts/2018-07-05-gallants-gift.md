@@ -27,7 +27,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: deniseKZSC1977hallway.jpg
 thumbnail_alt_text: photo of Denise Gallant, hallway KZSC, 1977
-categories: "News"
+category: "News"
 ---
 One night in the mid-1970s, when Denise Gallant was Kresge Town Hall manager, two of Kresge’s video projectors were stolen from her car. “And I vowed at that point that someday I would pay Kresge back for losing those.”
 

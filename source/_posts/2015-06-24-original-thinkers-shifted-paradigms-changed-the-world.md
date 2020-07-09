@@ -8,6 +8,6 @@ author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2015/06/original-thinkers.html
-categories: "News"
+category: "News"
 format: link
 ---

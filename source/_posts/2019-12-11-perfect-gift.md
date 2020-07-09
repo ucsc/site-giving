@@ -24,7 +24,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: Mary-Wells-10.jpg
 thumbnail_alt_text: photo of Mary Wells
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset Mary-Wells-10.jpg magick:resize=400 alt='photo of Mary Wells' %}

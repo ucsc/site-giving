@@ -9,7 +9,7 @@ see_also:
   - title: Honoring a beloved professor with a planned gift.
     link: https://giving.ucsc.edu/profiles/donors/morgan.html
 thumbnail_image: rustybarrylab-760.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset rustybarrylab-760.jpg magick:resize=300 alt="rustybarrylab" %}<figcaption>Emeritus Professor Barry Bowman and his wife, researcher Emma Jean Bowman, worked side by side for decades revealing the secrets of a protein called V-ATPase. Now retired, they&#8217;ve made continuing research a priority in their will. Photo by Barry Bowman.</figcaption></figure>

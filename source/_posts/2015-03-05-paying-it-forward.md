@@ -9,7 +9,7 @@ see_also:
   - title: Give Now to the Senior Legacy Fund
     link: 'https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&dids=600&='
 thumbnail_image: quan-tran-375.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset quan-tran-375.jpg magick:resize=300 alt="quan-tran" %}<figcaption>“My parents work very hard to finance my college education, so earning a scholarship eases my mind; I have helped lift some burden from their shoulders,” Quan Tran. (Photo by Carolyn Lagattuta)</figcaption></figure>

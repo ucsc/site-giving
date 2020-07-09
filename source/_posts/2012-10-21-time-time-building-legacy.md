@@ -4,7 +4,7 @@ title: "Time after time: Building a legacy"
 date: 2012-10-21
 layout: post
 thumbnail_image: browns.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset browns.jpg magick:resize=400 alt='browns.jpg' %}

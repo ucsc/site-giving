@@ -4,7 +4,7 @@ title: In the company of friends
 date: 2013-01-21
 layout: post
 thumbnail_image: neel2008.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset neel2008.jpg magick:resize=300 alt='neel2008.jpg' %}

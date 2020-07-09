@@ -9,7 +9,7 @@ author_email:
   - srapp@ucsc.edu
 thumbnail_image: Elaine-sullivan-325.jpg
 thumbnail_alt_text: photo of Elaine Sullivan
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/sullivan-mellon-grant.html
 ---

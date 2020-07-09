@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: game-logo-300.jpg
 thumbnail_alt_text: image of game logo
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/game-design.html
 ---

@@ -4,7 +4,7 @@ title: The path to empowerment
 date: 2013-06-21
 layout: post
 thumbnail_image: xochitil.jpg
-categories: "Student Profiles"
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset xochitil.jpg magick:resize=180 alt='xochitil.jpg' %}

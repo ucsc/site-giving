@@ -10,7 +10,7 @@ see_also:
   - title: _LOOK BACK IN TIME,_ RUSSELL CROTTY AND LICK OBSERVATORY AT THE SAN JOSE ICA
     link: http://ias.ucsc.edu/content/2015/artist-residence-russell-crotty
 thumbnail_image: connecting-arts-sciences-cropped.jpg
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset connecting-arts-sciences.jpg magick:resize=300 alt="connecting-arts-sciences" %}<figcaption>As part of the Crochet Coral Reef project, visitors to the Sesnon Gallery explore an “undersea grove” of miniature coral “Pod Worlds” featuring plastic bottle anemones. (Photo courtesy CO2CA CO2LA Ocean at UC Santa Cruz, 2017)</figcaption></figure>

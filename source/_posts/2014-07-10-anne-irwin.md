@@ -8,7 +8,7 @@ link_post: http://giving.ucsc.edu/reports/2011-12/articles/a-history-of-generosi
 image_url:
   - http://giving.ucsc.edu/reports/2011-12/images/article-photos/irwin-anne.jpg
 thumbnail_image: irwin-anne.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 format: link
 ---
 

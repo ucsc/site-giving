@@ -18,7 +18,7 @@ featured_post:
 thumbnail_image: forest-2-400.jpg
 thumbnail_alt_text: photo of people in a forest
 image: forest-2-400.jpg
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/forest-thousand-years.html
 ---

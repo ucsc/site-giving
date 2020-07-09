@@ -9,7 +9,7 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: Popular music course established in memory of an alum will be taught by a visiting artist or scholar
 thumbnail_image: mikewithguitar.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset mikewithguitar.jpg magick:resize=300 alt="mikewithguitar" %}<figcaption>After his graduation, Michael Bonanomi (Stevenson &#8217;02, history) learned to perform music from a variety of generes. Photo courtesy of Michael Bonanomi Foundation</figcaption></figure>

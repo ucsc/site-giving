@@ -25,7 +25,7 @@ featured_post:
 thumbnail_image: faber-rubin-400.jpg
 thumbnail_alt_text: photo of Sandra Faber and Vera Rubin
 image: faber-rubin-400.jpg
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/08/vera-rubin-chair.html
 ---

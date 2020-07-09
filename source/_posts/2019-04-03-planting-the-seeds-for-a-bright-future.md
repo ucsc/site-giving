@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: man-with-carrots.jpg
 thumbnail_alt_text: photo of CASFS Carrots
-categories: "Donor Profiles"
+category: "Donor Profiles"
 tags:
   - casfs
   - planned gifts

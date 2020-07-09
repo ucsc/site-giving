@@ -12,7 +12,7 @@ see_also:
   - title: Learn how to participate in crowdfunding
     link: https://crowdfund.ucsc.edu/fall-into-philanthropy/Learn-more.html
 thumbnail_image: abuhashmeh_poster-1.jpg
-categories: "News"
+category: "News"
 ---
 Hierarchical Systems Research Foundation (HSRF) is asking you to donate towards changing young scientists’ lives while increasing the breadth of human knowledge. The foundation—which has long been a generous donor to UC Santa Cruz—is offering to [match donations](https://crowdfund.ucsc.edu/?cfpage=project&project_id=17079) of all sizes to the newly formed Endowment for Undergraduate Research in Science and Technology.
 

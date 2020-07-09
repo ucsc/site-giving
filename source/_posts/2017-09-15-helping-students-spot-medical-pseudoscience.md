@@ -9,7 +9,7 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: A popular new class made possible by a donor delves into history, psychology, chemistry, ethics, and—yes—medicine, exploring the limits and potentials of health care
 thumbnail_image: greggatesmd1.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset greggatesmd1.jpg magick:resize=300 alt="greggatesmd1" %}<figcaption>Dr. Greg Gates spent years building curriculum for a class about what medicine can and can not accomplish. Photo: Associate Professor Grant Hartzog.</figcaption></figure>

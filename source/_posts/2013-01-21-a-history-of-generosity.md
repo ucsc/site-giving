@@ -4,7 +4,7 @@ title: A history of generosity
 date: 2013-01-21
 layout: post
 thumbnail_image: irwin-anne.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset irwin-anne.jpg magick:resize=300 alt="irwin-anne" %}<figcaption>Anne Irwin</figcaption></figure>

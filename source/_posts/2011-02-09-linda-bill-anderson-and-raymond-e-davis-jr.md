@@ -5,7 +5,7 @@ date: 2011-02-09
 layout: post
 excerpt: “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
 thumbnail_image: anderson.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 
 <figure class="inline-image right">

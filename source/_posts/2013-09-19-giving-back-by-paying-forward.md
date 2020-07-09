@@ -12,7 +12,7 @@ author:
 author_email:
   - gwenj@ucsc.edu
 thumbnail_image: karen.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset karen.jpg magick:resize=300 alt="karen" %}<figcaption>“I draw on my UC education all the time to keep myself honest and aligned with my core values,” said Karen Rhodes (Cowell, ’77, history).</figcaption></figure>

@@ -12,7 +12,7 @@ thumbnail_image: cfaprogramhaug.jpg
 see_also:
   - title: More information about CAFIN
     link: https://cafin.ucsc.edu/
-categories: "News"
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset cfaprogramhaug.jpg magick:resize=300 alt="cfaprogramhaug" %}<figcaption>Guest lecturer Charles Haug spoke in the final spring &#8217;17 class of Kai Pommerenke&#8217;s Advanced Topics in Management and Finance course, part of the CFA program</figcaption></figure>

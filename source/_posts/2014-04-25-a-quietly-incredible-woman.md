@@ -5,7 +5,7 @@ date: 2014-04-25
 layout: post
 excerpt: When alumnus Mark Headley and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.
 thumbnail_image: everett.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset everett.jpg magick:resize=300 alt="everett" %}<figcaption>Mark Headley (Stevenson &#8217;83, politics) and Christina Pehl  

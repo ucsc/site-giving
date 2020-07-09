@@ -4,6 +4,6 @@ title: Architects to present design concepts for new Institute of Arts and Scien
 date: 2014-03-14
 layout: post
 link_post: https://news.ucsc.edu/2014/03/architect-finalists.html
-categories: "News"
+category: "News"
 format: link
 ---

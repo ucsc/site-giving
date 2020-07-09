@@ -8,7 +8,6 @@ author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2014/10/banana-slug-mapping-feature-story.html
-categories: "News"
+category: "News"
 format: link
-link_post: https://news.ucsc.edu/2014/10/banana-slug-mapping-feature-story.html
 ---

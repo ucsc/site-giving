@@ -24,6 +24,6 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: sternmaudekerrush600.jpg
 thumbnail_alt_text: photo of Mike Stern, Matt Maude and Sarah Kerrush
-categories: "Donor Profiles"
+category: "Donor Profiles"
 link_post: https://news.ucsc.edu/2019/05/sternmagic.html
 ---

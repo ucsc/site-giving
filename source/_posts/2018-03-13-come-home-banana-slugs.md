@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: alumni-postcard-2018-300.jpg
 thumbnail_alt_text: Alumni Weekend postcard
-categories: "News"
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/alumni-weekend-advance-feature-2018.html
 ---

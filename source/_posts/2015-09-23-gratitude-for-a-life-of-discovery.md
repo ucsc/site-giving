@@ -9,7 +9,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: gutman.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset gutman.jpg magick:resize=300 alt="gutman" %}<figcaption>Siegmund Gutman (Crown ‘90, biochemistry and molecular biology)</figcaption></figure>

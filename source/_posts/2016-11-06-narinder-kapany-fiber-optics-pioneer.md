@@ -9,7 +9,7 @@ see_also:
   - title: Narinder Kapany, Founder of Fiber Optics, Silicon Valley Historical Association (Video)
     link: http://www.youtube.com/watch?v=m0KMesVVwwY
 thumbnail_image: kapany-founders-200.jpeg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset kapany-founders-200.jpeg magick:resize=200 alt="kapany-founders" %}<figcaption>Narinder Kapany received the UCSC Foundation&#8217;s Fiat Lux Award in 2008. (Photo by R. R. Jones)</figcaption></figure>

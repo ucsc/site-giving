@@ -8,6 +8,6 @@ author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2014/10/THE-ranking.html
-categories: "News"
+category: "News"
 format: link
 ---

@@ -5,7 +5,7 @@ date: 2015-04-20
 layout: post
 excerpt: A word with Stephanie Harkness, UC Santa Cruz Foundation Board member
 thumbnail_image: Ian-martin-wedding.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset Ian-martin-wedding.jpg magick:resize=400 alt='Ian-martin-wedding.jpg' %}

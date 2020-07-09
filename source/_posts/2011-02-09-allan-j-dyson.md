@@ -7,7 +7,7 @@ excerpt: |
     You can have a good public university based on what the state budget is, but you can't have a great public university without having the active involvement of donors in all sorts of areas, donors small and large," said Allan J. Dyson, University Librarian Emeritus of UC Santa Cruz.
 
 thumbnail_image: dyson.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset dyson.jpg magick:resize=300 alt="dyson" %}<figcaption>Allan J. Dyson</figcaption></figure>

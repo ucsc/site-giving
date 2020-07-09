@@ -7,7 +7,7 @@ see_also:
   - title: University Library
     link: http://library.ucsc.edu/
 thumbnail_image: kirk-potola.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset kirk-potola.jpg magick:resize=300 alt="kirk-potola" %}<figcaption>Kirk, who won the Outstanding Staff Member of the Year Award in 2000-2001, has a longstanding and affectionate connection to the campus and, in particular, the library. (Photo by Carolyn Lagattuta)</figcaption></figure>

@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: patrick-bailey-story.jpg
 thumbnail_alt_text: photo of Patrick Bailey
-categories: "Student Profiles"
+category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2019/08/finding-his-way-with-a-little-help.html
 ---

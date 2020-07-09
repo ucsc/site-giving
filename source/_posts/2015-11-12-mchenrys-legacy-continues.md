@@ -9,7 +9,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: mchenry-500.jpg
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset mchenry-500.jpg magick:resize=300 alt="mchenry" %}<figcaption>Dean McHenry and Henry McHenry</figcaption></figure>

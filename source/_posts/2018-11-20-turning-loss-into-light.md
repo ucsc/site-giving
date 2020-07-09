@@ -24,7 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: alper.jpg
 thumbnail_alt_text: photo of Ted Alper in a boat
-categories: "Donor Profiles"
+category: "Donor Profiles"
 ---
 For Ted Alper, growing a scholarship at the university where his son found his calling is the perfect thing to do with proceeds from the future sale of the home that son would have inherited.
 
