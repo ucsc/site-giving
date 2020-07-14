@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Categories
+title: Impact of <span class="yellow">Giving</span>
 permalink: /categories/
 hero:
   use: true
@@ -18,7 +18,7 @@ hero:
 
   <div class="archive-group">
 
-    <ul class="post-list">
+    <ul>
     {%- for p in category[1] %}
       <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
     {%- endfor %}
