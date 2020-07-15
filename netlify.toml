@@ -1,0 +1,7 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu data:; script-src 'self';script-src-elem 'unsafe-inline' *.netlify.com www.google-analytics.com ajax.googleapis.com *.googletagmanager.com use.fontawesome.com *.ucsc.edu; style-src 'self' 'unsafe-inline' *.ucsc.edu *.googleapis.com; font-src 'self' fonts.gstatic.com; style-src-elem data: 'self' 'unsafe-inline' fonts.googleapis.com fonts.gstatic.com unpkg.com *.ucsc.edu; frame-ancestors 'none';"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    X-Frame-Options = "DENY"
