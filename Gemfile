@@ -10,6 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8"
 gem "mini_magick"
 gem "image_optim"
+gem "sprockets", "~>3.7"
 # gem "html-proofer"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
