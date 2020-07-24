@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu data:; script-src 'self' 'unsafe-inline' *.ucsc.edu www.google-analytics.com ajax.googleapis.com *.googletagmanager.com *.fontawesome.com; style-src 'self' 'unsafe-inline' *.ucsc.edu *.googleapis.com *.fontawesome.com unpkg.com; font-src 'self' fonts.gstatic.com *.fontawesome.com; frame-src 'self' *.youtube.com; object-src 'none';"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu data: *.google.com; script-src 'self' 'unsafe-inline' *.ucsc.edu *.google.com www.google-analytics.com ajax.googleapis.com *.googletagmanager.com *.fontawesome.com; style-src 'self' 'unsafe-inline' *.ucsc.edu *.google.com *.googleapis.com *.fontawesome.com unpkg.com data:; font-src 'self' fonts.gstatic.com *.fontawesome.com *.google.com; frame-src 'self' *.youtube.com; object-src 'none';"
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = "1; mode=block"
     X-Frame-Options = "DENY"
