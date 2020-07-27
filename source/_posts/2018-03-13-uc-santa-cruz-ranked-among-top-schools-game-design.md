@@ -2,7 +2,7 @@
 id: 3580
 title: UC Santa Cruz ranked among top schools for game design
 subtitle: As in past years, UC Santa Cruz is featured on Princeton Review's 2018 lists for top undergraduate and graduate programs in game design
-date: 2018-03-13T18:36:38+00:00
+date: 2018-03-13
 layout: post
 author:
   - Tim Stephens
@@ -24,13 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: game-logo-300.jpg
 thumbnail_alt_text: image of game logo
-categories:
-  - News
-tags:
-  - arts
-  - computer science
-  - danm
-  - game design
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/03/game-design.html
 ---

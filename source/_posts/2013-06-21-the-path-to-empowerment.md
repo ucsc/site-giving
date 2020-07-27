@@ -1,12 +1,10 @@
 ---
 id: 3202
 title: The path to empowerment
-date: 2013-06-21T15:51:49+00:00
+date: 2013-06-21
 layout: post
-excerpt: ""
 thumbnail_image: xochitil.jpg
-categories:
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset xochitil.jpg magick:resize=180 alt='xochitil.jpg' %}

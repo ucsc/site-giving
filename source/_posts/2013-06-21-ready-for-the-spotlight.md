@@ -1,12 +1,10 @@
 ---
 id: 3199
 title: Ready for the spotlight
-date: 2013-06-21T15:48:23+00:00
+date: 2013-06-21
 layout: post
-excerpt: ""
 thumbnail_image: attat.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset attat.jpg magick:resize=400 alt='attat.jpg' %}

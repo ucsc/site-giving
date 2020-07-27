@@ -1,8 +1,7 @@
 ---
 id: 3630
 title: Biomolecular engineer Angela Brooks named Pew Scholar in the Biomedical Sciences
-subtitle:
-date: 2018-06-14T17:26:25+00:00
+date: 2018-06-14
 layout: post
 author:
   - Tim Stephens
@@ -24,12 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: angela-brooks-350.jpg
 thumbnail_alt_text: photo of Angela Brooks
-categories:
-  - News
-tags:
-  - angela brooks
-  - biomolecular engineering
-  - Pew Scholars Program in the Biomedical Sciences
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/06/angela-brooks.html 
 ---

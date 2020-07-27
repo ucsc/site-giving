@@ -1,7 +1,6 @@
 ---
 title: Mary Thush
-subtitle:
-date: 2011-01-01T16:52:36+00:00
+date: 2011-01-01
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
@@ -22,14 +21,12 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: thush.jpg
 thumbnail_alt_text: photo of Mary Thush
-categories: [Donor Profiles]
-tags: false
+category: "Donor Profiles"
 ---
+
 <figure class="inline-image right">
 {% asset thush.jpg magick:resize=200 alt='photo of Mary Thush' %}
 <figcaption></figcaption></figure> 
 Mary Thush, a close friend of retired library media specialist David Kirk, decided to name the university as the beneficiary of her estate. “Having no immediate family, I wanted to leave my estate to an educational institution like UCSC,” she said.
 
 When Mary passed away, proceeds from her gift augmented the David Kirk Video Endowment and established the Mary E. Thush Media Center Endowment. Thush’s generosity ensures her lasting role in helping the library acquire and maintain digital media resources that offer depth, distinction, and excellence.
-
-To learn more about planned giving at UC Santa Cruz, please contact Virginia Rivera at (831) 459-5227 or <a href="mailto:vvrivera@ucsc.edu">vvrivera@ucsc.edu</a>.

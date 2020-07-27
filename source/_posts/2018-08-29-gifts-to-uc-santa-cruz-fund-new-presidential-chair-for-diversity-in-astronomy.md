@@ -2,7 +2,7 @@
 id: 3763
 title: Gifts to UC Santa Cruz fund new presidential chair for diversity in astronomy
 subtitle: 
-date: 2018-08-29T20:35:15+00:00
+date: 2018-08-29
 layout: post
 author:
   - Tim Stephens
@@ -25,14 +25,7 @@ featured_post:
 thumbnail_image: faber-rubin-400.jpg
 thumbnail_alt_text: photo of Sandra Faber and Vera Rubin
 image: faber-rubin-400.jpg
-categories:
-  - News
-tags:
-  - astronomy
-  - diversity
-  - sandra faber
-  - university of california
-  - vera rubins
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/08/vera-rubin-chair.html
 ---

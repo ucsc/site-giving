@@ -1,7 +1,7 @@
 ---
 id: 3437
 title: To Pluto and beyond—Undergraduate research helps start a career
-date: 2017-10-20T22:12:11+00:00
+date: 2017-10-20
 author: jhillard
 layout: post
 guid: https://giving.ucsc.edu/?p=3437
@@ -20,12 +20,7 @@ see_also_links_0_link_link:
   - 'https://crowdfund.ucsc.edu/?cfpage=explore&cat_id=5054'
 thumbnail_image: abuhashmeh_poster.jpg
 thumbnail_alt_text: 
-categories:
-  - News
-  - Student Profiles
-tags:
-  - uc santa cruz
-  - undergraduate research
+category: "Student Profiles"
 ---
   
 An undergraduate student at UC Santa Cruz has expanded our knowledge of Pluto—and gotten a boost toward a career with the help of UC Santa Cruz donors.

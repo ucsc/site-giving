@@ -1,15 +1,14 @@
 ---
 id: 208
 title: Andrews chair funded by creative source
-date: 2013-07-25T23:34:10+00:00
+date: 2013-07-25
 layout: post
 excerpt: Michael Morgan in endowing the Frank Andrews Chair in Science Education hopes to inspire new enthusiastic science teachers
 see_also:
   - title: Frank Andrews helps students maximize potential, feel valued
     link: https://news.ucsc.edu/2013/11/frank-andrews.html
 thumbnail_image: classroom_experiment.jpeg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset classroom_experiment.jpeg magick:resize=300 alt="classroom_experiment.jpeg" %}<figcaption>Chemistry teacher Michael Morgan has established a planned gift that will eventually endow a chair honoring Professor Emeritus Frank Andrews.</figcaption></figure>

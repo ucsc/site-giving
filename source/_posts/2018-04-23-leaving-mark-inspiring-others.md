@@ -2,7 +2,7 @@
 id: 3622
 title: Leaving their mark, inspiring others
 subtitle: The five recipients of this year’s Distinguished Graduate Student Alumni awards return to campus this Alumni Weekend to share career and life advice during the 2018 Graduate Student Alumni Career Paths Panel.
-date: 2018-04-23T16:04:20+00:00
+date: 2018-04-23
 layout: post
 author:
   - Dan White
@@ -24,14 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: rachelnelson320.jpg
 thumbnail_alt_text: photo of Rachel Nelson
-categories:
-  - News
-  - Student Profiles
-tags:
-  - alumni
-  - alumni weekend
-  - distinguished graduate student alumni
-  - graduate students
+category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/04/distinguished-grad-alumni-advance-feature.html
 ---

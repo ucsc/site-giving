@@ -2,7 +2,7 @@
 id: 4055
 title: Perfect gift
 subtitle: Retiree Mary Wells has added the Silver Slug Award and UCSC Fund to her estate plan, a future gift that will support staff and their dependents who seek UC Santa Cruz degrees
-date: 2019-12-11T19:03:51+00:00
+date: 2019-12-11
 layout: post
 author:
   - J.D. Hillard
@@ -24,11 +24,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: Mary-Wells-10.jpg
 thumbnail_alt_text: photo of Mary Wells
-categories:
-  - Donor Profiles
-tags:
-  - planned gifts
-  - silver slug award
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset Mary-Wells-10.jpg magick:resize=400 alt='photo of Mary Wells' %}

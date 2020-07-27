@@ -2,7 +2,7 @@
 id: 3595
 title: 2018 Osterbrock Lecture will focus on the role of science in public policy
 subtitle: Rush Holt, CEO of the American Association for the Advancement of Science, will speak at UC Santa Cruz on Thursday, April 19
-date: 2018-04-04T20:05:46+00:00
+date: 2018-04-04
 layout: post
 author:
   - Tim Stephens
@@ -24,13 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: rush-holt.jpg
 thumbnail_alt_text: photo of Rush Holt, CEO American Association for the Advancement of Science
-categories:
-  - News
-tags:
-  - osterbrock
-  - politics
-  - rush holt
-  - science
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/osterbrock-lecture.html
 ---

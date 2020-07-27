@@ -1,12 +1,10 @@
 ---
 id: 3238
 title: A winning combination
-date: 2012-10-21T16:55:46+00:00
+date: 2012-10-21
 layout: post
-excerpt: ""
 thumbnail_image: soraya-danesh.jpg
-categories:
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset soraya-danesh.jpg magick:resize=250 alt='photo of Soraya Danesh' %}

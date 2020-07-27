@@ -1,12 +1,10 @@
 ---
 id: 3242
 title: Exploring the possibilities
-date: 2012-10-21T16:59:31+00:00
+date: 2012-10-21
 layout: post
-excerpt: ""
 thumbnail_image: raydon_alhubaishi.jpg
-categories:
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset raydon_alhubaishi.jpg magick:resize=300 alt="raydon_alhubaishi" %}<figcaption>Raydan Alhubaishi</figcaption></figure>

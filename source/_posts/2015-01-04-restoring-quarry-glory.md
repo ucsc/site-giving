@@ -1,17 +1,15 @@
 ---
 id: 238
 title: Restoring quarry glory
-date: 2015-01-04T18:03:50+00:00
+date: 2015-01-04
 layout: post
-excerpt: ""
 see_also:
   - title: 2014 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: hancock.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset hancock.jpg magick:resize=300 alt="hancock" %}<figcaption>William Hancock (Cowell &#8217;79, environmental planning)</figcaption></figure>

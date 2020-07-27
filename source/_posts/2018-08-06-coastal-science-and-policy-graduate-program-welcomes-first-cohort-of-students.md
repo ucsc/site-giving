@@ -1,7 +1,7 @@
 ---
 id: 3724
 title: Coastal Science and Policy graduate program welcomes first cohort of students
-date: 2018-08-06T08:51:29+00:00
+date: 2018-08-06
 layout: post
 author:
   - Tim Stephens
@@ -24,9 +24,7 @@ featured_post:
 thumbnail_image: students-composite-1.jpg
 thumbnail_alt_text: composite photo of students
 image: students-composite-1.jpg
-categories:
-  - Campaign Impact
-  - News
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/08/coastal-program.html
 ---

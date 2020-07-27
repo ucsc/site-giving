@@ -1,12 +1,10 @@
 ---
 id: 367
 title: "Don't give up on your dreams"
-date: 2014-03-25T21:31:54+00:00
+date: 2014-03-25
 layout: post
-excerpt: ""
 thumbnail_image: Gemma_Garcia_sized_web.jpg
-categories:
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset Gemma_Garcia_sized_web.jpg magick:resize=300 alt="Gemma_Garcia_sized_web" %}<figcaption>Gemma Garcia is studying history and sociology  

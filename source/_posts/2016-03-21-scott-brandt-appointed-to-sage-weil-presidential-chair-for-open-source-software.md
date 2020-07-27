@@ -1,15 +1,13 @@
 ---
 id: 2412
 title: Scott Brandt appointed to Sage Weil Presidential Chair for Open Source Software
-date: 2016-03-21T11:58:12+00:00
+date: 2016-03-21
 author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/03/sage-weil-chair.html
-categories:
-  - News
+category: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/03/sage-weil-chair.html
 ---

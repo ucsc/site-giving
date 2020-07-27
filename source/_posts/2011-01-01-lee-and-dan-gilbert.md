@@ -1,7 +1,6 @@
 ---
 title: Lee and Dan Gilbert
-subtitle:
-date: 2011-01-01T20:14:19+00:00
+date: 2011-01-01
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
@@ -22,8 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: gilbert.jpg
 thumbnail_alt_text: photo of Gilbert
-categories: [Donor Profiles, News]
-#tags: [tag 1, tag2]
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset gilbert.jpg magick:resize=500 alt='UC Santa Cruz supporter and parent Lee Gilbert' %}
@@ -36,5 +34,3 @@ Education has always been important to the Gilberts, who ran an early childhood 
 They were early members of Lifelong Learners and experienced something of the re-entry student life themselves, auditing many classes at UC Santa Cruz. &#8220;We were very impressed by the caliber of instruction,&#8221; said Lee, who is also an active member and past president of the UC Santa Cruz Women&#8217;s Club. Their support for UC Santa Cruz also extends to the Seymour Marine Discovery Center and the Chancellor&#8217;s Fund.
 
 &#8220;What interests me is that, as a senior, I&#8217;m also dealing with younger people,&#8221; said Lee of their continued involvement with and support of UC Santa Cruz, &#8220;and I have a favorite story about that. Once I was asked to participate in a very small focus group on campus. In the group I said, &#8216;I can&#8217;t tell you how much I enjoy being with younger people,&#8217; and everyone else in the group said, &#8216;We can&#8217;t tell you how much we enjoy you thinking that we&#8217;re younger people!'&#8221;
-
-To learn more about this scholarship or to establish other need-based scholarships at UC Santa Cruz, please contact John Hopkins at 831-459-3822 or <jehopkin@ucsc.edu>.

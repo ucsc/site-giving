@@ -1,9 +1,8 @@
 ---
 id: 248
 title: Starting a virtuous cycle
-date: 2015-03-16T19:07:39+00:00
+date: 2015-03-16
 layout: post
-excerpt: ""
 see_also:
   - title: Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2013-14/index.php
@@ -14,8 +13,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: darren-shou-symantec-300.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset darren-shou-symantec-300.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}

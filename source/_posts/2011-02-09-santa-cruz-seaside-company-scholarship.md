@@ -1,12 +1,10 @@
 ---
 id: 129
 title: Santa Cruz Seaside Company Scholarship
-date: 2011-02-09T20:17:14+00:00
+date: 2011-02-09
 layout: post
-excerpt: ""
 thumbnail_image: charles-canfield.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset charles-canfield.jpg magick:resize=400 alt='Local businessman Charles Canfield, president of the Santa Cruz Seaside Company' %}

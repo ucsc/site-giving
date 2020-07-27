@@ -1,15 +1,13 @@
 ---
 id: 2478
 title: Gabriel Zimmerman Memorial Scholarship winner is immersed in public service
-date: 2016-07-28T18:07:48+00:00
+date: 2016-07-28
 author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/06/zimmerman-scholar-2016.html
-categories:
-  - News
+category: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/06/zimmerman-scholar-2016.html
 ---

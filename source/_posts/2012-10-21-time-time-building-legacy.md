@@ -1,12 +1,10 @@
 ---
 id: 3245
 title: "Time after time: Building a legacy"
-date: 2012-10-21T17:03:30+00:00
+date: 2012-10-21
 layout: post
-excerpt: ""
 thumbnail_image: browns.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset browns.jpg magick:resize=400 alt='browns.jpg' %}

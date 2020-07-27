@@ -2,7 +2,7 @@
 id: 3616
 title: Mathematical biologist Marc Mangel elected to American Academy of Arts and Sciences
 subtitle: Other new members in the Class of 2018 include Ta-Nehisi Coates, Tom Hanks, Barack Obama, and Sonia Sotomayor
-date: 2018-04-18T15:53:33+00:00
+date: 2018-04-18
 layout: post
 guid: https://giving.ucsc.edu/?p=3616
 permalink: https://news.ucsc.edu/2018/04/mangel-amacad.html
@@ -26,13 +26,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: marc-mangel-350.jpg
 thumbnail_alt_text: photo of Marc Mangel
-categories:
-  - News
-tags:
-  - american academy of the arts and sciences
-  - biology
-  - marc mangel
-  - mathmatics
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/mangel-amacad.html
 ---

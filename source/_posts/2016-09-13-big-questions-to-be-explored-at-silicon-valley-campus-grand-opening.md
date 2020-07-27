@@ -1,15 +1,13 @@
 ---
 id: 2485
 title: Big questions to be explored at Silicon Valley Campus grand opening
-date: 2016-09-13T14:26:01+00:00
+date: 2016-09-13
 author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
 layout: post
-link_post: https://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent
-categories:
-  - News
+link_post: https://news.ucsc.edu/2016/09/silicon-valley-opening.html
+category: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/09/silicon-valley-opening.html?ref=recent
 ---

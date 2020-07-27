@@ -1,16 +1,14 @@
 ---
 id: 3145
 title: A playhouse like no other
-date: 2014-06-20T21:50:11+00:00
+date: 2014-06-20
 excerpt: Search anywhere and you won’t find anything quite like UCSC’s International Playhouse, an annual program of short theater pieces staged in different languages by students in the university’s Language Program.
 layout: post
-excerpt: ""
 see_also:
   - title: $250,000 gift benefits Miriam Ellis International Playhouse
     link: https://news.ucsc.edu/2016/11/miriam-ellis-international-playhouse-endowment-feature.html
 thumbnail_image: mirian-ellis.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset mirian-ellis.jpg magick:resize=400 alt='mirian-ellis' %}

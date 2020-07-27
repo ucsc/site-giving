@@ -2,7 +2,7 @@
 id: 3620
 title: UC Santa Cruz honors alumni Thomas Webb and Susanne Hering
 subtitle: Physical and Biological Sciences Distinguished Alumni Awards recognize contributions to society by graduate and undergraduate alums
-date: 2018-04-19T15:56:30+00:00
+date: 2018-04-19
 layout: post
 author:
   - Tim Stephens
@@ -25,14 +25,7 @@ featured_post:
 thumbnail_image: susanne-hering-310.jpg
 thumbnail_alt_text: photo of Susanne Hering
 image: susanne-hering-310.jpg
-categories:
-  - News
-tags:
-  - alumni
-  - distinguished alumni
-  - physical and biological sciences
-  - susanne herring
-  - thomas webb
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/pbsci-alumni-awards.html
 ---

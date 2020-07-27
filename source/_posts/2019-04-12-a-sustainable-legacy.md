@@ -2,7 +2,7 @@
 id: 3924
 title: A sustainable legacy
 subtitle: An alumna includes CASFS in her legacy with a planned gift.
-date: 2019-04-12T21:23:35+00:00
+date: 2019-04-12
 layout: post
 author:
   - J.D. Hillard
@@ -13,7 +13,7 @@ pull_quote: false
 pull_quote_author:
 hero:
   use: true
-  image: lisa-schaechter.jpg #best at 1000px by 450px
+  image: lisa_schaechter.jpg #best at 1000px by 450px
   alt_text: photo of Lisa Schaechter
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
@@ -22,13 +22,9 @@ hero:
 featured_post:
   use: false
   order: 1 # Options: 1 or 2
-thumbnail_image: lisa-schaechter.jpg
+thumbnail_image: lisa_schaechter.jpg
 thumbnail_alt_text: Photo of Lisa Schaechter
-categories:
-  - Donor Profiles
-tags:
-  - casfs
-  - planned gift
+category: "Donor Profiles"
 ---
 
 When Lisa Schaechter decided to make a plan for her assets in the case of her death, she thought about the causes she already gives to. Schaechter (Crown ‘83, biology/chemistry) grew up with tzedakah, the Jewish obligation of giving, and has always had favorite organizations.
@@ -40,10 +36,10 @@ One of her causes is the Center for Agroecology and Sustainable Food Systems at 
 “It’s a program that has really changed the world,” she says. “When I was a student, the organic produce didn’t look appetizing and there wasn’t very much of it. Organic food was just this wild idea.”
 
 <figure class="inline-image full">
-{% asset lisa-schaechter.jpg magick:resize=900 alt='photo of Lisa Schaechter' %}
+{% asset lisa_schaechter.jpg magick:resize=900 alt='photo of Lisa Schaechter' %}
 <figcaption>Lisa Schaechter, alumna, donor (J.D. Hillard/UC Santa Cruz)</figcaption></figure>
 
-### MOCI
+## MOCI
 
 Schaechter, who is in her 50s, says the impetus for her planning came when she realized her home had greatly multiplied in value since she bought it. She has no children or other heirs. If something happened to her, she doesn’t want to leave a mess for her siblings or parents.
 
@@ -53,7 +49,7 @@ A friend had told her about MOCIs, or memoranda of charitable intent. She establ
 
 In addition to CASFS, she selected the Land Trust of Santa Cruz County, Second Harvest Food Bank, and the Asian Rural Institute, a group in Japan that teaches sustainable agriculture to community organizers from Asia and Africa. Her gifts align closely with her enthusiasm for farming, cooking and eating, and the outdoors.
 
-### From lab tech to tech writer
+## From lab tech to tech writer
 
 A technical writer, Schaechter, sometimes gets asked if she has any time for creative writing. She says the question comes from a false assumption: Schaechter’s route to writing originated in the laboratory.
 

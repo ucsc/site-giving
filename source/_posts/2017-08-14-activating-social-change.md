@@ -1,17 +1,15 @@
 ---
 id: 503
 title: Activating social change
-date: 2017-08-14T16:57:11+00:00
+date: 2017-08-14
 layout: post
-excerpt: ""
 see_also:
   - title: Everett Program
     link: http://www.everettprogram.org/
   - title: The Gail Project
     link: https://gailproject.ucsc.edu/
 thumbnail_image: UCSC_day3-021.jpg
-categories:
-  - Campaign Impact
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_day3-021.jpg magick:resize=300 alt="UCSC_day" %}<figcaption>The Gail Project is a collaborative exploration of the founding years of the American military occupation of Okinawa, inspired by photos taken in 1952–53 by U.S. Army Cpt. Charles Eugene Gail. (Photo by Elena Zhukova)</figcaption></figure>

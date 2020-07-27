@@ -1,9 +1,8 @@
 ---
 id: 527
 title: Putting genomics to work
-date: 2017-08-17T16:00:25+00:00
+date: 2017-08-17
 layout: post
-excerpt: ""
 see_also:
   - title: UCSC Genomics Institute
     link: https://ucscgenomics.soe.ucsc.edu/
@@ -12,8 +11,7 @@ see_also:
   - title: Human Cell Atlas
     link: https://www.humancellatlas.org/
 thumbnail_image: UCSC_day2_UCOP-36.jpg
-categories:
-  - Campaign Impact
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_day2_UCOP-36.jpg magick:resize=300 alt="UCSC_day2_UCOP-36" %}<figcaption>Students get into the spirit of DNA Day, celebrating the discovery of the double helix and UC Santa Cruz‘s assembly of the first draft of the human genome.</figcaption></figure>

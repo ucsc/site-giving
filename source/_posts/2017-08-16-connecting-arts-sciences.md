@@ -1,8 +1,7 @@
 ---
 title: Connecting the arts and sciences
-date: 2017-08-16T18:20:29+00:00
+date: 2017-08-16
 layout: post
-excerpt: ""
 see_also:
   - title: Institute of the Arts and Sciences
     link: http://ias.ucsc.edu/
@@ -11,8 +10,7 @@ see_also:
   - title: _LOOK BACK IN TIME,_ RUSSELL CROTTY AND LICK OBSERVATORY AT THE SAN JOSE ICA
     link: http://ias.ucsc.edu/content/2015/artist-residence-russell-crotty
 thumbnail_image: connecting-arts-sciences-cropped.jpg
-categories:
-  - Campaign Impact
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset connecting-arts-sciences.jpg magick:resize=300 alt="connecting-arts-sciences" %}<figcaption>As part of the Crochet Coral Reef project, visitors to the Sesnon Gallery explore an “undersea grove” of miniature coral “Pod Worlds” featuring plastic bottle anemones. (Photo courtesy CO2CA CO2LA Ocean at UC Santa Cruz, 2017)</figcaption></figure>

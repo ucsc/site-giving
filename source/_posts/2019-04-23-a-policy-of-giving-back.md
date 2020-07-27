@@ -2,7 +2,7 @@
 id: 3929
 title: A policy of giving back
 subtitle: Col. Michael Linick, U.S. Army, Ret. established a planned gift to the university that prepared him for a career of service
-date: 2019-04-23T16:20:12+00:00
+date: 2019-04-23
 layout: post
 author:
   - J.D. Hillard
@@ -24,15 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: linicks.png
 thumbnail_alt_text: photo of Michael and Debbie Linick at Perito Moreno Glacier, Argentina
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - alumni
-  - michael linick
-  - planned gifts
-  - politics
-  - u.s. army
+category: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset linicks.png magick:resize=500 alt='photo of Michael and Debbie Linick at Perito Moreno Glacier, Argentina' %}

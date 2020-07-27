@@ -1,12 +1,11 @@
 ---
 id: 181
 title: Virginia and George Jansen
-date: 2011-07-14T22:47:28+00:00
+date: 2011-07-14
 layout: post
 excerpt: "Building a Legacy: How a UCSC Professor Is Providing for the Library"
 thumbnail_image: jansen.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset jansen.jpg magick:resize=300 alt="jansen" %}<figcaption>Professor Emerita Virginia Jansen, History of Art and Visual Culture, and her husband George recently made known their estate intentions for UCSC and the McHenry Library. Photo of cherry blossoms at McHenry Library by Elise H. Mahoney.</figcaption></figure>

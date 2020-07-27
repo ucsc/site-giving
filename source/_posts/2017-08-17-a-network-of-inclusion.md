@@ -1,8 +1,7 @@
 ---
 title: A network of inclusion
-date: 2017-08-17T15:53:01+00:00
+date: 2017-08-17
 layout: post
-excerpt: ""
 see_also:
   - title: Dreamweavers Fund
     link: 'https://eop.ucsc.edu/undocumented_student_services/Dreamers%20%20Fund.html'
@@ -11,8 +10,7 @@ see_also:
   - title: Lionel Cantú Queer Center
     link: https://queer.ucsc.edu/
 thumbnail_image: network-of-inclusion-cropped.jpg
-categories:
-  - Campaign Impact
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset network-of-inclusion.jpg magick:resize=300 alt="network-of-inclusion" %}<figcaption>Incoming graduate students gather for orientation in the Humanities courtyard. (Photo by Elena Zhukova)</figcaption></figure>
