@@ -1,8 +1,8 @@
 ---
 id: 4058
-title: Critical support
-subtitle: A gift from Andrew Baird, a former student of pioneering History of Consciousness Professor Hayden White, has endowed an annual lecture honoring White and his work
-date: 2019-12-12T00:37:49+00:00
+title: "Critical support"
+subtitle: "A gift from Andrew Baird, a former student of pioneering History of Consciousness Professor Hayden White, has endowed an annual lecture honoring White and his work"
+date: 2019-12-12
 layout: post
 author:
   - J.D. Hillard
@@ -10,34 +10,24 @@ author_email:
   - jhillard@ucsc.edu
 excerpt: "Beginning in 2020 a new annual lecture series will honor the late Professor Hayden White by highlighting the work of researchers who share his creativity and rigor."
 pull_quote: false
-pull_quote_author:
 hero:
   use: false
   image: Hayden-White-Andrew-Baird.March-2017.jpg #best at 1000px by 450px
   alt_text: photo of Hayden White and Andrew Baird
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
-# Is this a featured post? Applies to first two columns on Post Archive Page.
-# If true, use: true; if false, use: false and order does not matter.
 featured_post:
   use: false
   order: 2 # Options: 1 or 2
 thumbnail_image: Hayden-White-Andrew-Baird.March-2017.jpg
 thumbnail_alt_text: photo of Hayden White and Andrew Baird
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - andrew baird
-  - hayden white
-  - hayden white lectures
-  - history of consciousness
-  - the humanities institute
+category: "Donor Profiles"
 ---
 
 <figure class="inline-image right">
-{% asset Hayden-White-Andrew-Baird.March-2017.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}
-<figcaption>Hayden White (left) and Andrew Baird March, 2017 at Baird&#8217;s family&#8217;s quarry. Photo courtesy of Margaret Brose.</figcaption></figure>
+  {% asset Hayden-White-Andrew-Baird.March-2017.jpg magick:resize=300 alt='photo of Hayden White and Andrew Baird' %}
+  <figcaption>Hayden White (left) and Andrew Baird March, 2017 at Baird&#8217;s family&#8217;s quarry. Photo courtesy of Margaret Brose.</figcaption>
+</figure>
 
 Beginning in 2020 a new annual lecture series will honor the late Professor Hayden White by highlighting the work of researchers who share his creativity and rigor.
 
@@ -60,7 +50,7 @@ Deutsch praised Baird for ensuring White’s intellectual legacy will continue y
 ### Captain of industry
 
 <figure class="inline-image right">
-{% asset andrew-baird.jpg magick:resize=300 alt='photo of Andrew Baird' %}
+  {% asset andrew-baird.jpg magick:resize=300 alt='photo of Andrew Baird' %}
 <figcaption>Andrew Baird</figcaption></figure>
 
 White chaired Baird’s dissertation committee, and the two remained close years after Baird earned his degree and returned to his family business, a rock quarry and building materials company in Missouri.
@@ -77,14 +67,12 @@ For Baird, White provided an example of leadership and how to comport oneself wh
 
 The Hayden White Lectures will join the institute’s calendar of high-profile public offerings:
 
-  * Peggy Downes Baskin Ethics Lecture—this year with Margaret Atwood (April 5, 2020, during Alumni Weekend)
-  * Helen Diller Lecture in Jewish Studies—“The Future of Jewish Food”: A conversation with Rachel Gross, Benjamin Aldes Wurgaft, and Nathaniel Deutsch (March 19, 2020)
-  * Morton Marcus Poetry Reading—most recently November 7, 2019, with Gary Soto
+* Peggy Downes Baskin Ethics Lecture—this year with Margaret Atwood (April 5, 2020, during Alumni Weekend)
+* Helen Diller Lecture in Jewish Studies—“The Future of Jewish Food”: A conversation with Rachel Gross, Benjamin Aldes Wurgaft, and Nathaniel Deutsch (March 19, 2020)
+* Morton Marcus Poetry Reading—most recently November 7, 2019, with Gary Soto
 
 The UC Regents named White a University Professor, recognizing his achievements not just as a researcher but also as a teacher. Humanities Institute Managing Director Irena Polic notes Baird’s gift highlights the impact White had on his students.
 
 “It is clear that Hayden meant a great deal to Andrew,” Polic says. “It is really wonderful to see a student honor their teacher in such a generous and meaningful way.”
 
 Deutsch and a committee of humanities faculty have begun considering speakers. The date of the first event has yet to be determined.
-
-&nbsp;

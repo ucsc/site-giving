@@ -1,13 +1,10 @@
 ---
 id: 318
 title: Access to Opportunities
-date: 2011-02-09T17:32:53+00:00
+date: 2011-02-09
 layout: post
-excerpt: ""
 thumbnail_image: tolliver.jpg
-categories:
-
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset tolliver.jpg magick:resize=300 alt="tolliver" %}<figcaption>Charles Tolliver, Jr.</figcaption></figure>

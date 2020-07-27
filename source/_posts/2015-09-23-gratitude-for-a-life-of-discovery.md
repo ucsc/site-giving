@@ -1,17 +1,15 @@
 ---
 id: 257
 title: Gratitude for a life of discovery
-date: 2015-09-23T19:51:15+00:00
+date: 2015-09-23
 layout: post
-excerpt: ""
 see_also:
   - title: Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2013-14/index.php
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: gutman.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset gutman.jpg magick:resize=300 alt="gutman" %}<figcaption>Siegmund Gutman (Crown ‘90, biochemistry and molecular biology)</figcaption></figure>

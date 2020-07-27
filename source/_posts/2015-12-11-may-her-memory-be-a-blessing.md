@@ -1,9 +1,8 @@
 ---
 id: 273
 title: May her memory be a blessing
-date: 2015-12-11T20:31:28+00:00
+date: 2015-12-11
 layout: post
-excerpt: ""
 see_also:
   - title: Cantú Queer Center
     link: http://queer.ucsc.edu/
@@ -12,9 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: crair-400.jpg
-categories:
-  - Donor Profiles
-  - Featured
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset crair-400.jpg magick:resize=300 alt="Bev Crair" %}<figcaption>Bev Crair earned her bachelor’s degree in computer science and mathematics from the University of California, Santa Cruz.</figcaption></figure>

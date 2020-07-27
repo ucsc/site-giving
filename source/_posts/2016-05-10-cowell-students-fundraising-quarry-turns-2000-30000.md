@@ -1,9 +1,8 @@
 ---
 id: 396
 title: Cowell students’ fundraising for Quarry turns $2,000 into $30,000
-date: 2016-05-10T22:16:55+00:00
+date: 2016-05-10
 layout: post
-excerpt: ""
 see_also:
   - title: Restoring the Quarry Amphitheater
     link: http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/
@@ -12,8 +11,7 @@ see_also:
   - title: Cowell College
     link: http://cowell.ucsc.edu/
 thumbnail_image: quarry-cowell-students.jpg
-categories:
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image full">
 {% asset quarry-cowell-students.jpg magick:resize=300 alt="quarry-cowell-students" %}<figcaption>Cowell Provost Faye Crosby, seated left, and members of the philanthropy-focused “Good vs. Good” class.</figcaption></figure>

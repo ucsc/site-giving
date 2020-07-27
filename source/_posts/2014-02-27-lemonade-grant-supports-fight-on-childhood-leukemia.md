@@ -1,11 +1,9 @@
 ---
 id: 873
 title: "'Lemonade' grant supports fight on childhood leukemia"
-date: 2014-02-27T00:00:00+00:00
+date: 2014-02-27
 layout: post
-link_post: https://news.ucsc.edu/2014/02/forsberg-leukemia-grant.html?ref=campaign
-categories:
-  - News
+link_post: https://news.ucsc.edu/2014/02/forsberg-leukemia-grant.html
+category: "News"
 format: link
-link_post: https://news.ucsc.edu/2014/02/forsberg-leukemia-grant.html?ref=campaign
 ---

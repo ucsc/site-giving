@@ -2,7 +2,7 @@
 id: 3832
 title: Turning loss into light
 subtitle: With a planned gift in memory of his son and wife, Ted Alper will help generations of students in need to complete their degrees.
-date: 2018-11-20T00:09:50+00:00
+date: 2018-11-20
 layout: post
 author:
   - J.D. Hillard
@@ -24,15 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: alper.jpg
 thumbnail_alt_text: photo of Ted Alper in a boat
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - marsha alper and joshua marines alper scholarship
-  - planned gifts
-  - scholarships
-  - ted alper
-  - uc santa cruz library
+category: "Donor Profiles"
 ---
 For Ted Alper, growing a scholarship at the university where his son found his calling is the perfect thing to do with proceeds from the future sale of the home that son would have inherited.
 

@@ -1,7 +1,7 @@
 ---
 id: 3757
 title: UC Santa Cruz awarded two NEH grants for Humanities projects
-date: 2018-08-09T20:01:51+00:00
+date: 2018-08-09
 layout: post
 author:
   - Scott Rappaport
@@ -23,13 +23,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: bassi-london-400.jpg
 thumbnail_alt_text: photo of Karen Bassi
-categories:
-  - News
-tags:
-  - humanities institute
-  - john jordan
-  - karen bassi
-  - national endowment for the humanities
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/08/humanities-neh-grants.html 
 ---

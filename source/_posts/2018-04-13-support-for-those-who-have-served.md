@@ -2,7 +2,7 @@
 id: 3606
 title: Support for those who have served
 subtitle: The UC Santa Cruz Retirees Association Bruce Lane Scholarship, named for an influential early campus architect, provides awards to veteran students
-date: 2018-04-13T22:16:25+00:00
+date: 2018-04-13
 layout: post
 author:
   - J.D. Hillard
@@ -25,15 +25,7 @@ featured_post:
 thumbnail_image: maxineandplants.jpg
 thumbnail_alt_text: photo Maxine Lane surrounded by succulents she propagates
 image: maxineandplants.jpg
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - bruce lane
-  - maxine lane
-  - retirees
-  - scholarships
-  - veterans
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset maxineandplants.jpg magick:resize=400 alt='photo of Hayden White and Andrew Baird' %}

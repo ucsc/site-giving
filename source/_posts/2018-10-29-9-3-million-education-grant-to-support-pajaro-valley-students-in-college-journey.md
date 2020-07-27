@@ -2,7 +2,7 @@
 id: 3817
 title: $9.3 million education grant to support Pajaro Valley students in college journey
 subtitle: The grant, to the UC Santa Cruz Educational Partnership Center (EPC), will serve 1,630 underrepresented students in the Pajaro Valley beginning in their sixth and seventh grades and on through their first year of college.
-date: 2018-10-29T19:21:56+00:00
+date: 2018-10-29
 layout: post
 author:
   - Scott Hernandez-Jason
@@ -23,11 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: pvhs-app-help.jpg
 thumbnail_alt_text: photo of Patrick Bailey
-categories:
-  - News
-tags:
-  - education partnership center
-  - grant
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/gear-up.html 
 ---

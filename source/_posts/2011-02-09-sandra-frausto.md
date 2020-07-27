@@ -1,12 +1,11 @@
 ---
 id: 141
 title: Sandra Frausto
-date: 2011-02-09T22:12:55+00:00
+date: 2011-02-09
 layout: post
 excerpt: Sandra wanted to be a teacher,” said Elizabeth Rojo, remembering her sister’s aspirations. “She saw how hard our mother worked to put all eight of us through school and how important our education was to her. For Sandra, there was never any question that she would go on to college.
 thumbnail_image: frausto.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset frausto.jpg magick:resize=300 alt="tolliver" %}<figcaption>Sandra celebrates her high school graduation with her mother.</figcaption></figure>
@@ -25,4 +24,3 @@ The award particularly seeks to recognize those students participating in EAP an
 
 Frausto expressed that “passing Sandra’s dream along to others helped us to deal with the void of her loss. We wanted to honor her and we had the will to make it happen.”
 
-Please contact John Hopkins at 831-459-3822 or <jehopkin@ucsc.edu> to learn more about how you can help to support the goals of the Sandra Frausto Student Award.

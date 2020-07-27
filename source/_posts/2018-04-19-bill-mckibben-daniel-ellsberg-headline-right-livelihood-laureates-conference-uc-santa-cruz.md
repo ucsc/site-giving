@@ -2,7 +2,7 @@
 id: 3618
 title: Bill McKibben, Daniel Ellsberg headline Right Livelihood Laureates' Conference at UC Santa Cruz
 subtitle: Recipients of the "Alternative Nobel Prize" gather to advance social and environmental justice; public events focus on climate change, water, nuclear threat
-date: 2018-04-19T15:55:07+00:00
+date: 2018-04-19
 layout: post
 author:
   - Jennifer McNulty
@@ -24,12 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: mckibben_425.jpg
 thumbnail_alt_text: photo of Bill McKibben
-categories:
-  - News
-tags:
-  - bill mckibben
-  - daniel ellsberg
-  - right livelihood
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/kresge-rightlivelihood.html
 ---

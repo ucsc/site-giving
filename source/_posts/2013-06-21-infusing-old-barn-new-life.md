@@ -1,12 +1,10 @@
 ---
 id: 3194
 title: Infusing an old barn with new life
-date: 2013-06-21T15:29:17+00:00
+date: 2013-06-21
 layout: post
-excerpt: ""
 thumbnail_image: webster.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset webster.jpg magick:resize=300 alt='webster.jpg' %}

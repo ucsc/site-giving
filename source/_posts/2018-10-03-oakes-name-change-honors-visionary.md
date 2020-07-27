@@ -2,7 +2,7 @@
 id: 3789
 title: Oakes name change honors visionary
 subtitle: The Oakes Provost House will be renamed after its founding provost, J. Herman Blake
-date: 2018-10-03T15:43:33+00:00
+date: 2018-10-03
 layout: post
 author:
   - Dan White
@@ -24,11 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: hermanblakeprofileshot350.jpg
 thumbnail_alt_text: photo of Herman Blake, Oakes College Founding Provost
-categories:
-  - News
-tags:
-  - herman blake
-  - oakes
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/10/oakesnamechange.html
 ---

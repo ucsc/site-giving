@@ -1,15 +1,13 @@
 ---
 id: 2465
 title: Five UC Santa Cruz students receive Global Food Initiative Fellowships
-date: 2016-07-28T17:11:41+00:00
+date: 2016-07-28
 author:
   - Joan Springhetti
 author_email:
   - jspringh@ucsc.edu
 layout: post
 link_post: https://news.ucsc.edu/2016/06/global-food-fellowships.html
-categories:
-  - News
+category: "News"
 format: link
-link_post: https://news.ucsc.edu/2016/06/global-food-fellowships.html
 ---

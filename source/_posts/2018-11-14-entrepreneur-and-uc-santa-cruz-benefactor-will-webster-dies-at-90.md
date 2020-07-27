@@ -2,7 +2,7 @@
 id: 3846
 title: Entrepreneur and UC Santa Cruz benefactor Will Webster dies at 90
 subtitle: Webster, a major donor who created revolutionary cardiac devices, established a foundation that spearheaded significant campus changes.
-date: 2018-11-14T22:07:01+00:00
+date: 2018-11-14
 layout: post
 author:
   - J.D. Hillard
@@ -25,13 +25,7 @@ featured_post:
 thumbnail_image: willwebster102017.jpg
 thumbnail_alt_text: photo of Ted Alper in a boat
 image: willwebster102017.jpg
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - helen and will webster foundation
-  - webster laboratories
-  - wilton w. webster
+category: "Donor Profiles"
 format: link
 link_post: https://news.ucsc.edu/2018/11/will-webster.html
 ---

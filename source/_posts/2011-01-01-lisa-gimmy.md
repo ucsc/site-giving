@@ -1,7 +1,6 @@
 ---
 title: Lisa Gimmy
-subtitle:
-date: 2011-01-01T19:23:55+00:00
+date: 2011-01-01
 author: J. D. Hillard
 author_email: jhillard@ucsc.edu
 layout: post
@@ -22,8 +21,7 @@ featured_post:
   order: 2 # Options: 1 or 2
 thumbnail_image: gimmy.jpg
 thumbnail_alt_text: photo of Lisa Gimmy
-categories: [Donor Profiles]
-tags: false
+category: "Donor Profiles"
 ---
 <figure class="inline-image left">
 {% asset gimmy.jpg magick:resize=500 alt='photo of Lisa Gimmy' %}

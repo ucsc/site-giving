@@ -1,15 +1,14 @@
 ---
 id: 222
 title: Sparking a relationship between art and science
-date: 2013-01-09T15:52:22+00:00
+date: 2013-01-09
 layout: post
 excerpt: With their $1 million kick-off gift, Patricia and Rowland Rebele are helping to make into reality the highly anticipated Institute of the Arts and Sciences.
 see_also:
   - title: 2013 Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2012-13/index.php
 thumbnail_image: rebeles.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset rebeles.jpg magick:resize=300 alt="rebeles" %}<figcaption>Artists can look at a planning problem, an engineering problem—a world problem—in a way that can enlighten and inform the scientist,&#8221; said Rowland Rebele.</figcaption></figure>

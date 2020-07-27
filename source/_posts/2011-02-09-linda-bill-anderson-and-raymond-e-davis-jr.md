@@ -1,15 +1,17 @@
 ---
 id: 178
 title: Linda & Bill Anderson and Raymond E. Davis Jr.
-date: 2011-02-09T22:41:52+00:00
+date: 2011-02-09
 layout: post
 excerpt: “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
 thumbnail_image: anderson.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
+
 <figure class="inline-image right">
-{% asset anderson.jpg magick:resize=300 alt="anderson" %}<figcaption>UC Santa Cruz donors Bill and Linda Anderson and Linda&#8217;s father Raymond E. Davis Jr. honored Linda&#8217;s mother with a scholarship in her name. To date, the Marilyn C. Davis Memorial Scholarship for Re-entry Women in Science and Engineering has provided financial support for 96 students.</figcaption></figure>
+{% asset anderson.jpg magick:resize=300 alt="anderson" %}
+<figcaption>UC Santa Cruz donors Bill and Linda Anderson and Linda&#8217;s father Raymond E. Davis Jr. honored Linda&#8217;s mother with a scholarship in her name. To date, the Marilyn C. Davis Memorial Scholarship for Re-entry Women in Science and Engineering has provided financial support for 96 students.</figcaption>
+</figure>
 
 “You’re married. You don’t need financial support for education.” That’s the fallacy Linda Anderson, UCSC project scientist and donor is working to overcome. “People assume that because you’re an adult, you have the money to pay for school. It’s often even harder for returning students,” Anderson said.
 
@@ -28,5 +30,3 @@ Since the scholarship was established in 1990, the Marilyn C. Davis Memorial Sch
 The scholarship fund provides two types of grants: professional development awards and urgently needed funds. Professional development awards can be used to support activities such as field research or publication of articles. “Sometimes you just need airfare to get to a conference,” Anderson said. “We’re here to support the thousands of little expenses that accompany an education in the sciences.”
 
 Anderson is amazed by the obstacles the scholarship candidates overcome. One recent recipient “left an abusive marriage with three young boys. While on welfare, she was pursuing an undergraduate degree. In addition to managing her family life and speaking out for welfare women in four-year colleges, she managed to do research and attend national meetings to present her work on six occasions.” Anderson recounted. “We funded her to travel to present a paper for a competition put on by the American Association for the Advancement of Science (AAAS), where, as one of two undergraduates competing with graduate students, she received an honorable mention.”
-
-To learn more about this student award or to support its goals at UC Santa Cruz, please contact Jennifer Svihus at (831) 459-5591 or jsvihus@ucsc.edu.

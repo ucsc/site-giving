@@ -1,12 +1,10 @@
 ---
 id: 3235
 title: George Hitchcock and poetry
-date: 2012-10-21T16:52:40+00:00
+date: 2012-10-21
 layout: post
-excerpt: ""
 thumbnail_image: george-hitchcock.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset george-hitchcock.jpg magick:resize=300 alt='george-hitchcock.jpg' %}

@@ -1,12 +1,11 @@
 ---
 id: 352
 title: Beyond the Comfort Zone
-date: 2013-07-23T20:51:34+00:00
+date: 2013-07-23
 layout: post
 excerpt: With the help of an Irwin Project Grant, which funds student art projects on campus, art and psychology major Josh Katz launched a new trajectory of art-making.
 thumbnail_image: josh.jpg
-categories:
-  - Student Profiles
+category: "Student Profiles"
 ---
 <figure class="inline-image right">
 {% asset josh.jpg magick:resize=300 alt="josh katz" %}<figcaption>Josh Katz has gained rich insight into himself and his art during his transformative experience at UCSC. He is majoring in art and psychology.</figcaption></figure>

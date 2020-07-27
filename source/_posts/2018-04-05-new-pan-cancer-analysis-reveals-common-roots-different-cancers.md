@@ -1,7 +1,7 @@
 ---
 id: 3599
 title: New 'Pan-Cancer' analysis reveals the common roots of different cancers
-date: 2018-04-05T20:08:08+00:00
+date: 2018-04-05
 layout: post
 author:
   - Aylin Woodward
@@ -23,11 +23,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: pancancer-410.jpg
 thumbnail_alt_text: The Pan-Cancer Atlas is the most comprehensive cross-cancer analysis to date and is the final output of The Cancer Genome Atlas (TCGA) program, a joint effort of the National Cancer Institute (NCI) and the National Human Genome Research Institute (NHGRI). Cancer researchers analyzed and classified over 10,000 tumors representing 33 different types of cancer to trace the connections between different cancers.
-categories:
-  - News
-tags:
-  - cancer
-  - genomics institute
+category: "News"
 format: link
 link_post: https://news.ucsc.edu/2018/04/pan-cancer-atlas.html
 ---

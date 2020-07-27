@@ -1,9 +1,8 @@
 ---
 id: 507
 title: Arts and letters for the ages
-date: 2017-08-14T17:28:21+00:00
+date: 2017-08-14
 layout: post
-excerpt: ""
 see_also_links:
   - "2"
 see_also_links_0_link_name:
@@ -15,8 +14,7 @@ see_also_links_1_link_name:
 see_also_links_1_link_link:
   - https://dickens.ucsc.edu/universe/
 thumbnail_image: UCSC_UCOP_day1-68.jpg
-categories:
-  - Campaign Impact
+category: "News"
 ---
 <figure class="inline-image right">
 {% asset UCSC_UCOP_day1-68.jpg magick:resize=300 alt='photo of Denise Gallant at KZSC in 1977' %}

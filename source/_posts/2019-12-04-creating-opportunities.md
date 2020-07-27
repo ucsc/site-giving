@@ -2,7 +2,7 @@
 id: 4040
 title: Creating opportunities
 subtitle: 
-date: 2019-12-04T17:53:24+00:00
+date: 2019-12-04
 layout: post
 author:
   - J.D. Hillard
@@ -24,13 +24,7 @@ featured_post:
   order: 1 # Options: 1 or 2
 thumbnail_image: first-gen-latina.jpg
 thumbnail_alt_text: photo of People
-categories:
-  - Donor Profiles
-  - News
-tags:
-  - first-generation
-  - jacques m. littlefield foundation
-  - professor rebecca covarrubias
+category: "Donor Profiles"
 ---
 
 <figure class="inline-image left">

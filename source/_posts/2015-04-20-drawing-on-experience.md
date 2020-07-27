@@ -1,13 +1,12 @@
 ---
 id: 3124
 title: Drawing on Experience
-date: 2015-04-20T20:49:55+00:00
+date: 2015-04-20
 excerpt: Seeking to ensure that the transformative educational experiences he had as a UC Santa Cruz student continue, alumnus Jock Reynolds has established the Alumni Fund for Visiting Artists.
 layout: post
 excerpt: Seeking to ensure that the transformative educational experiences he had as a UC Santa Cruz student continue, alumnus Jock Reynolds has established the Alumni Fund for Visiting Artists.
 thumbnail_image: reynolds.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset reynolds.jpg magick:resize=400 alt='reynolds' %}

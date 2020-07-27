@@ -1,9 +1,8 @@
 ---
 id: 251
 title: Growing a legacy
-date: 2015-05-26T19:11:59+00:00
+date: 2015-05-26
 layout: post
-excerpt: ""
 see_also:
   - title: Annual Report on Philanthropy
     link: http://giving.ucsc.edu/reports/2013-14/index.php
@@ -12,8 +11,7 @@ see_also:
   - title: The Campaign for UC Santa Cruz
     link: http://campaign.ucsc.edu/
 thumbnail_image: naraghi-sharon.jpg
-categories:
-  - Donor Profiles
+category: "Donor Profiles"
 ---
 <figure class="inline-image right">
 {% asset naraghi-sharon.jpg magick:resize=180 alt='naraghi-sharon' %}
