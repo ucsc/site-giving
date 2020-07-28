@@ -10,23 +10,38 @@ hero:
   horizontal: left #options: left, right
 ---
 
-<div id="archives">
+<div id="archives" class="tabbed">
 
-{% for category in site.categories %}
+{% assign stories = site.categories | sort %}
 
-  <h2 id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
+<!-- Build a table of contents for the tabbed interface -->
+<ul role="tablist">
+{% for category in stories %}
 
-  <div class="archive-group">
+  <li role="presentation">
+    <a role="tab" href="#section-{{ category[0] | slugify }}" id="toc-{{ category[0] | slugify }}" aria-selected="true">{{ category[0] }}</a>
+  </li>
 
-    <ul>
-    {%- for p in category[1] %}
-      <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
-    {%- endfor %}
-    </ul>
+{% endfor %}
+</ul>
 
-  </div>
+<!-- Build each section containing all of the stories in that category -->
+{% for category in stories %}
+
+<section role="tabpanel" id="section-{{ category[0] | slugify }}" aria-labelledby="toc-{{ category[0] | slugify }}">
+
+  <h2>{{ category[0] }}</h2>
+
+  <ul>
+  {%- for p in category[1] %}
+    <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
+  {%- endfor %}
+  </ul>
+
+</section>
 
 {% endfor %}
 
 </div>
 
+<script src="{% asset tab-list.js @path %}"></script>
