@@ -29,14 +29,12 @@ support_areas:
     image_alt: image alt text
     button_text: Learn More
     button_link: /areas-to-support/academic-divisions-library/
-    division_list: true
   - heading: College Funds
     copy: "Help spportive on-campus communities thrive. The 10 residential colleges provide academic assistance and activities embracing intellectual and social life."
     image: college-funds.jpg
     image_alt: image alt text
     button_text: Learn More
     button_link: /areas-to-support/the-colleges/
-    college_list: true
   - heading: Faculty Support and Chairs
     copy: "Giving to chairs and professorships helps retain and recruit innovative and accomplished scholars."
     image: faculty-support.jpg
@@ -62,9 +60,7 @@ support_areas:
                 <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
             </div>
             {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
-        </div>
-        {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
-        {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
+        </div>       
     </div>
 {% if this_loop == 0 -%}
 <hr>
