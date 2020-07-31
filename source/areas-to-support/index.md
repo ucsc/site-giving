@@ -11,12 +11,12 @@ hero:
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
 support_areas:
-  - heading: UCSC Fund
-    copy: "Ensure your gift goes to the area of greatest need."
+  - heading: All Designated Funds
+    copy: "Search or browse an A-Z list of all giving opportunities."
     image: search-funds.jpg
-    image_alt: image alt text
-    button_text: Learn More
-    button_link: /areas-to-support/ucsc-fund/
+    image_alt: search-funds.jpg
+    button_text: A-Z list
+    button_link: http://alumni.ucsc.edu/search-designations/
   - heading: Crowdfunding
     copy: "Browse current and upcoming fundraising projects."
     image: woman-with-binoculars.jpg
