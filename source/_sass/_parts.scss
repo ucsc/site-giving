@@ -776,8 +776,10 @@
 }
 
 .hero-wrap {
-    padding-bottom: 54px;
-    padding-bottom: 3.375em;
+    @include media-query($on-desktop) {
+        padding-bottom: 54px;
+        padding-bottom: 3.375em;
+    }
 }
 
 
