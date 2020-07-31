@@ -770,8 +770,14 @@
 
 .home {
     .hero-wrap {
-        padding-top: 54px;
+        padding: 54px 0;
+        padding: 3.375em 0;
     }
+}
+
+.hero-wrap {
+    padding-bottom: 54px;
+    padding-bottom: 3.375em;
 }
 
 
