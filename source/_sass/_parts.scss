@@ -322,14 +322,19 @@
             p {
                 font-weight: 500;
                 line-height: 1.25;
-                // @include relative-font-size(0.875);
+                margin: 0 5px 15px;
+                @include media-query($on-desktop) {
+                    // width: 100%;
+                    margin: 0 0 15px;
+                }
             }
             .yellow-pill {
+                @include relative-font-size(1);
                 width: 75%;
                 margin: 0 auto 1.5rem;
                 @include media-query($on-desktop) {
-                    width: 100%;
-                    margin: 0;
+                    // width: 100%;
+                    margin: 0 auto;
                 }
             }
         }
