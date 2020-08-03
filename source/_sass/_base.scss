@@ -255,22 +255,21 @@ a {
         color: $brand-color;
     }
     &:hover {
-        color: $brand-color;
-        text-decoration: underline;
+        // color: $brand-color;
+        // text-decoration: underline;
+        color: $ucsc-orange;
+    }
+    &:focus {
+        color: $ucsc-primary-blue;
+    }
+    &:active {
+        // color: $ucsc-primary-blue;
+        color: darken($brand-color, 15%);
     }
     .social-media-list &:hover {
         text-decoration: none;
         .username {
             text-decoration: underline;
-        }
-    }
-}
-
-.page-content {
-    a {
-        border-bottom: 2px solid $ucsc-primary-yellow;
-        &:hover {
-            text-decoration: none;
         }
     }
 }
