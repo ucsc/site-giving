@@ -794,10 +794,15 @@
  *
  */
 
+.wrapper.crumbs {
+    width: 100%;
+}
+
 .breadcrumbs {
     width: 100%;
     padding-top: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 2;
+    @include relative-font-size(0.75);
 }
 
 .layout-post {
