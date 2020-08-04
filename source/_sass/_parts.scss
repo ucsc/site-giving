@@ -251,12 +251,24 @@
 }
 
 .yellow-pill {
-    color: $ucsc-primary-blue !important;
-    &:visited,
-    &:hover {
-        color: $ucsc-primary-blue
-    }
+    // color: $ucsc-primary-blue !important;
+    // &:visited,
+    // &:hover {
+    //     color: $ucsc-primary-blue
+    // }
     background-color: $ucsc-primary-yellow;
+    &:link,
+    &:visited {
+        color: $ucsc-primary-blue !important;
+    }
+    &:hover,
+    &:focus {
+        color: $white !important;
+    }
+    &:active {
+        background-color: lighten($ucsc-primary-yellow, 15%);
+        color: lighten($ucsc-primary-blue, 15%);
+    }
 }
 
 .red-pill {
@@ -273,6 +285,19 @@
     &:active {
         // color: $ucsc-light-blue!important;
         background-color: $ucsc-light-blue !important;
+    }
+}
+
+.make-difference {
+    .red-pill {
+        &:hover,
+        &:focus {
+            background: $ucsc-primary-blue!important;
+        }
+        &:active {
+            // color: $ucsc-light-blue!important;
+            background-color: lighten($ucsc-magenta, 15%) !important;
+        }
     }
 }
 

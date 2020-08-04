@@ -315,12 +315,27 @@ a {
     display: none;
     border-bottom: none;
     color: #da216d;
-    &:hover,
-    &.focus,
-    &.active,
-    &.visited {
+    &:visited {
         border-bottom: none;
-        color: $ucsc-magenta;
+        color: $ucsc-magenta!important;
+    }
+    &:hover,
+    &:focus {
+        background: none!important;
+        border-bottom: none!important;
+    }
+    &:active {
+        background: none !important;
+        color: lighten($ucsc-magenta, 15%) !important;
+    }
+}
+
+.footer-logo {
+    &:hover,
+    &:focus,
+    &:active {
+        background: none!important;
+        border-bottom: none!important;
     }
 }
 
