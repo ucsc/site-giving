@@ -261,11 +261,19 @@
 
 .red-pill {
     color: $white;
-    &:visited,
-    &:hover {
-        color: $white;
-    }
     background-color: $ucsc-magenta;
+    &:link,
+    &:visited {
+        color: $white!important;
+    }
+    &:hover {
+        background: $ucsc-light-blue!important;
+        color: $white !important;
+    }
+    &:active {
+        // color: $ucsc-light-blue!important;
+        background-color: $ucsc-light-blue !important;
+    }
 }
 
 .blue-pill {

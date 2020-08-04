@@ -23,10 +23,6 @@
      letter-spacing: -1px;
      margin-bottom: 0;
      float: left;
-     &,
-     &:visited {
-         color: $ucsc-primary-blue;
-     }
      @include media-query($on-desktop) {
          @include relative-font-size(2.8125);
      }
@@ -59,9 +55,6 @@
              &:first-child {
                  padding-left: 0;
              }
-         }
-         &.red-pill {
-             color: $white;
          }
      }
      @include media-query($on-desktop) {

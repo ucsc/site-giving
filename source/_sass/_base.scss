@@ -248,23 +248,24 @@ h6 {
  */
 
 a {
-    color: $brand-color;
-    text-decoration: none;
+    &:link,
     &:visited {
-        // color: darken($brand-color, 15%);
-        color: $brand-color;
+        color: $ucsc-light-blue;
+        text-decoration: none;
     }
-    &:hover {
-        // color: $brand-color;
-        // text-decoration: underline;
-        color: $ucsc-orange;
+    &:hover,
+    &:focus {
+        background-color: $ucsc-light-blue;
+        color: $white;
+        border-bottom: 1px solid lighten($ucsc-light-blue, 15%);
     }
     &:focus {
-        color: $ucsc-primary-blue;
+        outline: 1px dotted #999;
     }
     &:active {
-        // color: $ucsc-primary-blue;
-        color: darken($brand-color, 15%);
+        background-color: lighten($ucsc-light-blue, 15%);
+        color: white;
+        outline: 0px;
     }
     .social-media-list &:hover {
         text-decoration: none;
@@ -586,6 +587,18 @@ table {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    a {
+        &:link,
+        &:visited {
+            color: $ucsc-primary-blue;
+        }
+        &:hover,
+        &:focus {
+            border-bottom: none;
+            color: $white;
+            background: $ucsc-primary-blue;
+        }
+    }
     .nav-toggle {
         margin-left: auto;
         @include media-query ($on-desktop) {
@@ -600,6 +613,24 @@ table {
         }
         @include media-query ($on-desktop) {
             display: block;
+        }
+        a {
+            &:link,
+            &:visited {
+                color: $ucsc-light-blue;
+            }
+            &:hover {
+                background: none;
+                color: $ucsc-light-blue;
+            }
+            &:focus {
+                background: $ucsc-light-blue;
+                color: $white;
+            }
+            &:active {
+                background: none;
+                color: $ucsc-primary-blue;
+            }
         }
     }
 }
