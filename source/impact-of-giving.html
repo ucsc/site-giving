@@ -7,39 +7,72 @@ hero:
   image: hero-problem-solvers.jpg #best at 1000px by 450px
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
+support_areas:
+  - heading: Benefits to Students
+    copy: "See how your gifts benefit our students"
+    image: search-funds.jpg
+    image_alt: image alt text
+    button_text: Read more
+    button_link: "#section-student-profiles"
+  - heading: Choosing to give
+    copy: "See the people who give to UC Santa Cruz"
+    image: woman-with-binoculars.jpg
+    image_alt: Woman with binoculars
+    button_text: Read more
+    button_link: "#section-donor-profiles"
 ---
 
-<div id="archives" class="tabbed">
+<div class="page-areas">
 
-{% assign stories = site.categories | sort %}
+  {% if page.support_areas %}
+    <section class="cta two-col-grid">
+      {% for item in page.support_areas %}
+        {% assign this_loop = forloop.index | modulo: 2 %}
+          <div class="grid-cell">
+              <div class="container">
+                  <div class="copy">
+                      <h2>{{item.heading}}</h2>
+                      <p>{{item.copy}}</p>
+                      <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
+                  </div>
+                  {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
+              </div>
+              {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
+              {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
+          </div>
+        {% if this_loop == 0 -%}<hr>{% endif -%}
+      {% endfor %}
+    </section>
+  {% endif %}
 
-<!-- Build a table of contents for the tabbed interface -->
-<ul role="tablist">
-{% for category in stories %}
+  <div id="archives" class="tabbed">
 
-  <li role="presentation">
-    <a role="tab" href="#section-{{ category[0] | slugify }}" id="toc-{{ category[0] | slugify }}" aria-selected="true">{{ category[0] }}</a>
-  </li>
+    <!-- Sorted categories of news articles -->
+    {% assign stories = site.categories | sort %}
 
-{% endfor %}
-</ul>
+    <!-- Build a table of contents for the tabbed interface -->
+    <ul role="tablist">
+      {% for category in stories %}
+      <li role="presentation">
+        <a role="tab" href="#section-{{ category[0] | slugify }}" id="toc-{{ category[0] | slugify }}" aria-selected="true">{{ category[0] }}</a>
+      </li>
+      {% endfor %}
+    </ul>
 
-<!-- Build each section containing all of the stories in that category -->
-{% for category in stories %}
+    <!-- Build each section containing all of the stories in that category -->
+    {% for category in stories %}
+    <section role="tabpanel" id="section-{{ category[0] | slugify }}" aria-labelledby="toc-{{ category[0] | slugify }}">
+      <h2>{{ category[0] }}</h2>
 
-<section role="tabpanel" id="section-{{ category[0] | slugify }}" aria-labelledby="toc-{{ category[0] | slugify }}">
+      <ul>
+      {%- for p in category[1] %}
+        <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
+      {%- endfor %}
+      </ul>
+    </section>
+    {% endfor %}
 
-  <h2>{{ category[0] }}</h2>
-
-  <ul>
-  {%- for p in category[1] %}
-    <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
-  {%- endfor %}
-  </ul>
-
-</section>
-
-{% endfor %}
+  </div>
 
 </div>
 
