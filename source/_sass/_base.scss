@@ -278,12 +278,15 @@ a {
 .cta {
     .copy {
         a {
-            color: $white;
-            font-weight: 700;
-            border-bottom: 2px solid $ucsc-primary-yellow;
-            &:hover {
-                text-decoration: none;
-                color: $ucsc-light-blue;
+            &:link,
+            &:visited {
+                color: $white;
+                font-weight: 700;
+                border-bottom: 2px solid $ucsc-primary-yellow;
+            }
+            &:active {
+                background: none !important;
+                color: $ucsc-light-blue !important;
             }
         }
     }
