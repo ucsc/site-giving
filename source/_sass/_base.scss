@@ -613,8 +613,9 @@ table {
         &:hover,
         &:focus {
             border-bottom: none;
-            color: $white;
-            background: $ucsc-primary-blue;
+            background: none;
+            color: $ucsc-light-blue;
+            // background: $ucsc-primary-blue;
         }
     }
     .nav-toggle {
@@ -637,18 +638,17 @@ table {
             &:visited {
                 color: $ucsc-light-blue;
             }
-            &:hover {
-                background: none;
-                color: $ucsc-light-blue;
-            }
+            &:hover,
             &:focus {
-                background: $ucsc-light-blue;
-                color: $white;
+                background: none;
+                color: $ucsc-primary-blue;
+                border-bottom: 1px dashed #ddd;
             }
             &:active {
                 background: none;
                 color: $ucsc-primary-blue;
             }
+            border-bottom: 1px solid rgba(255, 255, 255, 0.0);
         }
     }
 }
