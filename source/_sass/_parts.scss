@@ -766,17 +766,22 @@
  *
  */
 
-.contact-info {
-    padding: ($spacing-unit / 2) 0;
+.contact {
+    padding: 0 ($spacing-unit / 2) 0;
     margin: 0 auto;
     width: 90%;
-    text-align: center;
+    // text-align: center;
     a {
         font-weight: 700;
         // border-bottom: none;
     }
     @include media-query ($on-desktop) {
-        padding: $spacing-unit 0;
+        padding: 0;
+    }
+    .contact-info {
+        p:first-child {
+            margin-bottom: 0;
+        }
     }
 }
 

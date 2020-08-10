@@ -1,18 +1,24 @@
 ---
 layout: page
-title: Contact us Now!
+title: Contact us
 menu: "Contact Us"
 order: 4
 permalink: /contact-us/
-phone: "800-933-7584"
+copy: "We have a dedicated team ready to help you realize your philanthropic vision."
+phone: "(831) 459-2501"
 email: giving@ucsc.edu
 hero:
-  use: true #true or false
+  use: false #true or false
   image: hero-contact.jpg #best at 1000px by 450px
   alt_text: Hero Image Alt Text
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 contacts:
+  - name: Mark Davis
+    title: Vice Chancellor, University Relations
+    phone: (831) 459-2654
+    email: mdrdavis@ucsc.edu
+    image: Davis_Mark_Reyes.jpg
   - name: Jeff Shilling
     title: Vice Chancellor, University Relations (interim)
     phone: (831) 459-5718
@@ -23,15 +29,16 @@ contacts:
     phone: (831) 459-1717
     email: jhillard@ucsc.edu
     image: jd-hillard.jpg
-  - name: Nathan Westrup
-    title: Director, UC Santa Cruz Foundation (interim)
-    phone: (831) 459-1086
-    email: nwestrup@ucsc.edu
-    image: nathan-westrup.jpg
 
 ---
+<div class="contact">
+<div class="contact-copy">
+<p>{{page.copy}}</p>
+</div>
 <div class="contact-info">
 <p><a class="phone" href="tel:{{page.phone}}">{{page.phone}}</a></p>
 <p><a class="email" href="mailto:{{page.email}}">{{page.email}}</a></p>
+</div>
+
 </div>
 {%- include contact-grid.html -%}
