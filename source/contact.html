@@ -4,7 +4,8 @@ title: Contact us
 menu: "Contact Us"
 order: 4
 permalink: /contact-us/
-phone: "800-933-7584"
+copy: "We have a dedicated team ready to help you realize your philanthropic vision."
+phone: "(831) 459-2501"
 email: giving@ucsc.edu
 hero:
   use: false #true or false
@@ -30,8 +31,14 @@ contacts:
     image: nathan-westrup.jpg
 
 ---
+<div class="contact">
+<div class="contact-copy">
+<p>{{page.copy}}</p>
+</div>
 <div class="contact-info">
 <p><a class="phone" href="tel:{{page.phone}}">{{page.phone}}</a></p>
 <p><a class="email" href="mailto:{{page.email}}">{{page.email}}</a></p>
+</div>
+
 </div>
 {%- include contact-grid.html -%}
