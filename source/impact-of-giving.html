@@ -1,114 +1,79 @@
 ---
 layout: page
 title: Impact of <span class="yellow">Giving</span>
-menu: "Impact of Giving"
-order:
-pagination:
-  enabled: true
+permalink: /impact-of-giving/
 hero:
   use: true
-  image: hero-impact-of-giving.jpg #best at 1000px by 450px
-  alt_text: Hero Image Alt Text
-  vertical: top #options: top, bottom
-  horizontal: right #options: left, right
+  image: hero-problem-solvers.jpg #best at 1000px by 450px
+  vertical: bottom #options: top, bottom
+  horizontal: left #options: left, right
 support_areas:
-  - heading: UCSC Fund
-    copy: "Ensure your gift goes to the area of greatest need."
-    image: 200.jpg
-    image_alt: image alt text
-    button_text: Learn More
-    button_link: /areas-to-support/ucsc-fund/
-  - heading: Search Funds
-    copy: "Search or browse all giving opportunities"
+  - heading: Benefits to Students
+    copy: "See how your gifts benefit our students"
     image: search-funds.jpg
     image_alt: image alt text
-    button_text: Search an A-Z List
-    button_link: http://alumni.ucsc.edu/search-designations/
+    button_text: Read more
+    button_link: "#section-student-profiles"
+  - heading: Choosing to give
+    copy: "See the people who give to UC Santa Cruz"
+    image: woman-with-binoculars.jpg
+    image_alt: Woman with binoculars
+    button_text: Read more
+    button_link: "#section-donor-profiles"
 ---
-{% if paginator.page <= 1 %}
-{%- if site.posts.size > 0 -%}
-<section class="cta two-col-grid">
-{%- for post in site.posts -%}
-{% if post.featured_post.use %}
 
-<div class="grid-cell">
-  <div class="container">
-    <div class="copy">
-      <h2>{{post.title}}</h2>
-      {% if post.pull_quote %}
-      <p>{{post.pull_quote}}</p>
-      <p>{{post.pull_quote_author}}</p>
-      {% else %}
-      <p>{{post.subtitle}}</p>
-      {%endif%}
-      <a href="{{post.url}}" class="yellow-pill">Learn More</a>
-    </div>
-    {% include image-alt-text.html %}
-{% asset {{post.thumbnail_image}} alt="{{alt_text}}" magick:resize=x200 %}
+<div class="page-areas">
+
+  {% if page.support_areas %}
+    <section class="cta two-col-grid">
+      {% for item in page.support_areas %}
+        {% assign this_loop = forloop.index | modulo: 2 %}
+          <div class="grid-cell">
+              <div class="container">
+                  <div class="copy">
+                      <h2>{{item.heading}}</h2>
+                      <p>{{item.copy}}</p>
+                      <a href="{{item.button_link}}" class="tab-target yellow-pill">{{item.button_text}}</a>
+                  </div>
+                  {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
+              </div>
+              {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
+              {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
+          </div>
+        {% if this_loop == 0 -%}<hr>{% endif -%}
+      {% endfor %}
+    </section>
+  {% endif %}
+
+  <div id="archives" class="tabbed">
+
+    <!-- Sorted categories of news articles -->
+    {% assign stories = site.categories | sort %}
+
+    <!-- Build a table of contents for the tabbed interface -->
+    <ul role="tablist">
+      {% for category in stories %}
+      <li role="presentation">
+        <a role="tab" href="#section-{{ category[0] | slugify }}" id="toc-{{ category[0] | slugify }}" aria-selected="true">{{ category[0] }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <!-- Build each section containing all of the stories in that category -->
+    {% for category in stories %}
+    <section role="tabpanel" id="section-{{ category[0] | slugify }}" aria-labelledby="toc-{{ category[0] | slugify }}">
+      <h2>{{ category[0] }}</h2>
+
+      <ul>
+      {%- for p in category[1] %}
+        <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
+      {%- endfor %}
+      </ul>
+    </section>
+    {% endfor %}
+
   </div>
-</div>
- {% endif %}
- {% endfor %}
- </section>
- {%endif%}
- {%endif%}
- {%- if paginator.posts.size > 0 -%}
-
-<ul class="post-list">
- {%- for post in paginator.posts -%}
-{% unless post.featured_post.use %}
-
-{%- if post.thumbnail_image -%}
-<li class="post-list-grid">
-<div class="post-list-image">
-{% include archive-thumbnail.html %}
-</div>
-<div class="post-list-copy">
-{%- else -%}
-<li>
-<div class="post-list-copy">
-{%- endif -%}
-  <h3>
-    <a class="post-link" href="{% if post.link_post%}{{post.link_post}}{% else %}{{ post.url | relative_url }}{% endif %}">
-      {{ post.title | escape }}
-    </a>
-  </h3>
- {%if post.excerpt %}
-    <p>{{ post.excerpt | markdownify | truncate:310 }}</p>
-  {% else %}
-    {% unless post.link_post%}
-      {{ post.content | strip_html | truncatewords: 50 }}
-    {% endunless %}
- {% endif %}
-
-
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  <span class="post-meta">{%- if post.author -%}By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a>,&nbsp;</span>
-  {%- endif -%}
-  {{ post.date | date: date_format }}</span>
-
-  {% unless post.categories == empty %}
-
-  {%assign categories = post.categories %}
-
-
-   <span class="post-meta categories">Filed Under:
-{% for category in categories %}
-
-<a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
-
-
-  {% unless forloop.last %},&nbsp;{% endunless %}
-  {% endfor %}
-  </span>
-  {% endunless %}
 
 </div>
-</li>
-{% endunless %}
-{%- endfor -%}
-</ul>
-{%- endif -%}
-{% include pagination-trail.html %}
 
-</div>
+<script src="{% asset tab-list.js @path %}"></script>
