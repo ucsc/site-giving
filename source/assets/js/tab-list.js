@@ -69,16 +69,15 @@
 
   // Select tab when button pressed
   Array.prototype.forEach.call(tabTargets, (tabLink, i) => {
-      // Handle clicking of tabs for mouse users
-      tabLink.addEventListener('click', e => {
-        e.preventDefault();
-        let currentTab = tablist.querySelector('[aria-selected]');
-        if (e.currentTarget !== currentTab) {
-          switchTab(currentTab, e.currentTarget);
-        }
-      });
-    )
-  };
+    // Handle clicking of tabs for mouse users
+    tabLink.addEventListener('click', e => {
+      e.preventDefault();
+      let currentTab = tablist.querySelector('[aria-selected]');
+      if (e.currentTarget !== currentTab) {
+        switchTab(currentTab, e.currentTarget);
+      }
+    });
+  });
 
   // Add tab panel semantics and hide them all
   Array.prototype.forEach.call(panels, (panel, i) => {

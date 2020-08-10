@@ -251,21 +251,54 @@
 }
 
 .yellow-pill {
-    color: $ucsc-primary-blue !important;
-    &:visited,
-    &:hover {
-        color: $ucsc-primary-blue
-    }
+    // color: $ucsc-primary-blue !important;
+    // &:visited,
+    // &:hover {
+    //     color: $ucsc-primary-blue
+    // }
     background-color: $ucsc-primary-yellow;
+    &:link,
+    &:visited {
+        color: $ucsc-primary-blue !important;
+    }
+    &:hover,
+    &:focus {
+        color: $white !important;
+    }
+    &:active {
+        background-color: lighten($ucsc-primary-yellow, 15%);
+        color: lighten($ucsc-primary-blue, 15%);
+    }
 }
 
 .red-pill {
     color: $white;
-    &:visited,
-    &:hover {
-        color: $white;
-    }
     background-color: $ucsc-magenta;
+    &:link,
+    &:visited {
+        color: $white!important;
+    }
+    &:hover {
+        background: $ucsc-light-blue!important;
+        color: $white !important;
+    }
+    &:active {
+        // color: $ucsc-light-blue!important;
+        background-color: $ucsc-light-blue !important;
+    }
+}
+
+.make-difference {
+    .red-pill {
+        &:hover,
+        &:focus {
+            background: $ucsc-primary-blue!important;
+        }
+        &:active {
+            // color: $ucsc-light-blue!important;
+            background-color: lighten($ucsc-magenta, 15%) !important;
+        }
+    }
 }
 
 .blue-pill {
@@ -322,14 +355,19 @@
             p {
                 font-weight: 500;
                 line-height: 1.25;
-                // @include relative-font-size(0.875);
+                margin: 0 5px 15px;
+                @include media-query($on-desktop) {
+                    // width: 100%;
+                    margin: 0 0 15px;
+                }
             }
             .yellow-pill {
+                @include relative-font-size(1);
                 width: 75%;
                 margin: 0 auto 1.5rem;
                 @include media-query($on-desktop) {
-                    width: 100%;
-                    margin: 0;
+                    // width: 100%;
+                    margin: 0 auto;
                 }
             }
         }
@@ -770,7 +808,15 @@
 
 .home {
     .hero-wrap {
-        padding-top: 54px;
+        padding: 54px 0;
+        padding: 3.375em 0;
+    }
+}
+
+.hero-wrap {
+    @include media-query($on-desktop) {
+        padding-bottom: 54px;
+        padding-bottom: 3.375em;
     }
 }
 
@@ -781,10 +827,15 @@
  *
  */
 
+.wrapper.crumbs {
+    width: 100%;
+}
+
 .breadcrumbs {
     width: 100%;
     padding-top: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 2;
+    @include relative-font-size(0.75);
 }
 
 .layout-post {
