@@ -4,6 +4,7 @@
   const tablist = tabbed.querySelector('ul');
   const tabs = tablist.querySelectorAll('a');
   const panels = tabbed.querySelectorAll('[id^="section"]');
+  const tabTargets = document.querySelectorAll('.tab-target');
 
   // The tab switching function
   const switchTab = (oldTab, newTab) => {
@@ -41,6 +42,15 @@
       }
     });
 
+    // Handle clicking of tabs for mouse users
+    section - button.addEventListener('click', e => {
+      e.preventDefault();
+      let currentTab = tablist.querySelector('[aria-selected]');
+      if (e.currentTarget !== currentTab) {
+        switchTab(currentTab, e.currentTarget);
+      }
+    });
+
     // Handle keydown events for keyboard users
     tab.addEventListener('keydown', e => {
       // Get the index of the current tab in the tabs node list
@@ -56,6 +66,19 @@
       }
     });
   });
+
+  // Select tab when button pressed
+  Array.prototype.forEach.call(tabTargets, (tabLink, i) => {
+      // Handle clicking of tabs for mouse users
+      tabLink.addEventListener('click', e => {
+        e.preventDefault();
+        let currentTab = tablist.querySelector('[aria-selected]');
+        if (e.currentTarget !== currentTab) {
+          switchTab(currentTab, e.currentTarget);
+        }
+      });
+    )
+  };
 
   // Add tab panel semantics and hide them all
   Array.prototype.forEach.call(panels, (panel, i) => {
