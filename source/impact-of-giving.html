@@ -47,25 +47,23 @@ support_areas:
 
   <div id="archives" class="tabbed">
 
-    <!-- Sorted categories of news articles -->
-    {% assign stories = site.categories | sort %}
-
     <!-- Build a table of contents for the tabbed interface -->
     <ul role="tablist">
-      {% for category in stories %}
+      {% for category in site.post_category_order %}
       <li role="presentation">
-        <a role="tab" href="#section-{{ category[0] | slugify }}" id="toc-{{ category[0] | slugify }}" aria-selected="true">{{ category[0] }}</a>
+        <a role="tab" href="#section-{{ category | slugify }}" id="toc-{{ category | slugify }}" aria-selected="true">{{ category }}</a>
       </li>
       {% endfor %}
     </ul>
 
     <!-- Build each section containing all of the stories in that category -->
-    {% for category in stories %}
-    <section role="tabpanel" id="section-{{ category[0] | slugify }}" aria-labelledby="toc-{{ category[0] | slugify }}">
-      <h2>{{ category[0] }}</h2>
+    {% for category in site.post_category_order %}
+    {% assign sorted_stories = site.posts | where: "category", category %}
+    <section role="tabpanel" id="section-{{ category | slugify }}" aria-labelledby="toc-{{ category | slugify }}">
+      <h2>{{ category }}</h2>
 
       <ul>
-      {%- for p in category[1] %}
+      {%- for p in sorted_stories %}
         <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
       {%- endfor %}
       </ul>

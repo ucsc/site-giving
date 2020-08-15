@@ -42,15 +42,6 @@
       }
     });
 
-    // Handle clicking of tabs for mouse users
-    section - button.addEventListener('click', e => {
-      e.preventDefault();
-      let currentTab = tablist.querySelector('[aria-selected]');
-      if (e.currentTarget !== currentTab) {
-        switchTab(currentTab, e.currentTarget);
-      }
-    });
-
     // Handle keydown events for keyboard users
     tab.addEventListener('keydown', e => {
       // Get the index of the current tab in the tabs node list
