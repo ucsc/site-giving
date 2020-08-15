@@ -593,11 +593,13 @@ table {
     input[type="image"] {
       position: relative;
       top: .24em;
-      right: 1.75em;
+      right: 1.85em;
     }
 
     input[type="text"] {
       width: 88%;
+      padding: .55em .45em;
+      border: none;
     }
   }
 
