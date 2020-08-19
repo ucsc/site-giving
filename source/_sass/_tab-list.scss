@@ -31,7 +31,7 @@
 
 [role="tabpanel"] {
   border-top: 2px solid lightBlue;
-  padding: 1.5rem;
+  padding: 1.5rem 0;
 }
 
 [role="tabpanel"] *+* {
@@ -71,4 +71,51 @@
     border-top: 0;
   }
 
+}
+
+
+.posts {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  align-items: top;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.posts li {
+  margin: 0 0 2em 0;
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+
+.posts .media {
+  flex: 1;
+}
+
+.posts .media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.posts time {
+  display: block;
+  margin: 0 0 .25em 0;
+  color: #666;
+  font-weight: 400;
+  font-size: 1.28rem;
+  letter-spacing: .08rem;
+  text-transform: uppercase;
+}
+
+.posts h3 {
+  margin: 0 0 .25em 0;
+  font-size: 2rem;
+  line-height: 1.4;
+}
+
+.posts p {
+  font-size: 1.4rem;
 }

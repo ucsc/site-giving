@@ -62,9 +62,19 @@ support_areas:
     <section role="tabpanel" id="section-{{ category | slugify }}" aria-labelledby="toc-{{ category | slugify }}">
       <h2>{{ category }}</h2>
 
-      <ul>
+      <ul class="list posts">
       {%- for p in sorted_stories %}
-        <li><time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time> - <a href="{{ p.url }}">{{ p.title }}</a></li>
+        <li>
+          <div class="text">
+            <time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time>
+            <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+          </div>
+          <div class="media">
+            {% if p.thumbnail_image %}
+              {% asset {{p.thumbnail_image}} magick:resize=300 alt="{{p.thumbnail_alt_text}}" %}
+            {% endif %}
+          </div>
+        </li>
       {%- endfor %}
       </ul>
     </section>
