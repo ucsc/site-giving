@@ -261,23 +261,15 @@ a {
   &:visited {
     color: $ucsc-light-blue;
     text-decoration: none;
+    border-bottom: 1px solid transparent;
   }
 
   &:hover,
-  &:focus {
+  &:focus,
+  &:active {
     background-color: $ucsc-light-blue;
     color: $white;
     border-bottom: 1px solid lighten($ucsc-light-blue, 15%);
-  }
-
-  &:focus {
-    outline: 1px dotted #999;
-  }
-
-  &:active {
-    background-color: lighten($ucsc-light-blue, 15%);
-    color: white;
-    outline: 0px;
   }
 
   .social-media-list &:hover {
