@@ -1,6 +1,12 @@
 [role="tablist"] {
   padding: 0;
   margin: 1rem 0 0 0;
+  text-align: center;
+  font-size: 2rem;
+}
+
+[role="tablist"] li {
+  margin: 0 .15em;
 }
 
 [role="tablist"] li,
@@ -12,17 +18,26 @@
   text-decoration: none;
   padding: 0.5rem 1em;
 
-  &:visited,
-  &:focus,
-  &:hover,
-  &:active {
+  &:hover {
     border-bottom: 0 !important;
     text-decoration: none;
+    color: #white;
+    background-color: lightblue;
+    padding: 0.5rem 1em;
+    box-shadow: none;
   }
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: #00458c;
+    background-color: white;
+  }
+
 }
 
 [role="tablist"] [aria-selected] {
-  border: 2px solid;
+  border: 2px solid lightblue;
   background: #fff;
   border-bottom: 0;
   position: relative;
