@@ -30,20 +30,20 @@ figure {
   padding: 0;
 }
 
-
 /**
  * Basic styling
  */
 
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height}
+    $base-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern"1;
-  -moz-font-feature-settings: "kern"1;
-  -o-font-feature-settings: "kern"1;
-  font-feature-settings: "kern"1;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
   font-kerning: normal;
   display: flex;
   min-height: 100vh;
@@ -74,7 +74,6 @@ h6 {
   @include relative-font-size(1.0625);
 }
 
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -96,7 +95,6 @@ figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
 /**
  * `main` element
  */
@@ -106,7 +104,6 @@ main {
   /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
-
 /**
  * Images
  */
@@ -115,7 +112,6 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
-
 
 /**
  * Videos
@@ -135,7 +131,6 @@ iframe {
   }
 }
 
-
 /**
  * Left and Right floats
  */
@@ -145,7 +140,7 @@ iframe {
   display: table;
   margin: 0 auto;
 
-  @include media-query ($on-desktop) {
+  @include media-query($on-desktop) {
     width: auto;
   }
 }
@@ -162,12 +157,11 @@ iframe {
   margin: 0 ($spacing-unit * 1) ($spacing-unit * 1) 0;
 }
 
-
 /**
  * Figures
  */
 
-figure>img {
+figure > img {
   display: block;
 }
 
@@ -201,7 +195,6 @@ figcaption {
   padding-top: $spacing-unit / 4;
 }
 
-
 /**
  * sidebars
  */
@@ -217,7 +210,6 @@ aside {
   }
 }
 
-
 /**
  * Lists
  */
@@ -228,13 +220,11 @@ ol {
 }
 
 li {
-
-  >ul,
-  >ol {
+  > ul,
+  > ol {
     margin-bottom: 0;
   }
 }
-
 
 /**
  * Headings
@@ -250,18 +240,17 @@ h6 {
   color: $ucsc-primary-blue;
 }
 
-
 /**
  * Links
  */
 
 a {
-
   &:link,
   &:visited {
     color: $ucsc-light-blue;
     text-decoration: none;
     border-bottom: 1px solid transparent;
+    box-sizing: border-box;
   }
 
   &:hover,
@@ -284,7 +273,6 @@ a {
 .cta {
   .copy {
     a {
-
       &:link,
       &:visited {
         color: $white;
@@ -347,7 +335,6 @@ a {
 }
 
 .footer-logo {
-
   &:hover,
   &:focus,
   &:active {
@@ -355,7 +342,6 @@ a {
     border-bottom: none !important;
   }
 }
-
 
 /**
  * Blockquotes
@@ -373,7 +359,6 @@ blockquote {
     margin-bottom: 0;
   }
 }
-
 
 /**
  * Code formatting
@@ -397,13 +382,12 @@ pre {
   padding: 8px 12px;
   overflow-x: auto;
 
-  >code {
+  > code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
   }
 }
-
 
 /**
  * Wrapper
@@ -419,7 +403,9 @@ pre {
   @extend %clearfix;
 
   @include media-query($on-tablet) {
-    max-width: -webkit-calc(#{$size__tablet-max-width} - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(
+      #{$size__tablet-max-width} - (#{$spacing-unit} * 2)
+    );
     max-width: calc(#{$size__tablet-max-width} - (#{$spacing-unit} * 2));
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
@@ -431,7 +417,6 @@ pre {
   }
 }
 
-
 /**
  * Clearfix
  */
@@ -441,7 +426,6 @@ pre {
   display: table;
   clear: both;
 }
-
 
 /**
  * Icons
@@ -457,11 +441,10 @@ pre {
 }
 
 .social-media-list {
-  li+li {
+  li + li {
     padding-top: 5px;
   }
 }
-
 
 /**
  * Tables
@@ -496,7 +479,6 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-
 
 /**
  * Omnibar
@@ -552,7 +534,7 @@ table {
       }
 
       a {
-        padding: .25em .5em;
+        padding: 0.25em 0.5em;
         display: inline-block;
         text-align: center;
       }
@@ -584,13 +566,13 @@ table {
 
     input[type="image"] {
       position: relative;
-      top: .24em;
+      top: 0.24em;
       right: 1.85em;
     }
 
     input[type="text"] {
       width: 88%;
-      padding: .55em .45em;
+      padding: 0.55em 0.45em;
       border: none;
     }
   }
@@ -608,7 +590,7 @@ table {
       font-weight: 700;
     }
 
-    @include media-query ($on-desktop) {
+    @include media-query($on-desktop) {
       display: none;
     }
   }
@@ -639,7 +621,6 @@ table {
   }
 }
 
-
 /**
  * masthead
  */
@@ -651,7 +632,6 @@ table {
   align-items: center;
 
   a {
-
     &:link,
     &:visited {
       color: $ucsc-primary-blue;
@@ -659,7 +639,7 @@ table {
 
     &:hover,
     &:focus {
-      border-bottom: none;
+      border-bottom-color: transparent;
       background: none;
       color: $ucsc-light-blue;
       // background: $ucsc-primary-blue;
@@ -669,7 +649,7 @@ table {
   .nav-toggle {
     margin-left: auto;
 
-    @include media-query ($on-desktop) {
+    @include media-query($on-desktop) {
       display: none;
     }
   }
@@ -682,12 +662,11 @@ table {
       display: block;
     }
 
-    @include media-query ($on-desktop) {
+    @include media-query($on-desktop) {
       display: block;
     }
 
     a {
-
       &:link,
       &:visited {
         color: $ucsc-light-blue;
@@ -705,7 +684,7 @@ table {
         color: $ucsc-primary-blue;
       }
 
-      border-bottom: 1px solid rgba(255, 255, 255, 0.0);
+      border-bottom: 1px solid rgba(255, 255, 255, 0);
     }
   }
 }
