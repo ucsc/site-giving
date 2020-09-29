@@ -1,12 +1,12 @@
 [role="tablist"] {
   padding: 0;
   margin: 1rem 0 0 0;
-  text-align: center;
+  text-align: left;
   font-size: 2rem;
 }
 
 [role="tablist"] li {
-  margin: 0 .15em;
+  margin: 0 0.15em;
 }
 
 [role="tablist"] li,
@@ -16,15 +16,14 @@
 
 [role="tablist"] a {
   text-decoration: none;
-  padding: 0.5rem 1em;
+  padding: 0.5rem 0.65em;
+  box-shadow: none;
 
   &:hover {
     border-bottom: 0 !important;
     text-decoration: none;
     color: #white;
     background-color: lightblue;
-    padding: 0.5rem 1em;
-    box-shadow: none;
   }
 
   &:hover,
@@ -33,13 +32,12 @@
     color: #00458c;
     background-color: white;
   }
-
 }
 
 [role="tablist"] [aria-selected] {
   border: 2px solid lightblue;
   background: #fff;
-  border-bottom: 0;
+  border-bottom: 2px solid #fff;
   position: relative;
   top: 2px;
 }
@@ -49,17 +47,15 @@
   padding: 1.5rem 0;
 }
 
-[role="tabpanel"] *+* {
+[role="tabpanel"] * + * {
   margin-top: 0.75rem;
 }
 
 *:focus {
   outline: none;
-  box-shadow: inset 0 0 0 4px lightBlue;
 }
 
 @media (max-width: 550px) {
-
   [role="tablist"] li,
   [role="tablist"] a {
     display: block;
@@ -70,7 +66,7 @@
     border: 2px solid #222 !important;
   }
 
-  [role="tablist"] li+li a {
+  [role="tablist"] li + li a {
     border-top: 0 !important;
   }
 
@@ -79,15 +75,17 @@
   }
 
   [role="tablist"] [aria-selected]::after {
-    content: '\0020⬅';
+    content: "\0020⬅";
   }
 
   [role="tabpanel"] {
     border-top: 0;
   }
-
 }
 
+.category-teaser {
+  font-size: 1.2rem;
+}
 
 .posts {
   margin: 0;
@@ -117,16 +115,16 @@
 
 .posts time {
   display: block;
-  margin: 0 0 .25em 0;
+  margin: 0 0 0.25em 0;
   color: #666;
   font-weight: 400;
   font-size: 1.28rem;
-  letter-spacing: .08rem;
+  letter-spacing: 0.08rem;
   text-transform: uppercase;
 }
 
 .posts h3 {
-  margin: 0 0 .25em 0;
+  margin: 0 0 0.25em 0;
   font-size: 2rem;
   line-height: 1.4;
 }
