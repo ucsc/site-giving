@@ -7,81 +7,83 @@ hero:
   image: hero-problem-solvers.jpg #best at 1000px by 450px
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
-support_areas:
-  - heading: Benefits to Students
-    copy: "See how your gifts benefit our students"
-    image: search-funds.jpg
-    image_alt: image alt text
-    button_text: Read more
-    button_link: "#section-student-profiles"
-  - heading: Choosing to give
-    copy: "See the people who give to UC Santa Cruz"
-    image: woman-with-binoculars.jpg
-    image_alt: Woman with binoculars
-    button_text: Read more
-    button_link: "#section-donor-profiles"
 ---
 
 <div class="page-areas">
-
   {% if page.support_areas %}
-    <section class="cta two-col-grid">
-      {% for item in page.support_areas %}
-        {% assign this_loop = forloop.index | modulo: 2 %}
-          <div class="grid-cell">
-              <div class="container">
-                  <div class="copy">
-                      <h2>{{item.heading}}</h2>
-                      <p>{{item.copy}}</p>
-                      <a href="{{item.button_link}}" class="tab-target yellow-pill">{{item.button_text}}</a>
-                  </div>
-                  {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
-              </div>
-              {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
-              {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
-          </div>
-        {% if this_loop == 0 -%}<hr>{% endif -%}
-      {% endfor %}
-    </section>
+  <section class="cta two-col-grid">
+    {% for item in page.support_areas %} {% assign this_loop = forloop.index |
+    modulo: 2 %}
+    <div class="grid-cell">
+      <div class="container">
+        <div class="copy">
+          <h2>{{item.heading}}</h2>
+          <p>{{item.copy}}</p>
+          <a href="{{item.button_link}}" class="tab-target yellow-pill"
+            >{{item.button_text}}</a
+          >
+        </div>
+        {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
+      </div>
+      {%- if item.division_list -%} {%- include division-list.html -%} {%- endif
+      -%} {%- if item.college_list -%} {%- include college-list.html -%} {%-
+      endif -%}
+    </div>
+    {% if this_loop == 0 -%}
+    <hr />
+    {% endif -%} {% endfor %}
+  </section>
   {% endif %}
 
   <div id="archives" class="tabbed">
-
     <!-- Build a table of contents for the tabbed interface -->
     <ul role="tablist">
-      {% for category in site.post_category_order %}
+      {% for category in site.post_category_order %} {% assign cat = category |
+      slugify %}
       <li role="presentation">
-        <a role="tab" href="#section-{{ category | slugify }}" id="toc-{{ category | slugify }}" aria-selected="true">{{ category }}</a>
+        <a
+          role="tab"
+          href="#section-{{ category | slugify }}"
+          id="toc-{{ category | slugify }}"
+          aria-selected="true"
+          >{{ category }}
+          <p class="category-teaser">
+            {{ site.data.category-meta[cat].teaser }}
+          </p>
+        </a>
       </li>
       {% endfor %}
     </ul>
 
     <!-- Build each section containing all of the stories in that category -->
-    {% for category in site.post_category_order %}
-    {% assign sorted_stories = site.posts | where: "category", category %}
-    <section role="tabpanel" id="section-{{ category | slugify }}" aria-labelledby="toc-{{ category | slugify }}">
+    {% for category in site.post_category_order %} {% assign sorted_stories =
+    site.posts | where: "category", category %}
+    <section
+      role="tabpanel"
+      id="section-{{ category | slugify }}"
+      aria-labelledby="toc-{{ category | slugify }}"
+    >
       <h2>{{ category }}</h2>
 
       <ul class="list posts">
-      {%- for p in sorted_stories %}
+        {%- for p in sorted_stories %}
         <li>
           <div class="text">
-            <time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time>
+            <time datetime="{{ p.date }}"
+              >{{ p.date | date: "%b %d, %Y" }}</time
+            >
             <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
           </div>
           <div class="media">
-            {% if p.thumbnail_image %}
-              {% asset {{p.thumbnail_image}} magick:resize=300 alt="{{p.thumbnail_alt_text}}" %}
-            {% endif %}
+            {% if p.thumbnail_image %} {% asset {{p.thumbnail_image}}
+            magick:resize=300 alt="{{p.thumbnail_alt_text}}" %} {% endif %}
           </div>
         </li>
-      {%- endfor %}
+        {%- endfor %}
       </ul>
     </section>
     {% endfor %}
-
   </div>
-
 </div>
 
 <script src="{% asset tab-list.js @path %}"></script>
