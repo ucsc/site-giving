@@ -23,12 +23,8 @@ column_two:
     link: /category/student-profiles/
   - name: Videos
     link: /category/videos/
-  - name: Campaign for UCSC
-    link: /category/campaign-impact/
   - name: Endowment giving
     link: /ways-to-give/endowment-giving/
-  - name: Philanthropy reports archive
-    link: "/reports/"
 column_three:
   - name: UCSC Fund
     link: /areas-to-support/ucsc-fund/
