@@ -245,11 +245,12 @@ h6 {
  */
 
 a {
+  box-sizing: border-box;
+
   &:link,
   &:visited {
     color: $ucsc-light-blue;
     text-decoration: none;
-    border-bottom: 1px solid transparent;
     box-sizing: border-box;
   }
 
@@ -258,7 +259,6 @@ a {
   &:active {
     background-color: $ucsc-light-blue;
     color: $white;
-    border-bottom: 1px solid lighten($ucsc-light-blue, 15%);
   }
 
   .social-media-list &:hover {
