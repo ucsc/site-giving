@@ -1,49 +1,71 @@
 [role="tablist"] {
+  margin: 0 0 1em;
   padding: 0;
-  margin: 1rem 0 0 0;
-  text-align: left;
-  font-size: 2rem;
-}
+  border-bottom: 2px solid $ucsc-light-blue;
 
-[role="tablist"] li {
-  margin: 0 0.15em;
-}
+  li {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+  }
 
-[role="tablist"] li,
-[role="tablist"] a {
-  display: inline-block;
-}
-
-[role="tablist"] a {
-  text-decoration: none;
-  padding: 0.5rem 0.65em;
-  box-shadow: none;
-
-  &:hover {
-    border-bottom: 0 !important;
+  a {
+    display: inline-block;
+    font-size: 1.8em;
     text-decoration: none;
-    color: #white;
-    background-color: lightblue;
-  }
+    padding: 0.5em 0.75em;
+    font-weight: 600;
+    color: $ucsc-light-blue;
+    border-radius: 4px 4px 0 0;
 
-  &:hover,
-  &:focus,
-  &:active {
-    color: #00458c;
-    background-color: white;
+    &:focus,
+    &:hover,
+    &:active {
+      background-color: $ucsc-primary-blue;
+      color: #fff;
+    }
+
+    &[aria-selected] {
+      color: #fff;
+      background-color: $ucsc-light-blue;
+    }
+
+    p {
+      margin: 0;
+      font-size: 0.6em;
+      font-weight: 400;
+    }
   }
 }
 
-[role="tablist"] [aria-selected] {
-  border: 2px solid lightblue;
-  background: #fff;
-  border-bottom: 2px solid #fff;
-  position: relative;
-  top: 2px;
+@media (min-width: 750px) {
+  [role="tablist"] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    li {
+      flex: 0 1 33%;
+      margin-right: .40rem;
+    }
+  }
 }
+
+@media (min-width: 1200px) {
+  [role="tablist"] {
+    justify-content: flex-start;
+
+    li {
+      flex: 0 1 30%;
+      margin-right: .5rem;
+    }
+  }
+}
+
+
+
 
 [role="tabpanel"] {
-  border-top: 2px solid lightBlue;
   padding: 1.5rem 0;
 }
 
@@ -56,28 +78,6 @@
 }
 
 @media (max-width: 550px) {
-  [role="tablist"] li,
-  [role="tablist"] a {
-    display: block;
-    position: static;
-  }
-
-  [role="tablist"] a {
-    border: 2px solid #222 !important;
-  }
-
-  [role="tablist"] li + li a {
-    border-top: 0 !important;
-  }
-
-  [role="tablist"] [aria-selected] {
-    position: static;
-  }
-
-  [role="tablist"] [aria-selected]::after {
-    content: "\0020⬅";
-  }
-
   [role="tabpanel"] {
     border-top: 0;
   }
