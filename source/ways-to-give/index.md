@@ -10,21 +10,16 @@ hero:
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 numbered_list:
-  - list_number: one #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: one #options: one, two, three, four, five .(spell out, lower case)
     heading: Give online
     copy: Use our <a href="http://connect.ucsc.edu/givenow">secure donation site.</a>
     link_copy: secure donation site.
     url: "http://connect.ucsc.edu/givenow"
-  - list_number: two #options: one, two, three, four, five, six .(spell out, lower case)
-    heading: Recurring gifts 
-    copy: "On the <a href="http://connect.ucsc.edu/givenow">online donation site</a> you can establish a regular schedule of giving by credit card, bank transfer or check."
-    url: "http://connect.ucsc.edu/givenow"
-  - list_number: three #options: one, two, three, four, five, six .(spell out, lower case)
-    heading: Legacy giving
-    copy: "<a href="https://plannedgifts.ucsc.edu/"Create a planned gift or let us know</a> you have added UCSC to your will."
-    url: "http://https://plannedgifts.ucsc.edu/"
-  - list_number: four #options: one, two, three, four, five, sxi  .(spell out, lower case)
-    heading: Mail a check
+  - list_number: two #options: one, two, three, four, five .(spell out, lower case)
+    heading: Recurring gifts
+    copy: "On the online donation site you can establish a regular schedule of giving by credit card, bank transfer or check."
+  - list_number: three #options: one, two, three, four, five .(spell out, lower case)
+    heading: Old-fashioned Mail
     copy: |
       UC Santa Cruz Foundation<br>
       Dept. 44787<br>
@@ -33,10 +28,10 @@ numbered_list:
       94144-4787<br><br>
       Make Checks out to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
-  - list_number: five #options: one, two, three, four, five .(spell out, lower case)
+  - list_number: four #options: one, two, three, four, five .(spell out, lower case)
     heading: Securities
     copy: Stocks, bonds, and mutual funds can be assigned to the UC Santa Cruz Foundation
-  - list_number: six #options: one, two, three, four, five .(spell out, lower case)
+  - list_number: five #options: one, two, three, four, five .(spell out, lower case)
     heading: Payroll deductions
     copy: Faculty and staff can arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payrol deduction form</a>. You can also give through your retirement plan.
 support_areas:
