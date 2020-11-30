@@ -19,7 +19,7 @@ numbered_list:
     heading: Recurring gifts
     copy: "On the online donation site you can establish a regular schedule of giving by credit card, bank transfer or check."
   - list_number: three #options: one, two, three, four, five .(spell out, lower case)
-    heading: Old-fashioned Mail
+    heading: Mail a check
     copy: |
       UC Santa Cruz Foundation<br>
       Dept. 44787<br>
