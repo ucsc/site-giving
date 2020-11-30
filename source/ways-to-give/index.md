@@ -17,11 +17,13 @@ numbered_list:
     url: "http://connect.ucsc.edu/givenow"
   - list_number: two #options: one, two, three, four, five, six .(spell out, lower case)
     heading: Recurring gifts
-    copy: "On the online donation site you can establish a regular schedule of giving by credit card, bank transfer or check."
+    copy: "On the <a href="http://connect.ucsc.edu/givenow">online donation site</a> you can establish a regular schedule of giving by credit card, bank transfer or check."
+    url: "http://connect.ucsc.edu/givenow"
   - list_number: three #options: one, two, three, four, five, six .(spell out, lower case)
     heading: Legacy giving
-    copy: "Make a planned gift or let us know UCSC is in your will."
-  - list_number: three #options: one, two, three, four, five, six .(spell out, lower case)
+    copy: "<a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will."
+    url: "https://plannedgifts.ucsc.edu"
+  - list_number: four #options: one, two, three, four, five, six .(spell out, lower case)
     heading: Mail a check
     copy: |
       UC Santa Cruz Foundation<br>
@@ -31,10 +33,10 @@ numbered_list:
       94144-4787<br><br>
       Make Checks out to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
-  - list_number: four #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: five #options: one, two, three, four, five, six .(spell out, lower case)
     heading: Securities
     copy: Stocks, bonds, and mutual funds can be assigned to the UC Santa Cruz Foundation
-  - list_number: five #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: six #options: one, two, three, four, five, six .(spell out, lower case)
     heading: Payroll deductions
     copy: Faculty and staff can arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payrol deduction form</a>. You can also give through your retirement plan.
 support_areas:
