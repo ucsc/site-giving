@@ -23,6 +23,18 @@ support_areas:
     image_alt: Woman with binoculars
     button_text: Browse projects
     button_link: https://crowdfund.ucsc.edu/
+  - heading: Student Success
+    copy: "Ensure every student has access to a transformative education."
+    image: search-funds.jpg
+    image_alt: search-funds.jpg
+    button_text: A-Z list
+    button_link: https://deanofstudents.ucsc.edu/slug-support/program/
+  - heading: Area of Greatest Need
+    copy: "Give where it makes the most significant and immediate difference."
+    image: woman-with-binoculars.jpg
+    image_alt: Woman with binoculars
+    button_text: Browse projects
+    button_link: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722
   - heading: Academic Divisions and Library
     copy: "Support life-changing education through dean's excellence funds in the division."
     image: academic-divisions.jpg
