@@ -12,7 +12,7 @@ hero:
 numbered_list:
   - list_number: one #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Give online
-    copy: Use our <a href="http://connect.ucsc.edu/givenow">secure donation site.</a>
+    copy: Use our <a href="http://connect.ucsc.edu/givenow">secure donation site</a>
     link_copy: secure donation site
     url: "http://connect.ucsc.edu/givenow"
   - list_number: two #options: one, two, three, four, five, six, seven .(spell out, lower case)
@@ -39,7 +39,8 @@ numbered_list:
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
   - list_number: five #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Securities
-    copy: Stocks, bonds, mutuals funds—follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form</a>
+    copy:  |
+      Stocks, bonds, mutuals funds—follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form</a>
     link_copy: this form
     url: "/assets/documents/gifts-of-stock.pdf"
   - list_number: six #options: one, two, three, four, five, six, seven .(spell out, lower case)
@@ -52,10 +53,9 @@ numbered_list:
     heading: Complex assets
     copy: |
       Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@uscc.edu or (831) 459-5718
-      
 support_areas:
   - heading: UCSC Fund
-    copy: "Help ensure all students benefit from a vibrant learning environment"
+    copy: "Support a vibrant learning environment with a gift to the area of greatest need."
     image: parents-families.jpg
     image_alt: image of mother and daughter
     button_text: Learn More
@@ -74,7 +74,7 @@ support_areas:
     button_text: Learn More
     button_link: https://crowdfund.ucsc.edu/
   - heading: Chancellor's Associates
-    copy: Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a>.
+    copy: "Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a>."
     image: chancellors-associates.jpg
     image_alt: image alt text
     button_text: Learn More
