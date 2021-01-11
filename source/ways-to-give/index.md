@@ -12,7 +12,8 @@ hero:
 numbered_list:
   - list_number: one #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Give online
-    copy: Use our <a href="http://connect.ucsc.edu/givenow">secure donation site</a>
+    copy: |
+      Use our <a href="http://connect.ucsc.edu/givenow">secure donation site</a>
     link_copy: secure donation site
     url: "http://connect.ucsc.edu/givenow"
   - list_number: two #options: one, two, three, four, five, six, seven .(spell out, lower case)
