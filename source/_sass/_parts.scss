@@ -337,6 +337,9 @@
             // border: 1px $grey-color-light inset;
             padding: 100px 0 ($spacing-unit / 2);
             @include media-query ($on-desktop) {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
                 max-width: 70.5%;
                 min-height: 250px;
                 padding: 20px 90px 20px 40px;
@@ -366,8 +369,9 @@
                 width: 75%;
                 margin: 0 auto 1.5rem;
                 @include media-query($on-desktop) {
-                    // width: 100%;
-                    margin: 0 auto;
+                    display: block;
+                    align-self: end;
+                    margin: auto auto 0 auto;
                 }
             }
         }
