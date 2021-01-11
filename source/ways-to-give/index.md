@@ -10,22 +10,24 @@ hero:
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 numbered_list:
-  - list_number: one #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: one #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Give online
     copy: Use our <a href="http://connect.ucsc.edu/givenow">secure donation site.</a>
-    link_copy: secure donation site.
+    link_copy: secure donation site
     url: "http://connect.ucsc.edu/givenow"
-  - list_number: two #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: two #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Recurring gifts
     copy: | 
-      "On the <a href="http://connect.ucsc.edu/givenow">online donation site</a> you can establish a regular schedule of giving by credit card, bank transfer or check."
+      On the <a href="http://connect.ucsc.edu/givenow">online donation site</a> you can establish a regular schedule of giving by credit card, bank transfer or check
+    link_copy: online donation site
     url: "http://connect.ucsc.edu/givenow"
-  - list_number: three #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: three #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Legacy giving
     copy: |
-      "<a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will."
+      <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will
+    link_copy: Make a planned gift or let us know      
     url: "https://plannedgifts.ucsc.edu"
-  - list_number: four #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: four #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Mail a check
     copy: |
       UC Santa Cruz Foundation<br>
@@ -35,35 +37,44 @@ numbered_list:
       94144-4787<br><br>
       Make Checks out to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
-  - list_number: five #options: one, two, three, four, five, six .(spell out, lower case)
+  - list_number: five #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Securities
-    copy: Stocks, bonds, and mutual funds can be assigned to the UC Santa Cruz Foundation
-  - list_number: six #options: one, two, three, four, five, six .(spell out, lower case)
-    heading: Payroll deductions
+    copy: Stocks, bonds, mutuals funds—follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form</a>
+    link_copy: this form
+    url: "/assets/documents/gifts-of-stock.pdf"
+  - list_number: six #options: one, two, three, four, five, six, seven .(spell out, lower case)
+    heading: UC payroll deduction
     copy: |
-      Faculty and staff can arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payrol deduction form</a>. You can also give through your retirement plan.
+      Faculty and staff can arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payroll deduction form</a>. You can also give through your retirement plan.
+    link_copy: payroll deduction form
+    url: "http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0"
+  - list_number: seven #options: one, two, three, four, five, six, seven .(spell out, lower case)
+    heading: Complex assets
+    copy: |
+      Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@uscc.edu or (831) 459-5718
+      
 support_areas:
-  - heading: Crowdfunding
-    copy: "Give to your vavorite campus cause or browse pop-up student and faculty fundraisers."
-    image: crowdfunding.jpg
-    image_alt: Crowdfunding image of students
+  - heading: UCSC Fund
+    copy: "Help ensure all students benefit from a vibrant learning environment"
+    image: parents-families.jpg
+    image_alt: image of mother and daughter
     button_text: Learn More
-    button_link: https://crowdfund.ucsc.edu/
+    button_link: /ways-to-give/uc-santa-cruz-parents-families/
+    division_list: false
   - heading: Planned Giving
     copy: "If you have included UC Santa Cruz in your estate plans or would like to discuss opportunities..."
     image: man-with-seedlings.jpg
     image_alt: image alt text
     button_text: Let Us Know
     button_link: http://plannedgifts.ucsc.edu/
-  - heading: Parents and Families
-    copy: "Help ensure all students benefit from a vibrant learning environment by giving to the UCSC Parents Fund"
-    image: parents-families.jpg
-    image_alt: Parents and Families image of mother and daughter
+  - heading: Crowdfunding
+    copy: "Give to your favorite campus cause or browse pop-up student and faculty fundraisers."
+    image: crowdfunding.jpg
+    image_alt: Crowdfunding image of students
     button_text: Learn More
-    button_link: /ways-to-give/uc-santa-cruz-parents-families/
-    division_list: false
+    button_link: https://crowdfund.ucsc.edu/
   - heading: Chancellor's Associates
-    copy: Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a> or the <a href="/ways-to-give/uc-santa-cruz-parents-families/">Parents Fund</a>.
+    copy: Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a>.
     image: chancellors-associates.jpg
     image_alt: image alt text
     button_text: Learn More
@@ -76,7 +87,7 @@ support_areas:
     button_text: Learn More
     button_link: /ways-to-give/endowment-giving/
   - heading: Recurring Gifts
-    copy: "By establishing a monthly donation, your impact is ongoing and also cuts down on addministrative costs."
+    copy: "By establishing a monthly donation, your impact is ongoing and reduces administrative costs."
     image: greenhouse-research.jpg
     image_alt: image alt text
     button_text: Learn More
