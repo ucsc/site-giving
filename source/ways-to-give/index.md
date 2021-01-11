@@ -5,30 +5,30 @@ menu: "Ways to Give"
 order: 1
 hero:
   use: true
-  image: hero-ways-to-give.jpg #best at 1000px by 450px
+  image: hero-ways-to-give.jpg 
   alt_text: Hero Alt Text
-  vertical: bottom #options: top, bottom
-  horizontal: left #options: left, right
+  vertical: bottom 
+  horizontal: left 
 numbered_list:
-  - list_number: one #options: one, two, three, four, five, six, seven .(spell out, lower case)
+  - list_number: one 
     heading: Give online
     copy: |
       Use our <a href="http://connect.ucsc.edu/givenow">secure donation site</a>
     link_copy: secure donation site
     url: "http://connect.ucsc.edu/givenow"
-  - list_number: two #options: one, two, three, four, five, six, seven .(spell out, lower case)
+  - list_number: two 
     heading: Recurring gifts
     copy: | 
       On the <a href="http://connect.ucsc.edu/givenow">online donation site</a> you can establish a regular schedule of giving by credit card, bank transfer or check
     link_copy: online donation site
     url: "http://connect.ucsc.edu/givenow"
-  - list_number: three #options: one, two, three, four, five, six, seven .(spell out, lower case)
+  - list_number: three 
     heading: Legacy giving
     copy: |
       <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will
     link_copy: Make a planned gift or let us know      
     url: "https://plannedgifts.ucsc.edu"
-  - list_number: four #options: one, two, three, four, five, six, seven .(spell out, lower case)
+  - list_number: four 
     heading: Mail a check
     copy: |
       UC Santa Cruz Foundation<br>
@@ -75,7 +75,7 @@ support_areas:
     button_text: Learn More
     button_link: https://crowdfund.ucsc.edu/
   - heading: Chancellor's Associates
-    copy: "Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a>."
+    copy: 'Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a>.'
     image: chancellors-associates.jpg
     image_alt: image alt text
     button_text: Learn More
