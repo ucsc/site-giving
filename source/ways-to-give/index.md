@@ -40,7 +40,7 @@ numbered_list:
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
   - list_number: five #options: one, two, three, four, five, six, seven .(spell out, lower case)
     heading: Securities
-    copy:  |
+    copy: |
       Stocks, bonds, mutuals funds—follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form</a>
     link_copy: this form
     url: "/assets/documents/gifts-of-stock.pdf"
