@@ -94,7 +94,18 @@ support_areas:
     button_text: Learn More
     button_link: /ways-to-give/recurring-gifts/
 ---
+{% if page.numbered_list.size > 3 %}
+  <section class="ways-to-give three-col-grid">
+{% for cell in page.numbered_list %}
+<div class="container">
+              <h3 class="head {{cell.list_number}}">{{cell.heading}}</h3>
+              <p class="copy">{{cell.copy}}</p>
+              </div>
+{% endfor%}
+</section>
+{% endif %}
 
+## OLD SECTION STARTS HERE
 {% if page.numbered_list.size > 3 %}
   <section class="ways-to-give three-col-grid">
 
