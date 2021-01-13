@@ -117,7 +117,9 @@
 .two-col-grid,
 .three-col-grid,
 .memorial-grid {
-    display: grid;
+    @include media-query($on-tablet) {
+        display: grid;
+    }
     justify-items: center;
     .grid-cell {
         width: 100%;
@@ -129,7 +131,7 @@
     grid-template-columns: repeat(1, 1fr);
     @include media-query($on-tablet) {
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 2.5em;
+        column-gap: 2.5em;
     }
     .grid-cell {
         padding-bottom: $spacing-unit !important;
@@ -569,6 +571,7 @@
     .container {
         padding: 1.25rem 2.5rem 1.25rem 3rem;
         position: relative;
+        justify-self: stretch;
         .head {
             @include relative-font-size(1);
             color: $ucsc-primary-blue;
