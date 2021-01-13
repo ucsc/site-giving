@@ -104,3 +104,23 @@ support_areas:
 {% endfor%}
 </section>
 {% endif %}
+{% if page.support_areas %}
+<section class="cta two-col-grid">
+  {% for item in page.support_areas %}
+    <div class="grid-cell">
+        <div class="container">
+            <div class="copy">
+                <h2>{{item.heading}}</h2>
+                <p>{{item.copy}}</p>
+                <a href="{{item.button_link}}" class="yellow-pill">{{item.button_text}}</a>
+            </div>
+            {% asset {{item.image}} magick:resize=200 alt="{{item.image_alt}}" %}
+        </div>
+        {%- if item.division_list -%} {%- include division-list.html -%} {%- endif -%}
+        {%- if item.college_list -%} {%- include college-list.html -%} {%- endif -%}
+    </div>
+
+  {% endfor %}
+
+</section>
+{% endif %}
