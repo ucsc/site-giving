@@ -598,6 +598,31 @@
                     content: "5"
                 }
             }
+            &.six {
+                &::before {
+                    content: "6"
+                }
+            }
+            &.seven {
+                &::before {
+                    content: "7"
+                }
+            }
+            &.eight {
+                &::before {
+                    content: "8"
+                }
+            }
+            &.nine {
+                &::before {
+                    content: "9"
+                }
+            }
+            &.ten {
+                &::before {
+                    content: "10"
+                }
+            }
             &::before {
                 // content: "1";
                 background-color: $ucsc-primary-yellow;
@@ -619,6 +644,9 @@
         }
         .copy {
             line-height: 1.25;
+        }
+        &:last-child {
+            grid-column: 1 / span 2;
         }
     }
 }
