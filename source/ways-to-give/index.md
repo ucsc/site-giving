@@ -60,7 +60,7 @@ support_areas:
     image: parents-families.jpg
     image_alt: image of mother and daughter
     button_text: Learn More
-    button_link: /ways-to-give/uc-santa-cruz-parents-families/
+    button_link: /areas-to-support/ucsc-fund/
     division_list: false
   - heading: Planned Giving
     copy: "If you have included UC Santa Cruz in your estate plans or would like to discuss opportunities..."
