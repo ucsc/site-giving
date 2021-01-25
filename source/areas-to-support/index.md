@@ -14,7 +14,7 @@ support_areas:
   - heading: All Designated Funds
     copy: "Search or browse an A-Z list of all giving opportunities."
     image: search-funds.jpg
-    image_alt: search fudns
+    image_alt: search funds
     button_text: A-Z list
     button_link: http://alumni.ucsc.edu/search-designations/
   - heading: Area of Greatest Need
@@ -23,7 +23,7 @@ support_areas:
     image_alt: Woman with binoculars
     button_text: Make a gift
     button_link: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722
- - heading: Student Success
+  - heading: Student Success
     copy: "Ensure every student has access to a transformative education."
     image: CM-Outside-1.jpg
     image_alt: Students collaborate outside
