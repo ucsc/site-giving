@@ -23,8 +23,6 @@ column_two:
     link: /category/student-profiles/
   - name: Videos
     link: /category/videos/
-  - name: Endowment giving
-    link: /ways-to-give/endowment-giving/
 column_three:
   - name: UCSC Fund
     link: /areas-to-support/ucsc-fund/
@@ -38,6 +36,8 @@ column_three:
     link: /areas-to-support/faculty-support-chairs/
   - name: Scholarships and fellowships
     link: /areas-to-support/scholarships-fellowships/
+  - name: Endowment giving
+    link: /ways-to-give/endowment-giving/
 legal:
   - name: UC Santa Cruz
     link: "https://www.ucsc.edu"
