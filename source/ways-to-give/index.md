@@ -74,8 +74,8 @@ support_areas:
     image_alt: Crowdfunding image of students
     button_text: Learn More
     button_link: https://crowdfund.ucsc.edu/
-  - heading: Chancellor's Associates
-    copy: "Join our leadership donor society with your gift of $1,000 or more to the <a href="/areas-to-support/ucsc-fund/">UC Santa Cruz Fund</a>."
+  - heading: "Chancellor's Associates"
+    copy: "Join our leadership donor society with your gift of $1,000 or more to the <a href='/areas-to-support/ucsc-fund/'>UC Santa Cruz Fund</a>."
     image: chancellors-associates.jpg
     image_alt: image alt text
     button_text: Learn More

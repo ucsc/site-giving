@@ -5,7 +5,7 @@ date: 2012-03-08
 layout: post
 excerpt: Isadora Caffe, a senior molecular, cell, and developmental biology major, and others describe how scholarships make a difference.
 thumbnail_image: impact-of-scholarships.png
-category: "News"
-youtubeID-1: 6EtMiDsH0wI
+category: [News, Video]
+youtube_id: 6EtMiDsH0wI
 ---
-{% include youtube-player.html id=page.youtubeID-1 %}
+{% include youtube-player.html id=page.youtube_id %}

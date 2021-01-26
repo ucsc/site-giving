@@ -16,21 +16,19 @@ pull_quote: false
 pull_quote_author:
 hero:
   use: false
-  image: deniseKZSC1977-1.jpg #best at 1000px by 450px
+  image: deniseKZSC1977-1.jpg
   alt_text: photo of Denise Gallant, 1977
-  vertical: bottom #options: top, bottom
-  horizontal: left #options: left, right
-# Is this a featured post? Applies to first two columns on Post Archive Page.
-# If true, use: true; if false, use: false and order does not matter.
+  vertical: bottom
+  horizontal: left
 featured_post:
   use: false
-  order: 2 # Options: 1 or 2
+  order: 2
 thumbnail_image: deniseKZSC1977-1.jpg
 thumbnail_alt_text: photo of Denise Gallant, 1977
-category: "Donor Profiles"
-youtubeID-1: z2dyA5wROFY
-youtubeID-2: 0VdLVwDwm7s
-youtubeID-3: x3XW6NLILqo
+category: [Donor Profiles, Video]
+youtube_id: z2dyA5wROFY
+youtube_id_2: 0VdLVwDwm7s
+youtube_id_3: x3XW6NLILqo
 
 ---
 Once, while she was a programmer at KZSC, Denise Gallant was at a party, eavesdropping on a group of people who couldn’t agree on whether what she did on the radio was art.<figure id="attachment_3666" style="width: 500px" class="wp-caption alignleft">
@@ -53,7 +51,7 @@ KZSC was one locus of Gallant’s exploration with media and technology. Another
 
 She hosted student performances that, like her radio show, combined seemingly discordant art forms: video, dance, music. The performances included work from the Electronic Music Studio, where Gallant and Rob Schafer (Kresge ‘76, individual major) were part of a circle of students pairing musical creations with other types of performance.
 
-{% include youtube-player.html id=page.youtubeID-1 %}
+{% include youtube-player.html id=page.youtube_id %}
 
 ### Building synopsis
 
@@ -61,7 +59,7 @@ In the Electronic Music Studio, Schafer and Gallant experimented with feeding vi
 
 This work continued after they completed their studies. They built a machine that could invert hue and brightness and convert black and white into rainbows. They could also convert sound waves into abstract shapes. Gallant called the device “Synopsis.”
 
-{% include youtube-player.html id=page.youtubeID-2 %}
+{% include youtube-player.html id=page.youtube_id_2 %}
   
 Her first job after UC Santa Cruz was editing video for NBC in Los Angeles. She was perhaps the first woman in that job and regularly dealt with coworkers who assumed she couldn’t do the work or would ask her on dates. More than 40 years later, she still edits video and speculates she’s done it longer than any other woman in the industry.
 
@@ -105,7 +103,7 @@ Part of Monahan’s job was to create the “libraries” of sounds, and one of 
 
 In the keyboard-happy 1980s, pop bands made wide use of the Emulator. You can see it at work in the Jonathan Demme video for the New Order song “Perfect Kiss.” Just before the six-minute mark, keyboardist Stephen Morris plays a solo with the frogs.  
 
-{% include youtube-player.html id=page.youtubeID-3 %}
+{% include youtube-player.html id=page.youtube_id_3 %}
 
 Monahan’s work on the Emulator led to opportunities to tour with Peter Gabriel and more than a decade working for audio technology companies.
 

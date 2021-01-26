@@ -5,8 +5,8 @@ date: 2011-12-07
 layout: post
 excerpt: The endowment from Deborah Seymour helps support the educational experiences offered by the Seymour Marine Discovery Center.
 thumbnail_image: endowments.png
-category: "News"
-youtubeID-1: BA7LZZLR3GU
+category: [News, Video]
+youtube_id: BA7LZZLR3GU
 ---
 
-{% include youtube-player.html id=page.youtubeID-1 %}
+{% include youtube-player.html id=page.youtube_id %}
