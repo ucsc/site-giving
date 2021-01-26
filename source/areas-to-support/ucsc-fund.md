@@ -7,7 +7,7 @@ layout: page
 guid: https://live-ucsc-giving.pantheonsite.io/?page_id=3077
 hero:
   use: true
-  image: ucsc-fund-image.jpg #best at 1000px by 450px
+  image: DSC06378.jpg #best at 1000px by 450px
   alt_text: ucsc-fund-image
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right

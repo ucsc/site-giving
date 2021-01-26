@@ -4,7 +4,6 @@ title: Contact us
 menu: "Contact Us"
 order: 4
 permalink: /contact-us/
-copy: "We have a dedicated team ready to help you realize your philanthropic vision."
 phone: "(831) 459-2501"
 email: giving@ucsc.edu
 hero:
@@ -32,13 +31,15 @@ contacts:
 
 ---
 <div class="contact">
-<div class="contact-copy">
-<p>{{page.copy}}</p>
-</div>
-<div class="contact-info">
-<p><a class="phone" href="tel:{{page.phone}}">{{page.phone}}</a></p>
-<p><a class="email" href="mailto:{{page.email}}">{{page.email}}</a></p>
-</div>
+
+<p>We have a dedicated team ready to help you realize your philanthropic vision. For general questions about supporting UC Santa Cruz:</p>
+<ul class="contact-info">
+<li><a class="phone" href="tel:{{page.phone}}">{{page.phone}}</a></li>
+<li><a class="email" href="mailto:{{page.email}}">{{page.email}}</a></li>
+</ul>
 
 </div>
+
+<p>For more specific questions about how you can support UC Santa Cruz, contact a member of our philanthropy team.</p>
+
 {%- include contact-grid.html -%}

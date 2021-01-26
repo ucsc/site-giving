@@ -117,7 +117,9 @@
 .two-col-grid,
 .three-col-grid,
 .memorial-grid {
-    display: grid;
+    @include media-query($on-tablet) {
+        display: grid;
+    }
     justify-items: center;
     .grid-cell {
         width: 100%;
@@ -129,7 +131,7 @@
     grid-template-columns: repeat(1, 1fr);
     @include media-query($on-tablet) {
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 2.5em;
+        column-gap: 2.5em;
     }
     .grid-cell {
         padding-bottom: $spacing-unit !important;
@@ -170,6 +172,12 @@
     }
     figcaption {
         text-align: center;
+    }
+}
+
+.page-contact-us {
+    .three-col-grid {
+        justify-items: start;
     }
 }
 
@@ -569,6 +577,7 @@
     .container {
         padding: 1.25rem 2.5rem 1.25rem 3rem;
         position: relative;
+        justify-self: stretch;
         .head {
             @include relative-font-size(1);
             color: $ucsc-primary-blue;
@@ -598,6 +607,31 @@
                     content: "5"
                 }
             }
+            &.six {
+                &::before {
+                    content: "6"
+                }
+            }
+            &.seven {
+                &::before {
+                    content: "7"
+                }
+            }
+            &.eight {
+                &::before {
+                    content: "8"
+                }
+            }
+            &.nine {
+                &::before {
+                    content: "9"
+                }
+            }
+            &.ten {
+                &::before {
+                    content: "10"
+                }
+            }
             &::before {
                 // content: "1";
                 background-color: $ucsc-primary-yellow;
@@ -619,6 +653,9 @@
         }
         .copy {
             line-height: 1.25;
+        }
+        &:last-child {
+            grid-column: 1 / span 2;
         }
     }
 }
@@ -771,16 +808,13 @@
  */
 
 .contact {
-    padding: 0 ($spacing-unit / 2) 0;
+    padding: 0;
     margin: 0 auto;
-    width: 90%;
+    width: 100%;
     // text-align: center;
     a {
         font-weight: 700;
         // border-bottom: none;
-    }
-    @include media-query ($on-desktop) {
-        padding: 0;
     }
     .contact-info {
         p:first-child {

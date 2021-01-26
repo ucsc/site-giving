@@ -14,27 +14,27 @@ support_areas:
   - heading: All Designated Funds
     copy: "Search or browse an A-Z list of all giving opportunities."
     image: search-funds.jpg
-    image_alt: search-funds.jpg
+    image_alt: search funds
     button_text: A-Z list
     button_link: http://alumni.ucsc.edu/search-designations/
-  - heading: Crowdfunding
-    copy: "Browse current and upcoming fundraising projects."
-    image: woman-with-binoculars.jpg
-    image_alt: Woman with binoculars
-    button_text: Browse projects
-    button_link: https://crowdfund.ucsc.edu/
-  - heading: Student Success
-    copy: "Ensure every student has access to a transformative education."
-    image: search-funds.jpg
-    image_alt: search-funds.jpg
-    button_text: Learn more
-    button_link: https://deanofstudents.ucsc.edu/slug-support/program/
   - heading: Area of Greatest Need
     copy: "Give where it makes the most significant and immediate difference."
     image: woman-with-binoculars.jpg
     image_alt: Woman with binoculars
     button_text: Make a gift
     button_link: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722
+  - heading: Student Success
+    copy: "Ensure every student has access to a transformative education."
+    image: CM-Outside-1.jpg
+    image_alt: Students collaborate outside
+    button_text: Learn more
+    button_link: https://deanofstudents.ucsc.edu/slug-support/program/
+  - heading: Crowdfunding
+    copy: "Browse current and upcoming fundraising projects."
+    image: Cross-07.jpg
+    image_alt: Computer science students 
+    button_text: Browse projects
+    button_link: https://crowdfund.ucsc.edu/
   - heading: Academic Divisions and Library
     copy: "Support life-changing education through dean's excellence funds in the division."
     image: academic-divisions.jpg
