@@ -71,7 +71,14 @@ hero:
             <time datetime="{{ p.date }}"
               >{{ p.date | date: "%b %d, %Y" }}</time
             >
-            <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+            <h3>
+            {%- if p.link_post %}
+              <a href="{{ p.link_post }}">
+            {%- else %}
+              <a href="{{ p.url }}">
+            {%- endif %}
+              {{ p.title }}</a>
+            </h3>
           </div>
           <div class="media">
             {% if p.thumbnail_image %} {% asset {{p.thumbnail_image}}
