@@ -11,7 +11,7 @@ author_email:
   - jhillard@ucsc.edu
 excerpt:
   - Wilfrido Hernández Flores discovered social science research in the Culture and Achievement Collaborative, and it changed his life.
-thumbnail_image: will-flores-thumbnail.jpg
+thumbnail_image: will-hernandez-thumbnail.jpg
 thumbnail_alt_text: 
 category: "Student Profiles"
 format: link
