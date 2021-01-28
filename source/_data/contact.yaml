@@ -1,0 +1,42 @@
+division:
+  - heading: University Relations
+    name: Inquiries
+    phone: 831-459-2501
+    email: giving@ucsc.edu
+leadership:
+  - heading: Philanthropy leadership
+    name: Mark Delos Reyes Davis
+    role: Vice Chancellor, University Relations
+    email: mdrdavis@ucsc.edu
+  - name: Jeff Shilling
+    role: Associate Vice Chancellor, Philanthropy
+    phone: 831-459-5718
+    email: jshilling@ucsc.edu
+  - name: Virginia Rivera
+    role: Planned Giving
+    phone: 831-459-5227
+    email: vvrivera@ucsc.edu
+  - name: Meg Corman
+    role: Constituent and Donor Engagement
+    phone: 831-459-1305
+    email: mlcorman@ucsc.edu
+  - name: Natasha Basey Pedroza
+    role: Annual Giving
+    phone: 831-459-3455
+    email: nbpedroz@ucsc.edu
+  - name: J.D. Hillard
+    role: Donor Stewardship
+    phone: 831-459-1717
+    email: jhillard@ucsc.edu
+gift-officers:
+  - heading: Divisional gift gift-officers
+    division: Physical and Biological Science
+    name: Branwyn Wagman
+    phone: 831-459-4240
+    email: bwagman@ucsc.edu
+  - name: Tim Bensch
+    phone: 831-459-4572
+    email: tbensch@ucsc.edu
+  - name: Catherine Hsu
+    phone: 831-459-1614
+    email: chsu30@ucsc.edu
