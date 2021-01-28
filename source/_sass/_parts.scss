@@ -311,7 +311,7 @@
 }
 
 .blue-pill {
-    color: $white;
+    color: $white!important;
     &:visited,
     &:hover {
         color: $white;
