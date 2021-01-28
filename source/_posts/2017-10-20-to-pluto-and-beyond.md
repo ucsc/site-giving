@@ -10,8 +10,7 @@ author_name:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-excerpt:
-  - UC Santa Cruz students enjoy the rare privilege of doing real-world science as undergraduates. Nadim Abu-Hashmeh will present his original research to the American Geophysical Union with help from a specialized endowment.
+excerpt: "UC Santa Cruz students enjoy the rare privilege of doing real-world science as undergraduates. Nadim Abu-Hashmeh will present his original research to the American Geophysical Union with help from a specialized endowment."
 see_also_links:
   - "1"
 see_also_links_0_link_name:
