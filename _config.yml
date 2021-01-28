@@ -16,7 +16,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-assets
-#  - jekyll-paginate-v2
+  - jekyll-paginate-v2
+  - jekyll-feed
 
 # Build Settings
 markdown: kramdown
@@ -40,3 +41,12 @@ post_category_order:
   - "Student Profiles"
   - "News"
   - "Donor Profiles"
+
+pagination:
+  enabled: true
+  per_page: 25
+  title: ':title: page :num'
+  permalink: '/page/:num/'
+  trail:
+    before: 2
+    after: 2

@@ -1,110 +1,37 @@
-[role="tablist"] {
-  margin: 0 0 1em;
-  padding: 0;
-  border-bottom: 2px solid $ucsc-light-blue;
-
-  li {
-    list-style: none;
-    padding: 0;
-    margin-bottom: 0;
-  }
-
-  a {
-    display: inline-block;
-    font-size: 1.8em;
-    text-decoration: none;
-    padding: 0.5em 0.75em;
-    font-weight: 600;
-    color: $ucsc-light-blue;
-    border-radius: 4px 4px 0 0;
-
-    &:focus,
-    &:hover,
-    &:active {
-      background-color: $ucsc-primary-blue;
-      color: #fff;
-    }
-
-    &[aria-selected] {
-      color: #fff;
-      background-color: $ucsc-light-blue;
-    }
-
-    p {
-      margin: 0;
-      font-size: 0.6em;
-      font-weight: 400;
-    }
-  }
+.category-section {
+  margin:0 0 1em;
 }
 
-@media (min-width: 750px) {
-  [role="tablist"] {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-    li {
-      flex: 0 1 33%;
-      margin-right: .40rem;
-    }
-  }
+.category-section > h2 {
+  clear: both;
+  font-size: 3rem;
+  margin: 1em 0 .05em 0;
+  font-weight: 600;
 }
 
-@media (min-width: 1200px) {
-  [role="tablist"] {
-    justify-content: flex-start;
-
-    li {
-      flex: 0 1 30%;
-      margin-right: .5rem;
-    }
-  }
-}
-
-
-
-
-[role="tabpanel"] {
-  padding: 1.5rem 0;
-}
-
-[role="tabpanel"] * + * {
-  margin-top: 0.75rem;
-}
-
-*:focus {
-  outline: none;
-}
-
-@media (max-width: 550px) {
-  [role="tabpanel"] {
-    border-top: 0;
-  }
-}
-
-.category-teaser {
-  font-size: 1.2rem;
+.category-section p:first-of-type {
+  font-size: 1.5rem;
+  margin: .05em 0 1em 0;
+  color: $ucsc-light-blue;
+  border-bottom: 1px solid $ucsc-primary-yellow;
+  padding-bottom: .6em;
 }
 
 .posts {
-  margin: 0;
-  padding: 0;
+  margin: 2em 0 0 0;
+  padding: 1em 0 0 0;
   list-style: none;
   display: grid;
-  align-items: top;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(14em, 1fr));
+  column-gap: 2em;
+  row-gap: 1em;
 }
 
 .posts li {
   margin: 0 0 2em 0;
-  display: flex;
-  flex-direction: column;
-  padding: 1em;
-}
-
-.posts .media {
-  flex: 1;
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: .5em;
 }
 
 .posts .media img {
@@ -125,10 +52,20 @@
 
 .posts h3 {
   margin: 0 0 0.25em 0;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.4;
 }
 
 .posts p {
   font-size: 1.4rem;
+}
+
+@media (min-width: 768px) {
+  .posts time {
+    font-size: 1rem;
+  }
+
+  .posts h3 {
+    font-size: 1.4rem;
+  }
 }
