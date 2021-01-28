@@ -12,7 +12,7 @@ author_email:
 excerpt:
   - First-gen student Reina Garay-Solis is doing undergraduate research to help identify common challenges for first-gen and underrepresented students and find effective institutional practices to address them.
 thumbnail_image: reina-and-tree-thumbnail.jpg
-thumbnail_alt_text: 
+thumbnail_alt_text: Reina Garay-Solis
 category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2020/01/reina-solis.html
