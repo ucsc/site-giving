@@ -1,0 +1,48 @@
+---
+layout: page
+title: Impact of <span class="yellow">Giving</span>
+permalink: /impact-of-giving/
+hero:
+  use: true
+  image: hero-problem-solvers.jpg #best at 1000px by 450px
+  vertical: bottom #options: top, bottom
+  horizontal: right #options: left, right
+---
+
+  <!-- Build each section containing all of the stories in that category -->
+{% for category in site.post_category_order %}
+  {% assign sorted_stories = site.posts | where: "category", category %}
+  {% assign cat = category | slugify %}
+
+  <section id="{{ category | slugify }}-section" class="category-section">
+
+    <h2>
+      <a href="{{ page.permalink }}{{ category | slugify }}/">{{ category }}</a>
+    </h2>
+
+    <p>{{ site.data.category-meta[cat].teaser }}</p>
+
+    <ul class="list posts">
+      {%- for p in sorted_stories limit:10 %}
+      <li>
+        <div class="text">
+          <time datetime="{{ p.date }}">{{ p.date | date: "%b %d, %Y" }}</time>
+          <h3>
+          {%- if p.link_post %}
+            <a href="{{ p.link_post }}">
+          {%- else %}
+            <a href="{{ p.url }}">
+          {%- endif %}
+            {{ p.title }}</a>
+          </h3>
+        </div>
+        <div class="media">
+          {% if p.thumbnail_image %} {% asset {{p.thumbnail_image}}
+          magick:resize=300 alt="{{p.thumbnail_alt_text}}" %} {% endif %}
+        </div>
+      </li>
+      {%- endfor %}
+    </ul>
+    <p class="right"><a class="blue-pill" href="{{ page.permalink }}{{ category | slugify }}/">More {{ category | downcase }}</a></p>
+  </section>
+{% endfor %}

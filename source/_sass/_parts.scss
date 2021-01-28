@@ -859,7 +859,7 @@
 .hero-wrap {
     @include media-query($on-desktop) {
         padding-bottom: 54px;
-        padding-bottom: 3.375em;
+        padding-bottom: 1.5em;
     }
 }
 
