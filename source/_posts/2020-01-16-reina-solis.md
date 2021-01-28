@@ -4,7 +4,7 @@ title: Breaking down barriers to success
 date: 2020-01-16
 author: jhillard
 layout: post
-permalink: /donor-profiles/reina-solis/
+permalink: /student-profiles/reina-solis/
 author_name:
   - J.D. Hillard
 author_email:
