@@ -11,7 +11,7 @@ author_email:
   - jmcain@ucsc.edu
 excerpt:
   - Student leaders use Zoom to host virtual visit for hundreds of newly admitted students.
-thumbnail_image: student-zoom-outreach-thumbnail.jpg
+thumbnail_image: students-zoom-outreach-thumbnail.jpg
 thumbnail_alt_text: students on Zoom outeach session
 category: "Student Profiles"
 format: link
