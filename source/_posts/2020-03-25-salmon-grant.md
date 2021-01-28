@@ -4,7 +4,7 @@ title: UCSC grad students win funding for research on salmon and coastal resilie
 date: 2020-02-06
 author: jhillard
 layout: post
-permalink: /news/womens-rugby/
+permalink: /news/salmon-grant/
 author_name:
   - J.D. Hillard
 author_email:
