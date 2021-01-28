@@ -15,14 +15,14 @@ column_one:
   - name: Board opportunity fund
     link: "https://foundation.ucsc.edu/opportunity-fund/"
 column_two:
-  - name: Giving stories
-    link: /impact-of-giving/
-  - name: Donor profiles
-    link: /category/donor-profiles/
+  - name: Giving news
+    link: /impact-of-giving/news/
   - name: Student profiles
-    link: /category/student-profiles/
+    link: /impact-of-giving/student-profiles/
+  - name: Donor profiles
+    link: /impact-of-giving/donor-profiles/    
   - name: Videos
-    link: /category/videos/
+    link: /impact-of-giving/videos/
 column_three:
   - name: UCSC Fund
     link: /areas-to-support/ucsc-fund/
