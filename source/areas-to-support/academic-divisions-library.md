@@ -14,7 +14,7 @@ Each academic division at UC Santa Cruz emphasizes interdisciplinary inquiry and
    <figure class="college-thumb">
     {% asset "{{ division.image }}" magick:resize=200 alt='{{division.image}}' %}
    </figure>
-  <p class="college-blurb">{{division.blurb | markdownify}}</p>
+  <div class="college-blurb">{{division.blurb | markdownify}}</div>
    <a href="{{ division.link }}" class="blue-pill">Learn More</a>
  </div>
 {% endfor %}

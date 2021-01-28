@@ -189,6 +189,7 @@
     @include media-query($on-tablet) {
         grid-template-columns: 150px 1fr;
         grid-gap: 10px;
+        grid-column-gap: ($spacing-unit / 2);
         grid-template-rows: repeat(2, minmax(25px, auto));
     }
     .college-name {
@@ -859,7 +860,7 @@
 .hero-wrap {
     @include media-query($on-desktop) {
         padding-bottom: 54px;
-        padding-bottom: 1.5em;
+        padding-bottom: 3.375em;
     }
 }
 
