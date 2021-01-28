@@ -20,7 +20,7 @@ see_also_links_0_link_link:
   - 'https://humanities.ucsc.edu/about/giving/siobhan-oneill.html'
 thumbnail_image: siobahn-square.jpg
 thumbnail_alt_text: 
-category: "Siobahn O'Neill"
+category: "Donor Profiles"
 ---
   
 When Pat O’Neill (Carson ’74, philosophy) told friends and family she wanted to start a scholarship in memory of her sister Siobahn O’Neill, they fully supported this idea.
