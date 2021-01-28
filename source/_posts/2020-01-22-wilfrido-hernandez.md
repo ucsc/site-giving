@@ -4,7 +4,7 @@ title: The power of research
 date: 2020-01-22
 author: jhillard
 layout: post
-permalink: /donor-profiles/wilfrido-hernandez/
+permalink: /student-profiles/wilfrido-hernandez/
 author_name:
   - J.D. Hillard
 author_email:
