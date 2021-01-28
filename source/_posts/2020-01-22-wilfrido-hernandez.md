@@ -12,7 +12,7 @@ author_email:
 excerpt:
   - Wilfrido Hernández Flores discovered social science research in the Culture and Achievement Collaborative, and it changed his life.
 thumbnail_image: will-hernandez-thumbnail.jpg
-thumbnail_alt_text: 
+thumbnail_alt_text: Will Hernández Flores
 category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2020/01/hernadez-first-gen.html
