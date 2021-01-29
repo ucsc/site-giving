@@ -19,13 +19,13 @@ see_also_links_0_link_name:
 see_also_links_0_link_link:
   - 'https://humanities.ucsc.edu/about/giving/siobhan-oneill.html'
 thumbnail_image: siobahn-square.jpg
-thumbnail_alt_text: 
+thumbnail_alt_text: Siobahn O'Neill
 category: "Donor Profiles"
 ---
   
 When Pat O’Neill (Carson ’74, philosophy) told friends and family she wanted to start a scholarship in memory of her sister Siobahn O’Neill, they fully supported this idea.
 <figure class="inline-image full">
-{% asset siobahn.jpg magick:resize=400 alt='siobahn.jpg' %}
+{% asset siobahn.jpg magick:resize=400 alt='Siobahn' %}
 <figcaption>Siobahn O'Neill</figcaption></figure>
 
 All agreed that a [scholarship for UC Santa Cruz history majors following in her footsteps] (https://humanities.ucsc.edu/about/giving/siobhan-oneill.html) would be a perfect tribute. They were also enthusiastic about the university’s emphasis on support for students who are first in their families to attend university.
