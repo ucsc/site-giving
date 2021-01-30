@@ -32,60 +32,66 @@ leadership:
 gift-officers:
   heading: Divisional Gift Officers
   pbsci:
-    - name: Physical and Biological Science
-    - name: Branwyn Wagman
-      phone: 831-459-4240
-      email: bwagman@ucsc.edu
-    - name: Tim Bensch
-      phone: 831-459-4572
-      email: tbensch@ucsc.edu
-    - name: Catherine Hsu
-      phone: 831-459-1614
-      email: chsu30@ucsc.edu
-    - name: Eva Patlak Chudnow
-      phone: 831-459-2192
-      email: echudnow@ucsc.edu
-      role: Development Assistant
+    heading: Physical and Biological Science
+    members:
+      - name: Branwyn Wagman
+        phone: 831-459-4240
+        email: bwagman@ucsc.edu
+      - name: Tim Bensch
+        phone: 831-459-4572
+        email: tbensch@ucsc.edu
+      - name: Catherine Hsu
+        phone: 831-459-1614
+        email: chsu30@ucsc.edu
+      - name: Eva Patlak Chudnow
+        phone: 831-459-2192
+        email: echudnow@ucsc.edu
+        role: Development Assistant
   engineering:
-    - name: Engineering
-    - name: Roger Trippel
-      phone: 831-459-5646
-      email: rtripple@ucsc.edu
-    - name: Frank Howley
-      phone: 831-459-1769
-      email: fhowley@soe.ucsc.edu
-    - name: Kelsey Detwiler
-      phone: 831-459-1832
-      email: kedetwil@ucsc.edu
-      role: Development Assistant
+    heading: Engineering
+    members:
+      - name: Roger Trippel
+        phone: 831-459-5646
+        email: rtripple@ucsc.edu
+      - name: Frank Howley
+        phone: 831-459-1769
+        email: fhowley@soe.ucsc.edu
+      - name: Kelsey Detwiler
+        phone: 831-459-1832
+        email: kedetwil@ucsc.edu
+        role: Development Assistant
   socsci:
-    - name: Social Sciences
-    - name: Kevin Wasbauer
-      phone: 831-502-7274
-      email: kwasbaue@ucsc.edu
-    - name: Susan Moren
-      phone: 831-459-3857
-      email: susanm@ucsc.edu
-      role: Development Assistant
+    heading: Social Sciences
+    members:
+      - name: Kevin Wasbauer
+        phone: 831-502-7274
+        email: kwasbaue@ucsc.edu
+      - name: Susan Moren
+        phone: 831-459-3857
+        email: susanm@ucsc.edu
+        role: Development Assistant
   library:
-    - name: UC Santa Cruz Library
-    - name: Joop Rubens
-      phone: 831-459-5870
-      email: jrubens@ucsc.edu
+    heading: UC Santa Cruz Library
+    members:
+      - name: Joop Rubens
+        phone: 831-459-5870
+        email: jrubens@ucsc.edu
   humanities:
-    - name: Humanities
-    - name: Cari Napoles
-      phone: 831-459-4713
-      email: cmnapole@ucsc.edu
-    - name: Rafferty Lincoln
-      phone: 831-459-3527
-      email: rlincoln@ucsc.edu
-      role: Development Assistant
+    heading: Humanities
+    members:
+      - name: Cari Napoles
+        phone: 831-459-4713
+        email: cmnapole@ucsc.edu
+      - name: Rafferty Lincoln
+        phone: 831-459-3527
+        email: rlincoln@ucsc.edu
+        role: Development Assistant
   arts:
-    - name: Arts
-    - name: Sarah Kudela
-      phone: 831-459-2888
-      email: schuster@ucsc.edu
+    heading: Arts
+    members:
+      - name: Sarah Kudela
+        phone: 831-459-2888
+        email: schuster@ucsc.edu
 regional:
   heading: Regional gift officers
   members:
