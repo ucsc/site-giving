@@ -20,9 +20,9 @@ column_two:
   - name: Student profiles
     link: /impact-of-giving/student-profiles/
   - name: Donor profiles
-    link: /impact-of-giving/donor-profiles/    
+    link: /impact-of-giving/donor-profiles/
   - name: Videos
-    link: /impact-of-giving/videos/
+    link: /impact-of-giving/video/
 column_three:
   - name: UCSC Fund
     link: /areas-to-support/ucsc-fund/
