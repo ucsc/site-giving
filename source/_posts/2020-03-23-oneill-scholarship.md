@@ -5,13 +5,11 @@ date: 2020-03-23
 author: jhillard
 layout: post
 guid: https://giving.ucsc.edu/news/alumnas-love-for-sister-shines-through-scholarship/
-permalink: /donor-profiles/siobahn-oneill-scholarship/
 author_name:
   - J.D. Hillard
 author_email:
   - jhillard@ucsc.edu
-excerpt:
-  - The Siobahn O’Neill Memorial Scholarship will support history majors with interests in government and the arts.
+excerpt: "The Siobahn O’Neill Memorial Scholarship will support history majors with interests in government and the arts."
 see_also_links:
   - "2"
 see_also_links_0_link_name:
