@@ -182,5 +182,25 @@ contacts:
             {%endfor%}
         </div>
     </section>
+    <section class="contact-section campus-initiatives">
+        <div class="three-col-grid">
+            <div class="three-col-grid-cell section-head">
+                <h3 class="contact-h3">{{initiatives.heading}}</h3>
+            </div>
+            {% for member in initiatives.members %}
+            <div class="three-col-grid-cell members">
+                {% if member.org %}
+                <h4 class="contact-org">{{member.org}}</h4>
+                {% endif %}
+                <p class="contact-name">{{member.name}}</p>
+
+                <p class="contact-tel"><a href="tel:{{member.phone}}">{{member.phone}}</a></p>
+                <p class="contact-mail"><a href="mailto:{{member.email}}">{{member.email}}</a></p>
+
+            </div>
+            {%endfor%}
+        </div>
+    </section>
+
 </div>
-<h3>{{initiatives.heading}}</h3>
+
