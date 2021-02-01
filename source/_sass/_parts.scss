@@ -770,6 +770,13 @@ new */
 
 .contact-h3 {}
 
+.contact-h4 {}
+
+.contact-h3,
+.contact-h4 {
+    margin-bottom: 0;
+}
+
 .contact-name {
     font-weight: 700;
 }
@@ -796,9 +803,9 @@ new */
     .members {
         width: 100%;
         text-align: left;
-        padding-bottom: ($spacing-unit / 2);
+        padding: ($spacing-unit / 4) 0;
         p {
-            margin-bottom: ($spacing-unit / 4);
+            margin-bottom: ($spacing-unit / 8);
         }
         @include media-query ($on-desktop) {}
     }
