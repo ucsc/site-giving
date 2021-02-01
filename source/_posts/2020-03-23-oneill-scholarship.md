@@ -44,7 +44,7 @@ Pat O’Neill described her sister as a “straight shooter” who could make th
 
 Pat and her fellow donors hope that each person who is granted this scholarship is inspired and can imagine and create the life they have envisioned.
 
-Gifts to support the fund can be made through the online giving portal, or by mail:
+Gifts to support the fund can be made through the online giving portal or by mail:
 
 The Humanities Division
 Attn: Cari Napoles
