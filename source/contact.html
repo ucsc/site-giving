@@ -30,16 +30,22 @@ contacts:
     image: jd-hillard.jpg
 
 ---
-{% assign division = site.data.contact.division %} {% assign leadership = site.data.contact.leadership %} {% assign gift-officers = site.data.contact.gift-officers %} {% assign go-pbsci = site.data.contact.gift-officers.pbsci
-%} {% assign go-engineering = site.data.contact.gift-officers.engineering %} {% assign go-socsci = site.data.contact.gift-officers.socsci %} {% assign go-library = site.data.contact.gift-officers.library %} {% assign go-humanities = site.data.contact.gift-officers.humanities
-%} {% assign go-arts = site.data.contact.gift-officers.arts %} {% assign regional = site.data.contact.regional %} {% assign initiatives = site.data.contact.initiatives %}
+{% assign division = site.data.contact.division %}
+{% assign leadership = site.data.contact.leadership %}
+{% assign gift-officers = site.data.contact.gift-officers %}
+{% assign go-pbsci = site.data.contact.gift-officers.pbsci
+%}
+{% assign go-engineering = site.data.contact.gift-officers.engineering %} {% assign go-socsci = site.data.contact.gift-officers.socsci %} {% assign go-library = site.data.contact.gift-officers.library %} {% assign go-humanities = site.data.contact.gift-officers.humanities
+%}
+{% assign go-arts = site.data.contact.gift-officers.arts %} {% assign regional = site.data.contact.regional %} {% assign initiatives = site.data.contact.initiatives %}
 
 <div class="contact">
     <section class="contact-section ur">
-        <div class="three-col-grid">
-            <div class="three-col-grid-cell section-head">
+
                 <h3 class="contact-h3">{{division.heading}}</h3>
-            </div>
+
+        <div class="three-col-grid">
+
             <div class="three-col-grid-cell members">
                 <p class="contact-name">{{division.name}}</p>
                 <p class="contact-tel"><a href="tel:{{division.phone}}">{{division.phone}}</a></p>
@@ -48,10 +54,10 @@ contacts:
         </div>
     </section>
     <section class="contact-section philanthropy-leadership">
+
+          <h3 class="contact-h3">{{leadership.heading}}</h3>
+
         <div class="three-col-grid">
-            <div class="three-col-grid-cell section-head">
-                <h3 class="contact-h3">{{leadership.heading}}</h3>
-            </div>
             {% for member in leadership.members %}
             <div class="three-col-grid-cell members">
 
@@ -67,14 +73,13 @@ contacts:
         </div>
     </section>
     <section class="contact-section divisional-gift-officers">
-        <div class="three-col-grid">
-            <div class="three-col-grid-cell section-head">
-                <h3 class="contact-h3">{{gift-officers.heading}}</h3>
-            </div>
-            <div class="three-col-grid-cell section-head">
-                <h4 class="contact-h4">{{go-pbsci.heading}}</h4>
-            </div>
-            {% for member in go-pbsci.members %}
+
+            <h3 class="contact-h3">{{gift-officers.heading}}</h3>
+
+            <h4 class="contact-h4">{{go-pbsci.heading}}</h4>
+
+            <div class="three-col-grid">
+             {% for member in go-pbsci.members %}
             <div class="three-col-grid-cell members">
 
                 <p class="contact-name">{{member.name}}</p>
@@ -86,9 +91,9 @@ contacts:
 
             </div>
             {%endfor%}
-            <div class="three-col-grid-cell section-head">
-                <h4 class="contact-h4">{{go-engineering.heading}}</h4>
             </div>
+            <h4 class="contact-h4">{{go-engineering.heading}}</h4>
+            <div class="three-col-grid">
             {% for member in go-engineering.members %}
             <div class="three-col-grid-cell members">
 
@@ -101,9 +106,11 @@ contacts:
 
             </div>
             {%endfor%}
-            <div class="three-col-grid-cell section-head">
-                <h4 class="contact-h4">{{go-socsci.heading}}</h4>
             </div>
+            <h4 class="contact-h4">{{go-socsci.heading}}</h4>
+            <div class="three-col-grid">
+
+
             {% for member in go-socsci.members %}
             <div class="three-col-grid-cell members">
 
@@ -116,9 +123,11 @@ contacts:
 
             </div>
             {%endfor%}
-            <div class="three-col-grid-cell section-head">
-                <h4 class="contact-h4">{{go-library.heading}}</h4>
             </div>
+
+                <h4 class="contact-h4">{{go-library.heading}}</h4>
+            <div class="three-col-grid">
+
             {% for member in go-library.members %}
             <div class="three-col-grid-cell members">
 
@@ -131,9 +140,11 @@ contacts:
 
             </div>
             {%endfor%}
-          <div class="three-col-grid-cell section-head">
-                <h4 class="contact-h4">{{go-humanities.heading}}</h4>
             </div>
+
+                <h4 class="contact-h4">{{go-humanities.heading}}</h4>
+            <div class="three-col-grid">
+
             {% for member in go-humanities.members %}
             <div class="three-col-grid-cell members">
 
@@ -146,9 +157,11 @@ contacts:
 
             </div>
             {%endfor%}
-            <div class="three-col-grid-cell section-head">
-                <h4 class="contact-h4">{{go-arts.heading}}</h4>
             </div>
+
+                <h4 class="contact-h4">{{go-arts.heading}}</h4>
+            <div class="three-col-grid">
+
             {% for member in go-arts.members %}
             <div class="three-col-grid-cell members">
 
@@ -161,13 +174,15 @@ contacts:
 
             </div>
             {%endfor%}
+            </div>
         </div>
     </section>
     <section class="contact-section regional-gift-officers">
-        <div class="three-col-grid">
-            <div class="three-col-grid-cell section-head">
+
                 <h3 class="contact-h3">{{regional.heading}}</h3>
-            </div>
+
+        <div class="three-col-grid">
+
             {% for member in regional.members %}
             <div class="three-col-grid-cell members">
 
@@ -183,10 +198,11 @@ contacts:
         </div>
     </section>
     <section class="contact-section campus-initiatives">
-        <div class="three-col-grid">
-            <div class="three-col-grid-cell section-head">
+
                 <h3 class="contact-h3">{{initiatives.heading}}</h3>
-            </div>
+
+        <div class="three-col-grid">
+
             {% for member in initiatives.members %}
             <div class="three-col-grid-cell members">
                 {% if member.org %}

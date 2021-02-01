@@ -768,11 +768,10 @@
 /**
 new */
 
-.contact-h3 {}
+.contact-h3 {
+    border-bottom: 1px solid $ucsc-primary-yellow;
+}
 
-.contact-h4 {}
-
-.contact-h3,
 .contact-h4 {
     margin-bottom: 0;
 }
@@ -796,10 +795,6 @@ new */
         @include media-query($on-tablet) {
             grid-template-columns: repeat(3, 1fr);
         }
-    }
-    .section-head {
-        grid-column-start: 1;
-        grid-column-end: 4;
     }
     .members {
         width: 100%;
