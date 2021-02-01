@@ -13,7 +13,7 @@ excerpt:
   - Bud and Rebecca Colligan's gift will expand testing capacity and help fund a new, dedicated laboratory.
 thumbnail_image: covid-lab-thumbnail.jpg
 thumbnail_alt_text: Technitian in laboratory
-category: "Donor profiles"
+category: "Donor Profiles"
 format: link
 link_post: https://news.ucsc.edu/2020/12/covid-testing-lab.html
 ---
