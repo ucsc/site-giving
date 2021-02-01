@@ -793,12 +793,13 @@ new */
     padding-bottom: ($spacing-unit) / 1;
     .three-col-grid {
         grid-gap: 0.5em;
+        @include media-query($on-tablet) {
+            grid-template-columns: repeat(3, 1fr);
+        }
     }
     .section-head {
-        @include media-query ($on-desktop) {
-            grid-column-start: 1;
-            grid-column-end: 4;
-        }
+        grid-column-start: 1;
+        grid-column-end: 4;
     }
     .members {
         width: 100%;
