@@ -1,0 +1,115 @@
+division:
+  heading: University Relations
+  name: Inquiries
+  phone: 831-459-2501
+  email: giving@ucsc.edu
+leadership:
+  heading: Philanthropy leadership
+  members:
+    - name: Mark Delos Reyes Davis
+      role: Vice Chancellor, University Relations
+      phone: 831-459-2654
+      email: mdrdavis@ucsc.edu
+    - name: Jeff Shilling
+      role: Associate Vice Chancellor, Philanthropy
+      phone: 831-459-5718
+      email: jshilling@ucsc.edu
+    - name: Virginia Rivera
+      role: Planned Giving
+      phone: 831-459-5227
+      email: vvrivera@ucsc.edu
+    - name: Meg Corman
+      role: Constituent and Donor Engagement
+      phone: 831-459-1305
+      email: mlcorman@ucsc.edu
+    - name: Natasha Basey Pedroza
+      role: Annual Giving
+      phone: 831-459-3455
+      email: nbpedroz@ucsc.edu
+    - name: J.D. Hillard
+      role: Donor Stewardship
+      phone: 831-459-1717
+      email: jhillard@ucsc.edu
+gift-officers:
+  heading: Divisional gift officers
+  pbsci:
+    heading: Physical and Biological Science
+    members:
+      - name: Branwyn Wagman
+        phone: 831-459-4240
+        email: bwagman@ucsc.edu
+      - name: Tim Bensch
+        phone: 831-459-4572
+        email: tbensch@ucsc.edu
+      - name: Catherine Hsu
+        phone: 831-459-1614
+        email: chsu30@ucsc.edu
+      - name: Eva Patlak Chudnow
+        phone: 831-459-2192
+        email: echudnow@ucsc.edu
+        role: Development Assistant
+  engineering:
+    heading: Engineering
+    members:
+      - name: Roger Trippel
+        phone: 831-459-5646
+        email: rtripple@ucsc.edu
+      - name: Frank Howley
+        phone: 831-459-1769
+        email: fhowley@soe.ucsc.edu
+      - name: Kelsey Detwiler
+        phone: 831-459-1832
+        email: kedetwil@ucsc.edu
+        role: Development Assistant
+  socsci:
+    heading: Social Sciences
+    members:
+      - name: Kevin Wasbauer
+        phone: 831-502-7274
+        email: kwasbaue@ucsc.edu
+      - name: Susan Moren
+        phone: 831-459-3857
+        email: susanm@ucsc.edu
+        role: Development Assistant
+  library:
+    heading: UC Santa Cruz Library
+    members:
+      - name: Joop Rubens
+        phone: 831-459-5870
+        email: jrubens@ucsc.edu
+  humanities:
+    heading: Humanities
+    members:
+      - name: Cari Napoles
+        phone: 831-459-4713
+        email: cmnapole@ucsc.edu
+      - name: Rafferty Lincoln
+        phone: 831-459-3527
+        email: rlincoln@ucsc.edu
+        role: Development Assistant
+  arts:
+    heading: Arts
+    members:
+      - name: Sarah Kudela
+        phone: 831-459-2888
+        email: schuster@ucsc.edu
+regional:
+  heading: Regional gift officers
+  members:
+    - name: John Idstrom
+      phone: 253-273-8928
+      email: jidstrom@ucsc.edu
+    - name: Matt Bernd
+      phone: 323-630-1599
+      email: mabernd@ucsc.edu
+initiatives:
+  heading: Campus initiatives
+  members:
+    - name: Natasha Basey Pedroza
+      phone: 831-459-3455
+      email: nbpedroz@ucsc.edu
+      org: UC Observatories
+    - name: Lauren Donnelly‑Crocker
+      phone: 831-459-4568
+      email: ldonnell@ucsc.edu
+      org: Seymour Marine Discovery Center

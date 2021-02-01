@@ -710,6 +710,11 @@
  *
  */
 
+
+/**
+ old styles
+  */
+
 .contact-grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -756,6 +761,49 @@
         a {
             @include relative-font-size(0.875)
         }
+    }
+}
+
+
+/**
+new */
+
+.contact-h3 {
+    border-bottom: 1px solid $ucsc-primary-yellow;
+}
+
+.contact-h4 {
+    margin-bottom: 0;
+}
+
+.contact-name {
+    font-weight: 700;
+}
+
+.contact-role {}
+
+.contact-tel {}
+
+.contact-mail {}
+
+.contact-org {}
+
+.contact-section {
+    padding-bottom: ($spacing-unit) / 1;
+    .three-col-grid {
+        grid-gap: 0.5em;
+        @include media-query($on-tablet) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+    .members {
+        width: 100%;
+        text-align: left;
+        padding: ($spacing-unit / 4) 0;
+        p {
+            margin-bottom: ($spacing-unit / 8);
+        }
+        @include media-query ($on-desktop) {}
     }
 }
 
