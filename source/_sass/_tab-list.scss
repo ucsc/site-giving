@@ -22,7 +22,7 @@
   padding: 1em 0 0 0;
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(14em, 1fr));
+  grid: 1fr / repeat(auto-fit, minmax(20em, 1fr));
   column-gap: 2em;
   row-gap: 1em;
 }
@@ -45,14 +45,14 @@
   margin: 0 0 0.25em 0;
   color: #666;
   font-weight: 400;
-  font-size: 1.28rem;
+  font-size: 1.16rem;
   letter-spacing: 0.08rem;
   text-transform: uppercase;
 }
 
 .posts h3 {
   margin: 0 0 0.25em 0;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.4;
 }
 
@@ -62,10 +62,10 @@
 
 @media (min-width: 768px) {
   .posts time {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   .posts h3 {
-    font-size: 1.4rem;
+    font-size: 2rem;
   }
 }
