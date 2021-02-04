@@ -612,12 +612,6 @@ table {
             // background: $ucsc-primary-blue;
         }
     }
-    .nav-toggle {
-        margin-left: auto;
-        @include media-query($on-desktop) {
-            display: none;
-        }
-    }
     .site-nav {
         flex: 0 0 100%;
         display: none;

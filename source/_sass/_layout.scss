@@ -29,6 +29,13 @@
    }
  }
 
+ .nav-toggle {
+  margin-left: auto;
+  @include media-query($on-desktop) {
+      display: none;
+  }
+}
+
  .site-nav {
    padding-top: ($spacing-unit / 2);
 
@@ -85,7 +92,7 @@
      }
    }
  }
-
+ 
  /**
  * Site footer
  */
