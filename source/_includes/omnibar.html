@@ -8,24 +8,27 @@
         <a href="{{ item.link }}">
             {{ item.name }}
           </a> {% endfor %}
-      </div>
-  <!-- Google Custom Search -->
-
-  <form class="omniform" action="/search/" id="cse-search-box-site">
-
+          <!-- Google Custom Search -->
+    <form class="omniform" action="/search/" id="cse-search-box-site">
       <label class="screen-reader-text" for="search-site">Search this site</label>
       <input class="query" id="search-site" name="q" placeholder="Search this site" type="text"/>
       <input type="image" alt="Search" src="/assets/images/search.svg">
-
-
     </form>
-
   <!-- end Google Custom Search -->
+      </div>
+
 <a href="#" class="omnitoggle"><i class="fas fa-bars"></i></a>
 
 </nav>
 <nav id="omnimobile" class="omnibar mobile">
     <div class="omniitems">
+    <!-- Google Custom Search -->
+    <form class="omniform" action="/search/" id="cse-search-box-site">
+      <label class="screen-reader-text" for="search-site">Search this site</label>
+      <input class="query" id="search-site" name="q" placeholder="Search this site" type="text"/>
+      <input type="image" alt="Search" src="/assets/images/search.svg">
+    </form>
+  <!-- end Google Custom Search -->
         {% for item in site.data.omnibar.links%}
         <a href="{{ item.link }}">
             {{ item.name }}
