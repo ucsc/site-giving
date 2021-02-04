@@ -471,7 +471,27 @@ table {
 /**
  * Omnibar
  */
+ .omniform {
+  // flex: 1;
+  // justify-content: flex-end;
+  margin-left: auto;
+  padding-left: 10px;
+  vertical-align: middle;
+  @include media-query($on-desktop) {
+      margin-left: 0;
+  }
 
+ input[type="image"] {
+  position: relative;
+  top: 0.24em;
+  right: 1.85em;
+}
+input[type="text"] {
+  width: 88%;
+  padding: 0.55em 0.45em;
+  border: none;
+}
+ }
 .omniwrap {
     display: grid;
     grid-template-columns: 140px 1fr;
@@ -491,16 +511,7 @@ table {
         @include media-query($on-desktop) {
             display: flex;
         }
-        .omniform {
-            // flex: 1;
-            // justify-content: flex-end;
-            margin-left: auto;
-            padding-left: 10px;
-            vertical-align: middle;
-            @include media-query($on-desktop) {
-                margin-left: 0;
-            }
-        }
+        
         .omniitems {
             @include relative-font-size(0.875);
             display: none;
@@ -527,16 +538,6 @@ table {
             }
         }
         
-        input[type="image"] {
-            position: relative;
-            top: 0.24em;
-            right: 1.85em;
-        }
-        input[type="text"] {
-            width: 88%;
-            padding: 0.55em 0.45em;
-            border: none;
-        }
     }
     .omnibar.mobile {
         grid-column-start: 1;
@@ -548,6 +549,11 @@ table {
             text-align: center;
             font-size: 1.8rem;
             font-weight: 700;
+        }
+        .omniform {
+            width: 80%;
+            margin: 0 auto;
+            text-align: center;
         }
         @include media-query($on-desktop) {
             display: none;
