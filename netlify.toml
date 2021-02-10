@@ -1,7 +1,105 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu *.google.com www.google-analytics.com data:; script-src 'self' 'unsafe-inline' *.ucsc.edu *.google.com www.google-analytics.com ajax.googleapis.com *.googletagmanager.com *.fontawesome.com; style-src 'self' 'unsafe-inline' *.ucsc.edu *.google.com *.googleapis.com *.fontawesome.com unpkg.com data:; font-src 'self' fonts.gstatic.com *.fontawesome.com *.google.com; frame-src 'self' *.youtube.com; object-src 'none';"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' 'unsafe-eval' https://siteimproveanalytics.com *.siteimproveanalytics.io data: *.ucsc.edu *.google-analytics.com ajax.googleapis.com *.googletagmanager.com use.fontawesome.com *.google.com *.netlify.com *.unpkg.com fonts.googleapis.com fonts.gstatic.com unpkg.com *.fontawesome.com visualizedata.ucop.edu;frame-src 'self' *.youtube.com *.google.com visualizedata.ucop.edu;object-src 'none';frame-ancestors 'self' *.google.com *.youtube.com;"
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = "1; mode=block"
     X-Frame-Options = "DENY"
+
+[[redirects]]
+  from = "/campaign-impact/*"
+  to = "/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/about"
+  to = "/contact-us"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/donor-profiles"
+  to = "/impact-of-giving/donor-profiles"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/donor-profiles/*"
+  to = "/impact-of-giving/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/giving-opportunities"
+  to = "/areas-to-support"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/giving-opportunities"
+  to = "/areas-to-support"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/giving-opportunities/*"
+  to = "/areas-to-support/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/news-events"
+  to = "/impact-of-giving"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/news/*"
+  to = "/impact-of-giving/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/student-profiles"
+  to = "/impact-of-giving/student-profiles"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/student-profiles/*"
+  to = "/impact-of-giving/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/videos"
+  to = "/impact-of-giving/video"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/videos/*"
+  to = "/impact-of-giving/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/ways_to_give.php"
+  to = "/ways-to-give"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
