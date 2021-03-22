@@ -19,10 +19,6 @@ _**By making a gift to the UCSC Fund, you allow us to say yes.**_
 
 This is the most flexible kind of support you can give us, because these funds go to initiatives that will benefit immediately from extra financial help.
 
-## YES
-
-can provide scholarships.
-
 ### With your help, last year we said yes to:
 
   * Funding the Chancellor’s Undergraduate Internship Program
