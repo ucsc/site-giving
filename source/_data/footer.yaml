@@ -24,10 +24,10 @@ column_two:
   - name: Videos
     link: /impact-of-giving/video/
 column_three:
-  - name: UCSC Fund
-    link: /areas-to-support/ucsc-fund/
   - name: Search a list of funds
     link: http://alumni.ucsc.edu/search-designations/
+  - name: UCSC Fund
+    link: /areas-to-support/ucsc-fund/
   - name: Academics and library
     link: /areas-to-support/academic-divisions-library/
   - name: Colleges
