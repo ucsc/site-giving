@@ -17,7 +17,7 @@ see_also:
 sidebar1: chancellors-associates-sidebar.html
 ---
 {% include sidebars/{{page.sidebar1}} classes="right" %}
-Donors who give $1,000 or more annually to one of two discretionary funds—the UC Santa Cruz Fund or the Parents Fund—are recognized as Chancellor&#8217;s Associates. It is the chancellor&#8217;s way of saying thank you and extending the opportunity for you to be part of a community of donors and friends of the university. Learn about giving levels and donor benefits.
+Donors who give $1,000 or more annually to one of two discretionary funds—the UC Santa Cruz Fund or the Parents Fund—are recognized as Chancellor&#8217;s Associates. It is the chancellor&#8217;s way of saying thank you and extending the opportunity for you to be part of a community of donors and friends of the university. 
 
 ## Impact of your gift
 
