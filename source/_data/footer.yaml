@@ -8,11 +8,11 @@ headings:
   - column: four
     heading: Other
 column_one:
-  - name: About the foundation
+  - name: About the Foundation
     link: "https://foundation.ucsc.edu/"
   - name: Investment reports and policies
     link: "https://foundation.ucsc.edu/endowment/"
-  - name: Board opportunity fund
+  - name: Board Opportunity Fund
     link: "https://foundation.ucsc.edu/opportunity-fund/"
 column_two:
   - name: Giving news
