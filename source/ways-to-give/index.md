@@ -13,37 +13,37 @@ numbered_list:
   - list_number: one 
     heading: Give online
     copy: |
-      Use our <a href="http://connect.ucsc.edu/givenow">secure donation site</a>
+      Use our <a href="http://connect.ucsc.edu/givenow">secure donation site.</a>
     link_copy: secure donation site
     url: "http://connect.ucsc.edu/givenow"
   - list_number: two 
     heading: Recurring gifts
     copy: | 
-      On the <a href="http://connect.ucsc.edu/givenow">online donation site</a> you can establish a regular schedule of giving by credit card, bank transfer or check
+      Establish a regular schedule of giving by credit card, bank transfer, or check on our <a href="http://connect.ucsc.edu/givenow">online donation site.</a> 
     link_copy: online donation site
     url: "http://connect.ucsc.edu/givenow"
   - list_number: three 
     heading: Legacy giving
     copy: |
-      <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will
+      <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will.
     link_copy: Make a planned gift or let us know      
     url: "https://plannedgifts.ucsc.edu"
   - list_number: four
     heading: Securities
     copy: |
-      Stocks, bonds, mutuals funds—follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form</a>
+      To donate stocks, bonds, mutuals funds, please follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form.</a>
     link_copy: this form
     url: "/assets/documents/gifts-of-stock.pdf"
   - list_number: five
     heading: UC payroll deduction
     copy: |
-      Faculty and staff can arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payroll deduction form</a>. You can also give through your retirement plan.
+      Faculty and staff may arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payroll deduction form</a>. You can also give through your retirement plan.
     link_copy: payroll deduction form
     url: "http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0"
   - list_number: six
     heading: Complex assets
     copy: |
-      Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@uscc.edu or (831) 459-5718
+      Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@uscc.edu or (831) 459-5718.
   - list_number: seven 
     heading: Mail a check
     copy: |
@@ -52,7 +52,7 @@ numbered_list:
       PO Box 44000<br>
       San Francisco, CA<br>
       94144-4787<br><br>
-      Make Checks out to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
+      Make checks payable to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
 support_areas:
   - heading: UCSC Fund
@@ -69,7 +69,7 @@ support_areas:
     button_text: Let Us Know
     button_link: http://plannedgifts.ucsc.edu/
   - heading: Crowdfunding
-    copy: "Give to your favorite campus cause or browse pop-up student and faculty fundraisers."
+    copy: "Browse active pop-up student and faculty fundraisers."
     image: crowdfunding.jpg
     image_alt: Crowdfunding image of students
     button_text: Learn More
@@ -88,7 +88,7 @@ support_areas:
     button_text: Learn More
     button_link: /ways-to-give/endowment-giving/
   - heading: Recurring Gifts
-    copy: "By establishing a monthly donation, your impact is ongoing and reduces administrative costs."
+    copy: "Monthly giving is a great way to budget charitable donations and sustain your impact."
     image: greenhouse-research.jpg
     image_alt: image alt text
     button_text: Learn More
