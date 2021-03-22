@@ -47,6 +47,7 @@ numbered_list:
   - list_number: seven 
     heading: Mail a check
     copy: |
+      Please complete a gift form and send it with your gift to<br>
       UC Santa Cruz Foundation<br>
       Dept. 44787<br>
       PO Box 44000<br>
