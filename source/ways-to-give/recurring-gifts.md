@@ -11,7 +11,7 @@ guid: https://live-ucsc-giving.pantheonsite.io/?page_id=3307
 <figure class="inline-image right">
 {% asset ucsc-farm-greenhouse.jpg magick:resize=300 alt="Students work in the greenhouse at the UCSC Farm" %}<figcaption>Students work in the greenhouse at the UCSC Farm</figcaption></figure>
 
-By establishing a monthly donation, you not only allow students the valuable assets they need, but also cut down on administrative costs. Setting up a monthly gift allows for an easy and affordable way for your donation to make the most impact.
+By establishing a monthly donation, you provide sustained support for students and researchers. Setting up a monthly gift is an easy and affordable way for your donation to make the most impact.
 
 ## How your monthly donation can help students:
 
