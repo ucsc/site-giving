@@ -14,17 +14,17 @@ support_areas:
   - heading: All Designated Funds
     copy: "Search or browse an A-Z list of all giving opportunities."
     image: search-funds.jpg
-    image_alt: search funds
+    image_alt: students in lab
     button_text: A-Z list
     button_link: http://alumni.ucsc.edu/search-designations/
   - heading: Area of Greatest Need
-    copy: "Give where it makes the most significant and immediate difference."
-    image: woman-with-binoculars.jpg
-    image_alt: Woman with binoculars
+    copy: "Give to make a significant and immediate difference."
+    image: scholarships-fellowships.jpg
+    image_alt: student with transparency   
     button_text: Make a gift
     button_link: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722
   - heading: Student Success
-    copy: "Ensure every student has access to a transformative education."
+    copy: "Provide direct support to students in need."
     image: CM-Outside-1.jpg
     image_alt: Students collaborate outside
     button_text: Learn more
@@ -36,27 +36,27 @@ support_areas:
     button_text: Browse projects
     button_link: https://crowdfund.ucsc.edu/
   - heading: Academic Divisions and Library
-    copy: "Support life-changing education through dean's excellence funds in the division."
+    copy: "Support life-changing education through academic divisions, libraries, and observatories."
     image: academic-divisions.jpg
-    image_alt: image alt text
+    image_alt: student with cat on bench
     button_text: Learn More
     button_link: /areas-to-support/academic-divisions-library/
   - heading: College Funds
-    copy: "Help spportive on-campus communities thrive. The 10 residential colleges provide academic assistance and activities embracing intellectual and social life."
+    copy: "Help the 10 residential colleges thrive, and provide academic assistance and activities embracing intellectual and social life."
     image: college-funds.jpg
-    image_alt: image alt text
+    image_alt: student in cafe
     button_text: Learn More
     button_link: /areas-to-support/the-colleges/
   - heading: Faculty Support and Chairs
-    copy: "Giving to chairs and professorships helps retain and recruit innovative and accomplished scholars."
+    copy: "Give to chairs and professorships to retain and recruit innovative and accomplished scholars."
     image: faculty-support.jpg
-    image_alt: image alt text
+    image_alt: person in lab coat holding tablet
     button_text: Learn More
     button_link: /areas-to-support/faculty-support-chairs/
   - heading: Scholarships and Fellowships
-    copy: "Help ensure that high-achieving students and graduate programs have scholarship and fellowship opportunities"
-    image: scholarships-fellowships.jpg
-    image_alt: image alt text
+    copy: "Empower high-achieving students and graduate programs with scholarship and fellowship opportunities."
+    image: woman-with-binoculars.jpg
+    image_alt: Woman with binoculars
     button_text: Learn More
     button_link: /areas-to-support/scholarships-fellowships/
 ---
