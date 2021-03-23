@@ -99,7 +99,7 @@ support_areas:
   <section class="ways-to-give two-col-grid">
 {% for cell in page.numbered_list %}
 <div class="container">
-              <h3 class="head {{cell.list_number}}">{{cell.heading}}</h3>
+              <h3>{{cell.heading}}</h3>
               <p class="copy">{{cell.copy}}</p>
               </div>
 {% endfor%}
