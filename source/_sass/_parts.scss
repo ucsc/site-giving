@@ -549,14 +549,13 @@
  */
 
 .ways-to-give {
-    padding-top: $spacing-unit;
     border-bottom: 2px solid $ucsc-primary-yellow;
     .container {
         padding: 1.25rem 2.5rem 0 3rem;
         position: relative;
         justify-self: stretch;
         h3 {
-            @include relative-font-size(1);
+            @include relative-font-size(1.25);
             color: $ucsc-primary-blue;
             font-weight: 700;
             margin-bottom: 5px;
