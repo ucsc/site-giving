@@ -549,108 +549,16 @@
  */
 
 .ways-to-give {
-    padding-top: $spacing-unit;
     border-bottom: 2px solid $ucsc-primary-yellow;
-    .grid-cell {
-        @include media-query($on-desktop) {
-            &.one {
-                // grid-row-start: 1;
-                // grid-column-start: 1;
-            }
-            &.two {
-                // grid-column-start: 1;
-                // grid-row-start: 2;
-            }
-            &.three {
-                // grid-row-start: 1;
-                // grid-column-start: 2;
-            }
-            &.four {
-                // grid-row-start: 1;
-                // grid-column-start: 3;
-            }
-            &.five {
-                // grid-row-start: 2;
-                // grid-column-start: 3;
-            }
-        }
-    }
     .container {
-        padding: 1.25rem 2.5rem 1.25rem 3rem;
+        padding: 1.25rem 2.5rem 0 3rem;
         position: relative;
         justify-self: stretch;
-        .head {
-            @include relative-font-size(1);
+        h3 {
+            @include relative-font-size(1.25);
             color: $ucsc-primary-blue;
             font-weight: 700;
-            &.one {
-                &::before {
-                    content: "1"
-                }
-            }
-            &.two {
-                &::before {
-                    content: "2"
-                }
-            }
-            &.three {
-                &::before {
-                    content: "3"
-                }
-            }
-            &.four {
-                &::before {
-                    content: "4"
-                }
-            }
-            &.five {
-                &::before {
-                    content: "5"
-                }
-            }
-            &.six {
-                &::before {
-                    content: "6"
-                }
-            }
-            &.seven {
-                &::before {
-                    content: "7"
-                }
-            }
-            &.eight {
-                &::before {
-                    content: "8"
-                }
-            }
-            &.nine {
-                &::before {
-                    content: "9"
-                }
-            }
-            &.ten {
-                &::before {
-                    content: "10"
-                }
-            }
-            &::before {
-                // content: "1";
-                background-color: $ucsc-primary-yellow;
-                color: $white;
-                font-weight: 700;
-                @include relative-font-size(1.5);
-                height: $spacing-unit;
-                width: $spacing-unit;
-                // border: 10px;
-                line-height: $spacing-unit;
-                text-align: center;
-                border-radius: 50%;
-                // padding: 10px;
-                // margin: 0;
-                top: 9px;
-                left: -6px;
-                position: absolute;
-            }
+            margin-bottom: 5px;
         }
         .copy {
             line-height: 1.25;
