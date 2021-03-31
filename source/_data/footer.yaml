@@ -16,13 +16,11 @@ column_one:
     link: "https://foundation.ucsc.edu/opportunity-fund/"
 column_two:
   - name: Giving news
-    link: /impact-of-giving/news/
+    link: /impact-of-giving/#news-section
   - name: Student profiles
-    link: /impact-of-giving/student-profiles/
+    link: /impact-of-giving/#student-profiles-section
   - name: Donor profiles
-    link: /impact-of-giving/donor-profiles/
-  - name: Videos
-    link: /impact-of-giving/video/
+    link: /impact-of-giving/#donor-profiles-section
 column_three:
   - name: Search a list of funds
     link: http://alumni.ucsc.edu/search-designations/
