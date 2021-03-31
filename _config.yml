@@ -22,7 +22,7 @@ plugins:
 # Build Settings
 markdown: kramdown
 kramdown:
-  auto_ids: true
+  auto_ids: false
   parse_block_html: false
 permalink: /impact-of-giving/:title/
 
