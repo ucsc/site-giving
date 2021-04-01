@@ -43,7 +43,7 @@ numbered_list:
   - list_number: six
     heading: Complex assets
     copy: |
-      Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@ucsc.edu or (831) 502-8165.
+      Illiquid securities, real estate, insurance, intellectual property, business interest, cryptocurrencies—contact Jeff Shilling, associate vice chancellor of development, shilling@ucsc.edu or (831) 502-8165.
   - list_number: seven 
     heading: Mail a check
     copy: |
