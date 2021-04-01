@@ -59,8 +59,8 @@ numbered_list:
 support_areas:
   - heading: UCSC Fund
     copy: "Support a vibrant learning environment with a gift to the area of greatest need."
-    image: student-greenhouse.jpg
-    image_alt: student in greenhouse
+    image: parents-families.jpg
+    image_alt: student with parent
     button_text: Learn More
     button_link: /areas-to-support/ucsc-fund/
     division_list: false
