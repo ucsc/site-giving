@@ -47,7 +47,7 @@ numbered_list:
   - list_number: seven 
     heading: Mail a check
     copy: |
-      Please complete a <a href="/assets/documents/gifts-pledge-mail-form.pdf">gift form</a> and send it with your gift to<br>
+      Please complete a <a href="/assets/documents/gifts-pledges-mail-form.pdf">gift form</a> and send it with your gift to<br>
       UC Santa Cruz Foundation<br>
       Dept. 44787<br>
       PO Box 44000<br>
@@ -55,7 +55,7 @@ numbered_list:
       94144-4787<br><br>
       Make checks payable to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
-    url: "/assets/documents/gifts-pledge-mail-form.pdf"
+    url: "/assets/documents/gifts-pledges-mail-form.pdf"
 support_areas:
   - heading: UCSC Fund
     copy: "Support a vibrant learning environment with a gift to the area of greatest need."
