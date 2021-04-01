@@ -19,8 +19,8 @@ support_areas:
     button_link: http://alumni.ucsc.edu/search-designations/
   - heading: Area of Greatest Need
     copy: "Give to make a significant and immediate difference."
-    image: scholarships-fellowships.jpg
-    image_alt: student with transparency   
+    image: student-greenhouse.jpg
+    image_alt: student in greenhouse   
     button_text: Make a gift
     button_link: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722
   - heading: Student Success
