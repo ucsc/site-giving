@@ -12,7 +12,7 @@ leadership:
       email: mdrdavis@ucsc.edu
     - name: Jeff Shilling
       role: Associate Vice Chancellor, Philanthropy
-      phone: 831-459-5718
+      phone: 831-502-8156
       email: jshilling@ucsc.edu
     - name: Virginia Rivera
       role: Planned Giving
@@ -96,23 +96,28 @@ gift-officers:
       - name: Sarah Kudela
         phone: 831-459-2888
         email: schuster@ucsc.edu
+  uc observatories:
+    heading: UC Observatories
+    members:
+      - name: Natasha Basey Pedroza
+        phone: 831-459-3455
+        email: nbpedroz@ucsc.edu
+  seymour marine discovery center:
+    heading: Seymour Marine Discovery Center
+    members:
+      - name: Lauren Donnelly‑Crocker
+        phone: 831-459-4568
+        email: ldonnell@ucsc.edu
 regional:
   heading: Regional gift officers
   members:
     - name: John Idstrom
       phone: 253-273-8928
       email: jidstrom@ucsc.edu
+      role: National—outside of California
     - name: Matt Bernd
       phone: 323-630-1599
       email: mabernd@ucsc.edu
-initiatives:
-  heading: Campus initiatives
-  members:
-    - name: Natasha Basey Pedroza
-      phone: 831-459-3455
-      email: nbpedroz@ucsc.edu
-      org: UC Observatories
-    - name: Lauren Donnelly‑Crocker
-      phone: 831-459-4568
-      email: ldonnell@ucsc.edu
-      org: Seymour Marine Discovery Center
+      role: Southern California
+
+
