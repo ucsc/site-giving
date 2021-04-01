@@ -14,7 +14,7 @@ hero:
 sidebar1: ucsc-fund-sidebar.html
 ---
 ## YES is a powerful gift.
-{% include sidebars/{{page.sidebar1}} classes="right" %}
+
 _**By making a gift to the UCSC Fund, you allow us to say yes.**_
 
 This is the most flexible kind of support you can give us, because these funds go to initiatives that will benefit immediately from extra financial help.
