@@ -25,7 +25,7 @@ numbered_list:
   - list_number: three 
     heading: Legacy giving
     copy: |
-      <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your will.
+      <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your estate plan.
     link_copy: Make a planned gift or let us know      
     url: "https://plannedgifts.ucsc.edu"
   - list_number: four
@@ -43,11 +43,11 @@ numbered_list:
   - list_number: six
     heading: Complex assets
     copy: |
-      Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@uscc.edu or (831) 459-5718.
+      Illiquid securities, real estate, insurance, intellectual property, business interest—contact Jeff Shilling, associate vice chancellor of development, shilling@ucsc.edu or (831) 502-8165.
   - list_number: seven 
     heading: Mail a check
     copy: |
-      Please complete a gift form and send it with your gift to<br>
+      Please complete a <a href="/assets/documents/gifts-pledge-mail-form.pdf">gift form</a> and send it with your gift to<br>
       UC Santa Cruz Foundation<br>
       Dept. 44787<br>
       PO Box 44000<br>
@@ -55,6 +55,7 @@ numbered_list:
       94144-4787<br><br>
       Make checks payable to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
+    url: "/assets/documents/gifts-pledge-mail-form.pdf"
 support_areas:
   - heading: UCSC Fund
     copy: "Support a vibrant learning environment with a gift to the area of greatest need."
@@ -70,7 +71,7 @@ support_areas:
     button_text: Let Us Know
     button_link: http://plannedgifts.ucsc.edu/
   - heading: Crowdfunding
-    copy: "Browse active pop-up student and faculty fundraisers."
+    copy: "We currently do not have an active crowdfunding campaign."
     image: crowdfunding.jpg
     image_alt: Crowdfunding image of students
     button_text: Learn More
