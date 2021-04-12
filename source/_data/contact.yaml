@@ -96,13 +96,13 @@ gift-officers:
       - name: Sarah Kudela
         phone: 831-459-2888
         email: schuster@ucsc.edu
-  uc observatories:
+  observatories:
     heading: UC Observatories
     members:
       - name: Natasha Basey Pedroza
         phone: 831-459-3455
         email: nbpedroz@ucsc.edu
-  seymour marine discovery center:
+  seymour:
     heading: Seymour Marine Discovery Center
     members:
       - name: Lauren Donnelly‑Crocker
