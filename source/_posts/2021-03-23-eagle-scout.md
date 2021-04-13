@@ -1,19 +1,19 @@
 ---
 id: xxxx
-title: Troupe dynamic
-date: 2021-02-05
+title: 'Another glass ceiling shattered'
+date: 2021-03-23
 author: ptwonsend
 layout: post
-permalink: https://news.ucsc.edu/2021/02/aatat-30th-anniversary.html
+permalink: https://news.ucsc.edu/2021/03/schneider-gina-eagle-scout.html
 author_name:
   - Peggy Townsend
 author_email:
   - gwenj@ucsc.edu
 excerpt:
-  - UC Santa Cruz's African American Theater Arts Troupe, which is celebrating its 30-year anniversary, has not only staged plays but also taken up works that deal with issues of race, injustice, and discrimination; brought its performances into the community; and awarded more than $100,000 in scholarships.
-thumbnail_image: aatat-crowns.jpg
-thumbnail_alt_text: Actors performing
+  - UC Santa Cruz student Gina Schneider became a part of history as one of the first women in the U.S. to achieve the rank of Eagle Scout
+thumbnail_image: schneider-gina.jpg
+thumbnail_alt_text: Gina Schneider
 category: "Student Profiles"
 format: link
-link_post: https://news.ucsc.edu/2021/02/aatat-30th-anniversary.html
+link_post: https://news.ucsc.edu/2021/03/schneider-gina-eagle-scout.html
 ---
