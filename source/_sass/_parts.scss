@@ -696,10 +696,6 @@ new */
             grid-template-columns: repeat(3, 1fr);
         }
     }
-    .subhead {
-        grid-column-start: 1;
-        grid-column-end: 4;
-    }
     .members {
         width: 100%;
         text-align: left;
@@ -708,6 +704,11 @@ new */
             margin-bottom: ($spacing-unit / 8);
         }
         @include media-query ($on-desktop) {}
+    }
+    .subhead {
+        grid-column-start: 1;
+        grid-column-end: 4;
+        padding: 0;
     }
 }
 
