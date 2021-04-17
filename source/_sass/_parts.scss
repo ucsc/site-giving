@@ -705,6 +705,11 @@ new */
         }
         @include media-query ($on-desktop) {}
     }
+    .subhead {
+        grid-column-start: 1;
+        grid-column-end: 4;
+        padding: 0;
+    }
 }
 
 
