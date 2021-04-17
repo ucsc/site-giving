@@ -37,18 +37,22 @@ contacts:
     <section class="contact-section ">
 
         <h3 class="contact-h3">{{contact.heading}}</h3>
-        {%if contact.members %}
+      {%if contact.members %}
 
         <div class="three-col-grid">
             {% for member in contact.members %}
+
+            {%if member.subheading    %}
+            <div class="three-col-grid-cell members subhead">
+            <h4 class="contact-h4">{{member.subheading}}</h4>
+            {% else %}
             <div class="three-col-grid-cell members">
-{%if member.subheading %}
-        <h4 class="contact-h4">{{member.subheading}}</h4>
-        {% endif %}
-                <p class="contact-name">{{member.name}}</p>
-                <p class="contact-tel"><a href="tel:{{member.phone}}">{{member.phone}}</a></p>
-                <p class="contact-mail"><a href="mailto:{{member.email}}">{{member.email}}</a></p>
+            <p class="contact-name">{{member.name}}</p>
+            <p class="contact-tel"><a href="tel:{{member.phone}}">{{member.phone}}</a></p>
+            <p class="contact-mail"><a href="mailto:{{member.email}}">{{member.email}}</a></p>
+ {% endif %}
             </div>
+
             {% endfor %}
         </div>
 

@@ -696,6 +696,10 @@ new */
             grid-template-columns: repeat(3, 1fr);
         }
     }
+    .subhead {
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
     .members {
         width: 100%;
         text-align: left;
