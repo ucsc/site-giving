@@ -777,6 +777,72 @@ new */
     }
 }
 
+/*
+*
+* FAQ list
+*
+*/
+.list>div {
+  margin-bottom: .5em;
+  padding: 1.2em 1em 0.75em;
+  display: flex;
+  flex-direction: column;
+}
+
+.question {
+  display: block;
+  font-size: 2.2rem;
+  margin: 0 2rem .8em 0;
+  color: rgba(38, 110, 182, 1.00);
+  font-weight: 500;
+  letter-spacing: -0.010em;
+  line-height: 1.4;
+  flex: 0 0 35%;
+}
+
+.list>div>div {
+  padding-left: 2rem;
+  border: 6px solid #f29813;
+  border-image-slice: 1;
+  border-width: 0 0 0 2px;
+  border-image-source: linear-gradient(to top, #fedd7a, #f29813);
+}
+
+.list>li {
+  margin-bottom: 1.8em;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.list li>ul {
+  margin: 1em 2em 0;
+}
+
+.list ul ul li {
+  margin: .25em 0 .25em .35em;
+  list-style-type: disc;
+}
+
+.list>li>ul>li {
+  margin-bottom: 1em;
+}
+
+@media (min-width: 1080px) {
+  .list>div {
+    flex-direction: row;
+  }
+
+  .list>div>div {
+    border-width: 0 0 0 4px;
+    line-height: 1.4;
+  }
+
+  .question {
+    line-height: 1.5;
+    font-weight: 600;
+  }
+}
+
 
 /*
  *
