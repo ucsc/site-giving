@@ -179,7 +179,7 @@ Humanities: <i>To be hired</i>
 <div>
 <h2 class="question">What should I do if I'd like to learn more about development and fundraising. Is training available?</h2>
 <div class="response">
-<p>University Relations periodically offers faculty information sessions. Additional reading material is available as well. Please <a href="mailto:lizwhite@ucsc.edu">contact Liz White</a>) for more information.</p>
+<p>University Relations periodically offers faculty information sessions. Additional reading material is available as well. Please <a href="mailto:lizwhite@ucsc.edu">contact Liz White</a> for more information.</p>
 </div>
 </div>
 
