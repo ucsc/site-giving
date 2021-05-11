@@ -28,7 +28,7 @@ layout: page
 </ul>
 
 <p>For support in approaching foundations, first contact the <a href="https://officeofresearch.ucsc.edu/ord/index.html">Research Development Office</a> in the Office of Research.</p>
-<p>The Office of Foundation Relations in University Relations develops relationships with regional and national private foundations and helps to identify funding opportunities.</p>
+<p>The <a href="https://cfr.ucsc.edu/">Office of Foundation Relations</a> in University Relations develops relationships with regional and national private foundations and helps to identify funding opportunities.</p>
 
 </div>
 </div>
@@ -103,7 +103,7 @@ layout: page
 <div class="response">
 <ul>
 <li>Start with University Relations on all topics related to generating philanthropic support from individuals.</li>
-<li>Start with Research Development in the Office of Research when seeking support from federal sources and foundations. If the discussion includes private foundations, UR's Office of Foundation Relations will likely be engaged.</li>
+<li>Start with <a href="https://officeofresearch.ucsc.edu/ord/">Research Development</a> in the Office of Research when seeking support from federal sources and foundations. If the discussion includes private foundations, UR's <a href="https://cfr.ucsc.edu/">Office of Foundation Relations</a> will likely be engaged.</li>
 <li>A new Innovation and Business Engagement unit reporting both to OR and UR will be the primary point of contact for corporate or business philanthropic and sponsored research efforts.</li>
 </ul>
 </div>
