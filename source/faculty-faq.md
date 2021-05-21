@@ -16,6 +16,7 @@ layout: page
 <li>Humanities Division: <a href="mailto:cmnapole@ucsc.edu">Cari Napoles</a></li>
 <li>Physical and Biological Sciences: <a href="mailto:bwagman@ucsc.edu">Branwyn Wagman</a></li>
 <li>Social Sciences Division: <i>To be hired</i></li>
+<li>Library: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
 <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
 </ul>
 
@@ -34,18 +35,31 @@ layout: page
 </div>
 
 <div>
+<h2 class="question">I have a lead on a donor &#8211; who should I contact?</h2>
+<div class="response">
+<p>Your divisional development officer is available to speak with you about working with prospective donors. They will partner with you to assess the best strategy for the donor and assist in relationship building and solicitations. They can provide advice on appropriate language to use, how to structure a solicitation and other useful tips. They may also have knowledge of the donor's areas of interest/involvement, as appropriate.</p>
+</div>
+</div>
+
+<div>
+<h2 class="question">How do I know when to talk to University Relations and when to talk to the Office of Research?</h2>
+<div class="response">
+<ul>
+<li>Start with University Relations on all topics related to generating philanthropic support from individuals.</li>
+<li>Start with <a href="https://officeofresearch.ucsc.edu/ord/">Research Development</a> in the Office of Research when seeking support from federal sources and foundations. If the discussion includes private foundations, UR's <a href="https://cfr.ucsc.edu/">Office of Foundation Relations</a> will likely be engaged.</li>
+<li>A new <a href="https://innovation.ucsc.edu">Innovation and Business Engagement unit</a> reporting both to OR and UR will be the primary point of contact for corporate or business philanthropic and sponsored research efforts.</li>
+</ul>
+</div>
+</div>
+
+<div>
 <h2 class="question">How do I develop interdisciplinary pitches to donors?</h2>
 <div class="response">
 <p>The development team is available to work with groups of faculty who are working across disciplines. As a starting point, please contact Associate Vice Chancellor for Development, Jeff Shilling (<a href="mailto:shilling@ucsc.edu">shilling@ucsc.edu</a>) who can assemble a team to work with your group.</p>
 </div>
 </div>
 
-<div>
-<h2 class="question">I have a lead on a donor &#8211; who should I contact?</h2>
-<div class="response">
-<p>Your divisional development officer is available to speak with you about working with prospective donors. They will partner with you to assess the best strategy for the donor and assist in relationship building and solicitations. They can provide advice on appropriate language to use, how to structure a solicitation and other useful tips. They may also have knowledge of the donor's areas of interest/involvement, as appropriate.</p>
-</div>
-</div>
+
 
 <div>
 <h2 class="question">How can I develop potential donor relationships?</h2>
@@ -99,17 +113,6 @@ layout: page
 </div>
 
 <div>
-<h2 class="question">How do I know when to talk to University Relations and when to talk to the Office of Research?</h2>
-<div class="response">
-<ul>
-<li>Start with University Relations on all topics related to generating philanthropic support from individuals.</li>
-<li>Start with <a href="https://officeofresearch.ucsc.edu/ord/">Research Development</a> in the Office of Research when seeking support from federal sources and foundations. If the discussion includes private foundations, UR's <a href="https://cfr.ucsc.edu/">Office of Foundation Relations</a> will likely be engaged.</li>
-<li>A new Innovation and Business Engagement unit reporting both to OR and UR will be the primary point of contact for corporate or business philanthropic and sponsored research efforts.</li>
-</ul>
-</div>
-</div>
-
-<div>
 <h2 class="question">I want to put together a newsletter or website &#8211; what resources are available?</h2>
 <div class="response">
 <ul>
@@ -158,7 +161,7 @@ Humanities: <i>To be hired</i>
 <div>
 <h2 class="question">What is Giving Day? How do I participate?</h2>
 <div class="response">
-<p>Giving Day is an annual event typically held during fall quarter when University Relations hosts and widely promotes a major crowdfunding effort offering donors a myriad of project-based giving opportunities. The event includes the opportunity for project teams to earn bonuses based on various challenges held throughout the day. Some project teams solicit matching funds in advance of Giving Day to incentivize day-of giving. For more context and information, check out the <a href="https://givingday.ucsc.edu/o/university-of-california---santa-cruz/i/ucsc-giving-day-2020/">2020 Giving Day website</a>. For more information or to participate, contact your divisional development officer or a staff member in UR's Office of Annual Giving.</p>
+<p>Giving Day is an annual event typically held during fall quarter when University Relations hosts and widely promotes a major crowdfunding effort offering donors a myriad of project-based giving opportunities. The event includes the opportunity for project teams to earn bonuses based on various challenges held throughout the day. Some project teams solicit matching funds in advance of Giving Day to incentivize day-of giving. For more context and information, check out the <a href="https://givingday.ucsc.edu/o/university-of-california---santa-cruz/i/ucsc-giving-day-2020/">2020 Giving Day website</a>. For more information or to participate, contact your divisional development officer or a staff member in <a href="https://urelations.ucsc.edu/about/staff/">UR's Office of Annual Giving</a>.</p>
 </div>
 </div>
 
@@ -172,14 +175,16 @@ Humanities: <i>To be hired</i>
 <div>
 <h2 class="question">How do we steward our donors? How can I do my part?</h2>
 <div class="response">
-<p>Stewardship involves the acknowledgment and appreciation of the University's donors. Generally, for gifts of $25,000 or more, our development team generates a stewardship report to communicate the impact of the gift. For endowment gifts, this is an annual process. For the University's largest donors, an annual stewardship plan is developed. If you or your department is the recipient of gifts funds, you are encouraged to ask your divisional development officer how you can participate in stewarding the appropriate donor(s). Stewardship efforts range from written reports to in-person meetings.</p>
+<p>Stewardship involves the acknowledgment and appreciation of the University's donors. Generally, for gifts of $25,000 or more, our development team generates a stewardship report to communicate the impact of the gift. For endowment gifts, this is an annual process. For the University's largest donors, an annual stewardship plan is developed. If you or your department is the recipient of gift funds, you are encouraged to ask your divisional development officer how you can participate in stewarding the appropriate donor(s). Stewardship efforts range from written reports to in-person meetings.</p>
 </div>
 </div>
 
 <div>
 <h2 class="question">What should I do if I'd like to learn more about development and fundraising. Is training available?</h2>
 <div class="response">
-<p>University Relations periodically offers faculty information sessions. Additional reading material is available as well. Please <a href="mailto:lizwhite@ucsc.edu">contact Liz White</a> for more information.</p>
+<p>University Relations periodically offers faculty information sessions. Additional reading material is available as well. <a href="mailto:lizwhite@ucsc.edu">Contact Liz White</a> for more information.</p>
+<p>Additionally, consider serving on the<a href="https://senate.ucsc.edu/committees/cdf-committee-on-development-and-fundraising/">Committee on Development and Fundraising</a>, serves as a point of interface between the Academic Senate and the Administration to promote faculty engagement in campus fundraising and development.</p>
+
 </div>
 </div>
 
