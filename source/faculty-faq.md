@@ -183,7 +183,7 @@ Humanities: <i>To be hired</i>
 <h2 class="question">What should I do if I'd like to learn more about development and fundraising. Is training available?</h2>
 <div class="response">
 <p>University Relations periodically offers faculty information sessions. Additional reading material is available as well. <a href="mailto:lizwhite@ucsc.edu">Contact Liz White</a> for more information.</p>
-<p>Additionally, consider serving on the<a href="https://senate.ucsc.edu/committees/cdf-committee-on-development-and-fundraising/">Committee on Development and Fundraising</a>, serves as a point of interface between the Academic Senate and the Administration to promote faculty engagement in campus fundraising and development.</p>
+<p>Additionally, consider serving on the <a href="https://senate.ucsc.edu/committees/cdf-committee-on-development-and-fundraising/">Committee on Development and Fundraising</a>, which serves as a point of interface between the Academic Senate and the Administration to promote faculty engagement in campus fundraising and development.</p>
 
 </div>
 </div>
