@@ -18,4 +18,4 @@ Canfield, a Santa Cruz County high school alumnus, has a strong belief in the po
 
 The Seaside Company, which employs approximately 1,600 people during the summer season, already provides $500 college scholarships to 12 company employees studying at various institutions. Many employees are graduates of local high schools and have studied at Cabrillo College and UCSC.
 
-To learn more about this scholarship or to establish other need-based scholarships at UC Santa Cruz, please contact John Hopkins at 831-459-3822 or <jehopkin@ucsc.edu>.
+To learn more about this scholarship or to establish other need-based scholarships at UC Santa Cruz, please email giving@ucsc.edu.
