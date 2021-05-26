@@ -3,7 +3,6 @@ id: xxxx
 title: A leader in the effort to sequence the virus
 subtitle: Raising funds for sequencing and providing an informed response to the pandemic
 date: 2021-05-25
-author: staff
 layout: post
 excerpt:
   - Raising funds for sequencing and providing an informed response to the pandemic
