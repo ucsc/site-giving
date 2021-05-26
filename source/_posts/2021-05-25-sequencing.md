@@ -16,7 +16,9 @@ thumbnail_alt_text: a technician processes covid tests
 image: sequencing-lab.jpg
 category: "News"
 ---
-
+<figure class="inline-image right">
+{% asset sequencing-lab.jpg magick:resize=400 alt='photo of Mary Wells' %}
+<figcaption>a technician processes covid tests</figcaption></figure>
 The news has been filled with stories on the new variants of SARS-CoV-2, the virus that causes COVID-19. The UC Santa Cruz Genomics Institute is leading an effort in Central California to sequence the virus and make information available about the strains present in California to the broader scientific and health community. This information is vital to ensuring an informed response to the ongoing pandemic.
 
 Thanks to UCSC’s pioneering work in genomics, our campus is uniquely positioned to contribute to this worldwide effort. That early work, dating back to 2000, when we joined other members of the International Human Genome Project consortium to complete the first working draft of the human genome and we published it openly, gave birth to the UCSC Genome Browser, which includes the SASR-CoV-2 genome browser--the world’s most comprehensive, publicly available and unrestricted tracking system for new strains of the SARS-CoV-2 virus and biological information about them.  Our goal is to expand this important work by sequencing and analyzing the virus genomes from positive COVID-19 tests, and share this information openly. The total cost of this urgent initiative is just over $1.4M, of which $1.1M has already been raised thanks to a number of generous donors.
