@@ -13,7 +13,8 @@ category: "News"
 ---
 <figure class="inline-image right">
 {% asset sequencing-lab.jpg magick:resize=400 alt='A technician processes COVID tests' %}
-<figcaption>The news has been filled with stories on the new variants of SARS-CoV-2, the virus that causes COVID-19. The UC Santa Cruz Genomics Institute is leading an effort in Central California to sequence the virus and make information available about the strains present in California to the broader scientific and health community. 
+<figcaption>A technician processes COVID tests.</figcaption></figure>
+The news has been filled with stories on the new variants of SARS-CoV-2, the virus that causes COVID-19. The UC Santa Cruz Genomics Institute is leading an effort in Central California to sequence the virus and make information available about the strains present in California to the broader scientific and health community. 
 
 This information is vital to ensuring an informed response to the ongoing pandemic—and now you can help. To get this effort to the finish line, **the Helen and Will Webster Foundation has pledged a dollar-for-dollar match up to $200,000 for any new gifts received.** 
 
