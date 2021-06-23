@@ -154,8 +154,7 @@ New York, NY
 
 ### Mir Imran
 
-Founder, Chairman, and CEO  
-of InCube Labs
+Founder, Chairman, and CEO of InCube Labs
 
 San Jose, CA
 
