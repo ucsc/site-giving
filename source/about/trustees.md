@@ -17,6 +17,32 @@ see_also:
 
 Working in close partnership with the chancellor, administration, faculty and staff, the **UC Santa Cruz Foundation** shares the university’s vision of academic excellence and its commitment to public service. The Foundation is a not-for-profit, public-benefit corporation (tax ID 23-7394590) organized in 1974 to raise and manage private support for UC Santa Cruz.  The current foundation chair is Alec J. Webster.
 
+<section class="three-col-grid">
+{% for trustee in site.data.trustees%}
+{% if trustee.heading %}
+<h3 class="grid-cell trustee-heading">{{trustee.heading}}</h3>
+{% endif %}
+<div class="grid-cell">
+{% if trustee.photo %}
+<div class="trustee-photo-wrap">
+{% asset {{trustee.photo}} magick:resize=200x200 alt="Photo of {{trustee.name}}" itemprop="image" class="trustee-photo" %}
+</div>
+{% endif %}
+<h3>{{trustee.name}} 
+{% if trustee.year %} 
+&#8216;{{trustee.year}}{% endif %}</h3>
+{% if trustee.position %}
+<p class="college-blurb">{{trustee.position}}</p>
+{% endif %}
+{% if trustee.former %}
+<p class="college-blurb">{{trustee.former}}</p>
+{% endif %} 
+{% if trustee.location %}
+<p class="college-blurb">{{trustee.location}}</p>
+{% endif %} 
+</div>
+{% endfor %}
+</section>
 ## Foundation Trustees  
 
 {% asset AllgoodBrandon.jpg magick:resize=150 alt='AllgoodBrandon' %}
