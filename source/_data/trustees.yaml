@@ -30,7 +30,7 @@
   photo: ChuHenry.jpg
 - name: Beverly Crair
   year: 83
-  position: Vice President, DCG HW Development & Product Assurance, Lenovo
+  position: Vice President, DCG HW Development & Product Assurance, Lenovo
   location: Morrisville, NC
   photo: CrairBev-web-1.jpg
 - name: Ken Doctor
@@ -89,14 +89,13 @@
   location: Woodside, CA
   photo: KapanyNarinder-cropped.jpg
 - name: Loren L. Kinczel
-  position: Founder, Cultivate Financial Group LLC
+  position: Founder, Cultivate Financial Group LLC
   location: Los Gatos, CA
   photo: KinczelLoren.jpg
 - name: Franz M. Lanting
   year: 78
   position: Freelance Nature Photographer and Author
   location: Santa Cruz, CA
-<<<<<<< HEAD
   photo: LantingFrans.jpg
 - name: Anuradha Luther Maitra
   position: Retired CEO, Floreat, Inc.
@@ -106,31 +105,15 @@
   position: Chief Strategy Officer and Member, Board of Directors, Glassbeam, Inc.
   location: Los Altos Hills, CA
   photo: MalavalliKumar.jpg
-=======
-  image: LantingFrans.jpg
-- name: Anuradha Luther Maitra
-  position: Retired CEO, Floreat, Inc.
-  location: Atherton, CA
-  image: LutherMaitraAnu2-1.jpg
-- name: Kumar Malavalli
-  position: Chief Strategy Officer and Member, Board of Directors, Glassbeam, Inc.
-  location: Los Altos Hills, CA
-  image: MalavalliKumar.jpg
->>>>>>> 89a4f02273764d857c8e54e41f3aa4c3118676f5
 - name: Kristen Marinovic
   year: 91
   position: Financial Advisor, Integral Investment Advisors
   location: Santa Cruz, CA
-<<<<<<< HEAD
   photo: MalavalliKumar.jpg
-=======
-  image: MarinovicKristen-1.jpg
->>>>>>> 89a4f02273764d857c8e54e41f3aa4c3118676f5
 - name: SB Master
   year: 75
   position: President and Founder, Master-McNeil, Inc.
   location: Berkeley, CA
-<<<<<<< HEAD
   photo: MasterSB.jpg
 - name: Donna Mekis
   year: 75
@@ -141,42 +124,142 @@
   position: Founder, The Miller&#8217;s Daughter LLC
   location: Bonny Doon, CA
   photo: seal.jpg
-- name: Joanna Miller
-  position: Founder, The Miller&#8217;s Daughter LLC
-  location: Bonny Doon, CA
-  photo: seal.jpg
-=======
-  image: MasterSB.jpg
-- name: Donna Mekis
-  year: M.A. &#8217;90
-  position: Community volunteer and author
-  location: Santa Cruz, CA
-  image: donna-mekis.jpg
-- name: Joanna Miller
-  position: Founder, The Miller&#8217;s Daughter LLC
-  location: Bonny Doon, CA
-  image: seal.jpg
 - name: Richard F. Moss
   year: 85
   position: Foundation P3 Liaison
   former: President, Moss Group
   location: Encino, CA
-  image: MossRichard.jpg
+  photo: MossRichard.jpg
 - name: Linda Peterson
-  year: 70
+  year: 75
   position: Foundation Development Committee Chair
   former: Retired Associate General Counsel, Occidental Petroleum
   location: Los Angeles, CA
-  image: linda-peterson-new.png
+  photo: linda-peterson-new.png
 - name: Kathleen Rose
   year: 72
   position: Co-Owner, Old Adobe Orchard
-  location: Watsonville, CA
-  image: kathleen-rose.jpg
+  location: Watsonvillle, CA
+  photo: kathleen-rose.jpg
 - name: Vikram Sahai
   year: 92
   position: Independent Technology Advisor
   location: Los Altos, CA
-  image: SahaiVikram.jpg
-
->>>>>>> 89a4f02273764d857c8e54e41f3aa4c3118676f5
+  photo: SahaiVikram.jpg
+- name: Garry A. Spire
+  year: 77
+  position: Founding Principal, Venture Technologies Group, LLC
+  location: Los Angeles, CA
+  photo: SpireGarry2.jpg
+- name: Loren A. Steck
+  year: 73
+  position: President, Loren Steck & Associates
+  location: Carmel, CA
+  photo: SteckLoren.jpg
+- name: Alec J. Webster
+  year: 02
+  position: Foundation Chair
+  former: Community Volunteer
+  location: Bonny Doon, CA
+  photo: Webster_Alec-headshot.jpg
+- name: Claudia Webster
+  position: Community volunteer
+  location: Santa Cruz, CA
+  photo: claudia-webster.jpg
+- name: Randolph E. Wedding
+  position: Retired Senior Managing Director, Office of the CIO UC Regents
+  location: Piedmont, CA
+  photo: WeddingRandy.jpg
+- name: John M. Woodward
+  year: 74
+  position: Foundation Investment & Finance Committee Chair
+  former: CEO, Front Porch Communities
+  location: Glendale, CA
+  photo: WoodwardJohn-1.jpg
+- heading: Ex-Officio Trustees
+  name: Cynthia Larive
+  position: UC Santa Cruz Chancellor
+  photo: cynthia-larive.jpg
+- name: Michael Riepe
+  position: Alumni Association President
+  photo: michael-riepe.jpg
+- heading: Staff Officers
+  name: Jeff Shilling
+  position: Vice President
+  former: Associate Vice Chancellor, University Relations
+  photo: jshilling300.jpg
+- name: Susan Pearson
+  position: Administrative Coordinator
+  photo: supearso.jpg
+- heading: Emeritus Honorary Trustees
+  heading-blurb: "Emeritus Honorary Trustee is an honorary designation bestowed on former UCSC Chancellors to recognize their leadership and service to the University and to the Foundation."
+  name: George Blumenthal
+  position: Chancellor, 2005 – 2019
+- name: Martin M. Chemers
+  position: Acting Chancellor, 2004 – 2005
+- name: M. R. C. Greenwood
+  position: Chancellor, 1996 – 2004
+- name: Karl Stark Pister
+  position: Chancellor, 1991 – 1996
+- name: Robert Bocking Stevens
+  position: Chancellor, 1987 – 1991
+- name: Robert L. Sinsheimer
+  position: (1920-2017)
+  former: Chancellor, 1977 – 1987
+- heading: Emeritus Trustees
+  name: Betsy Adler
+- name: Bruce D. Aidells
+- name: Sara B. Allen
+- name: John E. Arriaga
+- name: Jack Baskin
+- name: Narpat Bhandari
+- name: Ramesh Bhojwani
+- name: C. Diane Christensen
+- name: William H. Cilker
+- name: Nell S. Cliff
+- name: Donald Cooley
+- name: Marion A. Cope
+- name: Stephen Crowe
+- name: Richard R. Crowell
+- name: Roy Curry
+- name: Larry deGhetaldi
+- name: David Doshay
+- name: Yolanda Dybdahl
+- name: Robert T. Falltrick
+- name: Kenneth A. Feingold
+- name: Arthur T. French
+- name: James W. Fuller
+- name: Margaret Lyons Giberson
+- name: Theodore C. Goldstein
+- name: Allan J. Goodman
+- name: Arthur A. Graham
+- name: Susan W. Hammer
+- name: Barbara K. Higgins
+- name: Harold A. Hyde
+- name: Lenn D. Kristal
+- name: Burney J. Le Boeuf
+- name: Anne F. Neufeld Levin
+- name: Norman Lezin
+- name: Nion McEvoy
+- name: Mona Meade
+- name: Gail Michaelis-Ow
+- name: Stephanie Mills
+- name: Timothy J. Morgan
+- name: Lawrence A. Moskowitz
+- name: Adam Nathanson
+- name: Gary D. Novack
+- name: Julie E. Packard
+- name: Leon E. Panetta
+- name: Leticia Quezada
+- name: Patricia S. Rebele
+- name: David B. Regan
+- name: Patrick G. Riley
+- name: Gordon M. Ringold
+- name: R. Tod Spieker
+- name: Lynn M. Stegner
+- name: Gregory A. Steltenpohl
+- name: Edward C. Thayer
+- name: Antonio Velasco
+- name: Virginia C. Wilson
+- name: Donald R. Worn
+- name: Samuel L. Wright
