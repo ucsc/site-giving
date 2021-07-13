@@ -31,9 +31,14 @@ Working in close partnership with the chancellor, administration, faculty and st
 {% asset {{trustee.photo}} magick:resize=200x200 alt="Photo of {{trustee.name}}" itemprop="image" class="trustee-photo" %}
 </div>
 {% endif %}
+{% if trustee.name %}
 <h3>{{trustee.name}}
 {% if trustee.year %}
 &#8216;{{trustee.year}}{% endif %}</h3>
+{% endif %}
+{% if trustee.emeritus-name %}
+<h4>{{trustee.emeritus-name}}</h4>
+{% endif %}
 {% if trustee.position %}
 <p class="college-blurb">{{trustee.position}}</p>
 {% endif %}
