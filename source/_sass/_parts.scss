@@ -146,6 +146,10 @@
 
 .three-col-grid {
     grid-template-columns: repeat(1, 1fr);
+    @include media-query($on-tablet) {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 1em;
+    }
     @include media-query($on-desktop) {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 1em;
@@ -620,7 +624,16 @@
 
 .trustee-heading {
     grid-column-start: 1;
-    grid-column-end: 4;
+    grid-column-end: 2;
+    margin-bottom: 1rem!important;
+    @include media-query($on-tablet) {
+        grid-column-end: 3;
+        margin-bottom: 0;
+    }
+    @include media-query($on-desktop) {
+        grid-column-end: 4;
+        margin-bottom: 0;
+    }
 }
 
 .trustee-photo {
