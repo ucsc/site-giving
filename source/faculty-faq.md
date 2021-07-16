@@ -7,7 +7,7 @@ layout: page
 <section class="list">
 
 <div>
-<h2 class="question text-xl">How do I find individual donors and private foundations who may be interested in supporting my research and educational initiatives?</h2>
+<h2 class="question text-xl">How do I find individual donors and private foundations interested in supporting my research and educational initiatives?</h2>
 <div class="response">
 <p>A good place to start is with your divisional development officer:</p>
 <ul>
@@ -19,6 +19,8 @@ layout: page
 <li>Library: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
 <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
 </ul>
+
+<p>To find interested donors and private foundations beyond the divisions, contact Executive Director of Development <a href="mailto:maasims@ucsc.edu">Molly Simms</a>.</p>
 
 <p>In advance, it will be helpful to have considered these questions:</p>
 <ul>
