@@ -16,7 +16,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU Lesser General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License
-along with Video.js.  If not, see <http://www.gnu.org/licenses/>.
+along with Video.js.  If not, see <https://www.gnu.org/licenses/>.
 */
 
 // Self-executing function to prevent global vars and help with minification
@@ -76,11 +76,11 @@ VideoJS.options = {
 
   html5: {},
   flash: { swf: "video-js.swf" },
-// http://vjs.zencdn.net/c/
+// https://vjs.zencdn.net/c/
   // Default of web browser is 300x150. Should rely on source width/height.
   width: "auto",
   height: "auto",
-  
+
   // defaultVolume: 0.85,
   defaultVolume: 0.00, // The freakin seaguls are driving me crazy!
 
@@ -135,7 +135,7 @@ VideoJS.options = {
 
 // Set CDN Version of swf
 if (CDN_VERSION != "GENERATED_CDN_VSN") {
-  _V_.options.flash.swf = "http://vjs.zencdn.net/"+CDN_VERSION+"/video-js.swf"
+  _V_.options.flash.swf = "https://vjs.zencdn.net/"+CDN_VERSION+"/video-js.swf"
 }_V_.merge = function(obj1, obj2, safe){
   // Make sure second object exists
   if (!obj2) { obj2 = {}; };
@@ -223,11 +223,11 @@ _V_.extend({
     classNames.splice(classNames.indexOf(classToRemove),1);
     element.className = classNames.join(" ");
   },
-  
+
   remove: function(item, array){
     if (!array) return;
     var i = array.indexOf(item);
-    if (i != -1) { 
+    if (i != -1) {
       return array.splice(i, 1)
     };
   },
@@ -271,7 +271,7 @@ _V_.extend({
   getRelativePosition: function(x, relativeElement){
     return Math.max(0, Math.min(1, (x - _V_.findPosX(relativeElement)) / relativeElement.offsetWidth));
   },
-  
+
   getComputedStyleValue: function(element, style){
     return window.getComputedStyle(element, null).getPropertyValue(style);
   },
@@ -422,7 +422,7 @@ _V_.extend({
   },
 
   // Get abosolute version of relative URL. Used to tell flash correct URL.
-  // http://stackoverflow.com/questions/470832/getting-an-absolute-url-from-a-relative-one-ie6-issue
+  // https://stackoverflow.com/questions/470832/getting-an-absolute-url-from-a-relative-one-ie6-issue
   getAbsoluteURL: function(url){
 
     // Check if absolute URL
@@ -455,7 +455,7 @@ _V_.log = function(){
 {console.log();return window.console;}catch(err){return window.console={};}})());
 
 // Offset Left
-// getBoundingClientRect technique from John Resig http://ejohn.org/blog/getboundingclientrect-is-awesome/
+// getBoundingClientRect technique from John Resig https://ejohn.org/blog/getboundingclientrect-is-awesome/
 if ("getBoundingClientRect" in document.documentElement) {
   _V_.findPosX = function(el) {
     var box;
@@ -489,7 +489,7 @@ if ("getBoundingClientRect" in document.documentElement) {
     }
     return curleft;
   };
-}// Using John Resig's Class implementation http://ejohn.org/blog/simple-javascript-inheritance/
+}// Using John Resig's Class implementation https://ejohn.org/blog/simple-javascript-inheritance/
 // (function(){var initializing=false, fnTest=/xyz/.test(function(){xyz;}) ? /\b_super\b/ : /.*/; _V_.Class = function(){}; _V_.Class.extend = function(prop) { var _super = this.prototype; initializing = true; var prototype = new this(); initializing = false; for (var name in prop) { prototype[name] = typeof prop[name] == "function" && typeof _super[name] == "function" && fnTest.test(prop[name]) ? (function(name, fn){ return function() { var tmp = this._super; this._super = _super[name]; var ret = fn.apply(this, arguments); this._super = tmp; return ret; }; })(name, prop[name]) : prop[name]; } function Class() { if ( !initializing && this.init ) this.init.apply(this, arguments); } Class.prototype = prototype; Class.constructor = Class; Class.extend = arguments.callee; return Class;};})();
 (function(){
   var initializing = false, fnTest = /xyz/.test(function(){xyz;}) ? /\b_super\b/ : /.*/;
@@ -626,7 +626,7 @@ _V_.Component = _V_.Class.extend({
   hide: function(){
     this.el.style.display = "none";
   },
-  
+
   fadeIn: function(){
     this.removeClass("vjs-fade-out");
     this.addClass("vjs-fade-in");
@@ -962,7 +962,7 @@ _V_.LoadingSpinner = _V_.Component.extend({
     player.addEvent("error", _V_.proxy(this, this.show));
 
     // Not showing spinner on stalled any more. Browsers may stall and then not trigger any events that would remove the spinner.
-    // Checked in Chrome 16 and Safari 5.1.2. http://help.videojs.com/discussions/problems/883-why-is-the-download-progress-showing
+    // Checked in Chrome 16 and Safari 5.1.2. https://help.videojs.com/discussions/problems/883-why-is-the-download-progress-showing
     // player.addEvent("stalled", _V_.proxy(this, this.show));
 
     player.addEvent("waiting", _V_.proxy(this, this.show));
@@ -1110,7 +1110,7 @@ _V_.Slider = _V_.Component.extend({
 
     this.player.addEvent("controlsvisible", this.proxy(this.update));
 
-    // This is actually to fix the volume handle position. http://twitter.com/#!/gerritvanaaken/status/159046254519787520
+    // This is actually to fix the volume handle position. https://twitter.com/#!/gerritvanaaken/status/159046254519787520
     // this.player.one("timeupdate", this.proxy(this.update));
 
     this.update();
@@ -1610,15 +1610,15 @@ if (!Array.prototype.indexOf) {
 //   Array.prototype.lastIndexOf = function(searchElement /*, fromIndex*/)
 //   {
 //     "use strict";
-// 
+//
 //     if (this === void 0 || this === null)
 //       throw new TypeError();
-// 
+//
 //     var t = Object(this);
 //     var len = t.length >>> 0;
 //     if (len === 0)
 //       return -1;
-// 
+//
 //     var n = len;
 //     if (arguments.length > 1)
 //     {
@@ -1628,11 +1628,11 @@ if (!Array.prototype.indexOf) {
 //       else if (n !== 0 && n !== (1 / 0) && n !== -(1 / 0))
 //         n = (n > 0 || -1) * Math.floor(Math.abs(n));
 //     }
-// 
+//
 //     var k = n >= 0
 //           ? Math.min(n, len - 1)
 //           : len - Math.abs(n);
-// 
+//
 //     for (; k >= 0; k--)
 //     {
 //       if (k in t && t[k] === searchElement)
@@ -1646,53 +1646,53 @@ if (!Array.prototype.indexOf) {
 // NOT NEEDED YET
 // Array forEach per ECMA standard https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/array/foreach
 // Production steps of ECMA-262, Edition 5, 15.4.4.18
-// Reference: http://es5.github.com/#x15.4.4.18
+// Reference: https://es5.github.com/#x15.4.4.18
 // if ( !Array.prototype.forEach ) {
-// 
+//
 //   Array.prototype.forEach = function( callback, thisArg ) {
-// 
+//
 //     var T, k;
-// 
+//
 //     if ( this == null ) {
 //       throw new TypeError( " this is null or not defined" );
 //     }
-// 
+//
 //     // 1. Let O be the result of calling ToObject passing the |this| value as the argument.
 //     var O = Object(this);
-// 
+//
 //     // 2. Let lenValue be the result of calling the Get internal method of O with the argument "length".
 //     // 3. Let len be ToUint32(lenValue).
 //     var len = O.length >>> 0;
-// 
+//
 //     // 4. If IsCallable(callback) is false, throw a TypeError exception.
-//     // See: http://es5.github.com/#x9.11
+//     // See: https://es5.github.com/#x9.11
 //     if ( {}.toString.call(callback) != "[object Function]" ) {
 //       throw new TypeError( callback + " is not a function" );
 //     }
-// 
+//
 //     // 5. If thisArg was supplied, let T be thisArg; else let T be undefined.
 //     if ( thisArg ) {
 //       T = thisArg;
 //     }
-// 
+//
 //     // 6. Let k be 0
 //     k = 0;
-// 
+//
 //     // 7. Repeat, while k < len
 //     while( k < len ) {
-// 
+//
 //       var kValue;
-// 
+//
 //       // a. Let Pk be ToString(k).
 //       //   This is implicit for LHS operands of the in operator
 //       // b. Let kPresent be the result of calling the HasProperty internal method of O with argument Pk.
 //       //   This step can be combined with c
 //       // c. If kPresent is true, then
 //       if ( k in O ) {
-// 
+//
 //         // i. Let kValue be the result of calling the Get internal method of O with argument Pk.
 //         kValue = O[ Pk ];
-// 
+//
 //         // ii. Call the Call internal method of callback with T as the this value and
 //         // argument list containing kValue, k, and O.
 //         callback.call( T, kValue, k, O );
@@ -1708,86 +1708,86 @@ if (!Array.prototype.indexOf) {
 // NOT NEEDED YET
 // https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/map
 // Production steps of ECMA-262, Edition 5, 15.4.4.19
-// Reference: http://es5.github.com/#x15.4.4.19
+// Reference: https://es5.github.com/#x15.4.4.19
 // if (!Array.prototype.map) {
 //   Array.prototype.map = function(callback, thisArg) {
-// 
+//
 //     var T, A, k;
-// 
+//
 //     if (this == null) {
 //       throw new TypeError(" this is null or not defined");
 //     }
-// 
+//
 //     // 1. Let O be the result of calling ToObject passing the |this| value as the argument.
 //     var O = Object(this);
-// 
+//
 //     // 2. Let lenValue be the result of calling the Get internal method of O with the argument "length".
 //     // 3. Let len be ToUint32(lenValue).
 //     var len = O.length >>> 0;
-// 
+//
 //     // 4. If IsCallable(callback) is false, throw a TypeError exception.
-//     // See: http://es5.github.com/#x9.11
+//     // See: https://es5.github.com/#x9.11
 //     if ({}.toString.call(callback) != "[object Function]") {
 //       throw new TypeError(callback + " is not a function");
 //     }
-// 
+//
 //     // 5. If thisArg was supplied, let T be thisArg; else let T be undefined.
 //     if (thisArg) {
 //       T = thisArg;
 //     }
-// 
+//
 //     // 6. Let A be a new array created as if by the expression new Array(len) where Array is
 //     // the standard built-in constructor with that name and len is the value of len.
 //     A = new Array(len);
-// 
+//
 //     // 7. Let k be 0
 //     k = 0;
-// 
+//
 //     // 8. Repeat, while k < len
 //     while(k < len) {
-// 
+//
 //       var kValue, mappedValue;
-// 
+//
 //       // a. Let Pk be ToString(k).
 //       //   This is implicit for LHS operands of the in operator
 //       // b. Let kPresent be the result of calling the HasProperty internal method of O with argument Pk.
 //       //   This step can be combined with c
 //       // c. If kPresent is true, then
 //       if (k in O) {
-// 
+//
 //         // i. Let kValue be the result of calling the Get internal method of O with argument Pk.
 //         kValue = O[ k ];
-// 
+//
 //         // ii. Let mappedValue be the result of calling the Call internal method of callback
 //         // with T as the this value and argument list containing kValue, k, and O.
 //         mappedValue = callback.call(T, kValue, k, O);
-// 
+//
 //         // iii. Call the DefineOwnProperty internal method of A with arguments
 //         // Pk, Property Descriptor {Value: mappedValue, Writable: true, Enumerable: true, Configurable: true},
 //         // and false.
-// 
+//
 //         // In browsers that support Object.defineProperty, use the following:
 //         // Object.defineProperty(A, Pk, { value: mappedValue, writable: true, enumerable: true, configurable: true });
-// 
+//
 //         // For best browser support, use the following:
 //         A[ k ] = mappedValue;
 //       }
 //       // d. Increase k by 1.
 //       k++;
 //     }
-// 
+//
 //     // 9. return A
 //     return A;
-//   };      
+//   };
 // }
-// Event System (J.Resig - Secrets of a JS Ninja http://jsninja.com/ [Go read it, really])
+// Event System (J.Resig - Secrets of a JS Ninja https://jsninja.com/ [Go read it, really])
 // (Book version isn't completely usable, so fixed some things and borrowed from jQuery where it's working)
-// 
+//
 // This should work very similarly to jQuery's events, however it's based off the book version which isn't as
 // robust as jquery's, so there's probably some differences.
-// 
-// When you add an event listener using _V_.addEvent, 
-//   it stores the handler function in seperate cache object, 
+//
+// When you add an event listener using _V_.addEvent,
+//   it stores the handler function in seperate cache object,
 //   and adds a generic handler to the element's event,
 //   along with a unique id (guid) to the element.
 
@@ -1808,13 +1808,13 @@ _V_.extend({
         var handlers = _V_.getData(elem).events[event.type];
         // Go through and call all the real bound handlers
         if (handlers) {
-          
+
           // Copy handlers so if handlers are added/removed during the process it doesn't throw everything off.
           var handlersCopy = [];
           _V_.each(handlers, function(handler, i){
             handlersCopy[i] = handler;
           })
-          
+
           for (var i = 0, l = handlersCopy.length; i < l; i++) {
             handlersCopy[i].call(elem, event);
           }
@@ -1966,7 +1966,7 @@ _V_.extend({
 
     // Added in attion to book. Book code was broke.
     event = typeof event === "object" ?
-      event[_V_.expando] ? 
+      event[_V_.expando] ?
         event :
         new _V_.Event(type, event) :
       new _V_.Event(type);
@@ -1984,7 +1984,7 @@ _V_.extend({
     // Unless it's been explicitly stopped
     // if (parent && !event.isPropagationStopped()) {
     //   _V_.triggerEvent(parent, event);
-    // 
+    //
     // // We're at the top document so trigger the default action
     // } else if (!parent && !event.isDefaultPrevented()) {
     //   // log(type);
@@ -1998,10 +1998,10 @@ _V_.extend({
     //     if (targetHandler) {
     //       targetData.handler = function(){};
     //     }
-    // 
+    //
     //     // Trigger the native event (click, focus, blur)
     //     event.target[event.type]();
-    // 
+    //
     //     // Restore the handler
     //     if (targetHandler) {
     //       targetData.handler = targetHandler;
@@ -2009,7 +2009,7 @@ _V_.extend({
     //   }
     // }
   },
-  
+
   one: function(elem, type, fn) {
     _V_.addEvent(elem, type, function(){
       _V_.removeEvent(elem, type, arguments.callee)
@@ -2052,7 +2052,7 @@ _V_.Event.prototype = {
     if (!e) { return; }
 
     // if preventDefault exists run it on the original event
-    if (e.preventDefault) { 
+    if (e.preventDefault) {
       e.preventDefault();
     // otherwise set the returnValue property of the original event to false (IE)
     } else {
@@ -2557,9 +2557,9 @@ _V_.Player = _V_.Component.extend({
 
   // Method for calling methods on the current playback technology
   // techCall: function(method, arg){
-  // 
+  //
   //   // if (this.isReady) {
-  //   //   
+  //   //
   //   // } else {
   //   //   _V_.log("The playback technology API is not ready yet. Use player.ready(myFunction)."+" ["+method+"]", arguments.callee.caller.arguments.callee.caller.arguments.callee.caller)
   //   //   return false;
@@ -2567,25 +2567,25 @@ _V_.Player = _V_.Component.extend({
   //   // }
   // },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-play
+  // https://dev.w3.org/html5/spec/video.html#dom-media-play
   play: function(){
     this.techCall("play");
     return this;
   },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-pause
+  // https://dev.w3.org/html5/spec/video.html#dom-media-pause
   pause: function(){
     this.techCall("pause");
     return this;
   },
-  
-  // http://dev.w3.org/html5/spec/video.html#dom-media-paused
+
+  // https://dev.w3.org/html5/spec/video.html#dom-media-paused
   // The initial state of paused should be true (in Safari it's actually false)
   paused: function(){
     return (this.techGet("paused") === false) ? false : true;
   },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-currenttime
+  // https://dev.w3.org/html5/spec/video.html#dom-media-currenttime
   currentTime: function(seconds){
     if (seconds !== undefined) {
 
@@ -2605,7 +2605,7 @@ _V_.Player = _V_.Component.extend({
     return this.values.currentTime = (this.techGet("currentTime") || 0);
   },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-duration
+  // https://dev.w3.org/html5/spec/video.html#dom-media-duration
   // Duration should return NaN if not available. ParseFloat will turn false-ish values to NaN.
   duration: function(){
     return parseFloat(this.techGet("duration"));
@@ -2616,7 +2616,7 @@ _V_.Player = _V_.Component.extend({
     return this.duration() - this.currentTime();
   },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-buffered
+  // https://dev.w3.org/html5/spec/video.html#dom-media-buffered
   // Buffered returns a timerange object. Kind of like an array of portions of the video that have been downloaded.
   // So far no browsers return more than one range (portion)
   buffered: function(){
@@ -2639,7 +2639,7 @@ _V_.Player = _V_.Component.extend({
     return (this.duration()) ? this.buffered().end(0) / this.duration() : 0;
   },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-volume
+  // https://dev.w3.org/html5/spec/video.html#dom-media-volume
   volume: function(percentAsDecimal){
     var vol;
 
@@ -2656,7 +2656,7 @@ _V_.Player = _V_.Component.extend({
     return (isNaN(vol)) ? 1 : vol;
   },
 
-  // http://dev.w3.org/html5/spec/video.html#attr-media-muted
+  // https://dev.w3.org/html5/spec/video.html#attr-media-muted
   muted: function(muted){
     if (muted !== undefined) {
       this.techCall("setMuted", muted);
@@ -2665,7 +2665,7 @@ _V_.Player = _V_.Component.extend({
     return this.techGet("muted") || false; // Default to false
   },
 
-  // http://dev.w3.org/html5/spec/dimension-attributes.html#attr-dim-height
+  // https://dev.w3.org/html5/spec/dimension-attributes.html#attr-dim-height
   // Video tag width/height only work in pixels. No percents.
   // We could potentially allow percents but won't for now until we can do testing around it.
   width: function(width, skipListeners){
@@ -2898,7 +2898,7 @@ _V_.Player = _V_.Component.extend({
         this.src([source]);
       }
 
-    // Case: URL String (http://myvideo...)
+    // Case: URL String (https://myvideo...)
     } else {
       // Cache for getting last set source
       this.values.src = source;
@@ -2921,13 +2921,13 @@ _V_.Player = _V_.Component.extend({
   },
 
   // Begin loading the src data
-  // http://dev.w3.org/html5/spec/video.html#dom-media-load
+  // https://dev.w3.org/html5/spec/video.html#dom-media-load
   load: function(){
     this.techCall("load");
     return this;
   },
 
-  // http://dev.w3.org/html5/spec/video.html#dom-media-currentsrc
+  // https://dev.w3.org/html5/spec/video.html#dom-media-currentsrc
   currentSrc: function(){
     return this.techGet("currentSrc") || this.values.src || "";
   },
@@ -2991,7 +2991,7 @@ _V_.Player = _V_.Component.extend({
       playerProto = _V_.Player.prototype;
 
   // Current W3C Spec
-  // http://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#api
+  // https://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#api
   // Mozilla Draft: https://wiki.mozilla.org/Gecko:FullScreenAPI#fullscreenchange_event
   if (document.cancelFullscreen !== undefined) {
     requestFn = "requestFullscreen";
@@ -3262,7 +3262,7 @@ _V_.html5.events = "loadstart,suspend,abort,error,emptied,stalled,loadedmetadata
 _V_.html5.prototype.support = {
 
   // Support for tech specific full screen. (webkitEnterFullScreen, not requestFullscreen)
-  // http://developer.apple.com/library/safari/#documentation/AudioVideo/Reference/HTMLVideoElementClassReference/HTMLVideoElement/HTMLVideoElement.html
+  // https://developer.apple.com/library/safari/#documentation/AudioVideo/Reference/HTMLVideoElementClassReference/HTMLVideoElement/HTMLVideoElement.html
   // Seems to be broken in Chromium/Chrome && Safari in Leopard
   fullscreen: (typeof _V_.testVid.webkitEnterFullScreen !== undefined) ? (!_V_.ua.match("Chrome") && !_V_.ua.match("Mac OS X 10.5") ? true : false) : false,
 
@@ -3363,7 +3363,7 @@ _V_.flash = _V_.PlaybackTech.extend({
     // There's on particularly annoying issue with this method which is that Firefox throws a security error on an offsite Flash object loaded into a dynamically created iFrame.
     // Even though the iframe was inserted into a page on the web, Firefox + Flash considers it a local app trying to access an internet file.
     // I tried mulitple ways of setting the iframe src attribute but couldn't find a src that worked well. Tried a real/fake source, in/out of domain.
-    // Also tried a method from stackoverflow that caused a security error in all browsers. http://stackoverflow.com/questions/2486901/how-to-set-document-domain-for-a-dynamically-generated-iframe
+    // Also tried a method from stackoverflow that caused a security error in all browsers. https://stackoverflow.com/questions/2486901/how-to-set-document-domain-for-a-dynamically-generated-iframe
     // In the end the solution I found to work was setting the iframe window.location.href right before doing a document.write of the Flash object.
     // The only downside of this it seems to trigger another http request to the original page (no matter what's put in the href). Not sure why that is.
 
@@ -4525,7 +4525,7 @@ _V_.autoSetup = function(){
         if (vid.player === undefined) {
           options = vid.getAttribute("data-setup");
 
-          // Check if data-setup attr exists. 
+          // Check if data-setup attr exists.
           // We only auto-setup if they've added the data-setup attr.
           if (options !== null) {
 

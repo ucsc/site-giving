@@ -1,11 +1,11 @@
 /**
  * jQuery.LocalScroll
- * Copyright (c) 2007-2008 Ariel Flesler - aflesler(at)gmail(dot)com | http://flesler.blogspot.com
+ * Copyright (c) 2007-2008 Ariel Flesler - aflesler(at)gmail(dot)com | https://flesler.blogspot.com
  * Dual licensed under MIT and GPL.
  * Date: 3/10/2008
  *
  * @projectDescription Animated scrolling navigation, using anchors.
- * http://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html
+ * https://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html
  * @author Ariel Flesler
  * @version 1.2.5
  *
@@ -35,12 +35,12 @@
 	};
 
 	//Many of these defaults, belong to jQuery.ScrollTo, check it's demo for an example of each option.
-	//@see http://www.freewebs.com/flesler/jQuery.ScrollTo/
+	//@see https://www.freewebs.com/flesler/jQuery.ScrollTo/
 	$localScroll.defaults = {//the defaults are public and can be overriden.
 		duration:1000, //how long to animate.
 		axis:'y',//which of top and left should be modified.
 		event:'click',//on which event to react.
-		stop:true//avoid queuing animations 
+		stop:true//avoid queuing animations
 		/*
 		lock:false,//ignore events if already animating
 		lazy:false,//if true, links can be added later, and will still work.
@@ -61,7 +61,7 @@
 	$.fn.localScroll = function( settings ){
 		settings = $.extend( {}, $localScroll.defaults, settings );
 
-		return ( settings.persistent || settings.lazy ) 
+		return ( settings.persistent || settings.lazy )
 				? this.bind( settings.event, function( e ){//use event delegation, more links can be added later.
 					var a = $([e.target, e.target.parentNode]).filter(filter)[0];//if a valid link was clicked.
 					a && scroll( e, a, settings );//do scroll.
