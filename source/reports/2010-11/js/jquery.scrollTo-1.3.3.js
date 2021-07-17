@@ -1,8 +1,8 @@
 /**
  * jQuery.ScrollTo
- * Copyright (c) 2008 Ariel Flesler - aflesler(at)gmail(dot)com | http://flesler.blogspot.com
- * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
- * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
+ * Copyright (c) 2008 Ariel Flesler - aflesler(at)gmail(dot)com | https://flesler.blogspot.com
+ * Dual licensed under the MIT (https://www.opensource.org/licenses/mit-license.php)
+ * and GPL (https://www.opensource.org/licenses/gpl-license.php) licenses.
  * Date: 2/19/2008
  *
  * @projectDescription Easy element scrolling using jQuery.
@@ -29,7 +29,7 @@
  *	 @option {Object, Number} offset Add/deduct from the end position. One number for both axes or { top:x, left:y }.
  *	 @option {Object, Number} over Add/deduct the height/width multiplied by 'over', can be { top:x, left:y } when using both axes.
  *	 @option {Boolean} queue If true, and both axis are given, the 2nd axis will only be animated after the first one ends.
- *	 @option {Function} onAfter Function to be called after the scrolling ends. 
+ *	 @option {Function} onAfter Function to be called after the scrolling ends.
  *	 @option {Function} onAfterFirst If queuing is activated, this function will be called after the first scrolling ends.
  * @return {jQuery} Returns the same jQuery object, for chaining.
  *
@@ -41,14 +41,14 @@
  *
  * @example var second_child = document.getElementById('container').firstChild.nextSibling;
  *			$('#container').scrollTo( second_child, { duration:500, axis:'x', onAfter:function(){
- *				alert('scrolled!!');																   
+ *				alert('scrolled!!');
  *			}});
  *
  * @example $('div').scrollTo( { top: 300, left:'+=200' }, { offset:-20 } );
  *
  * Notes:
  *  - jQuery.scrollTo will make the whole window scroll, it accepts the same arguments as jQuery.fn.scrollTo.
- *	- If you are interested in animated anchor navigation, check http://jquery.com/plugins/project/LocalScroll.
+ *	- If you are interested in animated anchor navigation, check https://jquery.com/plugins/project/LocalScroll.
  *	- The options margin, offset and over are ignored, if the target is not a jQuery object or a DOM element.
  *	- The option 'queue' won't be taken into account, if only 1 axis is given.
  */
@@ -95,7 +95,7 @@
 					t = $(t,this);// relative selector, no break!
 				case 'object':
 					if( t.is || t.style )//DOM/jQuery
-						toff = (t = $(t)).offset();//get the real position of the target 
+						toff = (t = $(t)).offset();//get the real position of the target
 			}
 			$.each( settings.axis.split(''), function( i, axis ){
 				var Pos	= axis == 'x' ? 'Left' : 'Top',
@@ -112,9 +112,9 @@
 						attr[key] -= parseInt(t.css('margin'+Pos)) || 0;
 						attr[key] -= parseInt(t.css('border'+Pos+'Width')) || 0;
 					}
-					
+
 					attr[key] += settings.offset[pos] || 0;//add/deduct the offset
-					
+
 					if( settings.over[pos] )//scroll to a fraction of its width/height
 						attr[key] += t[dim]() * settings.over[pos];
 				}else
@@ -123,13 +123,13 @@
 				if( /^\d+$/.test(attr[key]) )//number or 'number'
 					attr[key] = attr[key] <= 0 ? 0 : Math.min( attr[key], max(Dim) );//check the limits
 
-				if( !i && settings.queue ){//queueing each axis is required					
+				if( !i && settings.queue ){//queueing each axis is required
 					if( act != attr[key] )//don't waste time animating, if there's no need.
 						animate( settings.onAfterFirst );//intermediate animation
 					delete attr[key];//don't animate this axis again in the next iteration.
 				}
-			});			
-			animate( settings.onAfter );			
+			});
+			animate( settings.onAfter );
 
 			function animate( callback ){
 				$elem.animate( attr, duration, settings.easing, callback && function(){

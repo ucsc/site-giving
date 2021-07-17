@@ -582,7 +582,7 @@ jQuery.extend = jQuery.fn.extend = function() {
 
 				// Recurse if we're merging object values
 				if ( deep && copy && typeof copy == "object" && !copy.nodeType )
-					target[ name ] = jQuery.extend( deep, 
+					target[ name ] = jQuery.extend( deep,
 						// Never move original objects, clone them
 						src || ( copy.length != null ? [ ] : { } )
 					, copy );
@@ -631,7 +631,7 @@ jQuery.extend({
 
 		if ( data ) {
 			// Inspired by code by Andrea Giammarchi
-			// http://webreflection.blogspot.com/2007/08/global-scope-evaluation-and-dom.html
+			// https://webreflection.blogspot.com/2007/08/global-scope-evaluation-and-dom.html
 			var head = document.getElementsByTagName("head")[0] || document.documentElement,
 				script = document.createElement("script");
 
@@ -914,7 +914,7 @@ jQuery.extend({
 			ret = elem.currentStyle[ name ] || elem.currentStyle[ camelCase ];
 
 			// From the awesome hack by Dean Edwards
-			// http://erik.eae.net/archives/2007/07/27/18.54.15/#comment-102291
+			// https://erik.eae.net/archives/2007/07/27/18.54.15/#comment-102291
 
 			// If we're not dealing with a regular pixel number
 			// but a number that has a weird ending, we need to convert it to pixels
@@ -2341,7 +2341,7 @@ function bindReady(){
 		if (jQuery.isReady) return;
 		try {
 			// If IE is used, use the trick by Diego Perini
-			// http://javascript.nwbox.com/IEContentLoaded/
+			// https://javascript.nwbox.com/IEContentLoaded/
 			document.documentElement.doScroll("left");
 		} catch( error ) {
 			setTimeout( arguments.callee, 0 );
@@ -2882,7 +2882,7 @@ jQuery.extend({
 
 		if ( xml && data.documentElement.tagName == "parsererror" )
 			throw "parsererror";
-			
+
 		// Allow a pre-filtering function to sanitize the response
 		if( filter )
 			data = filter( data, type );
@@ -3357,7 +3357,7 @@ jQuery.extend( jQuery.fx, {
 });
 // The Offset Method
 // Originally By Brandon Aaron, part of the Dimension Plugin
-// http://jquery.com/plugins/project/dimensions
+// https://jquery.com/plugins/project/dimensions
 jQuery.fn.offset = function() {
 	var left = 0, top = 0, elem = this[0], results;
 
@@ -3469,7 +3469,7 @@ jQuery.fn.extend({
 			parentOffset = /^body|html$/i.test(offsetParent[0].tagName) ? { top: 0, left: 0 } : offsetParent.offset();
 
 			// Subtract element margins
-			// note: when an element has margin: auto the offsetLeft and marginLeft 
+			// note: when an element has margin: auto the offsetLeft and marginLeft
 			// are the same in Safari causing offset.left to incorrectly be 0
 			offset.top  -= num( this, 'marginTop' );
 			offset.left -= num( this, 'marginLeft' );
@@ -3500,7 +3500,7 @@ jQuery.fn.extend({
 // Create scrollLeft and scrollTop methods
 jQuery.each( ['Left', 'Top'], function(i, name) {
 	var method = 'scroll' + name;
-	
+
 	jQuery.fn[ method ] = function(val) {
 		if (!this[0]) return;
 

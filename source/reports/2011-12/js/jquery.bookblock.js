@@ -1,12 +1,12 @@
 /**
  * jquery.bookblock.js v1.0.2
- * http://www.codrops.com
+ * https://www.codrops.com
  *
  * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.html
+ * https://www.opensource.org/licenses/mit-license.html
  *
  * Copyright 2012, Codrops
- * http://www.codrops.com
+ * https://www.codrops.com
  */
 
 ;
