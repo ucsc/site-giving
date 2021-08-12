@@ -49,10 +49,10 @@ numbered_list:
     copy: |
       Please complete a <a href="/assets/documents/gifts-pledges-mail-form.pdf">gift form</a> and send it with your gift to<br>
       UC Santa Cruz Foundation<br>
-      Dept. 44787<br>
-      PO Box 44000<br>
-      San Francisco, CA<br>
-      94144-4787<br><br>
+      Attn: Gift Administration<br>
+      1156 High St<br>
+      Santa Cruz, CA<br>
+      95064<br><br>
       Make checks payable to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
     url: "/assets/documents/gifts-pledges-mail-form.pdf"
