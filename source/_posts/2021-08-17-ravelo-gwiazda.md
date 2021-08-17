@@ -9,12 +9,6 @@ author_name:
 author_email:
   - chtall@ucsc.edu
 excerpt: "New fund aims to increase diversity in the geosciences by giving vital financial support to grad students from underrepresented backgrounds."
-see_also_links:
-  - "2"
-see_also_links_0_link_name:
-  - Siobahn O'Neill Scholarship
-see_also_links_0_link_link:
-  - 'https://humanities.ucsc.edu/about/giving/siobhan-oneill.html'
 thumbnail_image: geoscience-students-square.jpg
 thumbnail_alt_text: UCSC students examine a sieve on a beach
 category: "Donor Profiles"
@@ -25,7 +19,7 @@ category: "Donor Profiles"
 When a professor said this during an undergraduate geology field trip, Christina Ravelo started realizing—for the first time—that she really could become a scientist. 
 
 Ravelo says she had never heard words like that from a professor. And it made her start believing in herself: “Oh wow, I can actually do this, I can be this!”
-<figure class="inline-image full">
+<figure class="inline-image right">
 {% asset geoscience-students.jpg magick:resize=400 alt='UCSC students examine a sieve on a beach' %}
 <figcaption>The Oceans Sciences DEI and Anti-Racism fund aims to promote diversity in the ocean sciences.</figcaption></figure>
 
