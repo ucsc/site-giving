@@ -26,7 +26,7 @@ When a professor said this during an undergraduate geology field trip, Christina
 
 Ravelo says she had never heard words like that from a professor. And it made her start believing in herself: “Oh wow, I can actually do this, I can be this!”
 <figure class="inline-image full">
-{% asset geoscience-students.jpg magick:resize=400 alt='Siobahn' %}
+{% asset geoscience-students.jpg magick:resize=400 alt='UCSC students examine a sieve on a beach' %}
 <figcaption>The Oceans Sciences DEI and Anti-Racism fund aims to promote diversity in the ocean sciences.</figcaption></figure>
 
 But she also recalls how difficult it was for her to identify as a scientist and the barriers she faced as a female and person of color. Now an ocean sciences professor and associate dean of diversity, equity, and inclusion in the division of physical and biological sciences at UC Santa Cruz, Ravelo says she has watched many people during her 30 year career struggle with their sense of belonging. She explains that it can be a tough road for students from diverse or disadvantaged backgrounds to come into and remain in academia—to the detriment of science. 
