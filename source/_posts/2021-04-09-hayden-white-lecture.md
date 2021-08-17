@@ -11,7 +11,7 @@ author_email:
   - srapp@ucsc.edu
 excerpt:
   - Award-winning literary scholar and cultural historian Saidiya Hartman will be the featured guest at the inaugural Hayden V. White Distinguished Annual Lecture, a virtual event that takes place on April 19.
-#thumbnail_image: saidiya-hartman.jpg
+#thumbnail_image: saidiya-hartman.png
 thumbnail_alt_text: Saidiya Hartman
 category: "News"
 format: link
