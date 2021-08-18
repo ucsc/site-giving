@@ -14,7 +14,7 @@ pull_quote_author:
 hero:
   use: false
   image: Kermish-Lisa.jpg #best at 1000px by 450px
-  alt_text: photo of Lisa Kermish
+  alt_text: Lisa Kermish
   vertical: bottom #options: top, bottom
   horizontal: left #options: left, right
 # Is this a featured post? Applies to first two columns on Post Archive Page.
