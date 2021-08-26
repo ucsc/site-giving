@@ -41,4 +41,3 @@ Ravelo hopes the Oceans Sciences DEI and Anti-Racism fund will continue to grow.
 
 “Actions are needed,” she says, “I hope people are inspired to do something. There’s a lot of discussion and talk about these issues, but many people don’t know what they can do to help. If you believe in the issues and the cause, the Ocean Sciences DEI and Anti-Racism fund is an easy way to help. We hope we have gotten the ball rolling and it will gain momentum.”
 
-_Learn more about planned giving at the [UC Santa Cruz Planned Gifts site.](https://plannedgifts.ucsc.edu/) _
