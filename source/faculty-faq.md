@@ -57,7 +57,7 @@ layout: page
 <div>
 <h2 class="question">How do I develop interdisciplinary pitches to donors?</h2>
 <div class="response">
-<p>The development team is available to work with groups of faculty who are working across disciplines. As a starting point, please contact Executive Director of Development, Molly Sims (<a href="mailto:molly.sims@ucsc.edu">shilling@ucsc.edu</a>) who can assemble a team to work with your group.</p>
+<p>The development team is available to work with groups of faculty who are working across disciplines. As a starting point, please contact Executive Director of Development, Molly Sims (<a href="mailto:molly.sims@ucsc.edu">molly.sims@ucsc.edu</a>) who can assemble a team to work with your group.</p>
 </div>
 </div>
 
