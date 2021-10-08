@@ -10,10 +10,10 @@
       role: Vice Chancellor, University Relations
       phone: 831-459-2654
       email: mdrdavis@ucsc.edu
-    - name: Jeff Shilling
-      role: Associate Vice Chancellor, Philanthropy
-      phone: 831-502-8156
-      email: jshilling@ucsc.edu
+    - name: Molly Sims
+      role: Executive Director, Development
+      phone: 831-239-0027
+      email: molly.sims@ucsc.edu
     - name: Virginia Rivera
       role: Planned Giving
       phone: 831-459-5227
@@ -62,13 +62,9 @@
       email: kedetwil@ucsc.edu
       role: Development Assistant
     - subheading: Social Sciences
-    - name: Kevin Wasbauer
-      phone: 831-502-7274
-      email: kwasbaue@ucsc.edu
-    - name: Susan Moren
-      phone: 831-459-3857
-      email: susanm@ucsc.edu
-      role: Development Assistant
+    - name: Joop Rubens
+      phone: 831-459-5870
+      email: jrubens@ucsc.edu
     - subheading: UC Santa Cruz Library
     - name: Joop Rubens
       phone: 831-459-5870
@@ -85,6 +81,10 @@
     - name: Sarah Kudela
       phone: 831-459-2888
       email: schuster@ucsc.edu
+    - name: Susan Moren
+      phone: 831-459-3857
+      email: susanm@ucsc.edu
+      role: Development Assistant
     - subheading: UC Observatories
     - name: Natasha Basey Pedroza
       phone: 831-459-3455
