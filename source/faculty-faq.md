@@ -20,7 +20,7 @@ layout: page
 <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
 </ul>
 
-<p>To find interested donors and private foundations beyond the divisions, contact Executive Director of Development <a href="mailto:maasims@ucsc.edu">Molly Simms</a>.</p>
+<p>To find interested donors and private foundations beyond the divisions, contact Executive Director of Development <a href="mailto:molly.sims@ucsc.edu">Molly Sims</a>.</p>
 
 <p>In advance, it will be helpful to have considered these questions:</p>
 <ul>
@@ -57,7 +57,7 @@ layout: page
 <div>
 <h2 class="question">How do I develop interdisciplinary pitches to donors?</h2>
 <div class="response">
-<p>The development team is available to work with groups of faculty who are working across disciplines. As a starting point, please contact Associate Vice Chancellor for Development, Jeff Shilling (<a href="mailto:shilling@ucsc.edu">shilling@ucsc.edu</a>) who can assemble a team to work with your group.</p>
+<p>The development team is available to work with groups of faculty who are working across disciplines. As a starting point, please contact Executive Director of Development, Molly Sims (<a href="mailto:molly.sims@ucsc.edu">shilling@ucsc.edu</a>) who can assemble a team to work with your group.</p>
 </div>
 </div>
 
@@ -73,7 +73,7 @@ layout: page
 <div>
 <h2 class="question">Does UCSC accept gifts from donors who live internationally?</h2>
 <div class="response">
-<p>Yes. UCSC, like all other UCs, can support receiving gifts from international donors. UC system partners also allow donors specifically in Canada, Hong Kong, United Kingdom and a number of other countries in Europe to make gifts to UCSC in their own country. As there are very specific procedures to follow, please contact Jeff Shilling at <a href="mailto:shilling@ucsc.edu">shilling@ucsc.edu</a>.</p>
+<p>Yes. UCSC, like all other UCs, can support receiving gifts from international donors. UC system partners also allow donors specifically in Canada, Hong Kong, United Kingdom and a number of other countries in Europe to make gifts to UCSC in their own country. As there are very specific procedures to follow, please contact Molly Sims at <a href="mailto:molly.sims@ucsc.edu">molly.sims@ucsc.edu</a>.</p>
 </div>
 </div>
 
