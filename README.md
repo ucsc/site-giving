@@ -16,4 +16,3 @@ This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker]
 2. `cd` into this new repo's directory
 3. Run `docker-compose up`
 4. Load site at `http://0.0.0.0:4000/`
-hello world
