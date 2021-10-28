@@ -2,7 +2,7 @@
 id: xxxx
 title: Fostering diversity, equity, and inclusion in ocean sciences
 date: 2021-08-17
-author: chtall
+author: Christy Tall
 layout: post
 author_name:
   - Christy Tall
