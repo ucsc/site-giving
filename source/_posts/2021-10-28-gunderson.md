@@ -18,7 +18,7 @@ Theater stages are often adorned with elaborate costumes that bring characters a
 
 <figure class="inline-image right">
 {% asset gunderson-barnes-costume-dinner.jpg magick:resize=400 alt='Gregg Barnes and Jim Gunderson' %}
-<figcaption>Gregg Barnes (seated) and Jim Gunderson at a 50th anniversary celebration of a production of <em>Julius Casear</em> with costumes designed by comics artist Jack Kirby. Photo courtesy of Jim Gunderson.</figcaption></figure>Harmon has been working hard, raising funds, and giving back since she was a child.
+<figcaption>Gregg Barnes (seated) and Jim Gunderson at a 50th anniversary celebration of a production of <em>Julius Casear</em> with costumes designed by comics artist Jack Kirby. Photo courtesy of Jim Gunderson.</figcaption></figure>
 
 Though Broadway is a world away from the executive boardrooms Gunderson frequents in his governance practice, it is one in which he is well acquainted and closely connected. 
 
