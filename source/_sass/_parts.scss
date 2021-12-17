@@ -909,6 +909,8 @@ new */
     @include media-query($on-desktop) {
         padding-bottom: 54px;
         padding-bottom: 3.375em;
+        margin-top: 0;
+        margin-bottom: 0;
     }
 }
 
@@ -955,4 +957,18 @@ new */
     .post-title {
         margin-bottom: 0;
     }
+}
+
+
+/*
+ *
+ * Campus Closure, Winter 2021
+ *
+ */
+
+.winter-closure {
+    background: #ffbf00;
+    padding-top: ($spacing-unit / 2);
+    padding-bottom: ($spacing-unit / 2);
+    margin-bottom: 3.375em
 }
