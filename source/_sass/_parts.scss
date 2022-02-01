@@ -972,3 +972,19 @@ new */
     padding-bottom: ($spacing-unit / 2);
     margin-bottom: 3.375em
 }
+
+/*
+ *
+ * iModules Maintenance
+ * Online Giving temporarily down
+ * Feb, 11-Feb, 13 2022
+ *
+ */
+
+.imodules-maint {
+    background: #ffbf00;
+    padding-top: ($spacing-unit / 2);
+    padding-bottom: ($spacing-unit / 2);
+    margin-top: ($spacing-unit / 2);
+    margin-bottom: (-1 * ($spacing-unit));
+}
