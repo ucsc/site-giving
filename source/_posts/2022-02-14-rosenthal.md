@@ -1,6 +1,6 @@
 ---
 id: xxxx
-title: Costumes get lead role
+title: New scholarship supports under-represented students
 date: 2022-02-14
 author: Paula Hermann
 layout: post
