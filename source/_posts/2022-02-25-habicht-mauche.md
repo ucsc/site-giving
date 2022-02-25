@@ -26,11 +26,11 @@ category: "Donor Profiles"
 
 For Judith Habicht Mauche, Professor Emeritus, studying ancient pottery brings the stories of ancient peoples to life—giving today’s archaeologists a glimpse into people and cultures that have shaped Native American history. It also offers students the opportunity to practice scientific methodologies and develop skills that can be applied to numerous disciplines. Her contributions to the field of archaeology, her extensive research, and her three-decades-long service to UC Santa Cruz, have left an indelible legacy. Upon her recent retirement, Habicht Mauche established an endowed scholarship to preserve the programs and experiences in human exploration that will open doors to the past for the next generation of UCSC-trained archaeologists. 
 
-###Childhood Road Trip Inspired Lifelong Journey Through the Past
+### Childhood road trip inspired lifelong journey through the past
 
 Cross-country road trips can create memories that last a lifetime, and for Habicht Mauche, one such trip inspired a passion that would form the foundation of her lifelong career. At age 12, she and her parents embarked on a family road trip from Buffalo, NY, to Southern California. They visited communities in New Mexico and Arizona, learning about aspects of Pueblo and Native American culture, history, and modern life. While sitting on a bench with her father after a day exploring the historic Pueblo Bonito in Chaco Canyon, NM, Habicht Mauche told her father she aspired to be an archaeologist and work in the Southwest. The road trip ignited a passion that led to a decades-long career in a niche field of study—ancient ceramics. 
 
-###Blending Ancient History with Modern Technology
+### Blending Ancient History with Modern Technology
 
 The study of ancient ceramics, which gives archaeologists insight into how people lived and interacted with one another, is quite complex, says Habicht Mauche. It requires the complex merger of methodologies from the natural sciences, particularly chemistry, geochemistry and physics in order to answer questions about the human experience. Habicht Mauche’s specialty is petrography, or optical mineralogy, a geological technique first applied to the study of ancient pottery in the Americas by Anna O. Shepard in the early 20th century. 
 
@@ -43,7 +43,7 @@ It’s the combination of the complex science, the art, and the fact that it was
 <figure class="inline-image right">
   {% asset judith-lab.jpg magick:resize=400 alt='Professor Emerita Judith Habicht Mauche' %}
 <figcaption>Habicht Mauche's gift aims to help prepare future generations of archeologists. </figcaption></figure>
-###Honoring a Pioneer and Lifting the Next Generation
+### Honoring a pioneer and lifting the next generation
 
 Foundational to Habicht Mauche’s career was the work of Shepard, an early trailblazer for women in the sciences and a demigod of ancient ceramics in the American Southwest and Mesoamerica. An archaeologist and geochemist in the early 1930s, Shepard was one of the first people to utilize petrography to study ancient ceramics, which Habicht Mauche has used in her work and taught in her courses at UC Santa Cruz. 
 
@@ -59,7 +59,7 @@ Experiential opportunities, such as field school and museum visits, are essentia
 
 “When students get out of the classroom, they can see how archaeology is done and can experience how knowledge is created. When they can work in a faculty member’s lab and don’t have to worry about funding supplies, they can focus on learning how science is done. When we can bring in experts, it expands students’ professional network, which is critical in this field.”
 
-###A Modern-Day Anna Shepard
+### A Modern-Day Anna Shepard
 
 Habicht Mauche, has, like Shepard, paved the way for many women and men to advance the field of ceramic archaeology. She was one of only two faculty members when she arrived at UC Santa Cruz, and helped build and lead the department into an emerging world leader with its advanced laboratories, renowned faculty and regional specializations. She was instrumental in launching the doctoral program, establishing the ARC and recruiting esteemed faculty. 
 
