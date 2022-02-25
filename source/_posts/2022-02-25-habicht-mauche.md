@@ -14,7 +14,7 @@ hero:
   use: false
   image: judith-hm.jpg 
   alt_text: Professor Emerita Judith Habicht Mauche
-thumbnail_image: judith-thumbnail.jpg
+thumbnail_image: judith-thumbnail.png
 thumbnail_alt_text: Professor Emerita Judith Habicht Mauche
 category: "Donor Profiles"
 ---
