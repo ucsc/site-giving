@@ -1,7 +1,7 @@
 ---
 id: xxx
-title: "Critical support"
-subtitle: "A gift from Andrew Baird, a former student of pioneering History of Consciousness Professor Hayden White, has endowed an annual lecture honoring White and his work"
+title: "Scholarship Opens Door to the Past for Future archaeologists"
+subtitle: "Judith Habicht Mauche, professor emeritus of archaeology, is a modern-day pioneer who has established an endowed scholarship that will preserve programs and experiences in human exploration and develop the next generation of UCSC-trained archaeologists."
 date: 2022-02-25
 layout: post
 author:
