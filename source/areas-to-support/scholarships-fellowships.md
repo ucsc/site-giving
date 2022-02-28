@@ -12,7 +12,7 @@ guid: https://live-ucsc-giving.pantheonsite.io/?page_id=686
 {% asset Scholarship-Hernandez_Eduardo_1293.jpg magick:resize=250 alt="Eduardo Hernandez, an undergraduate in computer engineering. Vice president of the Society of Hispanic Professional Engineers on campus; received two scholarships to defray college costs; resident adviser; active in the Multicultural Engineering Program and the statewide Mathematics, Engineering, Science Achievement program; School of Engineering mentor for freshmen." itemprop="image" %}</figure>
 Scholarships ensure that high-achieving students who have earned a place at UC Santa Cruz can attend regardless of financial means.
 
-Scholarships are a powerful vote of confidence in the future. They are key to attracting top students, and to ensuring that those who have earned a place at UC Santa Cruz can attend regardless of financial means. The need is great: More than 40% of our accepted students come from households whose annual income is below $40,000. All levels of donor support are welcome. Contact Jeff Shilling, associate vice chancellor of development, shilling@uscc.edu or (831) 459-5718.
+Scholarships are a powerful vote of confidence in the future. They are key to attracting top students, and to ensuring that those who have earned a place at UC Santa Cruz can attend regardless of financial means. The need is great: More than 40% of our accepted students come from households whose annual income is below $40,000. All levels of donor support are welcome. Contact Priya Mehta, associate vice chancellor of development, pmehta7@ucsc.edu or (646)287-1534.
 
 ## Featured scholarships
 
