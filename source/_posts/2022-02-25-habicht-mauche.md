@@ -1,7 +1,7 @@
 ---
 id: xxx
-title: "Scholarship Opens Door to the Past for Future archaeologists"
-subtitle: "Judith Habicht Mauche, professor emeritus of archaeology, is a modern-day pioneer who has established an endowed scholarship that will preserve programs and experiences in human exploration and develop the next generation of UCSC-trained archaeologists."
+title: "Scholarship opens doors to the past for future archaeologists"
+subtitle: "Judith Habicht Mauche, professor emerita of archaeology, is a modern-day pioneer who has established an endowed scholarship that will preserve programs and experiences in human exploration and develop the next generation of UCSC-trained archaeologists."
 date: 2022-02-25
 layout: post
 author:
