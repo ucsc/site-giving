@@ -70,12 +70,12 @@ support_areas:
     image_alt: image alt text
     button_text: Let Us Know
     button_link: http://plannedgifts.ucsc.edu/
-  - heading: Crowdfunding
-    copy: "Support student success and boost promising new ideas!"
+  - heading: Spring Give
+    copy: "Support student success!"
     image: crowdfunding.jpg
     image_alt: Crowdfunding image of students
     button_text: Learn More
-    button_link: https://crowdfund.ucsc.edu/
+    button_link: https://givingday.ucsc.edu/giving-day/48191
   - heading: Endowment
     copy: "Make your gift transcend generations."
     image: endowment.jpg
