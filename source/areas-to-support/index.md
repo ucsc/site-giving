@@ -30,7 +30,7 @@ support_areas:
     button_text: Learn more
     button_link: https://deanofstudents.ucsc.edu/slug-support/program/
   - heading: Crowdfunding
-    copy: "We currently do not have an active crowdfunding campaign."
+    copy: "Support student success and exciting new projects!"
     image: Cross-07.jpg
     image_alt: Computer science students 
     button_text: Browse projects
