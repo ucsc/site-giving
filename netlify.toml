@@ -104,4 +104,3 @@
   to = "/impact-of-giving/"
   status = 410
   headers = {X-From = "Netlify"}
-  force = true
