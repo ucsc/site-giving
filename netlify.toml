@@ -41,8 +41,6 @@
   headers = {X-From = "Netlify"}
   force = true
 
-
-
 [[redirects]]
   from = "/giving-opportunities/*"
   to = "/areas-to-support/:splat"
@@ -102,5 +100,5 @@
 [[redirects]]
   from = "/impact-of-giving/poetry-in-motion/"
   to = "/impact-of-giving/"
-  status = 410
+  status = 301
   headers = {X-From = "Netlify"}
