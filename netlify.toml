@@ -41,12 +41,7 @@
   headers = {X-From = "Netlify"}
   force = true
 
-[[redirects]]
-  from = "/giving-opportunities"
-  to = "/areas-to-support"
-  status = 301
-  headers = {X-From = "Netlify"}
-  force = true
+
 
 [[redirects]]
   from = "/giving-opportunities/*"
@@ -101,5 +96,12 @@
   from = "/ways_to_give.php"
   to = "/ways-to-give"
   status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
+[[redirects]]
+  from = "/impact-of-giving/poetry-in-motion/"
+  to = "/impact-of-giving/"
+  status = 410
   headers = {X-From = "Netlify"}
   force = true
