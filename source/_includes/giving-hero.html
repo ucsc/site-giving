@@ -1,0 +1,78 @@
+<section class="wrapper giving-day hero-wrap">
+  <style>
+    .giving-day {
+      width: 100%;
+    }
+
+    .billboard-wrapper {
+      display: block;
+      margin: 0 auto;
+      max-width: 1080px;
+      width: 100%;
+    }
+
+    .bill-wrapper {
+      background: rgb(63, 113, 154);
+      background: radial-gradient(circle, rgba(63, 113, 154, 1) 0%, rgba(0, 60, 108, 1) 59%);
+      display: inline-block;
+      height: 100%;
+      margin: 0 auto;
+      max-height: 624px;
+      max-width: 1080px;
+      position: relative;
+      text-align: center;
+      width: 100%;
+    }
+
+    g {
+      fill: none;
+      stroke-width: 0.5px;
+      stroke: url(#gradient_svg);
+    }
+
+    svg {
+      opacity: 1;
+    }
+
+    .billboard-wrapper img {
+      bottom: 0;
+      display: block;
+      left: 0;
+      margin: auto;
+      max-width: 350px;
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 100%;
+    }
+
+    @media screen and (max-width: 31.125em) {
+      .billboard-wrapper img {
+        max-width: 200px;
+      }
+    }
+
+    @media screen and (min-width: 31.125em) {
+      .billboard-wrapper img {
+        max-width: 200px;
+      }
+    }
+  </style>
+
+  <a href="#" class="billboard-wrapper">
+    <div class="bill-wrapper">
+      <img src="https://www.ucsc.edu/images/2022-giving-day/wordmark-only.svg" alt="UC Santa Cruz 2022 Giving Day">
+
+      <svg width="100%" viewBox="0 0 1080 624">
+        <defs>
+          <linearGradient id="gradient_svg" x1="100%" y1="100%" x2="0%" y2="0%">
+            <stop offset="0%" stop-color="#de3361" />
+            <stop offset="50%" stop-color="#639437" />
+            <stop offset="100%" stop-color="#fff" />
+          </linearGradient>
+        </defs>
+      </svg>
+    </div>
+  </a>
+
+</section>
