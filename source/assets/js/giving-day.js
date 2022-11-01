@@ -26,7 +26,7 @@ var data = d3.range(lineCount).map((i) => {
     var next_data = prevData.map((v, k, e) => {
 
 
-      return v + Math.random() * 6;
+      return v + Math.random() * 4;
 
     });
 
