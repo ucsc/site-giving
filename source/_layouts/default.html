@@ -11,36 +11,46 @@
 
 <body class="{{ layout }} {{ id }}{% if page.url == "/" %} home {% endif %}">
 
-    {%- include header.html -%}
+  {%- include header.html -%}
 
-{% if page.hero.use %}
+  {% if page.hero.use %}
+  {% unless paginator.page >= 2%}
+  {%- include hero.html -%}
+  {% endunless%}
+  {% endif %}
+  {% if page.givingday %}
+  {% unless paginator.page >= 2%}
+  {%- include giving-hero.html -%}
+  {% endunless%}
+  {% endif %}
+  {% if paginator.page >= 2%}
+  <div class="wrapper paginated">
+    <header>
+      <h1 class="post-title">{{ page.title }} </h1>
+    </header>
+    </div>
+    {% endif %}
+
+
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+  {%- include make-difference.html -%} {%- include footer.html -%} {% include back-to-top.html %}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="/assets/js/back-to-top.js"></script>
+  <script src="/assets/js/toggle.js"></script>
+
+    {% if page.givingday %}
     {% unless paginator.page >= 2%}
-    {%- include hero.html -%}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
+    <script src="/assets/js/giving-day.js"></script>
     {% endunless%}
     {% endif %}
-    {% if paginator.page >= 2%}
-    <div class="wrapper paginated">
-    <header >
-        <h1 class="post-title" >{{ page.title }}  </h1>
-        </header>
-        </div>
-    {% endif %}
-
-
-
-    <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-            {{ content }}
-        </div>
-    </main>
-    {%- include make-difference.html -%}  {%- include footer.html -%} {% include back-to-top.html %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="/assets/js/back-to-top.js"></script>
-    <script src="/assets/js/toggle.js"></script>
-
-    {%- include analytics.html -%}
+  {%- include analytics.html -%}
 
 </body>
 
 </html>
-
