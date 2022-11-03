@@ -1,7 +1,6 @@
 - heading: University Relations
   members:
     - name: Inquiries
-      phone: 831-459-2501
       email: giving@ucsc.edu
 
 - heading: Philanthropy leadership
@@ -10,14 +9,14 @@
       role: Vice Chancellor, University Relations and President UC Santa Cruz Foundation
       phone: 831-459-2654
       email: mdrdavis@ucsc.edu
-    - name: Molly Sims
-      role: Executive Director, Development
-      phone: 831-239-0027
-      email: molly.sims@ucsc.edu
     - name: Priya Mehta
       role: Associate Vice Chancellor, Development and Vice President UC Santa Cruz Foundation
       phone: 646-287-1534
       email: pmehta7@ucsc.edu
+    - name: Molly Sims
+      role: Executive Director, Development
+      phone: 831-239-0027
+      email: molly.sims@ucsc.edu
     - name: Meg Corman
       role: Constituent and Donor Engagement
       phone: 831-459-1305
@@ -80,10 +79,11 @@
       phone: 831-502-7552
       email: majarodr@ucsc.edu
       role: Development Assistant
-    - subheading: Arts
-    - name: Sarah Kudela
-      phone: 831-459-2888
-      email: schuster@ucsc.edu
+    - subheading: Arts     
+    - name: Matt Bernd
+      phone: 323-630-1599
+      email: mabernd@ucsc.edu
+      role: Southern California
     - name: Lorraine Padgett
       phone: 831-459-2888
       email: lopadget@ucsc.edu
@@ -96,6 +96,16 @@
     - name: Lauren Donnelly‑Crocker
       phone: 831-459-4568
       email: ldonnell@ucsc.edu
+      
+- heading: Student Success Initiative
+  members:
+    - name: Molly Sims
+      role: Executive Director, Development
+      phone: 831-239-0027
+      email: molly.sims@ucsc.edu
+    - name: Sarah Kudela
+      phone: 831-459-2888
+      email: schuster@ucsc.edu
 
 - heading: Regional gift officers
   members:
