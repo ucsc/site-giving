@@ -24,11 +24,11 @@ support_areas:
     button_text: Make a gift
     button_link: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722
   - heading: Student Success
-    copy: "Provide direct support to students in need."
+    copy: "Reduce financial barriers and provide experiences fundamental to students' success in their education and careers."
     image: CM-Outside-1.jpg
     image_alt: Students collaborate outside
     button_text: Learn more
-    button_link: https://deanofstudents.ucsc.edu/slug-support/program/
+    button_link: http://success.ucsc.edu/
   - heading: Crowdfunding
     copy: "Support student success and exciting new projects!"
     image: Cross-07.jpg
