@@ -22,13 +22,14 @@ layout: page
     <div class="response">
       <p>A good place to start is with your divisional development officer:</p>
       <ul>
-        <li>Arts Division: <a href="mailto:schuster@ucsc.edu">Sarah Kudela</a></li>
-        <li>Baskin School of Engineering: <a href="mailto:rtrippel@ucsc.edu">Roger Trippel</a></li>
+        <li>Arts Division: <a href="mailto:vhargrav@ucsc.edu">Virginia Hargrave</a></li>
+        <li>Baskin School of Engineering: Vacant</li>
         <li>Humanities Division: <a href="mailto:cmnapole@ucsc.edu">Cari Napoles</a></li>
         <li>Physical and Biological Sciences: <a href="mailto:bwagman@ucsc.edu">Branwyn Wagman</a></li>
         <li>Social Sciences Division: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>Library: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
+        <li>Foundation Relations: <a href="mailto:sacarle@ucsc.edu">Sarah Carle</a></li>
       </ul>
 
       <p>To find interested donors beyond the divisions, contact Executive Director of Development <a
