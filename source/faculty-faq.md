@@ -7,18 +7,29 @@ layout: page
 <section class="list">
 
   <div>
+    <h2 class="question text-xl">Alumni Engagement and Development Strategies for Departments.</h2>
+    <div class="response">
+    <p>This document provides some background information for UC Santa Cruz faculty engaged in private fundraising. While the focus is on departmental fundraising efforts, the information shared is relevant to all types of faculty private fundraising, including college-focused fundraising and research initiatives. Core to mature university fundraising programs is to seek support for future-oriented advances in research and education, and to clearly articulate the impact of those programs. Working in close partnership with faculty is central to this work, and coordination with University Relations and Divisional Deans is critical to ensure units across campus are not asking the same donors.</p>
+    <ul>
+    <li><a alt="pdf" href="/assets/documents/tips-for-departmental-fundraising.pdf">Tips for departmental fundraising (PDF)</a></li>
+    </ul>
+    </div>
+  </div>
+
+  <div>
     <h2 class="question text-xl">How do I find individual donors and private foundations interested in supporting my
       research and educational initiatives?</h2>
     <div class="response">
       <p>A good place to start is with your divisional development officer:</p>
       <ul>
-        <li>Arts Division: <a href="mailto:schuster@ucsc.edu">Sarah Kudela</a></li>
-        <li>Baskin School of Engineering: <a href="mailto:rtrippel@ucsc.edu">Roger Trippel</a></li>
+        <li>Arts Division: <a href="mailto:vhargrav@ucsc.edu">Virginia Hargrave</a></li>
+        <li>Baskin School of Engineering: Vacant</li>
         <li>Humanities Division: <a href="mailto:cmnapole@ucsc.edu">Cari Napoles</a></li>
         <li>Physical and Biological Sciences: <a href="mailto:bwagman@ucsc.edu">Branwyn Wagman</a></li>
         <li>Social Sciences Division: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>Library: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
+        <li>Foundation Relations: <a href="mailto:sacarle@ucsc.edu">Sarah Carle</a></li>
       </ul>
 
       <p>To find interested donors beyond the divisions, contact Executive Director of Development <a
@@ -77,8 +88,6 @@ layout: page
       </p>
     </div>
   </div>
-
-
 
   <div>
     <h2 class="question">How can I develop potential donor relationships?</h2>
