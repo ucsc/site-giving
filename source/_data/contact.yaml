@@ -28,9 +28,6 @@
     - name: Branwyn Wagman
       phone: 831-459-4240
       email: bwagman@ucsc.edu
-    - name: Tim Bensch
-      phone: 831-459-4572
-      email: tbensch@ucsc.edu
     - name: Catherine Hsu
       phone: 831-459-1614
       email: chsu30@ucsc.edu
@@ -59,7 +56,7 @@
     - name: Rafferty Lincoln
       phone: 831-502-7274
       email: rlincoln@ucsc.edu
-      role: Development Assistant 
+      role: Development Assistant
     - subheading: UC Santa Cruz Library
     - name: Joop Rubens
       phone: 831-459-5870
@@ -79,7 +76,7 @@
       phone: 831-502-7552
       email: majarodr@ucsc.edu
       role: Development Assistant
-    - subheading: Arts     
+    - subheading: Arts
     - name: Matt Bernd
       phone: 323-630-1599
       email: mabernd@ucsc.edu
@@ -96,7 +93,7 @@
     - name: Lauren Donnelly‑Crocker
       phone: 831-459-4568
       email: ldonnell@ucsc.edu
-      
+
 - heading: Student Success Initiative
   members:
     - name: Molly Sims
