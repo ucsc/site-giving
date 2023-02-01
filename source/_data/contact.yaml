@@ -31,14 +31,7 @@
     - name: Catherine Hsu
       phone: 831-459-1614
       email: chsu30@ucsc.edu
-    - name: Eva Patlak Chudnow
-      phone: 831-459-2192
-      email: echudnow@ucsc.edu
-      role: Development Assistant
     - subheading: Engineering
-    - name: Roger Trippel
-      phone: 831-459-5646
-      email: rtripple@ucsc.edu
     - name: Alexandria M Leckliter
       phone: 831-459-1487
       email: alexand@ucsc.edu
@@ -48,6 +41,10 @@
     - name: Kelsey Detwiler
       phone: 831-459-1832
       email: kedetwil@ucsc.edu
+      role: Development Assistant
+    - name: Shanice Fernandez
+      phone: 831-809-1851
+      email: shcferna@ucsc.edu
       role: Development Assistant
     - subheading: Social Sciences
     - name: Joop Rubens
@@ -77,9 +74,9 @@
       email: majarodr@ucsc.edu
       role: Development Assistant
     - subheading: Arts
-    - name: Matt Bernd
-      phone: 323-630-1599
-      email: mabernd@ucsc.edu
+    - name: Ginny Hargrave
+      phone: 530-249-1947
+      email: vhargrave@ucsc.edu
       role: Southern California
     - name: Lorraine Padgett
       phone: 831-459-2888
