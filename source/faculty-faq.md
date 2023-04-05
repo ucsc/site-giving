@@ -259,12 +259,16 @@ layout: page
       available?</h2>
     <div class="response">
       <p>University Relations periodically offers faculty information sessions. Additional reading material is available
-        as well. <a href="mailto:lizwhite@ucsc.edu">Contact Liz White</a> for more information.</p>
+        as well. <a href="mailto:sawyer@ucsc.edu">Contact Stephanie Sawyer</a> for more information.</p>
       <p>Additionally, consider serving on the <a
           href="https://senate.ucsc.edu/committees/cdf-committee-on-development-and-fundraising/">Committee on
           Development and Fundraising</a>, which serves as a point of interface between the Academic Senate and the
         Administration to promote faculty engagement in campus fundraising and development.</p>
-
+      <p>Training videos:</p>
+        <ul>
+          <li><a href= "https://drive.google.com/file/d/1Rn7xW2wljngbE-hnLxYwhTIvrS2qwKjl/view">Partnering with University Relations on Fundraising</a></li>
+          <li><a href= "https://drive.google.com/file/d/1PspZ96oljPYSj3ARN56AllnnGpUZsEWL/view">Ask Us: Fundraising Q&A with University Relations Leadership</a></li>
+        </ul>
     </div>
   </div>
 
