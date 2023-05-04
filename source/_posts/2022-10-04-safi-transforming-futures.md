@@ -1,6 +1,6 @@
 ---
 id: xxxx
-title: Transforming Futures: Amanda Safi
+title: Amanda Safi Transforming Futures
 date: 2022-10-04
 author: hzain
 layout: post
