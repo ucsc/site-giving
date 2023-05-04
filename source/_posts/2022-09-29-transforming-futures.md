@@ -2,7 +2,7 @@
 id: xxxx
 title: Expanding opportunity and Transforming Futures
 date: 2022-09-22
-author: awolf2
+author: hzain
 layout: post
 permalink: https://news.ucsc.edu/2022/09/transforming-futures.html
 author_name:
