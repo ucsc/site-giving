@@ -11,8 +11,8 @@ author_email:
   - bpshimiz@ucsc.edu
 excerpt:
   - A Transforming Futures scholarship meant Amanda Safi could explore a career in public policy
-thumbnail_image: marisol-thumbnail.jpg
-thumbnail_alt_text: Marisol Ornelas
+thumbnail_image:amanda-safi-thumnail.jpg
+thumbnail_alt_text: Amanda Safi
 category: "Student Profiles"
 format: link
 link_post: https://news.ucsc.edu/2022/10/amanda-safi-ssi.html
