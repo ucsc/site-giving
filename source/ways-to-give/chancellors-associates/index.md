@@ -14,7 +14,7 @@ hero:
 see_also:
   - title: Ways funds are used
     link: /ways-to-give/chancellors-associates/ways-funds-used/
-sidebar1: chancellors-associates-sidebar.html
+sidebar1: chancellors-associates-contact-sidebar.html
 ---
 {% include sidebars/{{page.sidebar1}} classes="right" %}
 Chancellor’s Associates are UC Santa Cruz’s leadership annual giving community. Chancellor’s Associates provide consistent support that is critical to our success as a world-class higher learning institution. Chancellor’s Associates welcomes alumni, parents, faculty, staff, and friends as generous campus partners. Year after year, donors who make leadership gifts as a Chancellor’s Associate bridge the gap between endowed scholarships and other sources of financial aid. This annual commitment enables transformative change and inspires others to give back.
