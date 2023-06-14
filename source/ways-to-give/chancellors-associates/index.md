@@ -6,41 +6,25 @@ author: Jason
 layout: page
 guid: https://live-ucsc-giving.pantheonsite.io/?page_id=748
 hero:
-  use: false
-  image: parents-giving.png #best at 1000px by 450px
-  alt_text: parents-giving
+  use: true
+  image: chancellors-associates-banner.png #best at 1000px by 450px
+  alt_text: chancellors-associates-banner
   vertical: top #options: top, bottom
   horizontal: right #options: left, right
 see_also:
   - title: Ways funds are used
     link: /ways-to-give/chancellors-associates/ways-funds-used/
-sidebar1: chancellors-associates-sidebar.html
+sidebar1: chancellors-associates-contact-sidebar.html
 ---
 {% include sidebars/{{page.sidebar1}} classes="right" %}
-Donors who give $1,000 or more annually to one of two discretionary funds—the UC Santa Cruz Fund or the Parents Fund—are recognized as Chancellor&#8217;s Associates. It is the chancellor&#8217;s way of saying thank you and extending the opportunity for you to be part of a community of donors and friends of the university. 
+Chancellor’s Associates are UC Santa Cruz’s leadership annual giving community. Chancellor’s Associates provide consistent support that is critical to our success as a world-class higher learning institution. Chancellor’s Associates welcomes alumni, parents, faculty, staff, and friends as generous campus partners. Year after year, donors who make leadership gifts as a Chancellor’s Associate bridge the gap between endowed scholarships and other sources of financial aid. This annual commitment enables transformative change and inspires others to give back.
 
-## Impact of your gift
+**Chancellor’s Associates begins with an annual gift to any school, department, or program in the amount of $2,500 or more.** We recognize that young alumni are at the start of a dynamic and exciting time of their lives; we welcome graduates of the last decade (GOLD) to Chancellor’s Associates with an annual gift of $500 or more.
 
-Gifts to the UC Santa Cruz Fund and the Parents Fund give the campus the flexibility to invest in areas of greatest impact. Many of the gifts directly support the student experience that so powerfully distinguishes UC Santa Cruz.
+Being a Chancellor’s Associate means engaging in meaningful ways across campus in the areas  donors are most passionate about.  Our students, faculty, research, programs, facilities, and community as a whole benefit greatly from this special and loyal group of supporters. **As a member of the giving community, benefits include:**
 
-## Giving levels and benefits of giving
-
-Your generous support as a Chancellor&#8217;s Associate advances the mission of UC Santa Cruz and provides opportunities to connect with other friends of the university at special events.
-
-Events include topical programs, luncheons, receptions, and dinners where guests can engage in lively conversation with campus leaders, faculty and students on the big ideas of our times.
-
-  * $10,000 Chancellor&#8217;s Associates Platinum Circle
-  * $5,000 Chancellor&#8217;s Associates Gold Circle
-  * $2,500 Chancellor&#8217;s Associates Silver Circle
-  * $1,965 Chancellor&#8217;s Associates 50th Anniversary
-  * $1,000 Chancellor&#8217;s Associates
-
-We invite you to become a Chancellor&#8217;s Associate by giving at a leadership level to one of two discretionary funds—the [UC Santa Cruz Fund](/areas-to-support/ucsc-fund/) and the [Parents Fund](/ways-to-give/uc-santa-cruz-parents-families/).
-
-### Making a gift
-
-Make your gift through our secure online site
-
-  * [UC Santa Cruz Fund](/areas-to-support/ucsc-fund/)
-  * [Parents Fund](/ways-to-give/uc-santa-cruz-parents-families/)
-  * Or give us a call at (831) 502-8139
+* Annual appreciation gift
+* Chancellor’s Associates Newsletter
+* Personal campus liaison
+* Access to exclusive Chancellor’s Associates events
+* Exclusive updates with university leadership
