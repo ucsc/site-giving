@@ -106,11 +106,13 @@
 
 - heading: Regional gift officers
   members:
-    - name: John Idstrom
-      phone: 253-273-8928
-      email: jidstrom@ucsc.edu
-      role: National—outside of California
     - name: Matt Bernd
       phone: 323-630-1599
       email: mabernd@ucsc.edu
       role: Southern California
+      
+- heading: Planned Giving
+  members:
+    - name: Lora Hollingsworth
+      phone: 831-459-5227
+      email: llhollin@ucsc.edu
