@@ -11,7 +11,7 @@ author_email:
   - chtall@ucsc.edu
 excerpt:
   - World-renowned ocean and Earth scientist, James Hein, established an endowment that will prepare the next generation of geoscience oceanographers
-thumbnail_image: jamesheinTHUMB.jpg
+thumbnail_image: JamesHeinTHUMB.jpg
 thumbnail_alt_text: James Hein
 category: "Donor Profiles"
 format: link
