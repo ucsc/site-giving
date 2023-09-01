@@ -1,6 +1,6 @@
 ---
 id: xxxx
-title: Opening Doors of Opportunity: The Kresge Renewal Project
+title: Opening Doors of Opportunity, The Kresge Renewal Project
 date: 2023-09-01
 author: chtall
 layout: post
