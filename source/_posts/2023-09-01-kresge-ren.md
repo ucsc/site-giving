@@ -11,7 +11,7 @@ author_email:
   - chtall@ucsc.edu
 excerpt:
   - A mix of new construction and renovation, the Kresge Renewal Project includes more housing and new academic space, all designed to strengthen the student experience.
-thumbnail_image: kresgerenderingthumbnail.jpg
+thumbnail_image: kresgerendering-thumbnail.jpg
 thumbnail_alt_text: Kresge Rendering
 category: "News"
 format: link
