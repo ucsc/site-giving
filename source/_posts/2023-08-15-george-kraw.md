@@ -1,6 +1,6 @@
 ---
 id: xxxx
-title: George Kraw: Solidifying a long-lasting impact
+title: Solidifying a long-lasting impact
 date: 2023-08-15
 author: hzain
 layout: post
