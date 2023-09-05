@@ -5,7 +5,7 @@ menu: "Areas to Support"
 order: 2
 hero:
   use: true
-  image: hero-areas-to-support.jpg #best at 1000px by 450px
+  image: studentsonbridgeareastosupport.jpg #best at 1000px by 450px
   hero_link:
   alt_text: Hero Image Alt Text
   vertical: top #options: top, bottom
