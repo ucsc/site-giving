@@ -1,6 +1,6 @@
 ---
 id: xxxx
-title: Continuing an Academic Legacy
+title: Continuing an academic legacy
 date: 2023-03-06
 author: bpshimiz
 layout: post
