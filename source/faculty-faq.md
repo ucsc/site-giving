@@ -22,10 +22,10 @@ layout: page
     <div class="response">
       <p>A good place to start is with your divisional development officer:</p>
       <ul>
-        <li>Arts Division: <a href="mailto:vhargrav@ucsc.edu">Virginia Hargrave</a></li>
-        <li>Baskin School of Engineering: Vacant</li>
-        <li>Humanities Division: <a href="mailto:cmnapole@ucsc.edu">Cari Napoles</a></li>
-        <li>Physical and Biological Sciences: <a href="mailto:bwagman@ucsc.edu">Branwyn Wagman</a></li>
+        <li>Arts Division: <a href="mailto:maureen@ucsc.edu">Maureen Dixon Harrison</a></li>
+        <li>Baskin School of Engineering: <a href="mailto:ecerf@ucsc.edu">Emily Cerf</a></li>
+        <li>Humanities Division: <a href="mailto:sjorda@ucsc.edu">Sarah Jordan</a></li>
+        <li>Physical and Biological Sciences: <a href="mailto:rbwall@ucsc.edu">Renee Well</a></li>
         <li>Social Sciences Division: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>Library: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
@@ -118,7 +118,7 @@ layout: page
         <li>Humanities: <a href="mailto:shj@ucsc.edu">Scott Hernandez-Jason</a></li>
         <li>Physical and Biological Sciences: <a href="mailto:stephens@ucsc.edu">Tim Stephens</a></li>
         <li>Social Sciences: <a href="mailto:asoergel@ucsc.edu">Allison Arteaga Soergel</a></li>
-        <li>Student Success: <a href="mailto:dwhite1@ucsc.edu">Dan White</a></li>
+        <li>Student Success: <a href="mailto:chtall@ucsc.edu">Christy Tall</a></li>
       </ul>
 
     </div>
