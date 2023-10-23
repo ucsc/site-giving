@@ -34,7 +34,7 @@ defaults:
       layout: "default"
 
 # Global Variables
-give_url: "https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722"
+give_url: "https://www.givecampus.com/campaigns/38026/donations/new"
 give_url_text: "Give Today"
 
 post_category_order:
