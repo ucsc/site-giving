@@ -59,7 +59,7 @@ numbered_list:
   - list_number: eight
     heading: Employer matching
     copy: |
-      Many employers match their employees’ charitable contributions, providing an easy and effective way of leveraging your gift to UC Santa Cruz. Some companies provide the guidelines and forms to fill out online, or you can check with your Human Resources office. Some companies match the contributions of retirees and employees’ spouses. <a href="/ways-to-give/employer-match">Search our database</a> to see if your employer will match your donation.
+      Many employers match their employees’ charitable contributions, providing an easy and effective way of leveraging your gift to UC Santa Cruz. <a href="/ways-to-give/employer-match">Search our database</a> to see if your employer will match your donation.
 support_areas:
   - heading: UCSC Fund
     copy: "Support a vibrant learning environment with a gift to the area of greatest need."
