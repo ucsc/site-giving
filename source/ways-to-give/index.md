@@ -56,6 +56,10 @@ numbered_list:
       Make checks payable to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
     url: "/assets/documents/gifts-pledges-mail-form.pdf"
+  - list_number: eight
+    heading: Employer matching
+    copy: |
+      Many employers match their employees’ charitable contributions, providing an easy and effective way of leveraging your gift to UC Santa Cruz. Some companies provide the guidelines and forms to fill out online, or you can check with your Human Resources office. Some companies match the contributions of retirees and employees’ spouses. <a href="/ways-to-give/employer-match">Search our database</a> to see if your employer will match your donation.
 support_areas:
   - heading: UCSC Fund
     copy: "Support a vibrant learning environment with a gift to the area of greatest need."
