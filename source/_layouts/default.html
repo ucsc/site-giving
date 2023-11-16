@@ -49,8 +49,8 @@
     <script src="/assets/js/giving-day.js"></script>
     {% endunless%}
     {% endif %}
-    {% if page.employer-match %}
-    <script>var DDCONF = { API_KEY: "eLaQRQdIjXfJevzc" };</script> <script src="https://doublethedonation.com/api/js/ddplugin.js"></script>
+    {% if page.title == "Employer Gift Matching" %}
+    {%- include doublethedonation.html -%}
     {% endif %}
   {%- include analytics.html -%}
 
