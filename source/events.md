@@ -25,16 +25,36 @@ To remove a piece of content from the menu, expand the page or post in the **Men
 
 Once you are satisfied with the links in your menu, click "Save Menu" and exit the Dashboard to the front of your site to review the results. If you are unsatisfied, access the Dashboard and return to **Appearance->Menus** to make adjustments.
 
-## Create Menus Using the Navigation Block in the Block Editor
+## Create Menus Using the Navigation Block
 
 WordPress provides a [Navigation Block](https://wordpress.org/documentation/article/navigation-block/) for creating additional menus via the [Block Editor](https://wordpress.org/documentation/article/wordpress-block-editor/). Each menu you create is named. Once you create a menu, it becomes re-usable and available for use site-wide.
 
 While editing a post or page, insert the Navigation Block into your content area by selecting it from the list in the left or by hitting the forward-slash key (`/`) and typing `navigation`.
 
-The Navigation Block will most likely populate itself with the links from your Main Navigation Menu that you created above. To create a new menu for this block (or replace it with one previously created), select the entire Navigation Block either by selecting it in the content area or by selecting it from the left sidebar after clicking the "Document Overview" button in the top left portion of your screen.
+The Navigation Block will most likely populate itself with the links from the Main Navigation Menu that you created above. To create a new menu for this block (or replace it with one previously created), select the entire Navigation Block either by selecting it in the content area or by selecting it from the left sidebar after clicking the "Document Overview" button in the top left portion of your screen.
 
 Selecting the Navigation Block will reveal its settings panel in the right column of your editing screen. The items in the current menu will be shown vertically under the heading **Menu**.
 
-To either create a new menu or select a different menu you created previously, click the three-vertical-dot menu to the right of the **Menu** heading. An overlay menu will appear listing your previously created menus as well as the option to create a new menu.
+To either create a new menu or select a different menu you created previously, click the **three-vertical-dot menu** to the right of the **Menu** heading. An overlay menu will appear listing your previously created menus as well as the option to create a new menu.
 
 Selecting "Create new menu" will present you with an empty Navigation Block. Add new navigation items either via the block in the content area or the right sidebar. You can drag-and-drop your menu items in the right sidebar to re-order them. You can also re-order your items in the Navigation Block's content area by selecting the link itself and clicking either the left or right arrow in the formatting menu that appears.
+
+## Types of Links
+
+Both **Appearance->Menus** and the **Navigation Block** allow you to place links to content other than pages or posts. Additionally, you can add an external link, a Category or Tag link, or, in the case of the Navigation Block, just about any other content block that is available. A popular use uf the Navigation Block is to create a set of [anchor links](#) to aid on-page navigation.
+
+## Style and Format the Navigation Block
+
+Once you create your menu, it might not look that great. Perhaps it's displaying vertically and you want one to display horizontally because you're using it in a side-bar. Maybe you want to change the background. Generally jazz it up a bit. No sweat!
+
+As discussed above, when you select the whole Navigation Block (not just a list item), its formatting and settings panel will appear in the right column of your editing screen.
+
+There are three icons above the **Menu** list that toggle the *List* ("stepped hamburger" icon) *Settings* (gear icon), and *Styles* (circle-half-dark-half-light icon) of the block.
+
+### Settings
+
+The *Settings* area allows you to adjust your menu's layout appearance. You can adjust its orientation (horizontal or vertical), its item justification (left, center, right, etc.) and how it displays on mobile screens.
+
+### Styles
+
+The *Styles* screen allows you to apply styling typical to most blocks such as text and background color, font size, etc.
