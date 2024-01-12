@@ -29,7 +29,7 @@ Now that you have your HTML anchors set, create a new menu. Each link item you a
 
 ## Edit Link Labels
 
-When you add custom links that are anchors, the text of the link (its label) may look odd. To change this, select an individual navigation item and its settings will appear in the right-hand column of the Editor screen. Edit the link's **Label** to your liking and **update your page**.
+When you add custom links that are anchors, the text of the link (its label) may look odd. To change this, select an individual navigation item and its settings will appear in the right-hand column of the Editor screen. Edit the link's **Label** to your liking. Do this for each item in your menu then **update your page**.
 
 ## Give Yourself a High-Five
 
