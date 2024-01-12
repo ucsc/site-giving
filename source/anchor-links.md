@@ -25,7 +25,7 @@ Each Heading in our content that you want to link to needs a uniquely named **HT
 
 ## Add Anchors to Links
 
-Now that you have your HTML anchors set, create a new menu. Each link item you add to this menu will be a **Custom Link**. The "link" for these items will be the text of the HTML anchors you added to your Headings Blocks above, preceded by a "pound sign" (or "hashtag"), such as `#heading-title-one`.
+Now that you have your HTML anchors set, create a new menu. Each item you add to this menu will be a **Custom Link**. The "link" for these items will be the text of the HTML anchors you added to your Headings Blocks above, preceded by a "pound sign" (or "hashtag")(eg., `#heading-title-one`).
 
 ## Edit Link Labels
 
