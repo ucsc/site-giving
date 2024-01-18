@@ -13,10 +13,6 @@
       role: Associate Vice Chancellor, Development and Vice President UC Santa Cruz Foundation
       phone: 646-287-1534
       email: pmehta7@ucsc.edu
-    - name: Molly Sims
-      role: Executive Director, Development
-      phone: 831-239-0027
-      email: molly.sims@ucsc.edu
     - name: Meg Corman
       role: Constituent and Donor Engagement
       phone: 831-459-1305
@@ -31,7 +27,14 @@
     - name: Catherine Hsu
       phone: 831-459-1614
       email: chsu30@ucsc.edu
+    - name: Nancy Park
+      phone: 831-459-4572
+      email: nas@ucsc.edu
     - subheading: Engineering
+    - name: Molly Sims
+      role: Executive Director, Development
+      phone: 831-239-0027
+      email: molly.sims@ucsc.edu
     - name: Alexandria M Leckliter
       phone: 831-459-1487
       email: alexand@ucsc.edu
@@ -81,10 +84,6 @@
       phone: 530-249-1947
       email: vhargrave@ucsc.edu
       role: Southern California
-    - name: Lorraine Padgett
-      phone: 831-459-2888
-      email: lopadget@ucsc.edu
-      role: Development Assistant
     - subheading: UC Observatories
     - name: Natasha Basey Pedroza
       phone: 831-459-3455
@@ -96,13 +95,7 @@
 
 - heading: Student Success Initiative
   members:
-    - name: Molly Sims
-      role: Executive Director, Development
-      phone: 831-239-0027
-      email: molly.sims@ucsc.edu
-    - name: Sarah Kudela
-      phone: 831-459-2888
-      email: schuster@ucsc.edu
+    - name: Position Vacant
 
 - heading: Regional gift officers
   members:
@@ -110,9 +103,12 @@
       phone: 323-630-1599
       email: mabernd@ucsc.edu
       role: Southern California
-      
+
 - heading: Planned Giving
   members:
     - name: Lora Hollingsworth
       phone: 831-459-5227
       email: llhollin@ucsc.edu
+    - name: Eden Ganley
+      phone: 831-479-1045
+      email: eganley@ucsc.edu
