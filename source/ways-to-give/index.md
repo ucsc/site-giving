@@ -43,7 +43,7 @@ numbered_list:
   - list_number: six
     heading: Complex assets
     copy: |
-      Illiquid securities, real estate, insurance, intellectual property, business interest, cryptocurrencies—contact <a href="mailto:pmetha7@ucsc.edu">Priya Mehta</a>, Associate Vice Chancellor for Development, (646) 287-1534.
+      Illiquid securities, real estate, insurance, intellectual property, business interest, cryptocurrencies—contact <a href="mailto:pmehta7@ucsc.edu">Priya Mehta</a>, Associate Vice Chancellor for Development, (646) 287-1534.
   - list_number: seven 
     heading: Mail a check
     copy: |
