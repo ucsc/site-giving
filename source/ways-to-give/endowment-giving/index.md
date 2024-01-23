@@ -32,7 +32,7 @@ Endowments at UC Santa Cruz support lasting, transformative change. With endowme
 
 Endowments enable UC Santa Cruz to accomplish its greatest priorities:
 
-  * Recruit and challenge outstanding students
+  * Recruit and create opportunities for outstanding students
   * Attract and retain renowned faculty
   * Support outstanding research and creative achievement
 
@@ -42,7 +42,7 @@ Donors may establish a new endowment that creates a permanent legacy honoring a 
 
 Donors are also welcome to donate to existing endowments that fit their interests to support UCSC&#8217;s educational mission. Most endowments can accept additional gifts, which enhance their impact.
 
-Be a part of defining the next 50 years of achievement at UC Santa Cruz. If you want to learn more about endowment giving, please contact a development officer in your area of interest. If you need help donating to UC Santa Cruz, please email <giving@ucsc.edu>.
+Be a part of defining the future of achievement at UC Santa Cruz. If you want to learn more about endowment giving, please contact a development officer in your area of interest. If you need help donating to UC Santa Cruz, please email <giving@ucsc.edu>.
 
 ## How Endowments Work
 
