@@ -106,24 +106,6 @@ layout: page
           href="mailto:pmehta7@ucsc.edu">Priya Mehta</a> .</p>
     </div>
   </div>
-
-  <div>
-    <h2 class="question">How do I inform University Advancement of my expertise?</h2>
-    <div class="response">
-      <p>In addition to being in touch with your divisional development officer who can help with funding, we recommend
-        you ensure that the Public Information Officer assigned to your division is aware of your work.</p>
-      <ul>
-        <li>Arts: <a href="mailto:shj@ucsc.edu">Scott Hernandez-Jason</a></li>
-        <li>Baskin School of Engineering: <a
-          href="mailto:ecerf@ucsc.edu">Emily Cerf</a> </li>
-        <li>Humanities: <a href="mailto:shj@ucsc.edu">Scott Hernandez-Jason</a></li>
-        <li>Physical and Biological Sciences: <a href="mailto:mivpena@ucsc.edu">Mike Peña</a></li>
-        <li>Social Sciences: <a href="mailto:asoergel@ucsc.edu">Allison Arteaga Soergel</a></li>
-        <li>Student Success: <a href="mailto:chtall@ucsc.edu">Christy Tall</a></li>
-      </ul>
-    </div>
-  </div>
-
   <div>
     <h2 class="question">I am giving a public talk &#8211; how do I mention fundraising?</h2>
     <div class="response">
