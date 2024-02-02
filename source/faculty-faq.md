@@ -9,7 +9,7 @@ layout: page
   <div>
     <h2 class="question text-xl">Alumni Engagement and Development Strategies for Departments.</h2>
     <div class="response">
-    <p>This document provides some background information for UC Santa Cruz faculty engaged in private fundraising. While the focus is on departmental fundraising efforts, the information shared is relevant to all types of faculty private fundraising, including college-focused fundraising and research initiatives. Core to mature university fundraising programs is to seek support for future-oriented advances in research and education, and to clearly articulate the impact of those programs. Working in close partnership with faculty is central to this work, and coordination with University Relations and Divisional Deans is critical to ensure units across campus are not asking the same donors.</p>
+    <p>This document provides some background information for UC Santa Cruz faculty engaged in private fundraising. While the focus is on departmental fundraising efforts, the information shared is relevant to all types of faculty private fundraising, including college-focused fundraising and research initiatives. Core to mature university fundraising programs is to seek support for future-oriented advances in research and education, and to clearly articulate the impact of those programs. Working in close partnership with faculty is central to this work, and coordination with University Advancement and Divisional Deans is critical to ensure units across campus are not asking the same donors.</p>
     <ul>
     <li><a alt="pdf" href="/assets/documents/tips-for-departmental-fundraising.pdf">Tips for departmental fundraising (PDF)</a></li>
     </ul>
@@ -62,11 +62,11 @@ layout: page
   </div>
 
   <div>
-    <h2 class="question">How do I know when to talk to University Relations and when to talk to the Office of Research?
+    <h2 class="question">How do I know when to talk to University Advancement and when to talk to the Office of Research?
     </h2>
     <div class="response">
       <ul>
-        <li>Start with University Relations on all topics related to generating philanthropic support from individuals.
+        <li>Start with University Advancement on all topics related to generating philanthropic support from individuals.
         </li>
         <li>Start with <a href="https://officeofresearch.ucsc.edu/ord/">Research Development</a> in the Office of
           Research when seeking support from federal sources and foundations. If the discussion includes private
@@ -92,7 +92,7 @@ layout: page
   <div>
     <h2 class="question">How can I develop potential donor relationships?</h2>
     <div class="response">
-      <p>There are a number of ways University Relations can help you gain exposure to, and develop relationships with,
+      <p>There are a number of ways University Advancement can help you gain exposure to, and develop relationships with,
         prospective donors. Please check in with your divisional development officer as a starting point.</p>
     </div>
   </div>
@@ -108,7 +108,7 @@ layout: page
   </div>
 
   <div>
-    <h2 class="question">How do I inform University Relations of my expertise?</h2>
+    <h2 class="question">How do I inform University Advancement of my expertise?</h2>
     <div class="response">
       <p>In addition to being in touch with your divisional development officer who can help with funding, we recommend
         you ensure that the Public Information Officer assigned to your division is aware of your work.</p>
@@ -216,7 +216,7 @@ layout: page
   <div>
     <h2 class="question">What is Giving Day? How do I participate?</h2>
     <div class="response">
-      <p>Giving Day is an annual event typically held during fall quarter when University Relations hosts and widely
+      <p>Giving Day is an annual event typically held during fall quarter when University Advancement hosts and widely
         promotes a major crowdfunding effort offering donors a myriad of project-based giving opportunities. The event
         includes the opportunity for project teams to earn bonuses based on various challenges held throughout the day.
         Some project teams solicit matching funds in advance of Giving Day to incentivize day-of giving. For more
@@ -255,7 +255,7 @@ layout: page
     <h2 class="question">What should I do if I'd like to learn more about development and fundraising. Is training
       available?</h2>
     <div class="response">
-      <p>University Relations periodically offers faculty information sessions. Additional reading material is available
+      <p>University Advancement periodically offers faculty information sessions. Additional reading material is available
         as well. Contact <a href="mailto:crochasa@ucsc.edu">Cindy Rocha</a> for more information.</p>
       <p>Additionally, consider serving on the <a
           href="https://senate.ucsc.edu/committees/cdf-committee-on-development-and-fundraising/">Committee on
@@ -263,8 +263,8 @@ layout: page
         Administration to promote faculty engagement in campus fundraising and development.</p>
       <p>Training videos:</p>
         <ul>
-          <li><a href= "https://drive.google.com/file/d/1Rn7xW2wljngbE-hnLxYwhTIvrS2qwKjl/view">Partnering with University Relations on Fundraising</a></li>
-          <li><a href= "https://drive.google.com/file/d/1PspZ96oljPYSj3ARN56AllnnGpUZsEWL/view">Ask Us: Fundraising Q&A with University Relations Leadership</a></li>
+          <li><a href= "https://drive.google.com/file/d/1Rn7xW2wljngbE-hnLxYwhTIvrS2qwKjl/view">Partnering with University Advancement on Fundraising</a></li>
+          <li><a href= "https://drive.google.com/file/d/1PspZ96oljPYSj3ARN56AllnnGpUZsEWL/view">Ask Us: Fundraising Q&A with University Advancement Leadership</a></li>
         </ul>
     </div>
   </div>
