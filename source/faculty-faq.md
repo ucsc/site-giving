@@ -22,18 +22,18 @@ layout: page
     <div class="response">
       <p>A good place to start is with your divisional development officer:</p>
       <ul>
-        <li>Arts Division: <a href="mailto:maureen@ucsc.edu">Maureen Dixon Harrison</a></li>
-        <li>Baskin School of Engineering: <a href="mailto:ecerf@ucsc.edu">Emily Cerf</a></li>
-        <li>Humanities Division: <a href="mailto:sjorda@ucsc.edu">Sarah Jordan</a></li>
-        <li>Physical and Biological Sciences: <a href="mailto:rbwall@ucsc.edu">Renee Well</a></li>
+        <li>Arts Division: <a href="mailto:vhargrav@ucsc.edu">Ginny Hargrave</a></li>
+        <li>Baskin School of Engineering: <a href="mailto:maasims@ucsc.edu">Molly Sims</a></li>
+        <li>Humanities Division: <a href="mailto:cmnapole@ucsc.edu">Cari Napoles</a></li>
+        <li>Physical and Biological Sciences: <a href="mailto:bwagman@ucsc.edu">Branwyn Wagman</a></li>
         <li>Social Sciences Division: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>Library: <a href="mailto:jrubens@ucsc.edu">Joop Rubens</a></li>
         <li>UC Observatories: <a href="mailto:nbpedroz@ucsc.edu">Natasha Pedroza</a></li>
         <li>Foundation Relations: <a href="mailto:sacarle@ucsc.edu">Sarah Carle</a></li>
       </ul>
 
-      <p>To find interested donors beyond the divisions, contact Executive Director of Development <a
-          href="mailto:molly.sims@ucsc.edu">Molly Sims</a>.</p>
+      <p>To find interested donors beyond the divisions, contact Vice Chancellor of Development <a
+          href="mailto:pmehta7@ucsc.edu">Priya Mehta</a>.</p>
 
       <p>In advance, it will be helpful to have considered these questions:</p>
       <ul>
@@ -83,8 +83,8 @@ layout: page
     <h2 class="question">How do I develop interdisciplinary pitches to donors?</h2>
     <div class="response">
       <p>The development team is available to work with groups of faculty who are working across disciplines. As a
-        starting point, please contact Executive Director of Development, Molly Sims (<a
-          href="mailto:molly.sims@ucsc.edu">molly.sims@ucsc.edu</a>) who can assemble a team to work with your group.
+        starting point, please contact Vice Chancellor of Development, <a
+          href="mailto:pmehta7@ucsc.edu">Priya Mehta</a> who can assemble a team to work with your group.
       </p>
     </div>
   </div>
@@ -102,8 +102,8 @@ layout: page
     <div class="response">
       <p>Yes. UCSC, like all other UCs, can support receiving gifts from international donors. UC system partners also
         allow donors specifically in Canada, Hong Kong, United Kingdom and a number of other countries in Europe to make
-        gifts to UCSC in their own country. As there are very specific procedures to follow, please contact Molly Sims
-        at <a href="mailto:molly.sims@ucsc.edu">molly.sims@ucsc.edu</a>.</p>
+        gifts to UCSC in their own country. As there are very specific procedures to follow, please contact Vice Chancellor of Development <a
+          href="mailto:pmehta7@ucsc.edu">Priya Mehta</a> .</p>
     </div>
   </div>
 
@@ -114,13 +114,13 @@ layout: page
         you ensure that the Public Information Officer assigned to your division is aware of your work.</p>
       <ul>
         <li>Arts: <a href="mailto:shj@ucsc.edu">Scott Hernandez-Jason</a></li>
-        <li>Baskin School of Engineering: To be hired</li>
+        <li>Baskin School of Engineering: <a
+          href="mailto:ecerf@ucsc.edu">Emily Cerf</a> </li>
         <li>Humanities: <a href="mailto:shj@ucsc.edu">Scott Hernandez-Jason</a></li>
-        <li>Physical and Biological Sciences: <a href="mailto:stephens@ucsc.edu">Tim Stephens</a></li>
+        <li>Physical and Biological Sciences: <a href="mailto:mivpena@ucsc.edu">Mike Peña</a></li>
         <li>Social Sciences: <a href="mailto:asoergel@ucsc.edu">Allison Arteaga Soergel</a></li>
         <li>Student Success: <a href="mailto:chtall@ucsc.edu">Christy Tall</a></li>
       </ul>
-
     </div>
   </div>
 
@@ -170,10 +170,10 @@ layout: page
               Physical and Biological Sciences: <a href="mailto:rmiyatsu@ucsc.edu">Rose Miyatsu</a>
             </li>
             <li>
-              Social Sciences: <a href="mailto:alimas@ucsc.edu">Andrea Limas</a>
+              Social Sciences: <a href="mailto:asoergel@ucsc.edu">Allison Arteaga Soergel</a>
             </li>
             <li>
-              Humanities: <a href="mailto:sjorda@ucsc.edu">Sarah Jordan</a>
+              Humanities: <a href="mailto:ajbutler@ucsc.edu">Abby Butler</a>
             </li>
           </ul>
         </li>
@@ -198,10 +198,8 @@ layout: page
         support growth of campus projects. The BOF Committee generally evaluates proposals on the basis of their
         alignment with academic priorities, likelihood to leverage additional resources, and ability to raise awareness
         and visibility for UC Santa Cruz. Applications must have a Foundation trustee sponsor and be supported by a dean
-        or vice-provost. Awards are generally in the $10,000 to $20,000 range. <a
-          href="https://foundation.ucsc.edu/opportunity-fund/bofapplication_rev03.14.20_ext_removed.docx">The
-          application is here</a>. For more information about the Board Opportunity Fund please contact the UCSC
-        Foundation office at (831) 459&#8211;4339 or <a href="mailto:foundation@ucsc.edu">foundation@ucsc.edu</a>.</p>
+        or vice-provost. Awards are generally in the $10,000 to $20,000 range. For more information about the Board Opportunity Fund please contact the UCSC
+        Foundation office at <a href="mailto:foundation@ucsc.edu">foundation@ucsc.edu</a>.</p>
 
     </div>
   </div>
@@ -223,8 +221,7 @@ layout: page
         includes the opportunity for project teams to earn bonuses based on various challenges held throughout the day.
         Some project teams solicit matching funds in advance of Giving Day to incentivize day-of giving. For more
         context and information, check out the <a href="https://givingday.ucsc.edu/">Giving Day website</a>. For more
-        information or to participate, contact your divisional development officer or a staff member in <a
-          href="https://urelations.ucsc.edu/about/staff/">UR's Office of Annual Giving</a>.</p>
+        information or to participate, contact your divisional development officer.</p>
     </div>
   </div>
 
@@ -259,7 +256,7 @@ layout: page
       available?</h2>
     <div class="response">
       <p>University Relations periodically offers faculty information sessions. Additional reading material is available
-        as well. <a href="mailto:sawyer@ucsc.edu">Contact Stephanie Sawyer</a> for more information.</p>
+        as well. Contact <a href="mailto:crochasa@ucsc.edu">Cindy Rocha</a> for more information.</p>
       <p>Additionally, consider serving on the <a
           href="https://senate.ucsc.edu/committees/cdf-committee-on-development-and-fundraising/">Committee on
           Development and Fundraising</a>, which serves as a point of interface between the Academic Senate and the
