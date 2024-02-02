@@ -146,10 +146,10 @@ layout: page
               Arts: <a href="mailto:maureen@ucsc.edu">Maureen Dixon Harrison</a>
             </li>
             <li>
-              Baskin School of Engineering: <i>To be hired</i>
+              Baskin School of Engineering: <a href="mailto:rmiyatsu@ucsc.edu">Emily Cerf</a>
             </li>
             <li>
-              Physical and Biological Sciences: <a href="mailto:rmiyatsu@ucsc.edu">Rose Miyatsu</a>
+              Physical and Biological Sciences: <a href="mailto:mivpena@ucsc.edu">Mike Peña</a>
             </li>
             <li>
               Social Sciences: <a href="mailto:asoergel@ucsc.edu">Allison Arteaga Soergel</a>
