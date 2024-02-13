@@ -23,7 +23,7 @@ column_two:
     link: /impact-of-giving/#donor-profiles-section
 column_three:
   - name: Search a list of funds
-    link: http://alumni.ucsc.edu/search-designations/
+    link: https://designationsearch.ucsc.edu/search-designations/index.php
   - name: UCSC Fund
     link: /areas-to-support/ucsc-fund/
   - name: Academics and library
