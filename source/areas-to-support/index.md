@@ -16,7 +16,7 @@ support_areas:
     image: search-funds.jpg
     image_alt: students in lab
     button_text: A-Z list
-    button_link: http://alumni.ucsc.edu/search-designations/
+    button_link: https://designationsearch.ucsc.edu/search-designations/index.php
   - heading: Area of Greatest Need
     copy: "Give to make a significant and immediate difference."
     image: student-greenhouse.jpg
