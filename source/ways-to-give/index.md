@@ -13,9 +13,9 @@ numbered_list:
   - list_number: one 
     heading: Give online
     copy: |
-      Use our <a href="http://connect.ucsc.edu/givenow">secure donation site.</a>
+      Use our <a href="https://give.ucsc.edu/campaigns/38026/donations/new">secure donation site.</a>
     link_copy: secure donation site
-    url: "http://connect.ucsc.edu/givenow"
+    url: "https://give.ucsc.edu/campaigns/38026/donations/new"
   - list_number: two 
     heading: Pay a pledge
     copy: | 
