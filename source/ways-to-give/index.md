@@ -16,35 +16,41 @@ numbered_list:
       Use our <a href="https://give.ucsc.edu/campaigns/38026/donations/new">secure donation site.</a>
     link_copy: secure donation site
     url: "https://give.ucsc.edu/campaigns/38026/donations/new"
-  - list_number: two 
+ - list_number: two 
+    heading: Pay a pledge
+    copy: | 
+      Have an existing pledge? Make a payment online using <a href="https://give.ucsc.edu/pledge-fulfillment/?a=8184540">this secure form.</a> 
+    link_copy: this secure form
+    url: "https://give.ucsc.edu/pledge-fulfillment/?a=8184540"
+  - list_number: three 
     heading: Recurring gifts
     copy: | 
-      Establish a regular schedule of giving by credit card, bank transfer, or check on our <a href="http://connect.ucsc.edu/givenow">online donation site.</a> 
+      Establish a regular schedule of giving by credit card, bank transfer, or check on our <a href="https://give.ucsc.edu/campaigns/38026/donations/new">online donation site.</a> 
     link_copy: online donation site
-    url: "http://connect.ucsc.edu/givenow"
-  - list_number: three 
+    url: "https://give.ucsc.edu/campaigns/38026/donations/new"
+  - list_number: four 
     heading: Legacy giving
     copy: |
       <a href="https://plannedgifts.ucsc.edu">Make a planned gift or let us know</a> UCSC is in your estate plan.
     link_copy: Make a planned gift or let us know      
     url: "https://plannedgifts.ucsc.edu"
-  - list_number: four
+  - list_number: five
     heading: Securities
     copy: |
       To donate stocks, bonds, mutuals funds, please follow instructions in <a href="/assets/documents/gifts-of-stock.pdf">this form.</a>
     link_copy: this form
     url: "/assets/documents/gifts-of-stock.pdf"
-  - list_number: five
+  - list_number: six
     heading: UC payroll deduction
     copy: |
       Faculty and staff may arrange regular, scheduled contributions through the <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0">payroll deduction form</a>. You can also give through your retirement plan.
     link_copy: payroll deduction form
     url: "http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1001&pgid=1795&cid=3427&post_id=0"
-  - list_number: six
+  - list_number: seven
     heading: Complex assets
     copy: |
       Illiquid securities, real estate, insurance, intellectual property, business interest, cryptocurrencies—contact <a href="mailto:pmehta7@ucsc.edu">Priya Mehta</a>, Associate Vice Chancellor for Development, (646) 287-1534.
-  - list_number: seven 
+  - list_number: eight 
     heading: Mail a check
     copy: |
       Please complete a <a href="/assets/documents/gifts-pledges-mail-form.pdf">gift form</a> and send it with your gift to<br>
@@ -56,7 +62,7 @@ numbered_list:
       Make checks payable to "UC Santa Cruz Foundation," and be as specific as possible about what program you wish to support.<br><br>
       (For gifts or pledges of more than $25,000, please contact <a href="mailto:giving@ucsc.edu">giving@ucsc.edu</a>.)
     url: "/assets/documents/gifts-pledges-mail-form.pdf"
-  - list_number: eight
+  - list_number: nine
     heading: Employer matching
     copy: |
       Many employers match their employees’ charitable contributions, providing an easy and effective way of leveraging your gift to UC Santa Cruz. <a href="/ways-to-give/employer-match">Search our database</a> to see if your employer will match your donation.
