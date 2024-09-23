@@ -23,7 +23,7 @@ Chancellor’s Associates are UC Santa Cruz’s leadership annual giving communi
 
 Being a Chancellor’s Associate means engaging in meaningful ways across campus in the areas  donors are most passionate about.  Our students, faculty, research, programs, facilities, and community as a whole benefit greatly from this special and loyal group of supporters. **As a member of this giving community, donor courtesies include:**
 
-- Exclusive communications from our chancellor and campus leaders    
+- Special communications from our chancellor and campus leaders    
 - Invitations to unique donor events:
   - Invitation to attend the UC Santa Cruz’s “Culinary Challenge” celebrating the UCSC Dining Team, up to two guests
   - Invitation to attend the Dickens Universe Friday night auction and Victorian dance
