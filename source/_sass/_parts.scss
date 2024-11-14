@@ -586,12 +586,12 @@
         position:relative;
         display:block;
         background: #fff url(/assets/images/sammy-chancellors-associates-100px.png) no-repeat 1rem 1px;
-        background-position: right 19px;
+        background-position: right -6.75px;
         background-size: 100px 143px;
-        height: 150px;
+        height: 125px;
         max-width: calc(67.5em - (30px * 2));
         // max-width: $size__max-width;
-        margin: 1rem auto 0 auto;
+        margin: 0 auto;
         padding:0;
       }
 }
