@@ -12,7 +12,9 @@
     alt="{{ page.hero.alt_text }}"
     %}
     <header {% if page.hero.image_text %}class="hidden"{% endif %}>
+    {% if page.title %}
     <h1 class="post-title hero-title {{ page.hero.vertical }} {{ page.hero.horizontal }} color"><span>{{ page.title }}</span></h1>
+    {% endif%}
     </header>
     {% if page.hero.hero_link %}</a>{% endif%}
   </div>
