@@ -23,16 +23,17 @@ Chancellor’s Associates are UC Santa Cruz’s leadership annual giving communi
 
 Being a Chancellor’s Associate means engaging in meaningful ways across campus in the areas  donors are most passionate about.  Our students, faculty, research, programs, facilities, and community as a whole benefit greatly from this special and loyal group of supporters. **As a member of this giving community, donor courtesies include:**
 
-- Special communications from our chancellor and campus leaders    
+- Special communications from our chancellor and campus leaders
 - Invitations to unique donor events:
-  - Invitation to attend the UC Santa Cruz’s “Culinary Challenge” celebrating the UCSC Dining Team, up to two guests
-  - Invitation to attend the Dickens Universe Friday night auction and Victorian dance
-  - Reserved balcony seating (elevator access) at the West Field House for the Men’s and Women’s Basketball and Volleyball games, upon request
-- Special tour: 
-	- Basking Engineering Slugworks Makerspace
-	- Cowell Lime Works Historic District
-  - Farm & Garden
-  - Ken Norris Center for Natural History
-  - “Behind-the-Scenes Research Tour” of the Seymour Marine Discovery Center, for up to four guests once per year (up to $48 value)
+    - Invitation to attend the UC Santa Cruz’s “Culinary Challenge” celebrating the UCSC Dining Team, up to two guests
+    - Invitation to attend the Dickens Universe Friday night auction and Victorian dance
+    - Reserved balcony seating (elevator access) at the West Field House for the Men’s and Women’s Basketball and Volleyball games, upon request
+- Special tour:
+   	- Basking Engineering Slugworks Makerspace
+   	- Cowell Lime Works Historic District
+    - Farm & Garden
+    - Ken Norris Center for Natural History
+    - “Behind-the-Scenes Research Tour” of the Seymour Marine Discovery Center, for up to four guests once per year (up to $48 value)
 
 *Please [email annual giving](mailto:annualgiving@ucsc.edu) for more information and to schedule – we look forward to seeing you!
+{% include chancellor-feedback.html %}
