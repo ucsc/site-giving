@@ -1005,7 +1005,7 @@ new */
   h3 {
     text-transform:uppercase;
     color: $white;
-    padding: 2rem 0 1rem;
+    padding: 2rem 0 0;
     font-weight: 700;
     @include relative-font-size(1.25);
   }
@@ -1016,4 +1016,17 @@ new */
     margin-bottom: -10px;
 
   }
+  a:link, a:visited {
+    font-weight: 700;
+    padding: 0.5rem;
+    color: $white;
+    text-decoration: underline;
+    box-sizing: border-box;
+  }
+  a:hover {
+    color: $ucsc-primary-blue;
+    background-color: $white;
+    text-decoration: none;
+  }
 }
+
