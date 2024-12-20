@@ -1008,9 +1008,6 @@ new */
     font-weight: 700;
     @include relative-font-size(1.25);
   }
-  p {
-    @include relative-font-size(1.25);
-  }
   img {
     margin-bottom: -10px;
 
