@@ -33,6 +33,7 @@ Being a Chancellor’s Associate means engaging in meaningful ways across campus
     - Cowell Lime Works Historic District
     - Farm & Garden
     - Ken Norris Center for Natural History
+    - The Arboretum & Botanic Garden
     - “Behind-the-Scenes Research Tour” of the Seymour Marine Discovery Center, for up to four guests once per year (up to $48 value)
 
 *Please [email annual giving](mailto:annualgiving@ucsc.edu) for more information and to schedule – we look forward to seeing you!
