@@ -25,7 +25,6 @@ Being a Chancellor’s Associate means engaging in meaningful ways across campus
 
 - Special communications from our chancellor and campus leaders
 - Invitations to unique donor events:
-    - Invitation to attend the UC Santa Cruz’s “Culinary Challenge” celebrating the UCSC Dining Team, up to two guests
     - Invitation to attend the Dickens Universe Friday night auction and Victorian dance
     - Reserved balcony seating (elevator access) at the West Field House for the Men’s and Women’s Basketball and Volleyball games, upon request
 - Special tour:
