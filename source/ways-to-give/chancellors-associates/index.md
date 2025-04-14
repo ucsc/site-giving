@@ -21,19 +21,12 @@ Chancellor’s Associates are UC Santa Cruz’s leadership annual giving communi
 
 **Chancellor’s Associates begins with an annual gift to any area, college, department, or program in the amount of $2,500 or more.** We recognize that young alumni are at the start of a dynamic and exciting time of their lives; we welcome graduates of the last decade (GOLD) to Chancellor’s Associates with an annual gift of $500 or more.
 
-Being a Chancellor’s Associate means engaging in meaningful ways across campus in the areas  donors are most passionate about.  Our students, faculty, research, programs, facilities, and community as a whole benefit greatly from this special and loyal group of supporters. **As a member of this giving community, donor courtesies include:**
+Being a Chancellor’s Associate means engaging in meaningful ways across campus in the areas  donors are most passionate about.  Our students, faculty, research, programs, facilities, and community as a whole benefit greatly from this special and loyal group of supporters. **As a member of this giving community, benefits include:**
 
-- Special communications from our chancellor and campus leaders
-- Invitations to unique donor events:
-    - Invitation to attend the Dickens Universe Friday night auction and Victorian dance
-    - Reserved balcony seating (elevator access) at the West Field House for the Men’s and Women’s Basketball and Volleyball games, upon request
-- Special tour:
-    - Arboretum & Botanic Garden
-    - Baskin Engineering Slugworks Makerspace
-    - Cowell Lime Works Historic District
-    - Farm & Garden
-    - Ken Norris Center for Natural History
-    - “Behind-the-Scenes Research Tour” of the Seymour Marine Discovery Center, for up to four guests once per year (up to $48 value)
+- Access to exclusive events and priority seating at select athletic games
+- Private campus tours with behind-the-scenes access to the Arboretum, Slugworks Makerspace, and Seymour Marine Discovery Center
+- Opportunities to engage in meaningful conversations shaping the future of our campus
+- Knowing that you’re not just giving back, you’re inspiring others to do the same
 
 *Please [email annual giving](mailto:annualgiving@ucsc.edu) for more information and to schedule – we look forward to seeing you!
 {% include chancellor-feedback.html %}
