@@ -612,6 +612,32 @@
     }
 }
 
+/*
+ *
+ * Join Chancellor's Associates
+ *
+ */
+
+.join-chancellors-associates{
+    color: $white;
+    padding: 20px 0;
+    padding: 1.25rem 0;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+
+    .join-chancellors-associates-text {
+        font-weight: 700;
+        @include relative-font-size(1.5);
+        text-align: center;
+        place-self: center;
+    }
+    .red-pill {
+        place-self: center;
+        margin: 0;
+        width: 50%;
+    }
+}
+
 
 /*
  *
