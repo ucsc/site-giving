@@ -620,8 +620,7 @@
 
 .join-chancellors-associates{
     color: $white;
-    padding: 20px 0;
-    padding: 1.25rem 0;
+    padding-bottom: 15px;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
 
@@ -634,7 +633,8 @@
     .red-pill {
         place-self: center;
         margin: 0;
-        width: 75%;
+        width: 60%;
+        border-radius: 25px !important;
     }
 }
 
