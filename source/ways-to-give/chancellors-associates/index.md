@@ -20,7 +20,7 @@ sidebar1: chancellors-associates-contact-sidebar.html
 Chancellor’s Associates are UC Santa Cruz’s leadership annual giving community. Chancellor’s Associates provide consistent support that is critical to our success as a world-class higher learning institution. Chancellor’s Associates welcomes alumni, parents, faculty, staff, and friends as generous campus partners. Year after year, donors who make leadership gifts as a Chancellor’s Associate bridge the gap between endowed scholarships and other sources of financial aid. This annual commitment enables transformative change and inspires others to give back.
 
 **Chancellor’s Associates begins with an annual gift to any area, college, department, or program in the amount of $2,500 or more.** We recognize that young alumni are at the start of a dynamic and exciting time of their lives; we welcome graduates of the last decade (GOLD) to Chancellor’s Associates with an annual gift of $500 or more.
-
+{% include join-chancellors-associates.html %}
 Being a Chancellor’s Associate means engaging in meaningful ways across campus in the areas  donors are most passionate about.  Our students, faculty, research, programs, facilities, and community as a whole benefit greatly from this special and loyal group of supporters. **As a member of this giving community, benefits include:**
 
 - Access to exclusive events and priority seating at select athletic games
