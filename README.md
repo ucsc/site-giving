@@ -4,6 +4,8 @@
 
 **This site is currently archived, it is now on WordPress**
 
+an [archive of the site](https://giving-archive--ucsc-giving.netlify.app/) is available on Netlify
+
 Website for the UC Santa Cruz Giving website. Built with [Jekyll](https://jekyllrb.com), hosted on [Netlify](https://netlify.com).
 
 - Live site: [https://giving.ucsc.edu](https://giving.ucsc.edu)
